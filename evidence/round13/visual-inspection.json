@@ -1,0 +1,182 @@
+{
+  "scope": "Full-page structural overviews plus detailed Brand state, actual-boundary and viewport pairs. Targeted glyph/paint/shape assertions are separate; no exhaustive pixel-equivalence or cross-engine claim.",
+  "files": [
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/home-390-overview.png",
+      "sha256": "454437e3d62b45e213e0680b4e50ed831b389a50cc9f4f2fd6d4fbde10e9734a"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/get-started-390-overview.png",
+      "sha256": "b638b173d2bab5c5c92548d17dad353171b0aa09352fdad61749f112a57eedad"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/get-help-390-overview.png",
+      "sha256": "cb50e6d001ac1fc49babde870405407b36ac2866b5cecd7ec7c007a908a8bb8c"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/powered-by-390-overview.png",
+      "sha256": "d2a03545e240d280c66395168a8f5693beaa37af05c141a8599be047c6f0a947"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/brand-guide-390-overview.png",
+      "sha256": "e905203704a359cb6218a3ae35617c65d40b9b185d8951565532166d99fc2c1c"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/press-mentions-390-overview.png",
+      "sha256": "3713683c18e263cf249e5e7ce420a4500fe5c6093551114172547be5c2117dfc"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/home-768-overview.png",
+      "sha256": "fff26722b1a34744ab86f43995318c994027865bed08fe3283ba4e112b19069f"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/get-started-768-overview.png",
+      "sha256": "4e74ad4d8d27c8f96e221459b0d132af26817c72c248769ff68d4b1ab1883a67"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/get-help-768-overview.png",
+      "sha256": "27d7f1a0e747398f04c77711e056781a02e82fcb8dae31be137b7c35f021379a"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/powered-by-768-overview.png",
+      "sha256": "7a18ffcbdd127d0f61ac94ce240652266d0b7db5312a0ecb1a0894b60126fad1"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/brand-guide-768-overview.png",
+      "sha256": "cc1ed40f95f2d75c4bdcdaebc9233a64cecf45c05f8f2616ccbd6805da3fe182"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/press-mentions-768-overview.png",
+      "sha256": "730457de4868b90d63aeb2f08fdf877cc0ddbeb73471567f66a7531b1294164f"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/home-1440-overview.png",
+      "sha256": "f2a7714c758c8cdab05c52bfde0548ec40ab35b45fb4f3746abf6d6897f8aa82"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/get-started-1440-overview.png",
+      "sha256": "cfd3dd120711e07d21f25a01b9911f1d917ba861f066f15bb9f105c57e20f946"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/get-help-1440-overview.png",
+      "sha256": "c1b8a788a0872fa89beea397c01075d824db34146dc23cdaac9d059f5b2709c0"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/powered-by-1440-overview.png",
+      "sha256": "0752338cea2d337f7ca6f47e0f9807534eb9bd2784a6b3afc36fbb320ac64d25"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/brand-guide-1440-overview.png",
+      "sha256": "9ac1e550bbd7dbfab0df60d1d4fb139059950b4340d82782e45267a4dd236f54"
+    },
+    {
+      "kind": "canonical structural overview",
+      "path": "evidence/round13/inspection/press-mentions-1440-overview.png",
+      "sha256": "0a5b576b850cc5a6099e1033362b54e459fb12412e3e3bebb619efa256a97f29"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-390-states.png",
+      "sha256": "ab22933c01a8a976f64c92d932984b10b753d376d4ec4041897dbcb3452b5208"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-479-states.png",
+      "sha256": "22d746d131ef9f9a7ad53687793838ea39ea37167d788bfd82324297e779ea84"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-480-states.png",
+      "sha256": "d19c1f45d554db604d3bf6a08c8230d28fbe35ed75df8fb4da26a7879c90599b"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-601-states.png",
+      "sha256": "25e245f40480ce1b46b72ca07957238b5860bda7cbd19a9b39cf2a73b190d4ba"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-767-states.png",
+      "sha256": "0c48d9308a6147e54ecbef504321c1c1c9a9dfca26b3b1f8a98ff298257b3aa1"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-768-states.png",
+      "sha256": "9a189a0dda1b735c1dd156c753f4bc77a129cb6522963f4b21ad63277f00d25d"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-769-states.png",
+      "sha256": "12d22a8522db722538a34e6cee0c7e19bf3b6c93cc4c557cc994bf8b1d5086d9"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-991-states.png",
+      "sha256": "b1b776efe794f1d1789fbc3ede24c1a0a4b09fa9318cd836adc24ac54d8aa018"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-992-states.png",
+      "sha256": "4f32beff5b5c5c5e829d02c4782db534c24caca76b89d57354e73427b98a896a"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-1100-states.png",
+      "sha256": "5e9bbf434ab5fb0716432ef5e9ee18c794970a66644fd985aa4246409c10a5bc"
+    },
+    {
+      "kind": "four-variant paired state sheet",
+      "path": "evidence/round13/inspection/logos-1440-states.png",
+      "sha256": "376377bb647abf1bea529a6f45f4833eed70de4b86d550605d8f8d6d26725c4e"
+    },
+    {
+      "kind": "Salmon/White matrix and Typography boundary",
+      "path": "evidence/round13/inspection/palette-480-boundary-states.png",
+      "sha256": "69b4443ff18ed0ec67532bfd9733e5e3ae21af057f3d710d39cdeb23a8b66a40"
+    },
+    {
+      "kind": "Salmon/White matrix and Typography boundary",
+      "path": "evidence/round13/inspection/palette-601-boundary-states.png",
+      "sha256": "16f00c8e6fef70aa414096021dc90559205c836839af6cd1b4a8cefa8a5a4b95"
+    },
+    {
+      "kind": "Salmon/White matrix and Typography boundary",
+      "path": "evidence/round13/inspection/palette-767-boundary-states.png",
+      "sha256": "acf1744ec105e35aeb8a005b8a47c13d5e22ccd2036326895ba845fb7a8fc1d9"
+    },
+    {
+      "kind": "actual viewport guidance paper and artwork",
+      "path": "evidence/round13/inspection/guidance-768-1.png",
+      "sha256": "e04f3296f74f7c06fd5206f4bb02f3be62a861292d86d9ee3ef1b6eee686f6a6"
+    },
+    {
+      "kind": "actual viewport guidance paper and artwork",
+      "path": "evidence/round13/inspection/guidance-1440-1.png",
+      "sha256": "f6deeb75e0e5ab3ea1052e9ed84aa01ceb3624cbdb2c6f5352077b15efec3fbc"
+    }
+  ],
+  "observations": [
+    "All six canonical routes retain their measured broad composition and footer flow.",
+    "Stacked Salmon/White matrices and Typography boundaries align; metadata annotations retain the explicitly accepted calculation policy.",
+    "All four foreground logo papers and assets are visible on their correct theme, including Black selected white border.",
+    "Real guidance viewport captures show the repaired sticky paper; separate intermediate rail activation threshold and unexercised Tone scrolling remain explicit limitations.",
+    "Global grid/dot phase and native icon contours still differ."
+  ]
+}

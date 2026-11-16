@@ -1,0 +1,4706 @@
+[
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 0,
+    "offset": 0,
+    "requestedScroll": 456.5,
+    "scroll": 457,
+    "paper": {
+      "x": 54.8125,
+      "y": 55.984375,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": 75.171875,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": 124.671875,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 322,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 372.078125,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 0,
+    "offset": 100,
+    "requestedScroll": 556.5,
+    "scroll": 557,
+    "paper": {
+      "x": 54.8125,
+      "y": 40,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": 59.1875,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": 108.6875,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 306.015625,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 356.09375,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 0,
+    "offset": 200,
+    "requestedScroll": 656.5,
+    "scroll": 657,
+    "paper": {
+      "x": 54.8125,
+      "y": 10.203125,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": 29.390625,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": 78.890625,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 276.21875,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 326.296875,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 0,
+    "offset": 300,
+    "requestedScroll": 756.5,
+    "scroll": 757,
+    "paper": {
+      "x": 54.8125,
+      "y": -89.796875,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": -70.609375,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": -21.109375,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 176.21875,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 226.296875,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 0,
+    "offset": 450,
+    "requestedScroll": 906.5,
+    "scroll": 907,
+    "paper": {
+      "x": 54.8125,
+      "y": -239.796875,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": -220.609375,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": -171.109375,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 26.21875,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 76.296875,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 0,
+    "offset": 650,
+    "requestedScroll": 1106.5,
+    "scroll": 1107,
+    "paper": {
+      "x": 54.8125,
+      "y": -439.796875,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": -420.609375,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": -371.109375,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": -173.78125,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": -123.703125,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 0,
+    "offset": 900,
+    "requestedScroll": 1356.5,
+    "scroll": 1357,
+    "paper": {
+      "x": 54.8125,
+      "y": -689.796875,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": -670.609375,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": -621.109375,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": -423.78125,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": -373.703125,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 1,
+    "offset": 0,
+    "requestedScroll": 456.5,
+    "scroll": 457,
+    "paper": {
+      "x": 54.8125,
+      "y": 55.984375,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": 75.171875,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": 124.671875,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 322,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 372.078125,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 1,
+    "offset": 100,
+    "requestedScroll": 556.5,
+    "scroll": 557,
+    "paper": {
+      "x": 54.8125,
+      "y": 40,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": 59.1875,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": 108.6875,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 306.015625,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 356.09375,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 1,
+    "offset": 200,
+    "requestedScroll": 656.5,
+    "scroll": 657,
+    "paper": {
+      "x": 54.8125,
+      "y": 10.203125,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": 29.390625,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": 78.890625,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 276.21875,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 326.296875,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 1,
+    "offset": 300,
+    "requestedScroll": 756.5,
+    "scroll": 757,
+    "paper": {
+      "x": 54.8125,
+      "y": -89.796875,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": -70.609375,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": -21.109375,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 176.21875,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 226.296875,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 1,
+    "offset": 450,
+    "requestedScroll": 906.5,
+    "scroll": 907,
+    "paper": {
+      "x": 54.8125,
+      "y": -239.796875,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": -220.609375,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": -171.109375,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": 26.21875,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": 76.296875,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 1,
+    "offset": 650,
+    "requestedScroll": 1106.5,
+    "scroll": 1107,
+    "paper": {
+      "x": 54.8125,
+      "y": -439.796875,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": -420.609375,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": -371.109375,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": -173.78125,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": -123.703125,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": 1,
+    "offset": 900,
+    "requestedScroll": 1356.5,
+    "scroll": 1357,
+    "paper": {
+      "x": 54.8125,
+      "y": -689.796875,
+      "w": 326.21875,
+      "h": 375.6875
+    },
+    "items": [
+      {
+        "x": 85.53125,
+        "y": -670.609375,
+        "w": 248.578125,
+        "h": 30.3125,
+        "font": "26.9491px",
+        "line": "30.313px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.53125,
+        "y": -621.109375,
+        "w": 248.578125,
+        "h": 181.96875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.53125,
+        "y": -423.78125,
+        "w": 248.578125,
+        "h": 20.21875,
+        "font": "13.4707px",
+        "line": "20.2138px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.53125,
+        "y": -373.703125,
+        "w": 146.9375,
+        "h": 40.40625,
+        "font": "15.1603px",
+        "line": "20.2138px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 0,
+    "offset": 0,
+    "requestedScroll": 457.09375,
+    "scroll": 457,
+    "paper": {
+      "x": 54.890625,
+      "y": 56.65625,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": 75.875,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": 125.453125,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 322.9375,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 373.078125,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 0,
+    "offset": 100,
+    "requestedScroll": 557.09375,
+    "scroll": 557,
+    "paper": {
+      "x": 54.890625,
+      "y": 40,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": 59.21875,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": 108.796875,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 306.28125,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 356.421875,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 0,
+    "offset": 200,
+    "requestedScroll": 657.09375,
+    "scroll": 657,
+    "paper": {
+      "x": 54.890625,
+      "y": 11.1875,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": 30.40625,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": 79.984375,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 277.46875,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 327.609375,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 0,
+    "offset": 300,
+    "requestedScroll": 757.09375,
+    "scroll": 757,
+    "paper": {
+      "x": 54.890625,
+      "y": -88.8125,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": -69.59375,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": -20.015625,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 177.46875,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 227.609375,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 0,
+    "offset": 450,
+    "requestedScroll": 907.09375,
+    "scroll": 907,
+    "paper": {
+      "x": 54.890625,
+      "y": -238.8125,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": -219.59375,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": -170.015625,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 27.46875,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 77.609375,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 0,
+    "offset": 650,
+    "requestedScroll": 1107.09375,
+    "scroll": 1107,
+    "paper": {
+      "x": 54.890625,
+      "y": -438.8125,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": -419.59375,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": -370.015625,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": -172.53125,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": -122.390625,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 0,
+    "offset": 900,
+    "requestedScroll": 1357.09375,
+    "scroll": 1357,
+    "paper": {
+      "x": 54.890625,
+      "y": -688.8125,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": -669.59375,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": -620.015625,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": -422.53125,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": -372.390625,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 1,
+    "offset": 0,
+    "requestedScroll": 457.09375,
+    "scroll": 457,
+    "paper": {
+      "x": 54.890625,
+      "y": 56.65625,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": 75.875,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": 125.453125,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 322.9375,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 373.078125,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 1,
+    "offset": 100,
+    "requestedScroll": 557.09375,
+    "scroll": 557,
+    "paper": {
+      "x": 54.890625,
+      "y": 40,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": 59.21875,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": 108.796875,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 306.28125,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 356.421875,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 1,
+    "offset": 200,
+    "requestedScroll": 657.09375,
+    "scroll": 657,
+    "paper": {
+      "x": 54.890625,
+      "y": 11.1875,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": 30.40625,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": 79.984375,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 277.46875,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 327.609375,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 1,
+    "offset": 300,
+    "requestedScroll": 757.09375,
+    "scroll": 757,
+    "paper": {
+      "x": 54.890625,
+      "y": -88.8125,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": -69.59375,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": -20.015625,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 177.46875,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 227.609375,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 1,
+    "offset": 450,
+    "requestedScroll": 907.09375,
+    "scroll": 907,
+    "paper": {
+      "x": 54.890625,
+      "y": -238.8125,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": -219.59375,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": -170.015625,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": 27.46875,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": 77.609375,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 1,
+    "offset": 650,
+    "requestedScroll": 1107.09375,
+    "scroll": 1107,
+    "paper": {
+      "x": 54.890625,
+      "y": -438.8125,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": -419.59375,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": -370.015625,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": -172.53125,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": -122.390625,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": 1,
+    "offset": 900,
+    "requestedScroll": 1357.09375,
+    "scroll": 1357,
+    "paper": {
+      "x": 54.890625,
+      "y": -688.8125,
+      "w": 326.640625,
+      "h": 376.09375
+    },
+    "items": [
+      {
+        "x": 85.640625,
+        "y": -669.59375,
+        "w": 248.90625,
+        "h": 30.359375,
+        "font": "26.9842px",
+        "line": "30.3524px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 85.640625,
+        "y": -620.015625,
+        "w": 248.90625,
+        "h": 182.109375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 85.640625,
+        "y": -422.53125,
+        "w": 248.90625,
+        "h": 20.234375,
+        "font": "13.4883px",
+        "line": "20.2401px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 85.640625,
+        "y": -372.390625,
+        "w": 146.96875,
+        "h": 40.453125,
+        "font": "15.1801px",
+        "line": "20.2401px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 0,
+    "offset": 0,
+    "requestedScroll": 589.0625,
+    "scroll": 589,
+    "paper": {
+      "x": 70.734375,
+      "y": 72.953125,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": 97.71875,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": 161.59375,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 416.109375,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 480.71875,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 0,
+    "offset": 100,
+    "requestedScroll": 689.0625,
+    "scroll": 689,
+    "paper": {
+      "x": 70.734375,
+      "y": 40,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": 64.765625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": 128.640625,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 383.15625,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 447.765625,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 0,
+    "offset": 200,
+    "requestedScroll": 789.0625,
+    "scroll": 789,
+    "paper": {
+      "x": 70.734375,
+      "y": 40,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": 64.765625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": 128.640625,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 383.15625,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 447.765625,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 0,
+    "offset": 300,
+    "requestedScroll": 889.0625,
+    "scroll": 889,
+    "paper": {
+      "x": 70.734375,
+      "y": -27.921875,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": -3.15625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": 60.71875,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 315.234375,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 379.84375,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 0,
+    "offset": 450,
+    "requestedScroll": 1039.0625,
+    "scroll": 1039,
+    "paper": {
+      "x": 70.734375,
+      "y": -177.921875,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": -153.15625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": -89.28125,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 165.234375,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 229.84375,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 0,
+    "offset": 650,
+    "requestedScroll": 1239.0625,
+    "scroll": 1239,
+    "paper": {
+      "x": 70.734375,
+      "y": -377.921875,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": -353.15625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": -289.28125,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": -34.765625,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 29.84375,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 0,
+    "offset": 900,
+    "requestedScroll": 1489.0625,
+    "scroll": 1489,
+    "paper": {
+      "x": 70.734375,
+      "y": -627.921875,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": -603.15625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": -539.28125,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": -284.765625,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": -220.15625,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 1,
+    "offset": 0,
+    "requestedScroll": 589.0625,
+    "scroll": 589,
+    "paper": {
+      "x": 70.734375,
+      "y": 72.953125,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": 97.71875,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": 161.59375,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 416.109375,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 480.71875,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 1,
+    "offset": 100,
+    "requestedScroll": 689.0625,
+    "scroll": 689,
+    "paper": {
+      "x": 70.734375,
+      "y": 40,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": 64.765625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": 128.640625,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 383.15625,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 447.765625,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 1,
+    "offset": 200,
+    "requestedScroll": 789.0625,
+    "scroll": 789,
+    "paper": {
+      "x": 70.734375,
+      "y": 40,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": 64.765625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": 128.640625,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 383.15625,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 447.765625,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 1,
+    "offset": 300,
+    "requestedScroll": 889.0625,
+    "scroll": 889,
+    "paper": {
+      "x": 70.734375,
+      "y": -27.921875,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": -3.15625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": 60.71875,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 315.234375,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 379.84375,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 1,
+    "offset": 450,
+    "requestedScroll": 1039.0625,
+    "scroll": 1039,
+    "paper": {
+      "x": 70.734375,
+      "y": -177.921875,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": -153.15625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": -89.28125,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": 165.234375,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 229.84375,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 1,
+    "offset": 650,
+    "requestedScroll": 1239.0625,
+    "scroll": 1239,
+    "paper": {
+      "x": 70.734375,
+      "y": -377.921875,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": -353.15625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": -289.28125,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": -34.765625,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": 29.84375,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": 1,
+    "offset": 900,
+    "requestedScroll": 1489.0625,
+    "scroll": 1489,
+    "paper": {
+      "x": 70.734375,
+      "y": -627.921875,
+      "w": 420.9375,
+      "h": 484.671875
+    },
+    "items": [
+      {
+        "x": 110.359375,
+        "y": -603.15625,
+        "w": 320.765625,
+        "h": 39.109375,
+        "font": "34.7742px",
+        "line": "39.1148px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 110.359375,
+        "y": -539.28125,
+        "w": 320.765625,
+        "h": 234.703125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 110.359375,
+        "y": -284.765625,
+        "w": 320.765625,
+        "h": 26.078125,
+        "font": "17.3821px",
+        "line": "26.0831px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 110.359375,
+        "y": -220.15625,
+        "w": 194.75,
+        "h": 52.140625,
+        "font": "19.5623px",
+        "line": "26.0831px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 0,
+    "offset": 0,
+    "requestedScroll": 468,
+    "scroll": 468,
+    "paper": {
+      "x": 57.171875,
+      "y": 58.546875,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": 108.140625,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": 164.625,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 280.34375,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 335.453125,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 0,
+    "offset": 100,
+    "requestedScroll": 568,
+    "scroll": 568,
+    "paper": {
+      "x": 57.171875,
+      "y": 40,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": 89.59375,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": 146.078125,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 261.796875,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 316.90625,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 0,
+    "offset": 200,
+    "requestedScroll": 668,
+    "scroll": 668,
+    "paper": {
+      "x": 57.171875,
+      "y": 40,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": 89.59375,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": 146.078125,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 261.796875,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 316.90625,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 0,
+    "offset": 300,
+    "requestedScroll": 768,
+    "scroll": 768,
+    "paper": {
+      "x": 57.171875,
+      "y": 30.1875,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": 79.78125,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": 136.265625,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 251.984375,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 307.09375,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 0,
+    "offset": 450,
+    "requestedScroll": 918,
+    "scroll": 918,
+    "paper": {
+      "x": 57.171875,
+      "y": -119.8125,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": -70.21875,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": -13.734375,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 101.984375,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 157.09375,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 0,
+    "offset": 650,
+    "requestedScroll": 1118,
+    "scroll": 1118,
+    "paper": {
+      "x": 57.171875,
+      "y": -319.8125,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": -270.21875,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": -213.734375,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": -98.015625,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": -42.90625,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 0,
+    "offset": 900,
+    "requestedScroll": 1368,
+    "scroll": 1368,
+    "paper": {
+      "x": 57.171875,
+      "y": -569.8125,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": -520.21875,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": -463.734375,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": -348.015625,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": -292.90625,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 1,
+    "offset": 0,
+    "requestedScroll": 468,
+    "scroll": 468,
+    "paper": {
+      "x": 57.171875,
+      "y": 58.546875,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": 108.140625,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": 164.625,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 280.34375,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 335.453125,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 1,
+    "offset": 100,
+    "requestedScroll": 568,
+    "scroll": 568,
+    "paper": {
+      "x": 57.171875,
+      "y": 40,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": 89.59375,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": 146.078125,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 261.796875,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 316.90625,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 1,
+    "offset": 200,
+    "requestedScroll": 668,
+    "scroll": 668,
+    "paper": {
+      "x": 57.171875,
+      "y": 40,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": 89.59375,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": 146.078125,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 261.796875,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 316.90625,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 1,
+    "offset": 300,
+    "requestedScroll": 768,
+    "scroll": 768,
+    "paper": {
+      "x": 57.171875,
+      "y": 30.1875,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": 79.78125,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": 136.265625,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 251.984375,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 307.09375,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 1,
+    "offset": 450,
+    "requestedScroll": 918,
+    "scroll": 918,
+    "paper": {
+      "x": 57.171875,
+      "y": -119.8125,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": -70.21875,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": -13.734375,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": 101.984375,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": 157.09375,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 1,
+    "offset": 650,
+    "requestedScroll": 1118,
+    "scroll": 1118,
+    "paper": {
+      "x": 57.171875,
+      "y": -319.8125,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": -270.21875,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": -213.734375,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": -98.015625,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": -42.90625,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": 1,
+    "offset": 900,
+    "requestedScroll": 1368,
+    "scroll": 1368,
+    "paper": {
+      "x": 57.171875,
+      "y": -569.8125,
+      "w": 435.078125,
+      "h": 383.3125
+    },
+    "items": [
+      {
+        "x": 95.75,
+        "y": -520.21875,
+        "w": 335.890625,
+        "h": 31.6875,
+        "font": "24.8px",
+        "line": "31.6845px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 95.75,
+        "y": -463.734375,
+        "w": 335.890625,
+        "h": 99.1875,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 95.75,
+        "y": -348.015625,
+        "w": 335.890625,
+        "h": 16.53125,
+        "font": "11.0211px",
+        "line": "16.5366px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 95.75,
+        "y": -292.90625,
+        "w": 119.03125,
+        "h": 48.5,
+        "font": "12.4px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 0,
+    "offset": 0,
+    "requestedScroll": 511.671875,
+    "scroll": 512,
+    "paper": {
+      "x": 63.390625,
+      "y": 64.578125,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": 119.578125,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 182.21875,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 292.265625,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 353.375,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 0,
+    "offset": 100,
+    "requestedScroll": 611.671875,
+    "scroll": 612,
+    "paper": {
+      "x": 63.390625,
+      "y": 40,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": 95,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 157.640625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 267.6875,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 328.796875,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 0,
+    "offset": 200,
+    "requestedScroll": 711.671875,
+    "scroll": 712,
+    "paper": {
+      "x": 63.390625,
+      "y": 40,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": 95,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 157.640625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 267.6875,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 328.796875,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 0,
+    "offset": 300,
+    "requestedScroll": 811.671875,
+    "scroll": 812,
+    "paper": {
+      "x": 63.390625,
+      "y": 40,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": 95,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 157.640625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 267.6875,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 328.796875,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 0,
+    "offset": 450,
+    "requestedScroll": 961.671875,
+    "scroll": 962,
+    "paper": {
+      "x": 63.390625,
+      "y": -84.203125,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": -29.203125,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 33.4375,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 143.484375,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 204.59375,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 0,
+    "offset": 650,
+    "requestedScroll": 1161.671875,
+    "scroll": 1162,
+    "paper": {
+      "x": 63.390625,
+      "y": -284.203125,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": -229.203125,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": -166.5625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": -56.515625,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 4.59375,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 0,
+    "offset": 900,
+    "requestedScroll": 1411.671875,
+    "scroll": 1412,
+    "paper": {
+      "x": 63.390625,
+      "y": -534.203125,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": -479.203125,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": -416.5625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": -306.515625,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": -245.40625,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 1,
+    "offset": 0,
+    "requestedScroll": 511.671875,
+    "scroll": 512,
+    "paper": {
+      "x": 63.390625,
+      "y": 64.578125,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": 119.578125,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 182.21875,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 292.265625,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 353.375,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 1,
+    "offset": 100,
+    "requestedScroll": 611.671875,
+    "scroll": 612,
+    "paper": {
+      "x": 63.390625,
+      "y": 40,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": 95,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 157.640625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 267.6875,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 328.796875,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 1,
+    "offset": 200,
+    "requestedScroll": 711.671875,
+    "scroll": 712,
+    "paper": {
+      "x": 63.390625,
+      "y": 40,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": 95,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 157.640625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 267.6875,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 328.796875,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 1,
+    "offset": 300,
+    "requestedScroll": 811.671875,
+    "scroll": 812,
+    "paper": {
+      "x": 63.390625,
+      "y": 40,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": 95,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 157.640625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 267.6875,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 328.796875,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 1,
+    "offset": 450,
+    "requestedScroll": 961.671875,
+    "scroll": 962,
+    "paper": {
+      "x": 63.390625,
+      "y": -84.203125,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": -29.203125,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": 33.4375,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": 143.484375,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 204.59375,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 1,
+    "offset": 650,
+    "requestedScroll": 1161.671875,
+    "scroll": 1162,
+    "paper": {
+      "x": 63.390625,
+      "y": -284.203125,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": -229.203125,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": -166.5625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": -56.515625,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": 4.59375,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1100,
+    "state": 1,
+    "offset": 900,
+    "requestedScroll": 1411.671875,
+    "scroll": 1412,
+    "paper": {
+      "x": 63.390625,
+      "y": -534.203125,
+      "w": 482.453125,
+      "h": 425.046875
+    },
+    "items": [
+      {
+        "x": 106.15625,
+        "y": -479.203125,
+        "w": 372.46875,
+        "h": 35.140625,
+        "font": "27.5px",
+        "line": "35.134px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 106.15625,
+        "y": -416.5625,
+        "w": 372.46875,
+        "h": 91.71875,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 106.15625,
+        "y": -306.515625,
+        "w": 372.46875,
+        "h": 18.34375,
+        "font": "12.221px",
+        "line": "18.337px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 106.15625,
+        "y": -245.40625,
+        "w": 140.4375,
+        "h": 50.3125,
+        "font": "13.75px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 0,
+    "offset": 0,
+    "requestedScroll": 649.109375,
+    "scroll": 649,
+    "paper": {
+      "x": 83,
+      "y": 85.109375,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 157.109375,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 239.109375,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 407.109375,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 487.109375,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 0,
+    "offset": 100,
+    "requestedScroll": 749.109375,
+    "scroll": 749,
+    "paper": {
+      "x": 83,
+      "y": 40,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 112,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 194,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 362,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 442,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 0,
+    "offset": 200,
+    "requestedScroll": 849.109375,
+    "scroll": 849,
+    "paper": {
+      "x": 83,
+      "y": 40,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 112,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 194,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 362,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 442,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 0,
+    "offset": 300,
+    "requestedScroll": 949.109375,
+    "scroll": 949,
+    "paper": {
+      "x": 83,
+      "y": 40,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 112,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 194,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 362,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 442,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 0,
+    "offset": 450,
+    "requestedScroll": 1099.109375,
+    "scroll": 1099,
+    "paper": {
+      "x": 83,
+      "y": 29.421875,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 101.421875,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 183.421875,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 351.421875,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 431.421875,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 0,
+    "offset": 650,
+    "requestedScroll": 1299.109375,
+    "scroll": 1299,
+    "paper": {
+      "x": 83,
+      "y": -170.578125,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": -98.578125,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": -16.578125,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 151.421875,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 231.421875,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 0,
+    "offset": 900,
+    "requestedScroll": 1549.109375,
+    "scroll": 1549,
+    "paper": {
+      "x": 83,
+      "y": -420.578125,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": -348.578125,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": -266.578125,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": -98.578125,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": -18.578125,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 1,
+    "offset": 0,
+    "requestedScroll": 649.109375,
+    "scroll": 649,
+    "paper": {
+      "x": 83,
+      "y": 85.109375,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 157.109375,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 239.109375,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 407.109375,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 487.109375,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 1,
+    "offset": 100,
+    "requestedScroll": 749.109375,
+    "scroll": 749,
+    "paper": {
+      "x": 83,
+      "y": 40,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 112,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 194,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 362,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 442,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 1,
+    "offset": 200,
+    "requestedScroll": 849.109375,
+    "scroll": 849,
+    "paper": {
+      "x": 83,
+      "y": 40,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 112,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 194,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 362,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 442,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 1,
+    "offset": 300,
+    "requestedScroll": 949.109375,
+    "scroll": 949,
+    "paper": {
+      "x": 83,
+      "y": 40,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 112,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 194,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 362,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 442,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 1,
+    "offset": 450,
+    "requestedScroll": 1099.109375,
+    "scroll": 1099,
+    "paper": {
+      "x": 83,
+      "y": 29.421875,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": 101.421875,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": 183.421875,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 351.421875,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 431.421875,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 1,
+    "offset": 650,
+    "requestedScroll": 1299.109375,
+    "scroll": 1299,
+    "paper": {
+      "x": 83,
+      "y": -170.578125,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": -98.578125,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": -16.578125,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": 151.421875,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": 231.421875,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": 1,
+    "offset": 900,
+    "requestedScroll": 1549.109375,
+    "scroll": 1549,
+    "paper": {
+      "x": 83,
+      "y": -420.578125,
+      "w": 631.53125,
+      "h": 556.421875
+    },
+    "items": [
+      {
+        "x": 139,
+        "y": -348.578125,
+        "w": 487.546875,
+        "h": 46,
+        "font": "36px",
+        "line": "45.9936px",
+        "weight": "600",
+        "text": "Logos"
+      },
+      {
+        "x": 139,
+        "y": -266.578125,
+        "w": 487.546875,
+        "h": 144,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text."
+      },
+      {
+        "x": 139,
+        "y": -98.578125,
+        "w": 487.546875,
+        "h": 24,
+        "font": "15.9984px",
+        "line": "24.0048px",
+        "weight": "400",
+        "text": "Dask logos are available below."
+      },
+      {
+        "x": 139,
+        "y": -18.578125,
+        "w": 175.96875,
+        "h": 55.96875,
+        "font": "18px",
+        "line": "32px",
+        "weight": "600",
+        "text": "Download Logos"
+      }
+    ]
+  }
+]

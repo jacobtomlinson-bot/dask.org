@@ -1,96 +1,99 @@
-# Round12 local review package
+# Round13 local review package
 
 Card: **549aad55-ef02-4222-a004-0df05ae01ca1**
-Repository: Dask.org native Astro rebuild, six core pages.
+Repository: native Astro Dask.org, six core routes.
 Branch: `openclaw/dask-org-astro-developer`
-Base: signed round11 `b85dbd8e070eea745275c017873bc73a1c86ca00`.
-Outcome: **ready_for_review**. All final gates passed; the exact signed SHA is in the handoff.
+Base: signed round12 `619b6311b1eaf274329a6f055969034dbccb7284`.
+Outcome: **ready_for_review**. All final gates passed; the handoff supplies the exact signed SHA.
 
-Main remains sole coordinator, tester relay, integration and completion owner. Same retained independent tester must review this new exact SHA. Local only: no fetch, remote, push, PR, deployment, CI/auth changes, live submissions, helpers or card/main mutation. Original browser requests are GET/HEAD-only. No Webflow implementation, runtime or generated styles/scripts are included in the native project.
+Main is the sole coordinator, tester relay, integration and completion owner. Local-only: no fetch/remotes/push/PR/deployment/CI/auth changes, helpers, live submissions or main/card mutations. Original requests use the GET/HEAD-only reference harness. No Webflow implementation, generated CSS/JS, runtime or tooling is included in the native project. Public original artwork/fonts retain their existing provenance.
 
-## R11-1 — physical deployment-switch reversal
+## R12-1 — palette selection reservation and Colors→Typography flow
 
-The overlapping semantic tabs now give the **inactive tab** the foreground hit area. The decorative switch is still non-interactive markup inside the existing tab, not a nested button or a second competing semantic control. Both label clicks and tablist keyboard behavior remain unchanged. Phone/landscape non-switch controls are unchanged.
+Replaced copy-height-plus-margin coupling on stacked tiers with **two independent intrinsic grid tracks**. The first reserves the observed copy pane; the second owns the actual swatches and their trailing design canvas. Both use `minmax(max-content, …)`: contrast text may grow rather than being clipped, covered or hidden. Landscape has no section height/min-height compensation, overflow mask, global spacer or downstream section displacement. The copy action's real inline parent line box restores the extra baseline extent at480px rather than introducing a special pixel spacer.
 
-`round12-source-switch.mjs` freshly verifies the original at768/769/991/992/1100/1440, starting in either state. The native gate clicks the **same fixed physical switch-center point four times**, starting in each state, checks `elementFromPoint` resolves to the other tab, selected panel and Documentation destination after every hit. Twelve native sequences/48 center clicks; twelve independently captured original sequences. Accepted deployment frame, dots, code, logos and action tracks remain covered by round11's22-state gate.
+The matrix and Typography boundary now stay invariant across all12 selections and restored Salmon at479/480/601/767. At768 the fresh original has an additional genuine settled White-state exception: equal-width tablet tracks, versus the unequal Salmon tracks. That state is reproduced without changing default tablet geometry. The source exception was checked repeatedly after300/700ms, not dismissed as transition noise. Comparisons map selected colors by **hex identity**, not the source/native menu order.
 
-## R11-2 — Dig Deeper's actual surfaces and intrinsic composition
+The original-backed gate compares all12 x/y/width/height tuples and section-relative Typography boundaries after every choice. Live tests check each actual rendered swatch RGB after each selection, unclipped contrast ink, exactly one selected control and the real local clipboard value. All12 colors plus restored Salmon at five widths produce **780 actual RGB samples**. Existing round12 coverage additionally retains its720 selected-state samples and11-width paint/clipboard checks. Correct calculated contrast metadata remains unchanged; this is not an assertion that legacy annotations are byte-identical.
 
-`deeper.css` owns the component. Removed the old fixed section height/min-height rules and scattered Deeper overrides from `get-started.css`. Markup now separates an upper **#33363D** copy/art grid and a full-width lower **#262326** resource band.
+Focused palette matrix maximum: **0.046875px**. Landscape Colors→Typography boundary error is at most0.03125px; the preserved479px portrait boundary differs by0.40625px. Every tested selection has exactly zero native matrix/boundary movement in the stacked tiers.
 
-Desktop/tablet copy spans three real columns, with the fourth containing the original artwork. The image's observed frame/margin reserves the upper region's extent; the copy is centered against it. Phone/landscape use real stacked copy, margins, grid gap and centered29vw artwork. The lower band has the observed fixed parent inline line box, fluid link type, responsive five-column/two-column/single-column tracks and gaps. There is no page/section-height compensation or overflow masking.
+## R12-2 — Brand-only landscape hero composition
 
-The SVG retains its own viewBox aspect handling. A second CSS `object-fit:contain` introduced an extra2px letterbox in a1100px diagnostic; using the original viewport-fitting mode restores the measured **actual colored artwork bounds**, including the tall tablet frame, rather than merely equating `<img>` rectangles. Eleven live native screenshot tests sample both solid background bands and compare actual colored-ink bounds with fresh original captures.
+`Hero.astro` identifies the Brand artwork with a local `brand-hero` class. Its landscape copy/art canvas now uses the observed **0.46675 height/width proportion**, with in-flow content and no clipping. Removed the inappropriate inherited minimum extent and terminal paragraph margin from that local composition. No downstream negative section margin was used. Other shared Hero instances and portrait/tablet/desktop composition remain untouched.
 
-All eleven widths390/479/480/601/767/768/769/991/992/1100/1440 compare upper/band/heading/body/art boxes and every resource anchor, actual type/weight/line-height, exact rendered lines and destinations. Scoped rectangle maximum: **0.03125px**.
+Fresh original/native hero heights:
 
-## R11-3 — palette foreground paint, guidance and intrinsic copy/action flow
+| Width | Original | Native |
+|---|---:|---:|
+|480|224.046875|224.03125|
+|601|280.515625|280.515625|
+|767|358|357.984375|
 
-The copy sheets remain present. Foreground swatches now own an explicit stacking layer **above the decorative sheet in every tier**, fixing both reported landscape occlusion and a479px edge case exposed by real paint tests. The selected cell paints the selected pane's solid color rather than exposing background-grid dots through an otherwise transparent hole. Copy paper and selected pane colors continue updating together. The settled selected label becomes transparent for every color, including Green; the old green-only white-text override is now limited to non-selected cells. Fresh original settled-state evidence is retained in `source-selected-treatment.json`.
+The focused hero/copy maximum, including all paragraph rectangles rather than only section height, is **0.046875px**. All18 canonical route pairs are recaptured; accepted neighboring479/768 behavior and shared heroes remain covered by the full suite.
 
-Landscape guidance now uses its actual source text track, paragraph/title/metadata margins and Copy→matrix spacing, not the former narrow paragraph max-width. Every swatch track is compared by hex identity, not source/native DOM order. The768–991 logo-guidance copy now has the observed width and actual paragraph font/line-height/margins, preserving its nine-line text arrays. Tablet palette cells remain unchanged. Desktop palette tracks/intro rhythm are also corrected against freshly measured originals.
+## R12-3 — genuine showcase canvases, text, alternatives and selected states
 
-Real screenshots verify **all12 cell backgrounds and visible non-selected labels at all11 widths**. All12 selections and clipboard are exercised at every width, restoring Salmon. At479/480/601/767/768, every selection also samples **all12 actual cell paints** (720 additional pixel assertions), so changing the paper color cannot silently re-cover another swatch.
+The showcase now owns **intrinsic foreground artboards** with the measured Word Mark / Alternatives / Logo Mark canvas proportions, padding and seams. Their real flow replaces the old fixed-height rows. Landscape Word Mark→Logo Mark spacing is restored (including the reported40.86px deficit at601), and Colors follows naturally from the actual final artboard and its own gutter. No palette displacement or page-height concealment is used.
 
-Current scoped palette box maximum: **0.125px**; tablet logo-guidance maximum **0.609375px** (horizontal alignment; exact line arrays preserved). Round5's992px *native-only* boundary snapshot was superseded with the fresh original geometry, retaining its strict0.02px x/width/height tolerance. Its original-backed tablet checks and767 boundary protection were not relaxed. Tone90 paragraphs, specimens and sticky rail checks remain unchanged.
+Tablet left/right tracks now put the real logo images at the original x positions; caption type is **15.1603px/25.5974px at768**, not13.475px/20.21px. The same correction covers769/991 and both sides of the767/768/991/992 boundaries. Phone and desktop artboard papers were also reconstructed from their actual measured bounds, preserving copy geometry while removing grid lines that previously showed through the foreground canvases.
 
-## R11-4 — distinct Pandas identities and actual workload tracks
+All four variants retain the exact original artwork identities. Primary's wide icon viewport and the square colored/white icon viewports are distinguished. Controls use observed intrinsic minimum widths, selected-border geometry, pitch and responsive heights. **Black's selected border is white**; the other selected borders are black. Actual center hit targeting, selected state, assets, keyboard Home/End/arrows and focus are tested. Colored variants now update the left paper as well as the section and artboards, fixing the newly observed white-paper/white-text failure.
 
-The two artworks now have unambiguous local paths and independent source-manifest entries:
+Fresh reference/native comparisons cover390/479/480/601/767/768/769/991/992/1100/1440 and all four variants, including restored White. Static image/caption/control/canvas maximum: **0.109375px**. The actual foreground artwork raster-ink maximum is **1.015625px**; this is reported separately from DOM rectangles. Source/native PNG samples verify **1,144 actual opaque paper pixels**, not merely computed background colors. Logo assets are checked against the full original manifest URLs110 times.
 
-- Hero gray `/assets/Pandas_logo-gray.svg`, original source suffix `66281656453c4b8c508022ec_Pandas_logo.svg`; SHA256 `dec76ba8f680b191f3d9fb1d066395e7048d421981f45f0ded316b4312d90dc4`.
-- Testimonial colored `/assets/Pandas_logo-color.svg`, suffix `66326000a3b83d7c243efd47_Pandas_logo.svg`; SHA256 `5a2dbb218525973760e4c25ba016d7ea0649ad77ed3235ed7e31569b20c6e5d3`.
+### Guidance while selecting/scanning the showcase
 
-Removed the ambiguous public file. Resolver lookup is **exact path/basename**, rejecting missing or ambiguous identities instead of accepting the first substring match. Full manifest path uniqueness, both exact byte hashes, actual served hero/testimonial identities and actual hero opacity/filter are asserted. Every workload image is checked against its **full original source URL including the asset hash**, not a hash-stripped basename. Original gray artwork no longer suffers a second grayscale/opacity/brightness transformation.
+A further real selected-state difference was exposed during inspection: the original desktop/tablet guidance paper is sticky with a **40px viewport inset**, whereas the native copy was static. The native copy and its actual paper now travel together, reserving the paper's own measured extent and clamping to its real artwork track. The actual bottom margin is included; phone/landscape retain normal flow. Desktop Download Logos also restores its fixed32px action line box and original margin collapse; tablet/phone/landscape accepted action geometry is retained.
 
-`workloads.css` owns the workload bank's separate text/action/partner tracks. Restored desktop text fraction/insets, tablet secondary CTA15.1603px/15.1603px type and actual primary-action geometry, source body widths, intrinsic partner sizes/pitch and landscape full-width four-logo ML row. Corrected phone Big Arrays' source single-line secondary action without document overflow, primary ink color and real single-border secondary underlines. Deployment's independently accepted styles/URLs are unchanged.
+Fresh original-backed checks exercise six widths × White/Pink × seven section-relative scroll positions = **84 viewport groups**. They compare the actual paper and every heading/paragraph/action track, font, weight and line-height. Raw viewport coordinates remain recorded. Chromium rounds document scroll positions to whole CSS pixels; only flowing-phase coordinates are normalized to the same requested component-relative offset. The truly viewport-pinned40px phase is compared directly. Maximum normalized paper/content difference is0.609375px (the previously documented tablet guidance x offset); maximum raw viewport-y difference is **0.7546000px**, recorded separately in `guidance-scroll.json`.
 
-A visual inspection also exposed an inherited phone-sized landscape terminal and oversized tablet dots. The bank now owns its actual responsive window/bar/dot/code roles via CSS variables. All44 terminal states compare frame/bar/dot/source-code rectangles and exact source-line arrays. Phone terminal height follows its real code: Parallel For Loops no longer loses its last lines to a fixed-height phone box. Empty partner strips collapse on phones and retain the observed landscape media track. The desktop/tablet demo viewports retain their measured media ratios, not a page-height spacer. Selected-tab hover stays white; inactive hover is the original yellow, verified against fresh settled source hover states.
+## Smaller concrete repairs and preserved scope
 
-The **current original exposes four workload tabs**, not five: Big Pandas, Parallel For Loops, Big Arrays and Machine Learning. All four are captured and checked at all11 widths (44 selected states,110 actual image identities). No extra state was invented. Both deployment states additionally retain the existing22-state and new physical-hit checks. All scoped workload text/action/logo boxes differ by at most **0.34375px** in the expanded focused run; final maxima are recorded in `checks.json`.
+- Initial Brand rail now retains Logos' original selected circle while the hero is above the section. Existing subsequent active-section/anchor behavior is unchanged and all prior rail tests remain required.
+- Selected Black outline, actual per-variant foreground papers and the desktop download line box are covered explicitly rather than grouped under vague contour noise.
+- No changes to Tone paragraph data/layout, typography specimens, workload/deployment banks, form safeguards, source art identities, redirects or excluded-content scope.
 
-## Verification and reproducibility
+## Verification and evidence
 
-Final frozen verification: **build passed (7 routes);74 full regression groups passed,0 failed;215 focused groups passed,0 failed;311 exact text-line arrays;110 full-identity workload images;39 interaction/paint/identity groups;720 additional selected-state RGB samples;11 actual Deeper paint/fitting cases.** Formatting/whitespace passed; audit:0 vulnerabilities. Native layout/data/style implementation stayed frozen throughout the final full run.
+**Final frozen verification:** build passed (7 routes); **75 full regression groups passed,0 failed**; **382 focused groups passed,0 failed**;174 exact caption/hero line arrays;110 exact artwork identities;1,144 actual paper-pixel assertions;780 live all-color RGB samples;123 interaction groups and84 viewport-guidance groups. Formatting/whitespace pass; audit:0 vulnerabilities. Implementation remained frozen throughout this final complete run. Earlier stopped/superseded runs are explicitly separated in iterations/. Source/native state measurements: `evidence/round13/reference.json` / `local.json`. Reproduction scripts: `round13-probe.mjs`, `round13-checks.mjs`, `round13-interactions.mjs`, `round13-guidance.mjs`, `round13-palette-states.mjs`, `round13-gallery.mjs`.
 
-All18 canonical pairs were visually inspected as complete page-strip comparisons; all44 workload-state pairs were inspected, with neutral-pointer snapshots and a separate explicit hover gate. Focused Deeper/palette pairs and all11 paint tiers were inspected/tested separately. This does not certify unmeasured vector contours or cross-engine behavior.
-
-Final authoritative logs/results live in `evidence/round12/`:
-
-- `build.log`, `tests.log`, `format.log`, `audit.json` — final gates (read exact outcomes below/in handoff).
-- `checks.json`: focused geometry/type/identity gate; `interactions.json`: hit targets, actual pixels, labels, clipboard and selection samples; `deeper-paint.json`: actual band colors and SVG colored-ink bounds.
-- `reference.json` / `local.json`: fresh component/state rectangles, exact rendered text-line arrays, computed type/paint and full artwork URLs.
-- `source-switch.json`: fresh read-only original fixed-center click sequences.
-- `gallery.html` / `comparison.json`: all18 canonical page pairs; `states.html`: all66 focused pairs across11 widths. Native reduced-motion states are explicit; original motion is not synchronized.
-- `iterations/`: retained failed/intermediate diagnostics, not final acceptance results. `regressions/`: current run's generated historical regression results, without rewriting previous rounds' committed snapshots.
+- `gallery.html` / `comparison.json`: all18 canonical pairs at390/768/1440; percentages/heights are diagnostics, not acceptance criteria.
+- `states.html`:65 detailed Brand state/boundary pairs; common-scroll full-page raster crops avoid sticky-navigation capture artifacts.
+- `reference/` / `local/`: actual source/native captures, including sticky viewport screenshots and Salmon/White→Typography boundary captures.
+- `checks.json`, `interactions.json`, `guidance-scroll.json`: exact scoped geometry, line arrays, full artwork identities, physical hits, clipboard, paint and actual ink checks.
+- `guidance-reference.json`: frozen fresh original scroll fixture; ordinary regression runs are native-only and do not need live original access.
+- `inspection/`: full-page structural overviews, optional finer page strips and selected-state comparison sheets. Overview inspection is not a claim of exhaustive pixel/cross-engine certification.
+- `iterations/`: superseded/failed diagnostics and intentionally stopped superseded test runs, **not** final acceptance logs.
+- `regressions/`: this run's generated historical JSON/check logs, without rewriting earlier committed source fixtures/screenshots.
 
 ```sh
 npm ci
 npm run build
 npm run preview -- --port 4321
-# another terminal, same checkout:
+# another terminal:
 BASE_URL=http://127.0.0.1:4321 npm test
 npm run format:check
 npm audit
-# Explicit refresh (GET/HEAD-only source):
-REFERENCE=1 CAPTURES=1 node scripts/round12-probe.mjs
-node scripts/round12-source-switch.mjs
-node scripts/round12-source-treatment.mjs
-CAPTURES=1 node scripts/round12-probe.mjs
-node scripts/round12-checks.mjs
-node scripts/round12-gallery.mjs
-EVIDENCE_DIR=evidence/round12 WIDTHS=390,768,1440 node scripts/round6-capture.mjs
-EVIDENCE_DIR=evidence/round12 node scripts/round6-compare.mjs
+# Explicit read-only original refresh only when desired:
+REFERENCE=1 CAPTURES=1 node scripts/round13-probe.mjs
+REFRESH_REFERENCE=1 node scripts/round13-guidance.mjs
+node scripts/round13-palette-states.mjs
+# Native-only focused reproduction, using those frozen original fixtures:
+node scripts/round13-checks.mjs
+node scripts/round13-gallery.mjs
 ```
 
-## Candid remaining limits — not exact equivalence
+## Honest remaining inventory — no exact-equivalence claim
 
-- Native SVG gauge/rail/Explore internal contours and some grid/dot phase/paint edges still differ. No claim that element-bound checks prove identical internal vector contours.
-- Landscape palette's intrinsic trailing region differs from the original pane's reserved background extent: rounded focused capture heights differ by +24/+12/−3px at480/601/767 (`capture-height-inventory.json`). Its guidance, actions and all swatch rectangles/paints are measured separately and now match; no fixed section height or compensating bottom spacer was introduced to conceal the tail discrepancy. See final capture-height inventory.
-- Tablet logo-guidance horizontal offset remains at most0.61px. Prior small Use Cases767 width−4.25px /991 height+1.625px, Explore boundary1–3px and Press underline quantization remain documented; they are not declared identical.
-- Unsynchronized typing/counter/gauge phases are separate from these static limitations. Existing normal-motion token/newline/needle/phone-wrapping tests remain required.
-- Truthful local “Not sent” forms intentionally do not emulate production backends. Blog/event redirect destinations remain explicitly pending, unguessed.
-- The legacy320px specimen-overlap warning was checked against the current original: first-row ink overlap6.109375px original versus6.125px native (`320-specimen-diagnostic.json`). It is not a new native-only document overflow; the original narrow composition itself overlaps there.
-- Chromium on this host only; no universal browser/device/accessibility or pixel-equivalence certification. Whole-page pixel percentages/heights are diagnostics, not acceptance criteria.
+- Some native gauge/rail/Explore vector contours and background grid/dot phase still differ. Intermediate scroll-driven rail activation thresholds also differ (for example, a768px Logos+300px viewport can show source Colors versus native Logos); accepted anchor-driven states and the newly repaired initial Logos state are preserved. Scoped bounds/ink checks do not certify every internal vector contour.
+- Prior small Use Cases767 width−4.25px /991 height+1.625px, Explore boundary1–3px and Press underline quantization remain outside this targeted repair.
+- Source border-overlap/shared-header subpixel origins and up-to0.61px tablet guidance x differences remain visible in raw coordinates; no downstream displacement hides them.
+- Calculated accessibility combinations intentionally retain the accepted correct calculation rather than reproducing every legacy static annotation; metadata text/wrapping/action placement is not claimed byte-identical to those legacy panes.
+- The original Tone introductory paper also has a sticky scroll role; this round preserves the explicitly accepted Tone90 paragraph/paper layout and does not certify its unexercised scrolling phases as equivalent. That is distinct from the newly tested/repaired Logos guidance.
+- Unsynchronized dashboard/typing/counter/gauge phases are separate from static defects. Existing normal-motion token/newline/needle/phone-wrapping gates remain required.
+- The original320px specimen overlap remains documented:6.109375px source versus6.125px native; this is not new native document overflow.
+- Safe local forms truthfully say “Not sent”; backend emulation is not invented. Excluded blog/event redirects remain pending explicit destination decisions.
+- Chromium on this host only; no universal browser/device/accessibility or exact-pixel certification.
 
-Same independent tester must review the signed exact SHA before main integration. Main/card/publication remain untouched.
+Same retained independent tester must review the new signed exact SHA before local integration. Main/card/publication remain untouched.

@@ -105,7 +105,7 @@
   --copy-paper-top: 5.3125rem;
   --copy-paper-width: 39.4707031rem;
   --copy-paper-height: 34.7763672rem;
-  --copy-paper-color: #ffffff;
+  --copy-paper-color: var(--logo-paper, #ffffff);
 }
 .brand-type > div:first-child {
   --copy-paper-left: -3.5rem;
@@ -190,7 +190,7 @@
     --copy-paper-top: 3.5302734rem;
     --copy-paper-width: 20.3886719rem;
     --copy-paper-height: 23.4804688rem;
-    --copy-paper-color: #ffffff;
+    --copy-paper-color: var(--logo-paper, #ffffff);
   }
   .brand-type > div:first-child {
     --copy-paper-left: -1.9492188rem;
@@ -276,7 +276,7 @@
     --copy-paper-top: -0.609375rem;
     --copy-paper-width: 20.6386719rem;
     --copy-paper-height: 30.4863281rem;
-    --copy-paper-color: #ffffff;
+    --copy-paper-color: var(--logo-paper, #ffffff);
   }
   .brand-type > div:first-child {
     --copy-paper-left: -0.8105469rem;
@@ -362,7 +362,7 @@
     --copy-paper-top: -1.1145175rem;
     --copy-paper-width: 39.6225562rem;
     --copy-paper-height: calc(23.5508735rem + max(0px, 34px - 3.12rem));
-    --copy-paper-color: #ffffff;
+    --copy-paper-color: var(--logo-paper, #ffffff);
   }
   .brand-type > div:first-child {
     --copy-paper-left: -1.7605969rem;

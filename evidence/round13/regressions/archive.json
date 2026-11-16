@@ -1,0 +1,22 @@
+{
+  "generatedHistoricalResults": [
+    "evidence/round13/regressions/round10/human-local.json",
+    "evidence/round13/regressions/round10/local.json",
+    "evidence/round13/regressions/round11/ancillary-local.json",
+    "evidence/round13/regressions/round11/local.json",
+    "evidence/round13/regressions/round12/checks.json",
+    "evidence/round13/regressions/round12/interactions.json",
+    "evidence/round13/regressions/round12/local.json",
+    "evidence/round13/regressions/round3/art-bounds.json",
+    "evidence/round13/regressions/round3/motion/results.json",
+    "evidence/round13/regressions/round3/responsive.json",
+    "evidence/round13/regressions/round4/checks.json",
+    "evidence/round13/regressions/round5/checks.json",
+    "evidence/round13/regressions/round6/checks.json",
+    "evidence/round13/regressions/round9/checks.json",
+    "evidence/round13/regressions/round9/local.json",
+    "evidence/round13/regressions/round9/surfaces.json",
+    "evidence/round13/regressions/tests/results.json"
+  ],
+  "note": "Historical tracked fixtures/screenshots restored to the review base after current results were archived. Current authoritative screenshots are in round13."
+}

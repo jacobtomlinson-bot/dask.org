@@ -66,14 +66,23 @@
   filter: brightness(0);
 }
 .brand-logos {
+  position: relative;
   display: grid;
   grid-template-columns: calc(50% - 1.75rem) minmax(0, 1fr);
-  min-height: 70rem;
-  padding: 0 5.125rem 0 3.625rem;
+  padding: 0 5.125rem 4.86914rem 3.625rem;
 }
 .brand-logo-copy {
   background-color: transparent;
-  padding: 9.75rem 5.875rem 0 0;
+  padding: 9.8125rem 5.875rem 0 0;
+}
+.brand-logos > .brand-logo-copy {
+  /* The copy and its real paper travel together, constrained by their artwork
+     track. The 40px sticky inset is shared with the original guidance panels. */
+  position: sticky;
+  align-self: start;
+  top: calc(40px - var(--copy-paper-top));
+  min-block-size: calc(var(--copy-paper-top) + var(--copy-paper-height));
+  margin-bottom: calc(0.048828125rem + 0.2502rem);
 }
 .brand-body h2 {
   margin-bottom: 2.25rem;
@@ -87,52 +96,90 @@
   margin-top: 1.5rem;
   line-height: 2rem;
 }
+.brand-logo-action,
+.palette-action {
+  display: contents;
+}
 .logo-showcase {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2502rem;
+  margin: 5.1875rem 0.1875rem 0 -0.123046875rem;
   text-align: center;
+}
+.logo-showcase:has(
+    [data-logo-color][aria-selected='true']:not([data-variant='primary'])
+  )
+  .logo-mark
+  img {
+  width: auto;
+}
+/* Each foreground logo canvas shares the selected section paper, leaving the
+   native grid visible only in the seams, as in the reference artwork panels. */
+.word-mark,
+.logo-options,
+.logo-mark {
+  background-color: var(--logo-paper, #fff);
 }
 .logo-showcase h3 {
   font-size: 1.125rem;
   font-weight: 600;
   line-height: 1.5rem;
 }
-.word-mark {
-  height: 30rem;
-  padding-top: 7.6875rem;
+.word-mark,
+.logo-mark {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  aspect-ratio: 634.46875 / 395.125;
+  padding: 2.7rem 0 0;
+  margin: 0 0 0.162109375rem 0.1251rem;
+}
+.logo-mark {
+  margin-bottom: 0;
 }
 .word-mark img,
 .logo-mark img {
   width: 24rem;
-  height: 7.5rem;
+  height: 7.499rem;
   max-width: 90%;
   object-fit: contain;
-  margin-top: 5rem;
+  margin-top: 5.0004rem;
+  flex-shrink: 0;
 }
 .logo-options {
-  height: 10rem;
-  padding-top: 1rem;
+  aspect-ratio: 634.46875 / 155.796875;
+  padding-top: 0.9rem;
+  margin: 0 0 0.0544805rem 0.1251rem;
 }
 .logo-options p {
-  font-size: 1rem;
+  font-size: 0.9999rem;
+  line-height: 1.5003rem;
   margin-bottom: 1.5rem;
 }
 .logo-options [role='tablist'] {
+  position: absolute;
+  left: calc(50vw - var(--brand-rail));
+  right: 5.625vw;
+  top: calc(50% + 0.1343rem);
+  transform: translateY(-50%);
   display: flex;
   justify-content: center;
-  gap: 1.5rem;
+  gap: 1.8rem;
 }
 .logo-options button {
-  border: 1px solid #ddd;
-  width: 3.75rem;
-  height: 2.1875rem;
+  border: 0;
+  width: max(60px, 4.443vw);
+  height: 2.25rem;
   padding: 0;
 }
 .logo-options button[aria-selected='true'] {
-  outline: 0.125rem solid #aaa;
-  outline-offset: 0.25rem;
+  width: max(62px, 4.443vw);
+  outline: none;
+  border: 1px solid #000;
 }
-.logo-mark {
-  height: 30rem;
-  padding-top: 2.8125rem;
+.logo-options button[data-variant='white'][aria-selected='true'] {
+  border-color: #fff;
 }
 .palette-section {
   background-image: var(--grid-dark);
@@ -144,6 +191,7 @@
   background-color: #fc6e6b;
 }
 .palette-copy {
+  align-self: start;
   padding-top: 2.25rem;
 }
 .palette-copy p {
@@ -200,6 +248,21 @@
   color: white !important;
 }
 @media (min-width: 992px) {
+  .brand-logo-action {
+    display: block;
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 3.5rem;
+  }
+  .brand-logo-copy .button {
+    margin-top: 0;
+    line-height: 32px;
+    color: var(--dark);
+  }
+  .brand-logo-copy p {
+    font-size: 0.9999rem;
+    line-height: 1.5003rem;
+  }
   .palette-section {
     grid-template-columns: 30.5634765625rem minmax(0, 1fr);
     gap: 5.7626953125rem;
@@ -236,10 +299,14 @@
     height: 1.44rem;
   }
   .brand-logos {
-    min-height: 39.9375rem;
+    min-height: 0;
+    padding-bottom: 2.784rem;
     padding-left: 1.9375rem;
     padding-right: 0;
     grid-template-columns: 45% 55%;
+  }
+  .brand-logos > .brand-logo-copy {
+    margin-bottom: 0.498046875rem;
   }
   .brand-logo-copy {
     padding: 4.73012rem 3.64453125rem 0 0;
@@ -265,38 +332,63 @@
   .brand-body .button {
     margin-top: 1rem;
   }
-  .word-mark {
-    height: 18.125rem;
-    padding-top: 5rem;
+  .logo-showcase {
+    display: flex;
+    flex-direction: column;
+    gap: 0.10512rem;
+    margin: 3.5302734375rem 3.7890625rem 0 -0.50390625rem;
+  }
+  /* These are the observed artwork canvas proportions, not section heights.
+     In-flow captions and images can enlarge their canvases if text grows. */
+  .word-mark,
+  .logo-mark {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    aspect-ratio: 321.484375 / 211.953125;
+    padding: 1.44rem 0 0;
+    margin: 0.10512rem 0 0.087541875rem 0.06672rem;
   }
   .word-mark img,
   .logo-mark img {
     width: 12.8rem;
-    height: 4rem;
-    margin-top: 3.125rem;
+    height: 3.999rem;
+    margin-top: 2.66688rem;
+    flex-shrink: 0;
   }
   .logo-showcase h3 {
-    font-size: 0.842187rem;
-    line-height: 1.263125rem;
+    font-size: 0.94752rem;
+    line-height: 1.59984rem;
   }
   .logo-options {
-    height: 6.875rem;
-    padding-top: 0;
+    height: auto;
+    aspect-ratio: 321.484375 / 99.828125;
+    margin: 0.10512rem 0 0.183245rem 0.06672rem;
+    padding: 0.48rem 0 0;
   }
   .logo-options p {
-    font-size: 0.75rem;
-    margin-bottom: 0.75rem;
+    font-size: 0.84192rem;
+    line-height: 1.26336rem;
+    margin-bottom: 0;
   }
   .logo-options [role='tablist'] {
-    gap: 0.75rem;
+    position: absolute;
+    left: calc(50vw - var(--brand-rail));
+    right: 7vw;
+    top: calc(50% + 2.5vw + 0.0718rem);
+    transform: translateY(-50%);
+    gap: 0.96rem;
   }
   .logo-options button {
-    width: 3.4375rem;
-    height: 2rem;
+    height: 2.3994rem;
   }
-  .logo-mark {
-    height: 14.9375rem;
-    padding-top: 1.25rem;
+  .brand-logo-copy .button {
+    font-size: 0.94752rem;
+    line-height: 1.26336rem;
+    padding: 0.63168rem 0.84192rem;
+    margin-top: 0.90625rem;
+    color: var(--dark);
   }
   /* Tablet geometry uses the 768px design basis. Unequal swatch tracks are intentional. */
   .palette-section {
@@ -341,6 +433,12 @@
     grid-template-columns: 10.666rem minmax(0, 1fr);
     grid-template-rows: repeat(6, 4.5380859375rem);
     align-content: start;
+  }
+  /* Hiding White's longest label releases the source's intrinsic first track.
+     This settled tablet state has equal tracks; landscape remains invariant. */
+  .palette-section:has([data-color='#FFFFFF'][aria-pressed='true'])
+    .palette-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
   .palette-grid button {
     height: auto;
@@ -398,8 +496,15 @@
     display: block;
     padding: 5.875rem 11.06vw 3.75rem;
     background-image: var(--grid-dark);
-    min-height: 71.5625rem;
-    padding-bottom: 0.75rem;
+    min-height: 0;
+    padding-bottom: 5.2138671875rem;
+  }
+  .brand-logos > .brand-logo-copy {
+    position: relative;
+    top: auto;
+    align-self: auto;
+    min-block-size: 0;
+    margin-bottom: 0;
   }
   .brand-logo-copy {
     padding: 0;
@@ -419,15 +524,29 @@
     line-height: 1.56rem;
   }
   .logo-showcase {
-    margin: 6.3125rem calc(-1 * 3.46vw) 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    width: 84vw;
+    margin: 5.009rem 0 0 -3.466vw;
   }
   .logo-showcase h3 {
     font-size: 1.17rem;
     line-height: 1.56rem;
   }
-  .word-mark {
-    height: 9.875rem;
-    padding: 0;
+  .word-mark,
+  .logo-mark {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 327.59375 / 157.546875;
+    margin: 0.1352rem 0 0.1352rem 0.03385rem;
+    padding: 1.21875rem 0 0;
+  }
+  .logo-mark {
+    margin-bottom: 0;
   }
   .word-mark img,
   .logo-mark img {
@@ -436,27 +555,33 @@
     margin-top: 1.4625rem;
   }
   .logo-options {
-    height: 10.5rem;
-    padding: 0;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 327.59375 / 159.890625;
+    margin: 0.1352rem 0 0.1352rem 0.03385rem;
+    padding: 0.975rem 0 0;
   }
   .logo-options p {
-    font-size: 1.04rem;
+    font-size: 1.04008rem;
     line-height: 1.56rem;
-    margin-bottom: 3.375rem;
+    margin-bottom: 0;
   }
   .logo-options [role='tablist'] {
-    gap: 1rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: calc(74.5% + 0.0477rem);
+    transform: translateY(-50%);
+    gap: 0.73125rem;
   }
   .logo-options button {
-    width: 3.75rem;
-    height: 2.5rem;
-  }
-  .logo-mark {
-    height: 13.125rem;
-    padding: 0;
+    height: 2.4375rem;
   }
   .palette-section {
-    display: block;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: minmax(max-content, 28.005859375rem) auto;
+    gap: 0;
     min-height: 71.75rem;
     padding: 5.875rem 11.2vw 5rem;
     background-image: var(--grid-dark);
@@ -495,7 +620,8 @@
     grid-template-columns: minmax(0, 1fr);
     grid-template-rows: none;
     grid-auto-flow: row;
-    margin: 3.1875rem -3.6vw 0;
+    align-self: start;
+    margin: 0 -3.6vw;
   }
   .palette-grid button {
     height: auto;
@@ -505,11 +631,7 @@
     font-weight: 400;
   }
   .brand-logo-copy .button {
-    margin-top: 0.9375rem;
-  }
-  .logo-options button[aria-selected='true'] {
-    outline: 0;
-    border: 1px solid #080815;
+    margin-top: 0.9115rem;
   }
   .palette-copy h2 {
     margin-bottom: 0.51992rem;
@@ -547,28 +669,101 @@
   .brand-body > section {
     scroll-margin-top: 5.148rem;
   }
+  .page-hero.with-art.brand-hero:has(.hero-copy) {
+    /* The Brand illustration/copy canvas has this measured landscape ratio.
+       Content remains in flow; no hidden overflow or downstream compensation. */
+    min-height: 0;
+    width: 100%;
+    aspect-ratio: 1 / 0.46675;
+    padding-bottom: 0;
+  }
+  .page-hero.brand-hero .hero-copy > p:last-child {
+    margin-bottom: 0;
+  }
   .brand-logos {
     min-height: 0;
-    padding-top: 5.65rem;
+    padding: 5.70482rem 10.93vw 4.135rem 11.07vw;
+  }
+  .brand-logo-action,
+  .palette-action {
+    display: block;
+    font-size: 18px;
+    line-height: 32px;
+  }
+  .brand-logo-action {
+    margin-top: 1.82rem;
+  }
+  .palette-action {
+    margin-top: 1.56rem;
+  }
+  .brand-logo-copy h2 {
+    margin-bottom: 1.17rem;
+  }
+  .brand-logo-copy p {
+    margin-bottom: 1.56rem;
+  }
+  .brand-logo-copy .button {
+    margin-top: 0;
+    color: var(--dark);
   }
   .logo-showcase {
-    margin-top: 5.3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    width: auto;
+    margin: 3.535rem -3.33vw 0 -3.47vw;
   }
   .word-mark,
   .logo-mark {
-    height: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    width: auto;
+    aspect-ratio: 508.828125 / 198.328125;
+    background-color: var(--logo-paper, #fff);
+    padding: 1.404rem 0 0;
+    margin: 0.26rem 0 0.26rem 0.065rem;
   }
   .word-mark img,
   .logo-mark img {
     width: 15.912rem;
     height: 6.551rem;
+    margin-top: 1.404rem;
+    flex-shrink: 0;
   }
   .logo-options {
-    height: 10rem;
+    height: auto;
+    width: auto;
+    aspect-ratio: 508.828125 / 150.25;
+    background-color: var(--logo-paper, #fff);
+    margin: 0.26rem 0 0.26rem 0.065rem;
+    padding: 1.872rem 0 0;
+  }
+  .logo-options p {
+    margin-bottom: 0;
+  }
+  .logo-options [role='tablist'] {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: calc(67.5% + 0.0949rem);
+    transform: translateY(-50%);
+    gap: 1.404rem;
+  }
+  .logo-options button {
+    height: 2.808rem;
   }
   .palette-section {
     min-height: 0;
     padding-top: 5.70482rem;
+    padding-bottom: 0;
+    /* Independent copy and swatch tracks reproduce the source pane reservation.
+       max-content lets either region grow under text zoom without clipping. */
+    grid-template-rows: minmax(max-content, 26.4655rem) minmax(
+        max-content,
+        15.88184rem
+      );
   }
   .palette-copy {
     width: auto;
@@ -594,9 +789,9 @@
     margin-bottom: 0;
   }
   .palette-copy .button {
-    margin-top: 1.56rem;
+    margin-top: 0;
   }
   .palette-grid {
-    margin-top: 5.54rem;
+    margin-top: 0;
   }
 }

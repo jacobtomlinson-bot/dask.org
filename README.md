@@ -282,3 +282,49 @@ Round12 final frozen verification: **74 full regression groups,215 focused group
 311 exact line arrays,110 workload asset identities;0 failures**. There are39
 interaction/paint/identity groups,720 additional selected-state RGB samples and11
 actual Deeper paint/fitting cases. Build/format/whitespace pass; audit0.
+
+## Round13 — Brand selected-state and intrinsic-flow fidelity
+
+`evidence/REVIEW.md` and `evidence/round13/` are the current review package;
+older round sections above are historical. This round restores invariant stacked
+palette tracks across all12 choices, the Brand-only landscape hero extent, and
+real responsive logo artboards, captions, controls and selected foreground papers.
+It also restores the logo guidance's actual desktop/tablet40px sticky inset,
+track-end constraint, download action line box and initial Logos rail highlight.
+
+The new original-backed gate covers11 widths, all four logo variants and all12
+palette choices at five boundary widths. It checks real click targets, clipboard,
+painted colors, actual artwork ink, exact original asset identities and seven
+viewport scroll positions in each of two guidance states at six widths. Ordinary
+regression runs use frozen original evidence and only navigate the local preview.
+
+```sh
+npm run build
+npm run preview -- --port 4321
+# another terminal:
+BASE_URL=http://127.0.0.1:4321 npm test
+npm run format:check
+npm audit
+# Optional explicit GET/HEAD-only original refresh:
+REFERENCE=1 CAPTURES=1 node scripts/round13-probe.mjs
+REFRESH_REFERENCE=1 node scripts/round13-guidance.mjs
+node scripts/round13-palette-states.mjs
+# Native-only focused gate and evidence gallery:
+node scripts/round13-checks.mjs
+node scripts/round13-gallery.mjs
+```
+
+`round13/gallery.html` contains all18 canonical pairs; `states.html` contains65
+focused pairs, supplemented by real viewport guidance captures. Source/native
+raw geometry, exact lines and actual paper/foreground pixels are distinguished
+from whole-page pixel percentages. Correct calculated contrast annotations,
+truthful unsent forms and pending excluded-content redirects remain intact.
+The review report explicitly inventories remaining vector/grid, intermediate
+rail/Tone scroll behavior and small pre-existing geometry differences. **This is
+not an exact-equivalence or cross-engine certification.**
+
+Round13 frozen gate: **75 full groups,382 focused groups;0 failures**. Build,
+formatting and whitespace pass; audit0. Targeted static artwork/caption/control
+rectangles differ by at most0.109375px, palette tracks0.046875px and actual
+foreground raster bounds1.015625px in the exercised cases. Review the explicit
+remaining inventory before interpreting those scoped measurements.

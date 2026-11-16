@@ -177,6 +177,7 @@ document.querySelectorAll<HTMLButtonElement>('[data-logo-color]').forEach((b) =>
     const showcase = document.querySelector<HTMLElement>('.logo-showcase')!;
     const section = showcase.closest<HTMLElement>('.brand-logos')!;
     section.style.backgroundColor = b.dataset.logoColor!;
+    section.style.setProperty('--logo-paper', b.dataset.logoColor!);
     section.style.color =
       b.dataset.variant === 'primary' ? '#080815' : '#FFFFFF';
     showcase.style.backgroundColor = 'transparent';
@@ -309,7 +310,8 @@ if (brandLinks.length) {
           .height ?? 80) + 2
       : (26 * parseFloat(getComputedStyle(document.documentElement).fontSize)) /
         16;
-    let active: HTMLAnchorElement | undefined;
+    // The original keeps Logos selected while the hero precedes the rail.
+    let active: HTMLAnchorElement | undefined = brandLinks[0];
     for (const link of brandLinks) {
       if (
         document.querySelector(link.hash)!.getBoundingClientRect().top <=
