@@ -1,5 +1,5 @@
 {
-  "passed": 65,
+  "passed": 66,
   "failed": 0,
   "results": [
     {
@@ -260,6 +260,10 @@
     },
     {
       "name": "round4-checks.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round5-checks.mjs: production-preview regression",
       "status": "passed"
     }
   ]

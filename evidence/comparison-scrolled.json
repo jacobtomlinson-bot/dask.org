@@ -2508,10 +2508,10 @@
     ],
     "localSize": [
       768,
-      4216
+      4217
     ],
-    "differentPixels": 343512,
-    "differencePercent": 10.609,
+    "differentPixels": 308235,
+    "differencePercent": 9.517,
     "topViewportDifferencePercent": 7.589,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
@@ -2570,8 +2570,8 @@
         "text": "Colors",
         "rect": [
           86,
-          1171,
-          291,
+          1173,
+          249,
           30
         ]
       },
@@ -2580,7 +2580,7 @@
         "text": "Typography",
         "rect": [
           88,
-          1746,
+          1747,
           261,
           30
         ]
@@ -2590,7 +2590,7 @@
         "text": "Tone",
         "rect": [
           88,
-          2317,
+          2318,
           274,
           30
         ]
@@ -2600,7 +2600,7 @@
         "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
         "rect": [
           0,
-          3568,
+          3569,
           768,
           648
         ]
@@ -2610,7 +2610,7 @@
         "text": "Get Started",
         "rect": [
           78,
-          3740,
+          3741,
           129,
           33
         ]
@@ -2620,7 +2620,7 @@
         "text": "Community",
         "rect": [
           239,
-          3740,
+          3741,
           129,
           33
         ]
@@ -2630,7 +2630,7 @@
         "text": "Blog",
         "rect": [
           400,
-          3740,
+          3741,
           129,
           33
         ]
@@ -2640,7 +2640,7 @@
         "text": "Brand",
         "rect": [
           561,
-          3740,
+          3741,
           129,
           33
         ]

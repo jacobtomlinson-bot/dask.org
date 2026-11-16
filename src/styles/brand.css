@@ -292,30 +292,61 @@
     height: 14.9375rem;
     padding-top: 1.25rem;
   }
+  /* Tablet geometry uses the 768px design basis. Unequal swatch tracks are intentional. */
   .palette-section {
-    min-height: 33.9375rem;
-    padding: 3.375rem 3.4375rem 3.375rem 1.9375rem;
-    gap: 2.8125rem;
-    grid-template-columns: 1fr 1fr;
+    min-height: 34.02734375rem;
+    padding: 3.42578125rem 3.359375rem 3.36rem 1.908203125rem;
+    gap: 3.0654296875rem;
+    grid-template-columns: 15.5888671875rem minmax(0, 1fr);
+    background-image: var(--grid-dark);
+    background-size: 100vw auto;
+    background-position: right top;
+    background-repeat: repeat-y;
   }
   .palette-copy {
-    padding-top: 1.25rem;
+    padding-top: 1.3037109375rem;
+  }
+  .palette-copy h2 {
+    font-size: 1.68432rem;
+    line-height: 1.89456rem;
+    margin-bottom: 0.42096rem;
+  }
+  .palette-copy p {
+    font-size: 0.84192rem;
+    line-height: 1.26336rem;
+    margin-bottom: 1.2rem;
+  }
+  .palette-copy .color-hex,
+  .palette-copy .accessible-colors {
+    font-size: 0.94752rem;
+    line-height: 1.59984rem;
+  }
+  .palette-copy .accessible-colors {
+    font-weight: 400;
+    margin-bottom: 0;
+  }
+  .palette-copy .button {
+    margin-top: 0.96rem;
+    font-size: 0.94752rem;
+    line-height: 1.26336rem;
+    padding: 0.63168rem 0.84192rem;
   }
   .palette-grid {
-    grid-template-rows: repeat(6, 4.375rem);
+    grid-template-columns: 10.666rem minmax(0, 1fr);
+    grid-template-rows: repeat(6, 4.5380859375rem);
+    align-content: start;
   }
   .palette-grid button {
-    height: 4.375rem;
-    padding: 0 1rem;
-    font-size: 0.842187rem;
+    height: auto;
+    padding: 9px 30px;
+    font-size: 0.94752rem;
+    line-height: 1.59984rem;
+    font-weight: 400;
   }
   .palette-copy .color-name,
   .palette-copy .color-label {
     font-size: 0.736875rem;
     margin-bottom: 0;
-  }
-  .palette-copy .accessible-colors {
-    font-size: 0.842187rem;
   }
   .brand-type {
     grid-template-columns: 1fr 1.2fr;

@@ -9,6 +9,9 @@ const reference = JSON.parse(
 const paletteReference = JSON.parse(
   await fs.readFile('evidence/round4/reference-palette.json', 'utf8'),
 );
+const tabletReference = JSON.parse(
+  await fs.readFile('evidence/round5/reference.json', 'utf8'),
+);
 await fs.mkdir('evidence/round4', { recursive: true });
 try {
   for (const width of [390, 479, 480, 601, 767, 768, 1440]) {
@@ -91,10 +94,10 @@ try {
         expect(new Set(palette.map((r) => Math.round(r.y))).size).toBe(
           width < 480 ? 12 : width < 768 ? 4 : 6,
         );
-        if (width >= 480 && width < 768) {
-          const original = paletteReference.find(
-            (r) => r.width === width,
-          ).colors;
+        if (width >= 480 && width < 992) {
+          const original = (
+            width >= 768 ? tabletReference : paletteReference
+          ).find((r) => r.width === width).colors;
           for (let i = 0; i < palette.length; i++) {
             const source = original.find((e) => e.text === palette[i].color);
             expect(Math.abs(palette[i].x - source.r.x)).toBeLessThan(0.1);

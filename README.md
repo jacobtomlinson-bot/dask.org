@@ -111,7 +111,7 @@ Astro allows only one preview per checkout. `npm test` starts/stops its own prev
 
 ## Round 4 focused visual review
 
-The final runner has **65 outer groups** (nested focused assertions are not additive totals). The landscape palette/footer and all-six-card/CTA regressions live in `scripts/round4-checks.mjs`. With a local preview on4321:
+The round4 runner had **65 outer groups** (nested focused assertions are not additive totals). The landscape palette/footer and all-six-card/CTA regressions live in `scripts/round4-checks.mjs`. With a local preview on4321:
 
 ```sh
 node scripts/round4-checks.mjs
@@ -123,3 +123,18 @@ node scripts/report.mjs
 ```
 
 See `evidence/REVIEW.md`, `evidence/round4/gallery.html`, measured JSON and original/native screenshots. The three findings are addressed for independent re-review, **not a claim of exact equivalence**. `src/styles/cases.css` is the single owner of card geometry; old scattered card overrides were removed. Main is the sole coordinator and integration owner. Original art/fonts remain source-listed in `src/data/assets.json`; no new artwork was added in this round.
+
+## Round 5 tablet palette review
+
+The current full runner has **66 outer groups**, including `scripts/round5-checks.mjs` (six nested resize/geometry/all-color-copy cases). Tablet768/769/991 swatches and copy bounds are compared to fresh read-only original measurements;767/992 cell geometry is checked against the accepted round4 baseline. Source-owned tablet rules remain in `src/styles/brand.css`; no other production files changed this round.
+
+With a local production server on4321:
+
+```sh
+node scripts/round5-reference.mjs # fresh GET/HEAD-only original captures/measurements
+node scripts/round5-checks.mjs
+node scripts/round5-gallery.mjs
+node scripts/report.mjs
+```
+
+Current report: `evidence/REVIEW.md`; focused original/native pairs: `evidence/round5/gallery.html`. This is a signed local review package, not an exact-equivalence or independent-approval claim.
