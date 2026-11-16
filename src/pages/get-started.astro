@@ -1,6 +1,7 @@
 ---
 import Site from '../layouts/Site.astro';
 import '../styles/get-started.css';
+import '../styles/deeper.css';
 import '../styles/learn.css';
 import '../styles/explore.css';
 import Icon from '../components/Icon.astro';
@@ -141,12 +142,18 @@ import { asset, learn, explore, deeper, docs } from '../data/site';
     </div>
   </section>
   <section class="deeper dark-grid">
-    <h2 class="medium-title">Dig Deeper into Dask</h2>
-    <p>
-      Dask has published extensive resources to help make sure you’re
-      successful. Visit these sites to learn more:
-    </p>
-    <img src={asset('illustration-home-stay-connected.svg')} alt="" />
+    <div class="deeper-upper">
+      <div class="deeper-copy">
+        <h2 class="medium-title">Dig Deeper into Dask</h2>
+        <p>
+          Dask has published extensive resources to help make sure you’re
+          successful. Visit these sites to learn more:
+        </p>
+      </div>
+      <div class="deeper-art">
+        <img src={asset('illustration-home-stay-connected.svg')} alt="" />
+      </div>
+    </div>
     <div class="deeper-links">
       {deeper.map(([label, href]) => (
         <div>

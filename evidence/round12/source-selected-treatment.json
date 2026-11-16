@@ -1,0 +1,30 @@
+[
+  {
+    "hex": "#61BA92",
+    "selected": "true",
+    "color": "rgba(0, 0, 0, 0)",
+    "childColor": "rgba(0, 0, 0, 0)",
+    "bg": "rgb(97, 186, 146)"
+  },
+  {
+    "hex": "#FC6E6B",
+    "selected": "true",
+    "color": "rgba(0, 0, 0, 0)",
+    "childColor": "rgba(0, 0, 0, 0)",
+    "bg": "rgb(252, 110, 107)"
+  },
+  {
+    "hex": "#FFFFFF",
+    "selected": "true",
+    "color": "rgba(0, 0, 0, 0)",
+    "childColor": "rgba(0, 0, 0, 0)",
+    "bg": "rgb(255, 255, 255)"
+  },
+  {
+    "hex": "#1F5AFF",
+    "selected": "true",
+    "color": "rgba(0, 0, 0, 0)",
+    "childColor": "rgba(0, 0, 0, 0)",
+    "bg": "rgb(31, 90, 255)"
+  }
+]

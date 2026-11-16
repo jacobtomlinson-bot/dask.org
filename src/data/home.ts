@@ -8,7 +8,11 @@ export const workloads = [
       label: 'Performance Benchmarks',
       href: 'https://docs.coiled.io/blog/tpch.html?utm_source=dask.org&utm_medium=homepage',
     },
-    logos: ['Parquet_logo.svg', 'Apache-arrow-logo.svg', 'Pandas_logo.svg'],
+    logos: [
+      'Parquet_logo.svg',
+      'Apache-arrow-logo.svg',
+      'Pandas_logo-gray.svg',
+    ],
     code: `import dask.dataframe as dd\n\ndf = dd.read_parquet("s3://data/uber/")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()`,
   },
   {

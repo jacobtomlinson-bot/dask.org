@@ -1,0 +1,32 @@
+[
+  {
+    "width": 390,
+    "label": "Big Pandas",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "width": 390,
+    "label": "Parallel For Loops",
+    "color": "rgb(255, 193, 30)"
+  },
+  {
+    "width": 768,
+    "label": "Big Pandas",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "width": 768,
+    "label": "Parallel For Loops",
+    "color": "rgb(255, 193, 30)"
+  },
+  {
+    "width": 1440,
+    "label": "Big Pandas",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "width": 1440,
+    "label": "Parallel For Loops",
+    "color": "rgb(255, 193, 30)"
+  }
+]

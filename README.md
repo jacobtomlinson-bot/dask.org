@@ -137,7 +137,7 @@ node scripts/report.mjs
 
 That report remains in Git history. Historical fully traversed18 page comparisons: `evidence/round8/gallery.html`. Focused ten-width paper/rail results: `evidence/round8/checks.json`; Tone pairs: `evidence/round8/tone-gallery.html`. Historical round6/7 evidence stays historical. Exact equivalence is still not certified: independently drawn icon contours, other paper boundaries, tiny upstream text/section offsets and unsynchronized native animation can differ. See the explicit residual inventory in the report. No backend, redirect destination, dependency, deployment or remote publication changed. Main obtains the same tester's verdict on the exact signed SHA before further local integration.
 
-## Current round9 — six-route static composition
+## Historical round9 — six-route static composition
 
 The six independent round8 findings are addressed in the component owners, not by hiding overflow or compensating page heights. Help and Support now use their source-sized paper/copy frames; Learn owns all five cards, dividers and three artwork boxes **including real contain/cover paint**, not only image bounds. Sponsor logo/divider/copy flow is intrinsic. The homepage has source-sized copy/code tracks, fully stacked tablet Rows/Cost, correct shared label emphasis, real workload tab insets and contained landscape headline margins. The source's original off-viewport992px counter edge is matched as visible paint without native document overflow. Footer sheets and separators are shared by all six routes. Palette sheets follow selection. Accepted Tone/rail composition and safe form behavior are retained.
 
@@ -157,7 +157,7 @@ The runner has70 outer groups (nested focused counts are not additive). Current 
 
 This remains a review candidate, not an exact-equivalence certification. Native dashboard/gauge/counter/rail contours and unsynchronized animation still differ. Real backends, unresolved redirects and browser/device limits remain as documented above. Main obtains the same independent tester's verdict for the new exact signed local SHA before integration.
 
-## Current round10 — actual specimens, organization banks, press and typing states
+## Historical round10 — actual specimens, organization banks, press and typing states
 
 Round9's six repairs remain covered. This iteration adds component-owned
 `specimens.css`, `organizations.css`, and `closing.css`, removing their older
@@ -206,7 +206,7 @@ Round10 frozen verification: **72 outer groups, 193 focused groups, 673 exact te
 
 ## Round11: Learn flow, Explore states and deployment
 
-Current review evidence is in `evidence/round11/` and `evidence/REVIEW.md`.
+Round11 review evidence is in `evidence/round11/` and `evidence/REVIEW.md`.
 Landscape Learn now has an in-flow overlapping illustration track: the images
 reserve their real extent before Explore. Explore owns its intro, intrinsic
 cards, circular tabs, segmented connectors and bounded previous/next actions in
@@ -240,3 +240,45 @@ flow can leave a small1–3px boundary difference, documented in the report.
 No exact-equivalence or cross-browser certification is implied.
 
 Round11 frozen verification: **73 outer groups, 178 focused groups, 627 exact text-line arrays; zero failures**. Build, formatting and audit passed (0 vulnerabilities).
+
+## Round12: hit targets, real paint and artwork identity
+
+Current review package: `evidence/REVIEW.md` and `evidence/round12/`.
+Deployment switches reverse on repeated physical center clicks, not just label
+clicks. `deeper.css` owns the intrinsic two-region Dig Deeper composition;
+`workloads.css` separates hero workload text/action/logo tracks from deployment.
+Workload terminal viewports/dots/code and settled tab-hover colors are also
+source-backed; phone code height is intrinsic. Palette tests sample screenshot
+pixels through every selection, including the
+formerly covered landscape cells. Original gray and colored Pandas artwork now
+have distinct manifest paths and verified byte identities; `asset()` uses exact,
+unambiguous names rather than substring lookup.
+
+```sh
+npm run build
+npm run preview -- --port 4321
+# In a second terminal:
+BASE_URL=http://127.0.0.1:4321 npm test
+npm run format:check
+npm audit
+# Optional fresh read-only source/state evidence:
+REFERENCE=1 CAPTURES=1 node scripts/round12-probe.mjs
+node scripts/round12-source-switch.mjs
+node scripts/round12-source-treatment.mjs
+CAPTURES=1 node scripts/round12-probe.mjs
+node scripts/round12-checks.mjs
+node scripts/round12-gallery.mjs
+```
+
+The current original has four workload tabs; all four are checked at11 widths,
+with both deployment states covered independently. `states.html` contains66
+focused source/native pairs and `gallery.html` contains18 canonical page pairs.
+The report distinguishes actual paint/ink checks from computed styles, records
+remaining static contours/phase/trailing-region differences and does **not**
+claim exact equivalence. Backend-dependent forms and unresolved redirects retain
+the safe, explicit behavior described above. No publication is authorized.
+
+Round12 final frozen verification: **74 full regression groups,215 focused groups,
+311 exact line arrays,110 workload asset identities;0 failures**. There are39
+interaction/paint/identity groups,720 additional selected-state RGB samples and11
+actual Deeper paint/fitting cases. Build/format/whitespace pass; audit0.

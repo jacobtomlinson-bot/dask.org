@@ -273,7 +273,7 @@
   }
   .brand-logo-copy {
     --copy-paper-left: -0.8105469rem;
-    --copy-paper-top: -0.5888672rem;
+    --copy-paper-top: -0.609375rem;
     --copy-paper-width: 20.6386719rem;
     --copy-paper-height: 30.4863281rem;
     --copy-paper-color: #ffffff;
@@ -287,7 +287,7 @@
   }
   .palette-copy {
     --copy-paper-left: -0.8105469rem;
-    --copy-paper-top: -0.5888672rem;
+    --copy-paper-top: -0.609375rem;
     --copy-paper-width: 20.4746094rem;
     --copy-paper-height: 30.46875rem;
     --copy-paper-color: var(--palette-paper, #fc6e6b);
@@ -372,8 +372,8 @@
     --copy-paper-color: #ffffff;
   }
   .palette-copy {
-    --copy-paper-left: -1.5549709rem;
-    --copy-paper-top: -1.3396111rem;
+    --copy-paper-left: -1.56rem;
+    --copy-paper-top: -1.1696111rem;
     --copy-paper-width: 39.3110753rem;
     --copy-paper-height: 27.6110753rem;
     --copy-paper-color: var(--palette-paper, #fc6e6b);

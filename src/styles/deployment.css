@@ -55,6 +55,8 @@
   margin-left: -1.2501rem;
 }
 .deployment .tablist button[aria-selected='false'] {
+  /* Only the inactive semantic tab owns the overlapping switch hit area. */
+  z-index: 1;
   color: #adadad;
 }
 .deployment-switch {

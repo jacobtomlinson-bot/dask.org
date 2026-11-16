@@ -269,6 +269,7 @@ try {
     'round10-checks.mjs',
     'round10-motion.mjs',
     'round11-checks.mjs',
+    'round12-checks.mjs',
   ]) {
     await check(`${script}: production-preview regression`, async () => {
       const { stdout } = await promisify(execFile)(

@@ -1,11 +1,14 @@
 import assets from './assets.json';
 export function asset(name: string) {
-  const item = assets.find((a) =>
-    a.path.toLowerCase().includes(name.toLowerCase()),
+  const key = name.startsWith('/assets/') ? name : `/assets/${name}`;
+  const matches = assets.filter(
+    (a) => a.path.toLowerCase() === key.toLowerCase(),
   );
-  if (!item) throw new Error(`Unknown artwork: ${name}`);
-  return item.path;
+  if (matches.length !== 1)
+    throw new Error(`Unknown or ambiguous artwork: ${name}`);
+  return matches[0].path;
 }
+
 export const docs = 'https://docs.dask.org/en/stable/';
 export const demo = 'https://github.com/dask/community/issues/307';
 export const socials = [

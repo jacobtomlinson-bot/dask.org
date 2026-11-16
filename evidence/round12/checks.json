@@ -1,0 +1,874 @@
+{
+  "passed": 215,
+  "failed": 0,
+  "arrays": 311,
+  "images": 110,
+  "maxima": {
+    "deeper": 0.03125,
+    "workload": 0.34375,
+    "palette": 0.125,
+    "logoGuidance": 0.609375
+  },
+  "results": [
+    {
+      "name": "get-started/390/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/390/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/390/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/390/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/390/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/390/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/390/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/390/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/390/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/390/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/390/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/390/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/390/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/390/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/390/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/479/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/479/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/479/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/479/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/479/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/479/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/479/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/479/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/479/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/479/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/479/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/479/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/479/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/479/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/479/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/480/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/480/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/480/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/480/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/480/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/480/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/480/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/480/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/480/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/480/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/480/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/480/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/480/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/480/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/480/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/601/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/601/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/601/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/601/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/601/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/601/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/601/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/601/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/601/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/601/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/601/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/601/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/601/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/601/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/601/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/767/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/767/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/767/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/767/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/767/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/767/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/767/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/767/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/767/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/767/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/767/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/767/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/767/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/767/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/767/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/768/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/768/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/768/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/768/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/768/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/768/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/768/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/768/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/768/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/768/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/768/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/768/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/768/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/768/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/768/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/769/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/769/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/769/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/769/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/769/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/769/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/769/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/769/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/769/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/769/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/769/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/769/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/769/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/769/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/769/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/991/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/991/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/991/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/991/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/991/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/991/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/991/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/991/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/991/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/991/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/991/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/991/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/991/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/991/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/991/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/992/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/992/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/992/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/992/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/992/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/992/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/992/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/992/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/992/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/992/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/992/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/992/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/992/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/992/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/992/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/1100/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/1100/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/1100/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/1100/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/1440/default R11-2 upper/band intrinsic extents, copy, artwork and five resource tracks",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/1440/default R11-3 guidance actual track, exact wrapping and tablet logo guidance",
+      "pass": true
+    },
+    {
+      "name": "brand-guide/1440/default R11-3 each actual swatch track by identity (not DOM sorting)",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Big Pandas lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Big Pandas R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Big Pandas R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Parallel For Loops lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Parallel For Loops R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Parallel For Loops R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Big Arrays lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Big Arrays R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Big Arrays R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Machine Learning lower inventory: actual terminal viewport, dots and source text",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Machine Learning R11-4 heading/body and both action fonts, exact lines and targets",
+      "pass": true
+    },
+    {
+      "name": "home/1440/Machine Learning R11-4 all actual artwork source identities and intrinsic logo tracks",
+      "pass": true
+    },
+    {
+      "name": "get-started/390 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/479 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/480 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/601 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/767 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/768 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/769 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/991 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/992 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/1100 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "get-started/1440 R11-2 actual painted bands and illustration bounds",
+      "pass": true
+    },
+    {
+      "name": "asset provenance paths are unique and both Pandas variants retain exact source identities",
+      "pass": true
+    },
+    {
+      "name": "R11-1 768 starting 0: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 768 starting 1: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 769 starting 0: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 769 starting 1: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 991 starting 0: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 991 starting 1: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 992 starting 0: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 992 starting 1: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 1100 starting 0: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 1100 starting 1: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 1440 starting 0: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-1 1440 starting 1: repeated fixed visible-center hits reverse both ways",
+      "pass": true
+    },
+    {
+      "name": "R11-3 390: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 390: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 479: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 479: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 480: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 480: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 601: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 601: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 767: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 767: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 768: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 768: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 769: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 769: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 991: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 991: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 992: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 992: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 1100: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 1100: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "R11-3 1440: all twelve visible cell paints and labels survive paper layer",
+      "pass": true
+    },
+    {
+      "name": "R11-3 1440: all selections and clipboard, restoring Salmon",
+      "pass": true
+    },
+    {
+      "name": "workload hover 390: selected white and inactive yellow match original",
+      "pass": true
+    },
+    {
+      "name": "workload hover 768: selected white and inactive yellow match original",
+      "pass": true
+    },
+    {
+      "name": "workload hover 1440: selected white and inactive yellow match original",
+      "pass": true
+    },
+    {
+      "name": "R11-4 actual hero and testimonial use distinct Pandas bytes, no CSS contrast suppression",
+      "pass": true
+    }
+  ]
+}

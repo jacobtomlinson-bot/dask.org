@@ -1,0 +1,5575 @@
+[
+  {
+    "width": 390,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 287.765625,
+      "ink": {
+        "x": 28.578125,
+        "y": 0,
+        "w": 332.84375,
+        "h": 287.765625
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources",
+        "to help make sure you’re successful. Visit",
+        "these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 28.587px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 287.765625,
+      "w": 390,
+      "h": 294.765625,
+      "ink": {
+        "x": 28.578125,
+        "y": 322.859375,
+        "w": 332.84375,
+        "h": 224.578125
+      },
+      "lines": [
+        "Dask Best Practices",
+        "Dask Documentation",
+        "Talks and Tutorials",
+        "The Dask Blog",
+        "Dask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "35.1px 28.587px",
+        "margin": "0px",
+        "gap": "24.96px 12.9987px",
+        "gridTemplateColumns": "332.844px",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 28.578125,
+      "y": 31.1875,
+      "w": 332.84375,
+      "h": 33.28125,
+      "ink": {
+        "x": 28.578125,
+        "y": 30.1875,
+        "w": 296,
+        "h": 35
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "29.1213px",
+        "fontWeight": "600",
+        "lineHeight": "33.2787px",
+        "padding": "0px",
+        "margin": "0px 0px 8.3187px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 28.578125,
+      "y": 80.0625,
+      "w": 332.84375,
+      "h": 74.859375,
+      "ink": {
+        "x": 28.578125,
+        "y": 82.0625,
+        "w": 332,
+        "h": 69.90625
+      },
+      "lines": [
+        "Dask has published extensive resources",
+        "to help make sure you’re successful. Visit",
+        "these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16.6413px",
+        "fontWeight": "400",
+        "lineHeight": "24.96px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 138.453125,
+      "y": 174.671875,
+      "w": 113.09375,
+      "h": 113.09375,
+      "ink": {
+        "x": 0,
+        "y": -4670.5,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px 109.875px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 28.578125,
+        "y": 324.859375,
+        "w": 162,
+        "h": 21,
+        "ink": {
+          "x": 28.578125,
+          "y": 324.859375,
+          "w": 162,
+          "h": 20
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "padding": "0px",
+          "margin": "0px 0px 7.6986px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 28.578125,
+        "y": 374.765625,
+        "w": 168,
+        "h": 21,
+        "ink": {
+          "x": 28.578125,
+          "y": 374.765625,
+          "w": 168,
+          "h": 20
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "padding": "0px",
+          "margin": "0px 0px 7.6986px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 28.578125,
+        "y": 424.671875,
+        "w": 152,
+        "h": 21,
+        "ink": {
+          "x": 28.578125,
+          "y": 424.671875,
+          "w": 152,
+          "h": 20
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "padding": "0px",
+          "margin": "0px 0px 7.6986px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 28.578125,
+        "y": 474.578125,
+        "w": 116,
+        "h": 21,
+        "ink": {
+          "x": 28.578125,
+          "y": 474.578125,
+          "w": 116,
+          "h": 20
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "padding": "0px",
+          "margin": "0px 0px 7.6986px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 28.578125,
+        "y": 524.484375,
+        "w": 186,
+        "h": 21,
+        "ink": {
+          "x": 28.578125,
+          "y": 524.484375,
+          "w": 186,
+          "h": 20
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "padding": "0px",
+          "margin": "0px 0px 7.6986px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 28.578125,
+        "y": 322.859375,
+        "w": 332.84375,
+        "h": 24.953125,
+        "ink": {
+          "x": 28.578125,
+          "y": 324.859375,
+          "w": 162,
+          "h": 21
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 28.578125,
+        "y": 372.765625,
+        "w": 332.84375,
+        "h": 24.953125,
+        "ink": {
+          "x": 28.578125,
+          "y": 374.765625,
+          "w": 168,
+          "h": 21
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 28.578125,
+        "y": 422.671875,
+        "w": 332.84375,
+        "h": 24.953125,
+        "ink": {
+          "x": 28.578125,
+          "y": 424.671875,
+          "w": 152,
+          "h": 21
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 28.578125,
+        "y": 472.578125,
+        "w": 332.84375,
+        "h": 24.953125,
+        "ink": {
+          "x": 28.578125,
+          "y": 474.578125,
+          "w": 116,
+          "h": 21
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 28.578125,
+        "y": 522.484375,
+        "w": 332.84375,
+        "h": 24.953125,
+        "ink": {
+          "x": 28.578125,
+          "y": 524.484375,
+          "w": 186,
+          "h": 21
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 479,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 479,
+      "h": 353.484375,
+      "ink": {
+        "x": 35.109375,
+        "y": 0,
+        "w": 408.78125,
+        "h": 353.484375
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to",
+        "help make sure you’re successful. Visit",
+        "these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 35.1107px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 353.484375,
+      "w": 479,
+      "h": 362.0625,
+      "ink": {
+        "x": 35.109375,
+        "y": 396.59375,
+        "w": 408.78125,
+        "h": 275.84375
+      },
+      "lines": [
+        "Dask Best Practices",
+        "Dask Documentation",
+        "Talks and Tutorials",
+        "The Dask Blog",
+        "Dask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "43.11px 35.1107px",
+        "margin": "0px",
+        "gap": "30.656px 15.9651px",
+        "gridTemplateColumns": "408.781px",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 35.109375,
+      "y": 38.3125,
+      "w": 408.78125,
+      "h": 40.875,
+      "ink": {
+        "x": 35.109375,
+        "y": 36.3125,
+        "w": 364,
+        "h": 44
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "35.7669px",
+        "fontWeight": "600",
+        "lineHeight": "40.8731px",
+        "padding": "0px",
+        "margin": "0px 0px 10.2171px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 35.109375,
+      "y": 98.34375,
+      "w": 408.78125,
+      "h": 91.96875,
+      "ink": {
+        "x": 35.109375,
+        "y": 100.34375,
+        "w": 405,
+        "h": 86.3125
+      },
+      "lines": [
+        "Dask has published extensive resources to",
+        "help make sure you’re successful. Visit",
+        "these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "20.4389px",
+        "fontWeight": "400",
+        "lineHeight": "30.656px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 170.046875,
+      "y": 214.578125,
+      "w": 138.90625,
+      "h": 138.90625,
+      "ink": {
+        "x": 0,
+        "y": -5737.046875,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px 134.938px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 35.109375,
+        "y": 398.59375,
+        "w": 193,
+        "h": 26,
+        "ink": {
+          "x": 35.109375,
+          "y": 398.59375,
+          "w": 193,
+          "h": 25
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "20.4389px",
+          "fontWeight": "600",
+          "lineHeight": "30.656px",
+          "padding": "0px",
+          "margin": "0px 0px 9.45546px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 35.109375,
+        "y": 459.890625,
+        "w": 200,
+        "h": 26,
+        "ink": {
+          "x": 35.109375,
+          "y": 459.890625,
+          "w": 200,
+          "h": 25
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "20.4389px",
+          "fontWeight": "600",
+          "lineHeight": "30.656px",
+          "padding": "0px",
+          "margin": "0px 0px 9.45546px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 35.109375,
+        "y": 521.1875,
+        "w": 178,
+        "h": 26,
+        "ink": {
+          "x": 35.109375,
+          "y": 521.1875,
+          "w": 178,
+          "h": 25
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "20.4389px",
+          "fontWeight": "600",
+          "lineHeight": "30.656px",
+          "padding": "0px",
+          "margin": "0px 0px 9.45546px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 35.109375,
+        "y": 582.484375,
+        "w": 137,
+        "h": 26,
+        "ink": {
+          "x": 35.109375,
+          "y": 582.484375,
+          "w": 137,
+          "h": 25
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "20.4389px",
+          "fontWeight": "600",
+          "lineHeight": "30.656px",
+          "padding": "0px",
+          "margin": "0px 0px 9.45546px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 35.109375,
+        "y": 643.78125,
+        "w": 219,
+        "h": 26,
+        "ink": {
+          "x": 35.109375,
+          "y": 643.78125,
+          "w": 219,
+          "h": 25
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "20.4389px",
+          "fontWeight": "600",
+          "lineHeight": "30.656px",
+          "padding": "0px",
+          "margin": "0px 0px 9.45546px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 35.109375,
+        "y": 396.59375,
+        "w": 408.78125,
+        "h": 30.65625,
+        "ink": {
+          "x": 35.109375,
+          "y": 398.59375,
+          "w": 193,
+          "h": 26
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 35.109375,
+        "y": 457.890625,
+        "w": 408.78125,
+        "h": 30.65625,
+        "ink": {
+          "x": 35.109375,
+          "y": 459.890625,
+          "w": 200,
+          "h": 26
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 35.109375,
+        "y": 519.1875,
+        "w": 408.78125,
+        "h": 30.65625,
+        "ink": {
+          "x": 35.109375,
+          "y": 521.1875,
+          "w": 178,
+          "h": 26
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 35.109375,
+        "y": 580.484375,
+        "w": 408.78125,
+        "h": 30.65625,
+        "ink": {
+          "x": 35.109375,
+          "y": 582.484375,
+          "w": 137,
+          "h": 26
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 35.109375,
+        "y": 641.78125,
+        "w": 408.78125,
+        "h": 30.65625,
+        "ink": {
+          "x": 35.109375,
+          "y": 643.78125,
+          "w": 219,
+          "h": 26
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 480,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 480,
+      "h": 256.75,
+      "ink": {
+        "x": 35.171875,
+        "y": 0,
+        "w": 409.65625,
+        "h": 256.75
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 35.184px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 256.75,
+      "w": 480,
+      "h": 161.5625,
+      "ink": {
+        "x": 34.640625,
+        "y": 285.546875,
+        "w": 410.71875,
+        "h": 103.96875
+      },
+      "lines": [
+        "Dask Best PracticesDask Documentation",
+        "Talks and TutorialsThe Dask Blog",
+        "Dask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "28.8px 34.656px",
+        "margin": "0px",
+        "gap": "15.9984px",
+        "gridTemplateColumns": "197.359px 197.375px",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 35.171875,
+      "y": 38.390625,
+      "w": 409.65625,
+      "h": 21.328125,
+      "ink": {
+        "x": 35.171875,
+        "y": 37.390625,
+        "w": 195,
+        "h": 23
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "18.6672px",
+        "fontWeight": "600",
+        "lineHeight": "21.3312px",
+        "padding": "0px",
+        "margin": "0px 0px 5.3328px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 35.171875,
+      "y": 65.046875,
+      "w": 409.65625,
+      "h": 32,
+      "ink": {
+        "x": 35.171875,
+        "y": 66.046875,
+        "w": 400,
+        "h": 29
+      },
+      "lines": [
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "10.6656px",
+        "fontWeight": "400",
+        "lineHeight": "15.9984px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 170.40625,
+      "y": 117.5625,
+      "w": 139.1875,
+      "h": 139.1875,
+      "ink": {
+        "x": 0,
+        "y": -2230.328125,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px 135.234px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 34.640625,
+        "y": 293.546875,
+        "w": 105,
+        "h": 14,
+        "ink": {
+          "x": 34.640625,
+          "y": 293.546875,
+          "w": 105,
+          "h": 13
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "10.6656px",
+          "fontWeight": "600",
+          "lineHeight": "15.9984px",
+          "padding": "0px",
+          "margin": "0px 0px 9.4752px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 247.984375,
+        "y": 293.546875,
+        "w": 112,
+        "h": 14,
+        "ink": {
+          "x": 247.984375,
+          "y": 293.546875,
+          "w": 112,
+          "h": 13
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "10.6656px",
+          "fontWeight": "600",
+          "lineHeight": "15.9984px",
+          "padding": "0px",
+          "margin": "0px 0px 9.4752px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 34.640625,
+        "y": 333.53125,
+        "w": 99,
+        "h": 14,
+        "ink": {
+          "x": 34.640625,
+          "y": 333.53125,
+          "w": 99,
+          "h": 13
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "10.6656px",
+          "fontWeight": "600",
+          "lineHeight": "15.9984px",
+          "padding": "0px",
+          "margin": "0px 0px 9.4752px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 247.984375,
+        "y": 333.53125,
+        "w": 77,
+        "h": 14,
+        "ink": {
+          "x": 247.984375,
+          "y": 333.53125,
+          "w": 77,
+          "h": 13
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "10.6656px",
+          "fontWeight": "600",
+          "lineHeight": "15.9984px",
+          "padding": "0px",
+          "margin": "0px 0px 9.4752px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 34.640625,
+        "y": 373.515625,
+        "w": 124,
+        "h": 14,
+        "ink": {
+          "x": 34.640625,
+          "y": 373.515625,
+          "w": 124,
+          "h": 13
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "10.6656px",
+          "fontWeight": "600",
+          "lineHeight": "15.9984px",
+          "padding": "0px",
+          "margin": "0px 0px 9.4752px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 34.640625,
+        "y": 285.546875,
+        "w": 197.359375,
+        "h": 24,
+        "ink": {
+          "x": 34.640625,
+          "y": 293.546875,
+          "w": 105,
+          "h": 14
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 247.984375,
+        "y": 285.546875,
+        "w": 197.375,
+        "h": 24,
+        "ink": {
+          "x": 247.984375,
+          "y": 293.546875,
+          "w": 112,
+          "h": 14
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 34.640625,
+        "y": 325.53125,
+        "w": 197.359375,
+        "h": 24,
+        "ink": {
+          "x": 34.640625,
+          "y": 333.53125,
+          "w": 99,
+          "h": 14
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 247.984375,
+        "y": 325.53125,
+        "w": 197.375,
+        "h": 24,
+        "ink": {
+          "x": 247.984375,
+          "y": 333.53125,
+          "w": 77,
+          "h": 14
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 34.640625,
+        "y": 365.515625,
+        "w": 197.359375,
+        "h": 24,
+        "ink": {
+          "x": 34.640625,
+          "y": 373.515625,
+          "w": 124,
+          "h": 14
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 601,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 601,
+      "h": 321.484375,
+      "ink": {
+        "x": 44.046875,
+        "y": 0,
+        "w": 512.90625,
+        "h": 321.484375
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 44.0533px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 321.484375,
+      "w": 601,
+      "h": 184.15625,
+      "ink": {
+        "x": 43.390625,
+        "y": 357.53125,
+        "w": 514.21875,
+        "h": 112.0625
+      },
+      "lines": [
+        "Dask Best PracticesDask Documentation",
+        "Talks and TutorialsThe Dask Blog",
+        "Dask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "36.06px 43.3922px",
+        "margin": "0px",
+        "gap": "20.0313px",
+        "gridTemplateColumns": "247.094px 247.094px",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 44.046875,
+      "y": 48.078125,
+      "w": 512.90625,
+      "h": 26.703125,
+      "ink": {
+        "x": 44.046875,
+        "y": 46.078125,
+        "w": 236,
+        "h": 29
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "23.3729px",
+        "fontWeight": "600",
+        "lineHeight": "26.7084px",
+        "padding": "0px",
+        "margin": "0px 0px 6.67711px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 44.046875,
+      "y": 81.453125,
+      "w": 512.90625,
+      "h": 40.0625,
+      "ink": {
+        "x": 44.046875,
+        "y": 83.453125,
+        "w": 487,
+        "h": 36.03125
+      },
+      "lines": [
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "13.3542px",
+        "fontWeight": "400",
+        "lineHeight": "20.0313px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 213.359375,
+      "y": 147.203125,
+      "w": 174.28125,
+      "h": 174.28125,
+      "ink": {
+        "x": 0,
+        "y": -2792.40625,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px 169.312px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 43.390625,
+        "y": 362.53125,
+        "w": 124,
+        "h": 17,
+        "ink": {
+          "x": 43.390625,
+          "y": 362.53125,
+          "w": 124,
+          "h": 16
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "padding": "0px",
+          "margin": "0px 0px 11.8637px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 310.515625,
+        "y": 362.53125,
+        "w": 130,
+        "h": 17,
+        "ink": {
+          "x": 310.515625,
+          "y": 362.53125,
+          "w": 130,
+          "h": 16
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "padding": "0px",
+          "margin": "0px 0px 11.8637px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 43.390625,
+        "y": 406.5625,
+        "w": 115,
+        "h": 17,
+        "ink": {
+          "x": 43.390625,
+          "y": 406.5625,
+          "w": 115,
+          "h": 16
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "padding": "0px",
+          "margin": "0px 0px 11.8637px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 310.515625,
+        "y": 406.5625,
+        "w": 89,
+        "h": 17,
+        "ink": {
+          "x": 310.515625,
+          "y": 406.5625,
+          "w": 89,
+          "h": 16
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "padding": "0px",
+          "margin": "0px 0px 11.8637px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 43.390625,
+        "y": 450.59375,
+        "w": 143,
+        "h": 17,
+        "ink": {
+          "x": 43.390625,
+          "y": 450.59375,
+          "w": 143,
+          "h": 16
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "padding": "0px",
+          "margin": "0px 0px 11.8637px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 43.390625,
+        "y": 357.53125,
+        "w": 247.09375,
+        "h": 24,
+        "ink": {
+          "x": 43.390625,
+          "y": 362.53125,
+          "w": 124,
+          "h": 17
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 310.515625,
+        "y": 357.53125,
+        "w": 247.09375,
+        "h": 24,
+        "ink": {
+          "x": 310.515625,
+          "y": 362.53125,
+          "w": 130,
+          "h": 17
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 43.390625,
+        "y": 401.5625,
+        "w": 247.09375,
+        "h": 24,
+        "ink": {
+          "x": 43.390625,
+          "y": 406.5625,
+          "w": 115,
+          "h": 17
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 310.515625,
+        "y": 401.5625,
+        "w": 247.09375,
+        "h": 24,
+        "ink": {
+          "x": 310.515625,
+          "y": 406.5625,
+          "w": 89,
+          "h": 17
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 43.390625,
+        "y": 445.59375,
+        "w": 247.09375,
+        "h": 24,
+        "ink": {
+          "x": 43.390625,
+          "y": 450.59375,
+          "w": 143,
+          "h": 17
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 767,
+      "h": 410.296875,
+      "ink": {
+        "x": 56.21875,
+        "y": 0,
+        "w": 654.5625,
+        "h": 410.296875
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 56.2211px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 410.296875,
+      "w": 767,
+      "h": 219.84375,
+      "ink": {
+        "x": 55.375,
+        "y": 456.3125,
+        "w": 656.25,
+        "h": 127.8125
+      },
+      "lines": [
+        "Dask Best PracticesDask Documentation",
+        "Talks and TutorialsThe Dask Blog",
+        "Dask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "46.02px 55.3774px",
+        "margin": "0px",
+        "gap": "25.5641px",
+        "gridTemplateColumns": "315.344px 315.344px",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 56.21875,
+      "y": 61.359375,
+      "w": 654.5625,
+      "h": 34.078125,
+      "ink": {
+        "x": 56.21875,
+        "y": 60.359375,
+        "w": 304,
+        "h": 36
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "29.8286px",
+        "fontWeight": "600",
+        "lineHeight": "34.0855px",
+        "padding": "0px",
+        "margin": "0px 0px 8.52137px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 56.21875,
+      "y": 103.953125,
+      "w": 654.5625,
+      "h": 51.125,
+      "ink": {
+        "x": 56.21875,
+        "y": 105.953125,
+        "w": 621,
+        "h": 46.5625
+      },
+      "lines": [
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "17.0427px",
+        "fontWeight": "400",
+        "lineHeight": "25.5641px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 272.28125,
+      "y": 187.875,
+      "w": 222.421875,
+      "h": 222.421875,
+      "ink": {
+        "x": 0,
+        "y": -3565.671875,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px 216.078px 0px 216.062px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 55.375,
+        "y": 458.3125,
+        "w": 162,
+        "h": 22,
+        "ink": {
+          "x": 55.375,
+          "y": 458.3125,
+          "w": 162,
+          "h": 21
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "17.0427px",
+          "fontWeight": "600",
+          "lineHeight": "25.5641px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1406px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 396.28125,
+        "y": 458.3125,
+        "w": 168,
+        "h": 22,
+        "ink": {
+          "x": 396.28125,
+          "y": 458.3125,
+          "w": 168,
+          "h": 21
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "17.0427px",
+          "fontWeight": "600",
+          "lineHeight": "25.5641px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1406px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 55.375,
+        "y": 509.4375,
+        "w": 152,
+        "h": 22,
+        "ink": {
+          "x": 55.375,
+          "y": 509.4375,
+          "w": 152,
+          "h": 21
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "17.0427px",
+          "fontWeight": "600",
+          "lineHeight": "25.5641px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1406px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 396.28125,
+        "y": 509.4375,
+        "w": 116,
+        "h": 22,
+        "ink": {
+          "x": 396.28125,
+          "y": 509.4375,
+          "w": 116,
+          "h": 21
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "17.0427px",
+          "fontWeight": "600",
+          "lineHeight": "25.5641px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1406px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 55.375,
+        "y": 560.5625,
+        "w": 186,
+        "h": 22,
+        "ink": {
+          "x": 55.375,
+          "y": 560.5625,
+          "w": 186,
+          "h": 21
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "17.0427px",
+          "fontWeight": "600",
+          "lineHeight": "25.5641px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1406px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 55.375,
+        "y": 456.3125,
+        "w": 315.34375,
+        "h": 25.5625,
+        "ink": {
+          "x": 55.375,
+          "y": 458.3125,
+          "w": 162,
+          "h": 22
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 396.28125,
+        "y": 456.3125,
+        "w": 315.34375,
+        "h": 25.5625,
+        "ink": {
+          "x": 396.28125,
+          "y": 458.3125,
+          "w": 168,
+          "h": 22
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 55.375,
+        "y": 507.4375,
+        "w": 315.34375,
+        "h": 25.5625,
+        "ink": {
+          "x": 55.375,
+          "y": 509.4375,
+          "w": 152,
+          "h": 22
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 396.28125,
+        "y": 507.4375,
+        "w": 315.34375,
+        "h": 25.5625,
+        "ink": {
+          "x": 396.28125,
+          "y": 509.4375,
+          "w": 116,
+          "h": 22
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 55.375,
+        "y": 558.5625,
+        "w": 315.34375,
+        "h": 25.5625,
+        "ink": {
+          "x": 55.375,
+          "y": 560.5625,
+          "w": 186,
+          "h": 22
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 247.28125,
+      "ink": {
+        "x": 55.75,
+        "y": 0,
+        "w": 656.5,
+        "h": 247.28125
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 55.7568px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 247.28125,
+      "w": 768,
+      "h": 189.1875,
+      "ink": {
+        "x": 55.4375,
+        "y": 285.671875,
+        "w": 657.125,
+        "h": 112.40625
+      },
+      "lines": [
+        "Dask Best PracticesDask Documentation",
+        "Talks and TutorialsThe Dask Blog",
+        "Dask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "38.4px 55.4496px",
+        "margin": "0px",
+        "gap": "20.2138px",
+        "gridTemplateColumns": "318.453px 318.469px",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 55.75,
+      "y": 84,
+      "w": 491.953125,
+      "h": 30.3125,
+      "ink": {
+        "x": 55.75,
+        "y": 82,
+        "w": 276,
+        "h": 33
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "26.9491px",
+        "fontWeight": "600",
+        "lineHeight": "30.313px",
+        "padding": "0px",
+        "margin": "0px 0px 6.73536px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 55.75,
+      "y": 122.84375,
+      "w": 491.953125,
+      "h": 40.4375,
+      "ink": {
+        "x": 55.75,
+        "y": 124.84375,
+        "w": 487,
+        "h": 36.21875
+      },
+      "lines": [
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "13.4707px",
+        "fontWeight": "400",
+        "lineHeight": "20.2138px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 549.375,
+      "y": 24.5625,
+      "w": 162.875,
+      "h": 222.71875,
+      "ink": {
+        "x": 0,
+        "y": -2308.3125,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "24.576px 0px 0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 55.4375,
+        "y": 288.671875,
+        "w": 148,
+        "h": 20,
+        "ink": {
+          "x": 55.4375,
+          "y": 288.671875,
+          "w": 148,
+          "h": 19
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "15.1603px",
+          "fontWeight": "600",
+          "lineHeight": "15.1603px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1603px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 394.09375,
+        "y": 288.671875,
+        "w": 153,
+        "h": 20,
+        "ink": {
+          "x": 394.09375,
+          "y": 288.671875,
+          "w": 153,
+          "h": 19
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "15.1603px",
+          "fontWeight": "600",
+          "lineHeight": "15.1603px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1603px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 55.4375,
+        "y": 332.875,
+        "w": 138,
+        "h": 20,
+        "ink": {
+          "x": 55.4375,
+          "y": 332.875,
+          "w": 138,
+          "h": 19
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "15.1603px",
+          "fontWeight": "600",
+          "lineHeight": "15.1603px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1603px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 394.09375,
+        "y": 332.875,
+        "w": 105,
+        "h": 20,
+        "ink": {
+          "x": 394.09375,
+          "y": 332.875,
+          "w": 105,
+          "h": 19
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "15.1603px",
+          "fontWeight": "600",
+          "lineHeight": "15.1603px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1603px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 55.4375,
+        "y": 377.078125,
+        "w": 167,
+        "h": 20,
+        "ink": {
+          "x": 55.4375,
+          "y": 377.078125,
+          "w": 167,
+          "h": 19
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "15.1603px",
+          "fontWeight": "600",
+          "lineHeight": "15.1603px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1603px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 55.4375,
+        "y": 285.671875,
+        "w": 318.453125,
+        "h": 24,
+        "ink": {
+          "x": 55.4375,
+          "y": 288.671875,
+          "w": 148,
+          "h": 20
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 394.09375,
+        "y": 285.671875,
+        "w": 318.46875,
+        "h": 24,
+        "ink": {
+          "x": 394.09375,
+          "y": 288.671875,
+          "w": 153,
+          "h": 20
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 55.4375,
+        "y": 329.875,
+        "w": 318.453125,
+        "h": 24,
+        "ink": {
+          "x": 55.4375,
+          "y": 332.875,
+          "w": 138,
+          "h": 20
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 394.09375,
+        "y": 329.875,
+        "w": 318.46875,
+        "h": 24,
+        "ink": {
+          "x": 394.09375,
+          "y": 332.875,
+          "w": 105,
+          "h": 20
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 55.4375,
+        "y": 374.078125,
+        "w": 318.453125,
+        "h": 24,
+        "ink": {
+          "x": 55.4375,
+          "y": 377.078125,
+          "w": 167,
+          "h": 20
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 769,
+      "h": 247.59375,
+      "ink": {
+        "x": 55.828125,
+        "y": 0,
+        "w": 657.34375,
+        "h": 247.59375
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 55.8294px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 247.59375,
+      "w": 769,
+      "h": 189.34375,
+      "ink": {
+        "x": 55.515625,
+        "y": 286.03125,
+        "w": 657.96875,
+        "h": 112.46875
+      },
+      "lines": [
+        "Dask Best PracticesDask Documentation",
+        "Talks and TutorialsThe Dask Blog",
+        "Dask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "38.45px 55.5218px",
+        "margin": "0px",
+        "gap": "20.2401px",
+        "gridTemplateColumns": "318.859px 318.875px",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 55.828125,
+      "y": 84.109375,
+      "w": 492.578125,
+      "h": 30.359375,
+      "ink": {
+        "x": 55.828125,
+        "y": 82.109375,
+        "w": 276,
+        "h": 33
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "26.9842px",
+        "fontWeight": "600",
+        "lineHeight": "30.3524px",
+        "padding": "0px",
+        "margin": "0px 0px 6.74413px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 55.828125,
+      "y": 123,
+      "w": 492.578125,
+      "h": 40.46875,
+      "ink": {
+        "x": 55.828125,
+        "y": 125,
+        "w": 487,
+        "h": 36.234375
+      },
+      "lines": [
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "13.4883px",
+        "fontWeight": "400",
+        "lineHeight": "20.2401px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 550.078125,
+      "y": 24.59375,
+      "w": 163.09375,
+      "h": 223,
+      "ink": {
+        "x": 0,
+        "y": -2311.375,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "24.608px 0px 0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 55.515625,
+        "y": 289.03125,
+        "w": 148,
+        "h": 20,
+        "ink": {
+          "x": 55.515625,
+          "y": 289.03125,
+          "w": 148,
+          "h": 19
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "15.1801px",
+          "fontWeight": "600",
+          "lineHeight": "15.1801px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1801px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 394.609375,
+        "y": 289.03125,
+        "w": 153,
+        "h": 20,
+        "ink": {
+          "x": 394.609375,
+          "y": 289.03125,
+          "w": 153,
+          "h": 19
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "15.1801px",
+          "fontWeight": "600",
+          "lineHeight": "15.1801px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1801px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 55.515625,
+        "y": 333.265625,
+        "w": 138,
+        "h": 20,
+        "ink": {
+          "x": 55.515625,
+          "y": 333.265625,
+          "w": 138,
+          "h": 19
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "15.1801px",
+          "fontWeight": "600",
+          "lineHeight": "15.1801px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1801px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 394.609375,
+        "y": 333.265625,
+        "w": 105,
+        "h": 20,
+        "ink": {
+          "x": 394.609375,
+          "y": 333.265625,
+          "w": 105,
+          "h": 19
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "15.1801px",
+          "fontWeight": "600",
+          "lineHeight": "15.1801px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1801px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 55.515625,
+        "y": 377.5,
+        "w": 167,
+        "h": 20,
+        "ink": {
+          "x": 55.515625,
+          "y": 377.5,
+          "w": 167,
+          "h": 19
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "15.1801px",
+          "fontWeight": "600",
+          "lineHeight": "15.1801px",
+          "padding": "0px",
+          "margin": "0px 0px 15.1801px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 55.515625,
+        "y": 286.03125,
+        "w": 318.859375,
+        "h": 24,
+        "ink": {
+          "x": 55.515625,
+          "y": 289.03125,
+          "w": 148,
+          "h": 20
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 394.609375,
+        "y": 286.03125,
+        "w": 318.875,
+        "h": 24,
+        "ink": {
+          "x": 394.609375,
+          "y": 289.03125,
+          "w": 153,
+          "h": 20
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 55.515625,
+        "y": 330.265625,
+        "w": 318.859375,
+        "h": 24,
+        "ink": {
+          "x": 55.515625,
+          "y": 333.265625,
+          "w": 138,
+          "h": 20
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 394.609375,
+        "y": 330.265625,
+        "w": 318.875,
+        "h": 24,
+        "ink": {
+          "x": 394.609375,
+          "y": 333.265625,
+          "w": 105,
+          "h": 20
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 55.515625,
+        "y": 374.5,
+        "w": 318.859375,
+        "h": 24,
+        "ink": {
+          "x": 55.515625,
+          "y": 377.5,
+          "w": 167,
+          "h": 20
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 991,
+      "h": 319.078125,
+      "ink": {
+        "x": 71.9375,
+        "y": 0,
+        "w": 847.125,
+        "h": 319.078125
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 71.9466px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 319.078125,
+      "w": 991,
+      "h": 223.25,
+      "ink": {
+        "x": 71.546875,
+        "y": 367.625,
+        "w": 847.90625,
+        "h": 125.15625
+      },
+      "lines": [
+        "Dask Best PracticesDask Documentation",
+        "Talks and TutorialsThe Dask Blog",
+        "Dask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "49.55px 71.5502px",
+        "margin": "0px",
+        "gap": "26.0831px",
+        "gridTemplateColumns": "410.906px 410.922px",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 71.9375,
+      "y": 108.40625,
+      "w": 634.796875,
+      "h": 39.109375,
+      "ink": {
+        "x": 71.9375,
+        "y": 106.40625,
+        "w": 355,
+        "h": 42
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "34.7742px",
+        "fontWeight": "600",
+        "lineHeight": "39.1148px",
+        "padding": "0px",
+        "margin": "0px 0px 8.69107px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 71.9375,
+      "y": 158.515625,
+      "w": 634.796875,
+      "h": 52.15625,
+      "ink": {
+        "x": 71.9375,
+        "y": 160.515625,
+        "w": 621,
+        "h": 47.078125
+      },
+      "lines": [
+        "Dask has published extensive resources to help make sure you’re successful.",
+        "Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "17.3821px",
+        "fontWeight": "400",
+        "lineHeight": "26.0831px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 708.890625,
+      "y": 31.703125,
+      "w": 210.171875,
+      "h": 287.375,
+      "ink": {
+        "x": 0,
+        "y": -2979.515625,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "31.712px 0px 0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 71.546875,
+        "y": 367.625,
+        "w": 193,
+        "h": 25,
+        "ink": {
+          "x": 71.546875,
+          "y": 367.625,
+          "w": 193,
+          "h": 24
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "19.5623px",
+          "fontWeight": "600",
+          "lineHeight": "19.5623px",
+          "padding": "0px",
+          "margin": "0px 0px 19.5623px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 508.53125,
+        "y": 367.625,
+        "w": 200,
+        "h": 25,
+        "ink": {
+          "x": 508.53125,
+          "y": 367.625,
+          "w": 200,
+          "h": 24
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "19.5623px",
+          "fontWeight": "600",
+          "lineHeight": "19.5623px",
+          "padding": "0px",
+          "margin": "0px 0px 19.5623px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 71.546875,
+        "y": 417.703125,
+        "w": 180,
+        "h": 25,
+        "ink": {
+          "x": 71.546875,
+          "y": 417.703125,
+          "w": 180,
+          "h": 24
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "19.5623px",
+          "fontWeight": "600",
+          "lineHeight": "19.5623px",
+          "padding": "0px",
+          "margin": "0px 0px 19.5623px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 508.53125,
+        "y": 417.703125,
+        "w": 137,
+        "h": 25,
+        "ink": {
+          "x": 508.53125,
+          "y": 417.703125,
+          "w": 137,
+          "h": 24
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "19.5623px",
+          "fontWeight": "600",
+          "lineHeight": "19.5623px",
+          "padding": "0px",
+          "margin": "0px 0px 19.5623px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 71.546875,
+        "y": 467.78125,
+        "w": 220,
+        "h": 25,
+        "ink": {
+          "x": 71.546875,
+          "y": 467.78125,
+          "w": 220,
+          "h": 24
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "19.5623px",
+          "fontWeight": "600",
+          "lineHeight": "19.5623px",
+          "padding": "0px",
+          "margin": "0px 0px 19.5623px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 71.546875,
+        "y": 368.625,
+        "w": 410.90625,
+        "h": 24,
+        "ink": {
+          "x": 71.546875,
+          "y": 367.625,
+          "w": 193,
+          "h": 25
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 508.53125,
+        "y": 368.625,
+        "w": 410.921875,
+        "h": 24,
+        "ink": {
+          "x": 508.53125,
+          "y": 367.625,
+          "w": 200,
+          "h": 25
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 71.546875,
+        "y": 418.703125,
+        "w": 410.90625,
+        "h": 24,
+        "ink": {
+          "x": 71.546875,
+          "y": 417.703125,
+          "w": 180,
+          "h": 25
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 508.53125,
+        "y": 418.703125,
+        "w": 410.921875,
+        "h": 24,
+        "ink": {
+          "x": 508.53125,
+          "y": 417.703125,
+          "w": 137,
+          "h": 25
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 71.546875,
+        "y": 468.78125,
+        "w": 410.90625,
+        "h": 24,
+        "ink": {
+          "x": 71.546875,
+          "y": 467.78125,
+          "w": 220,
+          "h": 25
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 992,
+      "h": 165.328125,
+      "ink": {
+        "x": 55.796875,
+        "y": 0,
+        "w": 880.40625,
+        "h": 165.328125
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 55.8px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 165.328125,
+      "w": 992,
+      "h": 63.65625,
+      "ink": {
+        "x": 55.796875,
+        "y": 185.15625,
+        "w": 880.40625,
+        "h": 24
+      },
+      "lines": [
+        "Dask Best PracticesDask DocumentationTalks and TutorialsThe Dask BlogDask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "19.84px 55.8px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 55.796875,
+      "y": 53.046875,
+      "w": 659.953125,
+      "h": 31.6875,
+      "ink": {
+        "x": 55.796875,
+        "y": 53.046875,
+        "w": 255,
+        "h": 30
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "24.8px",
+        "fontWeight": "600",
+        "lineHeight": "31.6845px",
+        "padding": "0px",
+        "margin": "0px 0px 5.51552px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 55.796875,
+      "y": 95.75,
+      "w": 659.953125,
+      "h": 16.53125,
+      "ink": {
+        "x": 55.796875,
+        "y": 96.75,
+        "w": 561,
+        "h": 14
+      },
+      "lines": [
+        "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "11.0211px",
+        "fontWeight": "400",
+        "lineHeight": "16.5366px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 770.28125,
+      "y": 16.53125,
+      "w": 148.796875,
+      "h": 148.796875,
+      "ink": {
+        "x": 0,
+        "y": -2119.625,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "16.5366px 0px 0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "53.1712px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 55.796875,
+        "y": 192.15625,
+        "w": 105,
+        "h": 15,
+        "ink": {
+          "x": 55.796875,
+          "y": 192.15625,
+          "w": 105,
+          "h": 14
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "padding": "0px",
+          "margin": "0px 0px 16.5366px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 251.65625,
+        "y": 192.15625,
+        "w": 112,
+        "h": 15,
+        "ink": {
+          "x": 251.65625,
+          "y": 192.15625,
+          "w": 112,
+          "h": 14
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "padding": "0px",
+          "margin": "0px 0px 16.5366px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 454.5,
+        "y": 192.15625,
+        "w": 99,
+        "h": 15,
+        "ink": {
+          "x": 454.5,
+          "y": 192.15625,
+          "w": 99,
+          "h": 14
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "padding": "0px",
+          "margin": "0px 0px 16.5366px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 644.359375,
+        "y": 192.15625,
+        "w": 77,
+        "h": 15,
+        "ink": {
+          "x": 644.359375,
+          "y": 192.15625,
+          "w": 77,
+          "h": 14
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "padding": "0px",
+          "margin": "0px 0px 16.5366px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 812.203125,
+        "y": 192.15625,
+        "w": 124,
+        "h": 15,
+        "ink": {
+          "x": 812.203125,
+          "y": 192.15625,
+          "w": 124,
+          "h": 14
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "padding": "0px",
+          "margin": "0px 0px 16.5366px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 55.796875,
+        "y": 185.15625,
+        "w": 105,
+        "h": 24,
+        "ink": {
+          "x": 55.796875,
+          "y": 192.15625,
+          "w": 105,
+          "h": 15
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 251.65625,
+        "y": 185.15625,
+        "w": 112,
+        "h": 24,
+        "ink": {
+          "x": 251.65625,
+          "y": 192.15625,
+          "w": 112,
+          "h": 15
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 454.5,
+        "y": 185.15625,
+        "w": 99,
+        "h": 24,
+        "ink": {
+          "x": 454.5,
+          "y": 192.15625,
+          "w": 99,
+          "h": 15
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 644.359375,
+        "y": 185.15625,
+        "w": 77,
+        "h": 24,
+        "ink": {
+          "x": 644.359375,
+          "y": 192.15625,
+          "w": 77,
+          "h": 15
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 812.203125,
+        "y": 185.15625,
+        "w": 124,
+        "h": 24,
+        "ink": {
+          "x": 812.203125,
+          "y": 192.15625,
+          "w": 124,
+          "h": 15
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 1100,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 1100,
+      "h": 183.328125,
+      "ink": {
+        "x": 61.875,
+        "y": 0,
+        "w": 976.25,
+        "h": 183.328125
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 61.875px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 183.328125,
+      "w": 1100,
+      "h": 68,
+      "ink": {
+        "x": 61.875,
+        "y": 205.328125,
+        "w": 976.25,
+        "h": 24
+      },
+      "lines": [
+        "Dask Best PracticesDask DocumentationTalks and TutorialsThe Dask BlogDask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "22px 61.875px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 61.875,
+      "y": 58.8125,
+      "w": 731.796875,
+      "h": 35.140625,
+      "ink": {
+        "x": 61.875,
+        "y": 58.8125,
+        "w": 284,
+        "h": 34
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "27.5px",
+        "fontWeight": "600",
+        "lineHeight": "35.134px",
+        "padding": "0px",
+        "margin": "0px 0px 6.116px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 61.875,
+      "y": 106.171875,
+      "w": 731.796875,
+      "h": 18.34375,
+      "ink": {
+        "x": 61.875,
+        "y": 107.171875,
+        "w": 598,
+        "h": 15
+      },
+      "lines": [
+        "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "12.221px",
+        "fontWeight": "400",
+        "lineHeight": "18.337px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 854.140625,
+      "y": 18.328125,
+      "w": 165,
+      "h": 165,
+      "ink": {
+        "x": 0,
+        "y": -2343.140625,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "18.337px 0px 0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "58.96px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 61.875,
+        "y": 211.328125,
+        "w": 119,
+        "h": 16,
+        "ink": {
+          "x": 61.875,
+          "y": 211.328125,
+          "w": 119,
+          "h": 15
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "12.221px",
+          "fontWeight": "600",
+          "lineHeight": "18.337px",
+          "padding": "0px",
+          "margin": "0px 0px 18.337px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 283.1875,
+        "y": 211.328125,
+        "w": 122,
+        "h": 16,
+        "ink": {
+          "x": 283.1875,
+          "y": 211.328125,
+          "w": 122,
+          "h": 15
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "12.221px",
+          "fontWeight": "600",
+          "lineHeight": "18.337px",
+          "padding": "0px",
+          "margin": "0px 0px 18.337px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 507.5,
+        "y": 211.328125,
+        "w": 110,
+        "h": 16,
+        "ink": {
+          "x": 507.5,
+          "y": 211.328125,
+          "w": 110,
+          "h": 15
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "12.221px",
+          "fontWeight": "600",
+          "lineHeight": "18.337px",
+          "padding": "0px",
+          "margin": "0px 0px 18.337px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 719.8125,
+        "y": 211.328125,
+        "w": 84,
+        "h": 16,
+        "ink": {
+          "x": 719.8125,
+          "y": 211.328125,
+          "w": 84,
+          "h": 15
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "12.221px",
+          "fontWeight": "600",
+          "lineHeight": "18.337px",
+          "padding": "0px",
+          "margin": "0px 0px 18.337px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 906.125,
+        "y": 211.328125,
+        "w": 132,
+        "h": 16,
+        "ink": {
+          "x": 906.125,
+          "y": 211.328125,
+          "w": 132,
+          "h": 15
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "12.221px",
+          "fontWeight": "600",
+          "lineHeight": "18.337px",
+          "padding": "0px",
+          "margin": "0px 0px 18.337px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 61.875,
+        "y": 205.328125,
+        "w": 119,
+        "h": 24,
+        "ink": {
+          "x": 61.875,
+          "y": 211.328125,
+          "w": 119,
+          "h": 16
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 283.1875,
+        "y": 205.328125,
+        "w": 122,
+        "h": 24,
+        "ink": {
+          "x": 283.1875,
+          "y": 211.328125,
+          "w": 122,
+          "h": 16
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 507.5,
+        "y": 205.328125,
+        "w": 110,
+        "h": 24,
+        "ink": {
+          "x": 507.5,
+          "y": 211.328125,
+          "w": 110,
+          "h": 16
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 719.8125,
+        "y": 205.328125,
+        "w": 84,
+        "h": 24,
+        "ink": {
+          "x": 719.8125,
+          "y": 211.328125,
+          "w": 84,
+          "h": 16
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 906.125,
+        "y": 205.328125,
+        "w": 132,
+        "h": 24,
+        "ink": {
+          "x": 906.125,
+          "y": 211.328125,
+          "w": 132,
+          "h": 16
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "get-started",
+    "state": "default",
+    "upper": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 240,
+      "ink": {
+        "x": 81,
+        "y": 0,
+        "w": 1278,
+        "h": 240
+      },
+      "lines": [
+        "Dig Deeper into Dask",
+        "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px 81px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "band": {
+      "x": 0,
+      "y": 240,
+      "w": 1440,
+      "h": 82.59375,
+      "ink": {
+        "x": 81,
+        "y": 268.796875,
+        "w": 1278,
+        "h": 25
+      },
+      "lines": [
+        "Dask Best PracticesDask DocumentationTalks and TutorialsThe Dask BlogDask YouTube Channel"
+      ],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "28.8px 81px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "color": "rgb(8, 8, 21)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "0px"
+      },
+      "src": null,
+      "href": null
+    },
+    "heading": {
+      "x": 81,
+      "y": 77,
+      "w": 958,
+      "h": 46,
+      "ink": {
+        "x": 81,
+        "y": 78,
+        "w": 364,
+        "h": 44
+      },
+      "lines": [
+        "Dig Deeper into Dask"
+      ],
+      "css": {
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "body": {
+      "x": 81,
+      "y": 138.984375,
+      "w": 958,
+      "h": 24,
+      "ink": {
+        "x": 81,
+        "y": 140.984375,
+        "w": 818,
+        "h": 19
+      },
+      "lines": [
+        "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:"
+      ],
+      "css": {
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(235, 234, 238)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "static",
+        "left": "auto"
+      },
+      "src": null,
+      "href": null
+    },
+    "art": {
+      "x": 1118.171875,
+      "y": 24,
+      "w": 216,
+      "h": 216,
+      "ink": {
+        "x": 0,
+        "y": -3046.734375,
+        "w": 0,
+        "h": 0
+      },
+      "lines": [],
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "24.0048px 0px 0px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "filter": "none",
+        "opacity": "1",
+        "objectFit": "fill",
+        "position": "relative",
+        "left": "77.184px"
+      },
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "href": null
+    },
+    "links": [
+      {
+        "x": 81,
+        "y": 271.796875,
+        "w": 153,
+        "h": 20,
+        "ink": {
+          "x": 81,
+          "y": 271.796875,
+          "w": 153,
+          "h": 19
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "padding": "0px",
+          "margin": "0px 0px 24.0048px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/best-practices.html"
+      },
+      {
+        "x": 365.75,
+        "y": 271.796875,
+        "w": 162,
+        "h": 20,
+        "ink": {
+          "x": 365.75,
+          "y": 271.796875,
+          "w": 162,
+          "h": 19
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "padding": "0px",
+          "margin": "0px 0px 24.0048px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/"
+      },
+      {
+        "x": 659.5,
+        "y": 271.796875,
+        "w": 146,
+        "h": 20,
+        "ink": {
+          "x": 659.5,
+          "y": 271.796875,
+          "w": 146,
+          "h": 19
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "padding": "0px",
+          "margin": "0px 0px 24.0048px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://docs.dask.org/en/stable/presentations.html"
+      },
+      {
+        "x": 937.25,
+        "y": 271.796875,
+        "w": 112,
+        "h": 20,
+        "ink": {
+          "x": 937.25,
+          "y": 271.796875,
+          "w": 112,
+          "h": 19
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "padding": "0px",
+          "margin": "0px 0px 24.0048px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://blog.dask.org"
+      },
+      {
+        "x": 1181,
+        "y": 271.796875,
+        "w": 178,
+        "h": 20,
+        "ink": {
+          "x": 1181,
+          "y": 271.796875,
+          "w": 178,
+          "h": 19
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "padding": "0px",
+          "margin": "0px 0px 24.0048px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": "https://www.youtube.com/c/Dask-dev/videos"
+      }
+    ],
+    "wrappers": [
+      {
+        "x": 81,
+        "y": 268.796875,
+        "w": 153,
+        "h": 25,
+        "ink": {
+          "x": 81,
+          "y": 271.796875,
+          "w": 153,
+          "h": 20
+        },
+        "lines": [
+          "Dask Best Practices"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 365.75,
+        "y": 268.796875,
+        "w": 162,
+        "h": 25,
+        "ink": {
+          "x": 365.75,
+          "y": 271.796875,
+          "w": 162,
+          "h": 20
+        },
+        "lines": [
+          "Dask Documentation"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 659.5,
+        "y": 268.796875,
+        "w": 146,
+        "h": 25,
+        "ink": {
+          "x": 659.5,
+          "y": 271.796875,
+          "w": 146,
+          "h": 20
+        },
+        "lines": [
+          "Talks and Tutorials"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 937.25,
+        "y": 268.796875,
+        "w": 112,
+        "h": 25,
+        "ink": {
+          "x": 937.25,
+          "y": 271.796875,
+          "w": 112,
+          "h": 20
+        },
+        "lines": [
+          "The Dask Blog"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      },
+      {
+        "x": 1181,
+        "y": 268.796875,
+        "w": 178,
+        "h": 25,
+        "ink": {
+          "x": 1181,
+          "y": 271.796875,
+          "w": 178,
+          "h": 20
+        },
+        "lines": [
+          "Dask YouTube Channel"
+        ],
+        "css": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "color": "rgb(8, 8, 21)",
+          "filter": "none",
+          "opacity": "1",
+          "objectFit": "fill",
+          "position": "static",
+          "left": "auto"
+        },
+        "src": null,
+        "href": null
+      }
+    ]
+  }
+]

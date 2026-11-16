@@ -34,71 +34,13 @@
   line-height: 1.5003rem;
   margin-bottom: 1.5003rem;
 }
-.deeper {
-  background-image: none;
-  background-color: #30363a;
-  color: white;
-  padding: 4.5rem var(--gutter) 0;
-  position: relative;
-  min-height: 20.125rem;
-}
-.deeper h2 {
-  margin-bottom: 0.75rem;
-}
-.deeper p {
-  font-weight: 400;
-}
-.deeper > img {
-  position: absolute;
-  right: 7.35%;
-  top: 1.5rem;
-  width: 13.5rem;
-}
-.deeper-links {
-  display: flex;
-  justify-content: space-between;
-  gap: 1.5rem;
-  margin-top: 5rem;
-  padding-bottom: 2rem;
-}
-.deeper-links > div {
-  line-height: 24px;
-}
-.deeper-links a {
-  font-weight: 600;
-  font-size: 0.9999rem;
-  line-height: 1.5003rem;
-  text-decoration: none;
-  border-bottom: 1px solid var(--yellow);
-}
-@media (max-width: 1100px) {
-}
+
 @media (min-width: 992px) {
   .get-started-intro .page-hero p {
     margin-top: 1.7496rem;
   }
-  .deeper {
-    background-image: url('/assets/grid-half-get-st.svg');
-    min-height: 20.125rem;
-  }
 }
-@media (max-width: 991px) {
-  .deeper {
-    padding-top: 4rem;
-  }
-  .deeper > img {
-    width: 9.375rem;
-    top: 2.5rem;
-  }
-  .deeper p {
-    max-width: 70%;
-  }
-  .deeper-links {
-    gap: 1.5rem;
-    margin-top: 4rem;
-    flex-wrap: wrap;
-  }
-}
+
 @media (max-width: 991px) and (min-width: 768px) {
   .get-started-intro .page-hero p {
     font-size: 1.26336rem;
@@ -126,36 +68,6 @@
   .install-section > .terminal {
     height: 20.1875rem;
   }
-  .deeper {
-    height: 27.3125rem;
-    min-height: 27.3125rem;
-    padding-top: 5.25rem;
-  }
-  .deeper h2 {
-    font-size: 1.684375rem;
-    line-height: 1.894375rem;
-  }
-  .deeper p {
-    font-size: 0.842187rem;
-    line-height: 1.263125rem;
-    max-width: 75%;
-  }
-  .deeper > img {
-    width: 10rem;
-    top: 3.5rem;
-    right: 6vw;
-  }
-  .deeper-links {
-    margin-top: 8.125rem;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 0.875rem;
-    padding: 0;
-  }
-  .deeper-links a {
-    font-size: 0.94752rem;
-    line-height: 0.94752rem;
-  }
 }
 @media (max-width: 767px) {
   .get-started-intro .page-hero p {
@@ -178,24 +90,6 @@
     height: 16.25rem;
     margin-left: 8vw;
   }
-  .deeper p {
-    max-width: none;
-    font-size: 1.04rem;
-    line-height: 1.56rem;
-  }
-  .deeper > img {
-    position: static;
-    display: block;
-    width: 8.75rem;
-    margin: 1.5rem auto;
-  }
-  .deeper-links {
-    display: flex;
-    flex-direction: column;
-    padding-bottom: 0;
-    margin-top: 2rem;
-    gap: 1rem;
-  }
   .install-copy h2 {
     font-size: 1.82008rem;
     line-height: 2.07992rem;
@@ -215,18 +109,6 @@
     margin: 0;
     width: calc(100% - 8vw);
     height: 16.25rem;
-  }
-  .deeper {
-    height: 36.375rem;
-    padding: 1.9375rem 7.33vw 2rem;
-  }
-  .deeper h2 {
-    font-size: 1.82rem;
-    line-height: 2.08rem;
-  }
-  .deeper-links a {
-    font-size: 1.04008rem;
-    line-height: 1.56rem;
   }
 }
 
@@ -259,26 +141,5 @@
     left: 7.26vw;
     width: 105vw;
     height: 23.68rem;
-  }
-  .deeper {
-    height: 39.3rem;
-    min-height: 39.3rem;
-    padding-top: 4.21rem;
-  }
-  .deeper h2,
-  .deeper p {
-    max-width: 65%;
-  }
-  .deeper > img {
-    position: absolute;
-    right: 5vw;
-    top: 4rem;
-    width: 10rem;
-  }
-  .deeper-links {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1.56rem;
-    margin-top: 8rem;
   }
 }

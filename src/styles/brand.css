@@ -170,6 +170,9 @@
   margin-top: 0.75rem;
 }
 .palette-grid {
+  /* Foreground swatches paint above the adjacent decorative copy sheet. */
+  position: relative;
+  z-index: 1;
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-template-rows: repeat(6, 5rem);
@@ -188,13 +191,31 @@
 }
 .palette-grid button[aria-pressed='true'] {
   color: transparent !important;
-  background: transparent !important;
+  background: var(--palette-paper, #fc6e6b) !important;
 }
 .mono {
   font-family: Inconsolata, monospace;
 }
-.palette-grid button[data-color='#61BA92'] {
+.palette-grid button[data-color='#61BA92'][aria-pressed='false'] {
   color: white !important;
+}
+@media (min-width: 992px) {
+  .palette-section {
+    grid-template-columns: 30.5634765625rem minmax(0, 1fr);
+    gap: 5.7626953125rem;
+    padding-right: 4.9875rem;
+  }
+  .palette-copy {
+    padding-top: 2.5625rem;
+  }
+  .palette-copy h2 {
+    margin-bottom: 0.5004rem;
+  }
+  .palette-grid {
+    margin-block: 0.180625rem;
+    grid-template-rows: repeat(6, 4.9853515625rem);
+    align-content: start;
+  }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .brand-body {
@@ -221,7 +242,15 @@
     grid-template-columns: 45% 55%;
   }
   .brand-logo-copy {
-    padding: 4.625rem 2.8125rem 0 0;
+    padding: 4.73012rem 3.64453125rem 0 0;
+  }
+  .brand-logos .brand-logo-copy h2 {
+    margin-bottom: 1.2rem;
+  }
+  .brand-logos .brand-logo-copy p {
+    font-size: 0.84192rem;
+    line-height: 1.26336rem;
+    margin-bottom: 0.96rem;
   }
   .brand-body h2 {
     font-size: 1.684375rem;
@@ -437,6 +466,12 @@
   }
   .palette-copy {
     padding: 0;
+    width: calc(100% - 0.06445rem);
+    margin-left: 0.001rem;
+    margin-top: 0.0205078rem;
+  }
+  .palette-copy > p:first-of-type {
+    margin-bottom: 1.21875rem;
   }
   .palette-copy .color-name,
   .palette-copy .color-label {
@@ -454,7 +489,7 @@
     margin-bottom: 0;
   }
   .palette-copy .button {
-    margin-top: 1.5rem;
+    margin-top: 1.04008rem;
   }
   .palette-grid {
     grid-template-columns: minmax(0, 1fr);
@@ -477,7 +512,7 @@
     border: 1px solid #080815;
   }
   .palette-copy h2 {
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.51992rem;
   }
 }
 
@@ -533,5 +568,35 @@
   }
   .palette-section {
     min-height: 0;
+    padding-top: 5.70482rem;
+  }
+  .palette-copy {
+    width: auto;
+    margin-top: 0;
+    margin-inline: 0.004867rem 0.123rem;
+  }
+  .palette-copy h2 {
+    margin-bottom: 0.52rem;
+  }
+  .palette-copy p,
+  .palette-copy > p:first-of-type {
+    max-width: none;
+    margin-bottom: 1.56rem;
+  }
+  .palette-copy .color-name,
+  .palette-copy .color-label {
+    margin-bottom: 0;
+  }
+  .palette-copy .color-hex {
+    margin-bottom: 1.17rem;
+  }
+  .palette-copy .accessible-colors {
+    margin-bottom: 0;
+  }
+  .palette-copy .button {
+    margin-top: 1.56rem;
+  }
+  .palette-grid {
+    margin-top: 5.54rem;
   }
 }

@@ -1,0 +1,129 @@
+{
+  "canonicalPairsInspected": 18,
+  "workloadStatePairsInspected": 44,
+  "focusPairsAvailable": 66,
+  "notes": [
+    "Complete route/page-strip comparisons inspected at390/768/1440; home and brand overviews refreshed after final component repairs.",
+    "All workload states inspected at all11 responsive widths; final snapshots neutralize pointer hover, which has separate source-backed tests.",
+    "Deeper upper/band and colored SVG ink, palette actual pixel colors/labels and all selections are tested independently.",
+    "Remaining static palette tail extent, subpixel alignment, contours and phase differences are explicit in REVIEW.md; no pixel-equivalence certification."
+  ],
+  "inspectionSheets": [
+    {
+      "path": "overviews/brand-guide-1440.png",
+      "sha256": "000c613a25eacaec690ea0f71f94a9de61fe0ab0c3173e7a7a6d1a12b7318443"
+    },
+    {
+      "path": "overviews/brand-guide-390.png",
+      "sha256": "7e4f5231c574538d46252d4904bbf481569c6b54156346628ade07a03f4d5957"
+    },
+    {
+      "path": "overviews/brand-guide-768.png",
+      "sha256": "dff1ad6e48c0ec2cc9212f7074b1ab6318da482edac708ae92265dd5dbf351d3"
+    },
+    {
+      "path": "overviews/get-help-1440.png",
+      "sha256": "1a026d882ecd657023d220b50264d4013a09b8b4d6824d5df43d8ff2a365e08a"
+    },
+    {
+      "path": "overviews/get-help-390.png",
+      "sha256": "d165a05d3fb6f5c2527dc15d4fef5c7034d7546245de7ecbb8487e518a148ede"
+    },
+    {
+      "path": "overviews/get-help-768.png",
+      "sha256": "f1bfc0c5f50fc96c486b704807d3885d414b306af0c8bffdaccc508cfe349727"
+    },
+    {
+      "path": "overviews/get-started-1440.png",
+      "sha256": "76c3819f8750760179ba7744756ffd298472185102741c79526698d33b45ee05"
+    },
+    {
+      "path": "overviews/get-started-390.png",
+      "sha256": "2f19f74560513a611a1eac52819fec3f6f0e9aad6ba707a0e27a169017aeedcb"
+    },
+    {
+      "path": "overviews/get-started-768.png",
+      "sha256": "c937abfc6f96c74f6fc0b26e8240011fc0064f3837629758129eba5e1d4149aa"
+    },
+    {
+      "path": "overviews/home-1440.png",
+      "sha256": "631c9dbaa4f6731d78f3f410b18edc59073f0930ff37da689c8c1b77b6df622c"
+    },
+    {
+      "path": "overviews/home-390.png",
+      "sha256": "7a580db341ee6d7c93a8d83a43e851a9427404f996462a952f1cceee5555c896"
+    },
+    {
+      "path": "overviews/home-768.png",
+      "sha256": "1d344c4fcf6cd88da45a88d490140dff579cccac5ce5a82c8cb7d67d9941f1cd"
+    },
+    {
+      "path": "overviews/powered-by-1440.png",
+      "sha256": "a0951d833a204d298bc387fe269660c29996291d9f555c259f94e1b30ff938f8"
+    },
+    {
+      "path": "overviews/powered-by-390.png",
+      "sha256": "bb43846d5823140d6587138d6457057e9a750a5d77d42bce4638f81b18df1773"
+    },
+    {
+      "path": "overviews/powered-by-768.png",
+      "sha256": "c22fb6213dfac365f6b40a9e6420787d9599dc5d5954d05b46737f1b7c3edda9"
+    },
+    {
+      "path": "overviews/press-mentions-1440.png",
+      "sha256": "1f9cfd69a0a9bb9525abb14e3992ecd34fab282fdc85f90a912dd0a3761fe77c"
+    },
+    {
+      "path": "overviews/press-mentions-390.png",
+      "sha256": "a3c316061548e3157d97869a652c877f1fd245bc62c404ddaf684f773fcd16d8"
+    },
+    {
+      "path": "overviews/press-mentions-768.png",
+      "sha256": "a45cff5651f35296107975e523210af49ada32e11c359032833500de493f3359"
+    },
+    {
+      "path": "inspect-workloads-1100.png",
+      "sha256": "dd4281968aa7f948b04c6eeafe70737c86c31be86de456931e37f78b08e3b559"
+    },
+    {
+      "path": "inspect-workloads-1440.png",
+      "sha256": "dc81b395e130407bb5788ec92f999b219248c90da8e63a2ddc7749a130318c9c"
+    },
+    {
+      "path": "inspect-workloads-390.png",
+      "sha256": "2bccd23209c32c9caea05955c63112adc0bf7a9d502b7731a8a35999ace44b2e"
+    },
+    {
+      "path": "inspect-workloads-479.png",
+      "sha256": "98a2607dc149e314f1774948a21378759f9e21f983654582e91f9f9ccf7c3cca"
+    },
+    {
+      "path": "inspect-workloads-480.png",
+      "sha256": "6aeda332b5243d052aef31b5f51ca8cd71ad3c1c2be0ac1e71941bd870fc0836"
+    },
+    {
+      "path": "inspect-workloads-601.png",
+      "sha256": "264048b8fb6f57cf3224cdb77d4e147048bebba802df22d8c0b103f419690df4"
+    },
+    {
+      "path": "inspect-workloads-767.png",
+      "sha256": "b10daa87d5c59489a001843c04a1dd635cf62165ae434997500328499d8cd033"
+    },
+    {
+      "path": "inspect-workloads-768.png",
+      "sha256": "e560fb00694264f1a2163f78f13d1705868743b59a5353d542c4843de09116b9"
+    },
+    {
+      "path": "inspect-workloads-769.png",
+      "sha256": "328ce87446fc48f6bbbed627bd629d887c917a42f31d97841a4e2266f222c8a1"
+    },
+    {
+      "path": "inspect-workloads-991.png",
+      "sha256": "e86666b3c728f043da6343e1a6896fc66a314f22d071cb62301bb797b25e45d1"
+    },
+    {
+      "path": "inspect-workloads-992.png",
+      "sha256": "6552be8fd35ff9fce4aed56c1d887c71b0683403477ce8ca90ba6b2679ed65cd"
+    }
+  ]
+}

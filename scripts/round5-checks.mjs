@@ -3,6 +3,9 @@ import fs from 'node:fs/promises';
 const ref = JSON.parse(
     await fs.readFile('evidence/round5/reference.json', 'utf8'),
   ),
+  currentPalette = JSON.parse(
+    await fs.readFile('evidence/round12/reference.json', 'utf8'),
+  ),
   bounds = JSON.parse(
     await fs.readFile('evidence/round5/accepted-boundaries.json', 'utf8'),
   );
@@ -55,9 +58,19 @@ try {
           expect(delta, `${width} ${color.text} ${k}`).toBeLessThan(0.15);
         }
       } else {
-        const old = bounds
-          .find((r) => r.width === width)
-          .cells.find((r) => r.text === color.text);
+        // Round5 protected an older native desktop boundary, not a live-source
+        // measurement. Round12's full-identity fresh source corrects that track.
+        const fresh =
+          width === 992
+            ? currentPalette
+                .find((r) => r.route === 'brand-guide' && r.width === width)
+                .cells.find((c) => c.lines[0] === color.text)
+            : null;
+        const old = fresh
+          ? { rect: { x: fresh.x, width: fresh.w, height: fresh.h } }
+          : bounds
+              .find((r) => r.width === width)
+              .cells.find((r) => r.text === color.text);
         for (const k of ['x', 'width', 'height'])
           expect(Math.abs(color.r[k] - old.rect[k])).toBeLessThan(0.02);
       }

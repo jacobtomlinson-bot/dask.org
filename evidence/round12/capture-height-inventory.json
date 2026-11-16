@@ -1,0 +1,68 @@
+[
+  {
+    "width": 390,
+    "referencePaletteCaptureHeight": 1148,
+    "nativePaletteCaptureHeight": 1148,
+    "difference": 0
+  },
+  {
+    "width": 479,
+    "referencePaletteCaptureHeight": 1411,
+    "nativePaletteCaptureHeight": 1411,
+    "difference": 0
+  },
+  {
+    "width": 480,
+    "referencePaletteCaptureHeight": 494,
+    "nativePaletteCaptureHeight": 518,
+    "difference": 24
+  },
+  {
+    "width": 601,
+    "referencePaletteCaptureHeight": 618,
+    "nativePaletteCaptureHeight": 630,
+    "difference": 12
+  },
+  {
+    "width": 767,
+    "referencePaletteCaptureHeight": 788,
+    "nativePaletteCaptureHeight": 785,
+    "difference": -3
+  },
+  {
+    "width": 768,
+    "referencePaletteCaptureHeight": 545,
+    "nativePaletteCaptureHeight": 545,
+    "difference": 0
+  },
+  {
+    "width": 769,
+    "referencePaletteCaptureHeight": 547,
+    "nativePaletteCaptureHeight": 546,
+    "difference": -1
+  },
+  {
+    "width": 991,
+    "referencePaletteCaptureHeight": 704,
+    "nativePaletteCaptureHeight": 704,
+    "difference": 0
+  },
+  {
+    "width": 992,
+    "referencePaletteCaptureHeight": 444,
+    "nativePaletteCaptureHeight": 445,
+    "difference": 1
+  },
+  {
+    "width": 1100,
+    "referencePaletteCaptureHeight": 493,
+    "nativePaletteCaptureHeight": 493,
+    "difference": 0
+  },
+  {
+    "width": 1440,
+    "referencePaletteCaptureHeight": 644,
+    "nativePaletteCaptureHeight": 645,
+    "difference": 1
+  }
+]

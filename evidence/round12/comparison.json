@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "home",
+    "width": 390,
+    "referenceHeight": 13663,
+    "nativeHeight": 13662,
+    "heightDelta": -1,
+    "differentPixels": 99797,
+    "differencePercent": 1.873,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "get-started",
+    "width": 390,
+    "referenceHeight": 7137,
+    "nativeHeight": 7138,
+    "heightDelta": 1,
+    "differentPixels": 49106,
+    "differencePercent": 1.764,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "get-help",
+    "width": 390,
+    "referenceHeight": 3766,
+    "nativeHeight": 3766,
+    "heightDelta": 0,
+    "differentPixels": 3294,
+    "differencePercent": 0.224,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "powered-by",
+    "width": 390,
+    "referenceHeight": 13705,
+    "nativeHeight": 13706,
+    "heightDelta": 1,
+    "differentPixels": 32250,
+    "differencePercent": 0.603,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "brand-guide",
+    "width": 390,
+    "referenceHeight": 6945,
+    "nativeHeight": 6945,
+    "heightDelta": 0,
+    "differentPixels": 96711,
+    "differencePercent": 3.571,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "press-mentions",
+    "width": 390,
+    "referenceHeight": 4667,
+    "nativeHeight": 4666,
+    "heightDelta": -1,
+    "differentPixels": 2930,
+    "differencePercent": 0.161,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "home",
+    "width": 768,
+    "referenceHeight": 7905,
+    "nativeHeight": 7906,
+    "heightDelta": 1,
+    "differentPixels": 125246,
+    "differencePercent": 2.063,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "get-started",
+    "width": 768,
+    "referenceHeight": 3771,
+    "nativeHeight": 3770,
+    "heightDelta": -1,
+    "differentPixels": 61336,
+    "differencePercent": 2.118,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "get-help",
+    "width": 768,
+    "referenceHeight": 2079,
+    "nativeHeight": 2081,
+    "heightDelta": 2,
+    "differentPixels": 21857,
+    "differencePercent": 1.368,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "powered-by",
+    "width": 768,
+    "referenceHeight": 4473,
+    "nativeHeight": 4476,
+    "heightDelta": 3,
+    "differentPixels": 72419,
+    "differencePercent": 2.107,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "brand-guide",
+    "width": 768,
+    "referenceHeight": 4216,
+    "nativeHeight": 4217,
+    "heightDelta": 1,
+    "differentPixels": 114341,
+    "differencePercent": 3.531,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "press-mentions",
+    "width": 768,
+    "referenceHeight": 2251,
+    "nativeHeight": 2251,
+    "heightDelta": 0,
+    "differentPixels": 11218,
+    "differencePercent": 0.649,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "home",
+    "width": 1440,
+    "referenceHeight": 8267,
+    "nativeHeight": 8267,
+    "heightDelta": 0,
+    "differentPixels": 162393,
+    "differencePercent": 1.364,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "get-started",
+    "width": 1440,
+    "referenceHeight": 4252,
+    "nativeHeight": 4256,
+    "heightDelta": 4,
+    "differentPixels": 156455,
+    "differencePercent": 2.553,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "get-help",
+    "width": 1440,
+    "referenceHeight": 2011,
+    "nativeHeight": 2011,
+    "heightDelta": 0,
+    "differentPixels": 3659,
+    "differencePercent": 0.126,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "powered-by",
+    "width": 1440,
+    "referenceHeight": 5531,
+    "nativeHeight": 5534,
+    "heightDelta": 3,
+    "differentPixels": 105730,
+    "differencePercent": 1.327,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "brand-guide",
+    "width": 1440,
+    "referenceHeight": 5128,
+    "nativeHeight": 5134,
+    "heightDelta": 6,
+    "differentPixels": 225011,
+    "differencePercent": 3.044,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  },
+  {
+    "slug": "press-mentions",
+    "width": 1440,
+    "referenceHeight": 2379,
+    "nativeHeight": 2379,
+    "heightDelta": 0,
+    "differentPixels": 6798,
+    "differencePercent": 0.198,
+    "method": "pixelmatch threshold 0.1, antialias excluded; shorter image padded white. Source normal motion versus native reduced motion; not phase synchronized."
+  }
+]
