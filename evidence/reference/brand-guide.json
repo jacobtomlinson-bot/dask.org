@@ -1,0 +1,5635 @@
+{
+  "title": "Dask Logo & Dask Brand Guide",
+  "text": "Community\nBlog\nDocs\nBrand Guide\n\nThis site includes both resources and guidelines for presenting and communicating Dask to a broad audience. We hope that this serves to generate a strong and consistent message among the many groups that contribute to Dask and it’s surrounding software projects.\n\nWe hope that these resources make your job easier, and we thank you for your efforts in communicating about the project.\n\ngo to info section\ngo to advantages section\ngo to ecosystem section\ngo to events section\nwhite color tab\npink color tab\nblue color tab\nblack color tab\nLogos\n\nThe Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text.\n\n\nDask logos are available below.\n\nDownload Logos\n\nWord Mark\n\nColor Alternatives\n\nLogo Mark\n\n#FFFFFF\n#61BA92\n#F6F6F6\n#1F5AFF\n#EBEAEE\n#183D72\n#FFC11E\n#33363D\n#FC6E6B\n#262326\n#EF1561\n#080815\nColors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nSalmon\n\n\n#FC6E6B\n\n\nAccessible Text Colors\n\n\n#33363D(AA18) #262326(AA) #080815(AA)\n\n\nCopy Hex Code\nTypography\n\nInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.\n\n\nDownload Typefaces\nInter\n\nHeading 1\n\nBold, 56px\n\nInter\n\nHeading 2\n\nBold, 46px\n\nInter\n\nHeading 2-small\n\nSemiBold, 36px\n\nInter\n\nHeading 3\n\nBold, 20px\n\nInter\n\nText-xlarge\n\nLight, 36px\n\nInter\n\nText-large\n\nLight, 24px\n\nInter\n\nText-medium\n\nRegular, 18px\n\nInter\n\nText-regular\n\nLight, 16px\n\nInter\n\nText-small\n\nLight, 14px\n\nInter\n\nText-tiny\n\nLight, 12px\n\nInconsolata\n\nsyntax/code\n\nRegular, 16px\n\nTone\n\nThe Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.\n\n\nFor non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.\n\n\nFor official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …\n\n\nWe strive to promote positive news about Dask, either its technical features:\n\n\nDid you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.\n\n\nWe avoid overt self-praise, especially if it is not very well proven.\nDask is 100x faster than Spark!\n\n\nWe temper positive results with ways in which we can improve, and highlight opportunities for others to engage.\nWe’re excited to announce Dask integration with Cassandra!\n…\nBut there is still plenty to do.\n\n\nWe don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.\nWhile running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.\n\n\nWe endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.\nNext, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)\n\n\nGet Started\nLatest\nCommunity\nGet Help\nPowered By\nDemo Day\nBlog\nDask Blog\nContribute\nBrand\nBrand Guidelines\ngo to github page\ngo to twitter page\ngo to youtube page\ngo to stackoverflow. page\ngo to dask discourse group page\n\nCopyright © 2026 Dask core developers. New-BSD Licensed.\n",
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 134,
+      "h": 42
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "alt": "get started icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "alt": "community icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "alt": "blog icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38693_illustration-brand-guide-hero.svg",
+      "alt": "",
+      "w": 560,
+      "h": 560
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869b_Dask%20Logo-lockup-Primary.svg",
+      "alt": "Dask Word Mark Primary",
+      "w": 384,
+      "h": 120
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38694_Dask%20Logo-Icon-Primary.svg",
+      "alt": "Dask Logo Icon Primary",
+      "w": 384,
+      "h": 120
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869a_Dask%20Logo-Lockup-on-Pink.svg",
+      "alt": "Dask Word Mark on Pink",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38696_Dask%20Logo-Icon-on-Pink.svg",
+      "alt": "Dask Logo Icon on Pink",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38699_Dask%20Logo-Lockup-on-blue.svg",
+      "alt": "Dask Word Mark on Blue",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38694_Dask%20Logo-Icon-Primary.svg",
+      "alt": "Dask Logo Icon Primary",
+      "w": 150,
+      "h": 150
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869c_Dask%20Logo-Lockup-white.svg",
+      "alt": "Dask Word Mark white",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38697_Dask%20Logo-Icon-White.svg",
+      "alt": "Dask Logo Icon White",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 152,
+      "h": 48
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+      "alt": "Github icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38655_twitter.svg",
+      "alt": "Twitter icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38656_youtube.svg",
+      "alt": "YouTube icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38657_stack-x.svg",
+      "alt": "Stack Overflow icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+      "alt": "Chat icon\n",
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Get Started",
+      "href": "/get-started"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Mailing List",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "News & Events",
+      "href": "/archive/2022-news-events"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Docs",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Submit New Event",
+      "href": "#w-tabs-0-data-w-pane-0"
+    },
+    {
+      "text": "Submit News Feature",
+      "href": "#w-tabs-0-data-w-pane-1"
+    },
+    {
+      "text": "Sign up for Newsletter",
+      "href": "#w-tabs-0-data-w-pane-2"
+    },
+    {
+      "text": "go to info section",
+      "href": "#logos"
+    },
+    {
+      "text": "go to advantages section",
+      "href": "#colors"
+    },
+    {
+      "text": "go to ecosystem section",
+      "href": "#typography"
+    },
+    {
+      "text": "go to events section",
+      "href": "#tone"
+    },
+    {
+      "text": "white color tab",
+      "href": "#w-tabs-1-data-w-pane-0"
+    },
+    {
+      "text": "pink color tab",
+      "href": "#w-tabs-1-data-w-pane-1"
+    },
+    {
+      "text": "blue color tab",
+      "href": "#w-tabs-1-data-w-pane-2"
+    },
+    {
+      "text": "black color tab",
+      "href": "#w-tabs-1-data-w-pane-3"
+    },
+    {
+      "text": "Download Logos",
+      "href": "https://www.dropbox.com/s/hokky7ihto4z4rd/Dask-Logos.zip?dl=1"
+    },
+    {
+      "text": "Download Logos",
+      "href": "https://www.dropbox.com/s/hokky7ihto4z4rd/Dask-Logos.zip?dl=1"
+    },
+    {
+      "text": "Download Logos",
+      "href": "https://www.dropbox.com/s/hokky7ihto4z4rd/Dask-Logos.zip?dl=1"
+    },
+    {
+      "text": "Download Logos",
+      "href": "https://www.dropbox.com/s/hokky7ihto4z4rd/Dask-Logos.zip?dl=1"
+    },
+    {
+      "text": "#FFFFFF",
+      "href": "#w-tabs-2-data-w-pane-0"
+    },
+    {
+      "text": "#61BA92",
+      "href": "#w-tabs-2-data-w-pane-1"
+    },
+    {
+      "text": "#F6F6F6",
+      "href": "#w-tabs-2-data-w-pane-2"
+    },
+    {
+      "text": "#1F5AFF",
+      "href": "#w-tabs-2-data-w-pane-3"
+    },
+    {
+      "text": "#EBEAEE",
+      "href": "#w-tabs-2-data-w-pane-4"
+    },
+    {
+      "text": "#183D72",
+      "href": "#w-tabs-2-data-w-pane-5"
+    },
+    {
+      "text": "#FFC11E",
+      "href": "#w-tabs-2-data-w-pane-6"
+    },
+    {
+      "text": "#33363D",
+      "href": "#w-tabs-2-data-w-pane-7"
+    },
+    {
+      "text": "#FC6E6B",
+      "href": "#w-tabs-2-data-w-pane-8"
+    },
+    {
+      "text": "#262326",
+      "href": "#w-tabs-2-data-w-pane-9"
+    },
+    {
+      "text": "#EF1561",
+      "href": "#w-tabs-2-data-w-pane-10"
+    },
+    {
+      "text": "#080815",
+      "href": "#w-tabs-2-data-w-pane-11"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Copy Hex Code",
+      "href": "#"
+    },
+    {
+      "text": "Download Typefaces",
+      "href": "https://www.dropbox.com/s/o89igbdknyieedp/Dask-Fonts.zip?dl=1"
+    },
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Latest",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Community",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Blog",
+      "href": "#"
+    },
+    {
+      "text": "Dask Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Contribute",
+      "href": "https://github.com/dask/dask-blog/blob/gh-pages/README.md"
+    },
+    {
+      "text": "Brand",
+      "href": "#"
+    },
+    {
+      "text": "Brand Guidelines",
+      "href": "/brand-guide"
+    },
+    {
+      "text": "go to github page",
+      "href": "https://github.com/dask/dask"
+    },
+    {
+      "text": "go to twitter page",
+      "href": "https://twitter.com/dask_dev"
+    },
+    {
+      "text": "go to youtube page",
+      "href": "https://www.youtube.com/c/Dask-dev"
+    },
+    {
+      "text": "go to stackoverflow. page",
+      "href": "https://stackoverflow.com/questions/tagged/dask"
+    },
+    {
+      "text": "go to dask discourse group page",
+      "href": "https://dask.discourse.group"
+    }
+  ],
+  "elements": [
+    {
+      "tag": "NAV",
+      "text": "Community\nBlog\nDocs",
+      "class": "nav-menu w-nav-menu",
+      "rect": {
+        "x": 214.171875,
+        "y": 11.984375,
+        "w": 1145.921875,
+        "h": 67
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "NAV",
+      "text": "Demo Day.cls-1{fill:#ebeaee;}Get Help.cls-1{fill:#ebeaee;}Powered By",
+      "class": "dropdown-list w-dropdown-list",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Submit New EventSubmit News FeatureSign up for NewsletterSubmit New EventThank you! Your submission has been received!Oops! Something went wrong while submitting the form.Submit Ne",
+      "class": "form-wrapper",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit New Event",
+      "class": "submit-event-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit News Feature",
+      "class": "press-mention-tab w-inline-block w-tab-link w--current",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Sign up for Newsletter",
+      "class": "maillist-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit New Event",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit New Event",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field middle w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 3% 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit News Feature",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit News Feature",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Sign up for Newsletter",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Sign up for Newsletter",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H1",
+      "text": "Brand Guide",
+      "class": "heading-xlarge-box powered",
+      "rect": {
+        "x": 80.203125,
+        "y": 198.96875,
+        "w": 390,
+        "h": 81
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "56.0016px",
+        "fontWeight": "700",
+        "lineHeight": "56.9952px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(8, 8, 21)",
+        "padding": "8.0064px 24.0048px",
+        "margin": "24.0048px 0px 24.0048px -28.8px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "6.0048px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "This site includes both resources and guidelines for presenting and communicating Dask to a broad audience. We hope that this serves to generate a strong and consistent message amo",
+      "class": "",
+      "rect": {
+        "x": 109,
+        "y": 303.96875,
+        "w": 580.46875,
+        "h": 96
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "We hope that these resources make your job easier, and we thank you for your efforts in communicating about the project.",
+      "class": "",
+      "rect": {
+        "x": 109,
+        "y": 423.96875,
+        "w": 580.46875,
+        "h": 48
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "white color tab\npink color tab\nblue color tab\nblack color tab\nLogos\n\nThe Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizon",
+      "class": "section overflow-on",
+      "rect": {
+        "x": 0,
+        "y": 649.109375,
+        "w": 1440,
+        "h": 1122.734375
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "white color tab",
+      "class": "tab-link-tab-1 w-inline-block w-tab-link w--current",
+      "rect": {
+        "x": 868.328125,
+        "y": 1192.46875,
+        "w": 63.984375,
+        "h": 36
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(34, 34, 34)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "padding": "9px 30px",
+        "margin": "0px 28.8px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "pink color tab",
+      "class": "tab-link-tab-2 w-inline-block w-tab-link",
+      "rect": {
+        "x": 961.109375,
+        "y": 1192.46875,
+        "w": 63.984375,
+        "h": 36
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(34, 34, 34)",
+        "backgroundColor": "rgb(239, 21, 97)",
+        "padding": "9px 30px",
+        "margin": "0px 28.8px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "blue color tab",
+      "class": "tab-link-tab-3 w-inline-block w-tab-link",
+      "rect": {
+        "x": 1053.890625,
+        "y": 1192.46875,
+        "w": 63.984375,
+        "h": 36
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(34, 34, 34)",
+        "backgroundColor": "rgb(31, 90, 255)",
+        "padding": "9px 30px",
+        "margin": "0px 28.8px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "black color tab",
+      "class": "tab-link-tab-4 w-inline-block w-tab-link",
+      "rect": {
+        "x": 1146.671875,
+        "y": 1192.46875,
+        "w": 63.984375,
+        "h": 36
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(34, 34, 34)",
+        "backgroundColor": "rgb(8, 8, 21)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Logos",
+      "class": "heading-medium",
+      "rect": {
+        "x": 139,
+        "y": 806.109375,
+        "w": 487.546875,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances ",
+      "class": "",
+      "rect": {
+        "x": 139,
+        "y": 888.109375,
+        "w": 487.546875,
+        "h": 144
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Dask logos are available below.",
+      "class": "",
+      "rect": {
+        "x": 139,
+        "y": 1056.109375,
+        "w": 487.546875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Word Mark",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 991.265625,
+        "y": 775.296875,
+        "w": 93,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Color Alternatives",
+      "class": "",
+      "rect": {
+        "x": 969.265625,
+        "y": 1148.21875,
+        "w": 137,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Logo Mark",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 992.765625,
+        "y": 1337.6875,
+        "w": 90,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Logos",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances ",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Dask logos are available below.",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Word Mark",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Color Alternatives",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Logo Mark",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Logos",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances ",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Dask logos are available below.",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Word Mark",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Color Alternatives",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Logo Mark",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Logos",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances ",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Dask logos are available below.",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Word Mark",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Color Alternatives",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Logo Mark",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "#FFFFFF\n#61BA92\n#F6F6F6\n#1F5AFF\n#EBEAEE\n#183D72\n#FFC11E\n#33363D\n#FC6E6B\n#262326\n#EF1561\n#080815\nColors\n\nSelect a background color to view accessible brand color combinations for te",
+      "class": "section",
+      "rect": {
+        "x": 0,
+        "y": 1767.53125,
+        "w": 1440,
+        "h": 643.1875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#FFFFFF",
+      "class": "tab-link-tab-1 colors w-inline-block w-tab-link",
+      "rect": {
+        "x": 720.21875,
+        "y": 1850.421875,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(34, 34, 34)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#61BA92",
+      "class": "tab-link-tab-2 colors current w-inline-block w-tab-link",
+      "rect": {
+        "x": 1040.203125,
+        "y": 1850.421875,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(97, 186, 146)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#F6F6F6",
+      "class": "tab-link-tab-3 colors current w-inline-block w-tab-link",
+      "rect": {
+        "x": 720.21875,
+        "y": 1930.1875,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(34, 34, 34)",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#1F5AFF",
+      "class": "tab-link-tab-4 colors current w-inline-block w-tab-link",
+      "rect": {
+        "x": 1040.203125,
+        "y": 1930.1875,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(31, 90, 255)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#EBEAEE",
+      "class": "tab-link-tab-5 colors w-inline-block w-tab-link",
+      "rect": {
+        "x": 720.21875,
+        "y": 2009.953125,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(34, 34, 34)",
+        "backgroundColor": "rgb(235, 234, 238)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#183D72",
+      "class": "tab-link-tab-6 colors w-inline-block w-tab-link",
+      "rect": {
+        "x": 1040.203125,
+        "y": 2009.953125,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(24, 61, 114)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#FFC11E",
+      "class": "tab-link-tab-7 colors w-inline-block w-tab-link",
+      "rect": {
+        "x": 720.21875,
+        "y": 2089.71875,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(34, 34, 34)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#33363D",
+      "class": "tab-link-tab-8 colors w-inline-block w-tab-link",
+      "rect": {
+        "x": 1040.203125,
+        "y": 2089.71875,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#FC6E6B",
+      "class": "tab-link-tab-9 colors w-inline-block w-tab-link w--current",
+      "rect": {
+        "x": 720.21875,
+        "y": 2169.484375,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgb(252, 110, 107)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#262326",
+      "class": "tab-link-tab-10 colors w-inline-block w-tab-link",
+      "rect": {
+        "x": 1040.203125,
+        "y": 2169.484375,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(38, 35, 38)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#EF1561",
+      "class": "tab-link-tab-11 colors w-inline-block w-tab-link",
+      "rect": {
+        "x": 720.21875,
+        "y": 2249.25,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(239, 21, 97)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "#080815",
+      "class": "tab-link-tab-12 colors w-inline-block w-tab-link",
+      "rect": {
+        "x": 1040.203125,
+        "y": 2249.25,
+        "w": 319.984375,
+        "h": 80
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(8, 8, 21)",
+        "padding": "9px 30px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "White",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#FFFFFF",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#EF1561(AA18) #1F5AFF(AA) #183D72(AAA) #33363D(AAA) #262326(AAA) #080815(AAA)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Green",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#61BA92",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#33363D(AA) #262326(AA) #080815(AA)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Light Grey",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#F6F6F6",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#EF1561(AA18) #1F5AFF(AA) #183D72(AAA) #33363D(AAA) #262326(AAA) #080815(AAA)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Blue",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#1F5AFF",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#FFFFFF(AA) #F6F6F6(AA) #EBEAEE(AA18) #FFC11E(AA18)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Medium Grey",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#EBEAEE",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#EF1561(AA18) #1F5AFF(AA) #183D72(AAA) #33363D(AAA) #262326(AAA) #080815(AAA)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Navy",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#183D72",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#FFFFFF(AAA) #F6F6F6(AAA) #EBEAEE(AA18A) #FFC11E(AAA) #FC6E6B(AA18) #61BA92(AA)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Medium Grey",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#EBEAEE",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#1F5AFF(AA) #183D72(AAA) #33363D(AAA) #262326(AAA) #080815(AAA)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Slate Grey",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#EBEAEE",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#FFFFFF(AAA) #F6F6F6(AAA) #EBEAEE(AA18A) #FFC11E(AAA) #FC6E6B(AA18) #61BA92(AA)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 139,
+        "y": 1888.53125,
+        "w": 489.015625,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n",
+      "class": "",
+      "rect": {
+        "x": 139,
+        "y": 1942.53125,
+        "w": 489.015625,
+        "h": 72
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Salmon\n",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 139,
+        "y": 2050.53125,
+        "w": 489.015625,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#FC6E6B\n",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 139,
+        "y": 2074.53125,
+        "w": 489.015625,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors\n",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 139,
+        "y": 2134.53125,
+        "w": 489.015625,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#33363D(AA18) #262326(AA) #080815(AA)\n",
+      "class": "text-medium",
+      "rect": {
+        "x": 139,
+        "y": 2158.53125,
+        "w": 489.015625,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Charcoal",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#262326",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#FFFFFF(AAA) #F6F6F6(AAA) #EBEAEE(AA18A) #FFC11E(AAA) #FC6E6B(AA18) #61BA92(AA)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Red",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#EF1561",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#FFFFFF(AA) #F6F6F6(AA18) #EBEAEE(AA18A)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Colors",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Black",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#080815",
+      "class": "text-medium text-weight-semibold",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Accessible Text Colors",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "#FFFFFF(AAA) #F6F6F6(AAA) #EBEAEE(AA18A) #FFC11E(AAA) #FC6E6B(AA18) #61BA92(AA)",
+      "class": "text-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Typography\n\nInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/cod",
+      "class": "section-responsive bg-largegridbox typography",
+      "rect": {
+        "x": 0,
+        "y": 2410.71875,
+        "w": 1440,
+        "h": 957.59375
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "160.013px 81px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Typography",
+      "class": "heading-medium",
+      "rect": {
+        "x": 139,
+        "y": 2682.71875,
+        "w": 489.015625,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets o",
+      "class": "",
+      "rect": {
+        "x": 139,
+        "y": 2764.71875,
+        "w": 489.015625,
+        "h": 120
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H1",
+      "text": "Inter",
+      "class": "",
+      "rect": {
+        "x": 765.1875,
+        "y": 2630.3125,
+        "w": 195.296875,
+        "h": 57
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "56.0016px",
+        "fontWeight": "700",
+        "lineHeight": "56.9952px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Heading 1",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 2660.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Bold, 56px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 2660.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Inter",
+      "class": "",
+      "rect": {
+        "x": 765.1875,
+        "y": 2695.3125,
+        "w": 195.296875,
+        "h": 56
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "45.9936px",
+        "fontWeight": "700",
+        "lineHeight": "56.0016px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Heading 2",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 2724.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Bold, 46px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 2724.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Inter",
+      "class": "no-pad",
+      "rect": {
+        "x": 765.1875,
+        "y": 2759.3125,
+        "w": 195.296875,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Heading 2-small",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 2764.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "SemiBold, 36px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 2764.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H4",
+      "text": "Inter",
+      "class": "heading-small",
+      "rect": {
+        "x": 765.1875,
+        "y": 2799.3125,
+        "w": 195.296875,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Heading 3",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 2804.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Bold, 20px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 2804.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Inter",
+      "class": "text-xlarge no-pad",
+      "rect": {
+        "x": 765.1875,
+        "y": 2839.3125,
+        "w": 195.296875,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "400",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Text-xlarge",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 2858.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Light, 36px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 2858.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Inter",
+      "class": "text-large no-pad",
+      "rect": {
+        "x": 765.1875,
+        "y": 2893.3125,
+        "w": 195.296875,
+        "h": 28
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "24.0048px",
+        "fontWeight": "400",
+        "lineHeight": "27.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Text-large",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 2894.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Light, 24px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 2894.4375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Inter",
+      "class": "text-medium no-pad",
+      "rect": {
+        "x": 765.1875,
+        "y": 2932.1875,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Text-medium",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 2929.3125,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Regular, 18px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 2929.3125,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Inter",
+      "class": "text-regular no-pad",
+      "rect": {
+        "x": 765.1875,
+        "y": 2967.0625,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Text-regular",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 2964.1875,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Light, 16px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 2964.1875,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Inter",
+      "class": "text-small no-pad",
+      "rect": {
+        "x": 765.1875,
+        "y": 3001.9375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "13.9968px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Text-small",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 2999.0625,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Light, 14px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 2999.0625,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Inter",
+      "class": "text-tiny",
+      "rect": {
+        "x": 765.1875,
+        "y": 3036.8125,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "11.9952px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Text-tiny",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 3033.9375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Light, 12px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 3033.9375,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Inconsolata",
+      "class": "text-code br-guide no-pad",
+      "rect": {
+        "x": 765.1875,
+        "y": 3071.6875,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inconsolata, monospace",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "syntax/code",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 960.484375,
+        "y": 3068.8125,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Regular, 16px",
+      "class": "text-regular text-weight-light bg-type-text",
+      "rect": {
+        "x": 1155.78125,
+        "y": 3068.8125,
+        "w": 195.296875,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgba(8, 8, 21, 0.5)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Tone\n\nThe Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities unders",
+      "class": "section-responsive bg-lightgrey tone",
+      "rect": {
+        "x": 0,
+        "y": 3368.3125,
+        "w": 1440,
+        "h": 1278.265625
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "padding": "80.0064px 81px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Tone",
+      "class": "heading-medium",
+      "rect": {
+        "x": 139,
+        "y": 3566.65625,
+        "w": 523,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandab",
+      "class": "",
+      "rect": {
+        "x": 139,
+        "y": 3648.65625,
+        "w": 523,
+        "h": 120
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the",
+      "class": "",
+      "rect": {
+        "x": 778,
+        "y": 3602.65625,
+        "w": 523,
+        "h": 144
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …\n",
+      "class": "",
+      "rect": {
+        "x": 778,
+        "y": 3770.65625,
+        "w": 523,
+        "h": 72
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "We strive to promote positive news about Dask, either its technical features:\n",
+      "class": "text-medium",
+      "rect": {
+        "x": 778,
+        "y": 3878.65625,
+        "w": 523,
+        "h": 48
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in",
+      "class": "",
+      "rect": {
+        "x": 778,
+        "y": 3950.65625,
+        "w": 523,
+        "h": 96
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "We avoid overt self-praise, especially if it is not very well proven.\nDask is 100x faster than Spark!\n",
+      "class": "",
+      "rect": {
+        "x": 778,
+        "y": 4070.65625,
+        "w": 523,
+        "h": 48
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.\nWe’re excited to announce Dask integration with Cassandra!\n…\nBut the",
+      "class": "",
+      "rect": {
+        "x": 778,
+        "y": 4142.65625,
+        "w": 523,
+        "h": 120
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.\nWhile running this benchmark we actually found that Das",
+      "class": "",
+      "rect": {
+        "x": 778,
+        "y": 4286.65625,
+        "w": 523,
+        "h": 120
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.\nNext, we apply the new dask.dataframe.foo operation (",
+      "class": "",
+      "rect": {
+        "x": 778,
+        "y": 4430.65625,
+        "w": 523,
+        "h": 96
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Copyright © 2026 Dask core developers. New-BSD Licensed.\n",
+      "class": "text-tiny white copyright",
+      "rect": {
+        "x": 126.078125,
+        "y": 4997.96875,
+        "w": 461.453125,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "11.9952px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "24.0048px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    }
+  ],
+  "fonts": []
+}

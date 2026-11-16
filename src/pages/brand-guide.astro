@@ -1,0 +1,528 @@
+---
+import Site from '../layouts/Site.astro';
+import Hero from '../components/Hero.astro';
+import { asset, colors } from '../data/site';
+const fonts = [
+  ['Inter', 'Heading 1', 'Bold, 56px', 56, 700],
+  ['Inter', 'Heading 2', 'Bold, 46px', 46, 700],
+  ['Inter', 'Heading 2-small', 'SemiBold, 36px', 20, 700],
+  ['Inter', 'Heading 3', 'Bold, 20px', 20, 700],
+  ['Inter', 'Text-xlarge', 'Light, 36px', 36, 300],
+  ['Inter', 'Text-large', 'Light, 24px', 24, 300],
+  ['Inter', 'Text-medium', 'Regular, 18px', 18, 400],
+  ['Inter', 'Text-regular', 'Light, 16px', 16, 300],
+  ['Inter', 'Text-small', 'Light, 14px', 14, 300],
+  ['Inter', 'Text-tiny', 'Light, 12px', 12, 300],
+  ['Inconsolata', 'syntax/code', 'Regular, 16px', 16, 400],
+];
+const logoStates = [
+  ['White', '#ffffff', 'primary'],
+  ['Pink', '#ef1561', 'pink'],
+  ['Blue', '#1f5aff', 'blue'],
+  ['Black', '#080815', 'white'],
+];
+const tone = [
+  'For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.',
+  'For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …',
+  'We strive to promote positive news about Dask, either its technical features:',
+  'Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.',
+  'We avoid overt self-praise, especially if it is not very well proven. Dask is 100x faster than Spark!',
+  'We temper positive results with ways in which we can improve, and highlight opportunities for others to engage. We’re excited to announce Dask integration with Cassandra! … But there is still plenty to do.',
+  'We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation. While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.',
+  'We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask. Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)',
+];
+---
+
+<Site title="Dask | Brand Guide">
+  <Hero title="Brand Guide" art="illustration-brand-guide-hero.svg">
+    <p>
+      This site includes both resources and guidelines for presenting and
+      communicating Dask to a broad audience. We hope that this serves to
+      generate a strong and consistent message among the many groups that
+      contribute to Dask and it’s surrounding software projects.
+    </p>
+    <p>
+      We hope that these resources make your job easier, and we thank you for
+      your efforts in communicating about the project.
+    </p>
+  </Hero>
+  <div class="brand-body">
+    <nav class="brand-sidebar" aria-label="Brand sections">
+      <a href="#logos" aria-label="Logos">
+        ◈
+      </a>
+      <a href="#colors" aria-label="Colors">
+        ♧
+      </a>
+      <a href="#typography" aria-label="Typography">
+        T
+      </a>
+      <a href="#tone" aria-label="Tone">
+        ♧
+      </a>
+    </nav>
+    <section id="logos" class="brand-logos light-grid">
+      <div class="brand-logo-copy">
+        <h2 class="medium-title">Logos</h2>
+        <p>
+          The Dask logo is made up of two components: The Logo Mark and the Word
+          Mark, which together make up the Horizontal Logo. Using the Logo Mark
+          alone should be reserved for instances where the Horizontal Logo is
+          already present, or as an avatar when “Dask” appears alongside the
+          Logo Mark in plain text.
+        </p>
+        <p>Dask logos are available below.</p>
+        <a
+          class="button"
+          href="https://www.dropbox.com/s/hokky7ihto4z4rd/Dask-Logos.zip?dl=1"
+        >
+          Download Logos
+        </a>
+      </div>
+      <div class="logo-showcase" id="logo-showcase">
+        <div class="word-mark">
+          <h3>Word Mark</h3>
+          <img
+            src={asset('Dask-Logo-lockup-Primary.svg')}
+            data-primary={asset('Dask-Logo-lockup-Primary.svg')}
+            data-pink={asset('Dask-Logo-Lockup-on-Pink.svg')}
+            data-blue={asset('Dask-Logo-Lockup-on-blue.svg')}
+            data-white={asset('Dask-Logo-Lockup-white.svg')}
+            alt="Dask horizontal logo"
+          />
+        </div>
+        <div class="logo-options">
+          <p>Color Alternatives</p>
+          <div role="tablist" aria-label="Logo background color">
+            {logoStates.map(([name, hex, variant], i) => (
+              <button
+                role="tab"
+                aria-label={`${name} color tab`}
+                aria-selected={i === 0 ? 'true' : 'false'}
+                aria-controls="logo-showcase"
+                data-logo-color={hex}
+                data-variant={variant}
+                style={`background-color:${hex}`}
+              ></button>
+            ))}
+          </div>
+        </div>
+        <div class="logo-mark">
+          <h3>Logo Mark</h3>
+          <img
+            src={asset('Dask-Logo-Icon-Primary.svg')}
+            data-primary={asset('Dask-Logo-Icon-Primary.svg')}
+            data-pink={asset('Dask-Logo-Icon-on-Pink.svg')}
+            data-blue={asset('Dask-Logo-Icon-Primary.svg')}
+            data-white={asset('Dask-Logo-Icon-White.svg')}
+            alt="Dask logo mark"
+          />
+        </div>
+      </div>
+    </section>
+    <section id="colors" class="palette-section">
+      <div class="palette-copy">
+        <h2 class="medium-title">Colors</h2>
+        <p>
+          Select a background color to view accessible brand color combinations
+          for text or other elements. Note: colors marked AA18 should only be
+          used for large type (18px or larger).
+        </p>
+        <p class="color-name">Salmon</p>
+        <p class="color-hex">#FC6E6B</p>
+        <p class="color-label">Accessible Text Colors</p>
+        <p class="accessible-colors">#33363D(AA18) #262326(AA) #080815(AA)</p>
+        <button class="button copy-color">Copy Hex Code</button>
+      </div>
+      <div class="palette-grid">
+        {colors.map(([name, hex]) => (
+          <button
+            data-color={hex}
+            data-name={name}
+            aria-label={`Select ${name} ${hex}`}
+            aria-pressed={name === 'Salmon' ? 'true' : 'false'}
+            style={`background:${hex};color:${['#FFFFFF', '#F6F6F6', '#EBEAEE', '#FFC11E', '#FC6E6B', '#61BA92'].includes(hex) ? '#080815' : 'white'}`}
+          >
+            {hex}
+          </button>
+        ))}
+      </div>
+    </section>
+    <section id="typography" class="brand-type light-grid">
+      <div>
+        <h2 class="medium-title">Typography</h2>
+        <p>
+          Inter and <span class="mono">Inconsolata</span> are the primary Dask
+          typefaces. Inter is best for for H-level titles and longform body
+          copy. <span class="mono">Inconsolata</span> should be used when
+          displaying syntax/code snippets or as a labeling device for charts,
+          graphics, and specialty layout components.
+        </p>
+        <a
+          class="button"
+          href="https://www.dropbox.com/s/o89igbdknyieedp/Dask-Fonts.zip?dl=1"
+        >
+          Download Typefaces
+        </a>
+      </div>
+      <div class="type-specimens">
+        {fonts.map(([font, label, note, size, weight]) => (
+          <div class="type-row">
+            <span
+              style={`font-family:${font};font-size:${size}px;font-weight:${weight};line-height:${Number(size) > 40 ? 57 : 32}px`}
+            >
+              {font}
+            </span>
+            <span>{label}</span>
+            <span>{note}</span>
+          </div>
+        ))}
+      </div>
+    </section>
+    <section id="tone" class="brand-tone light-grid">
+      <div>
+        <h2 class="medium-title">Tone</h2>
+        <p>
+          The Dask community is broad and diverse, mixing a volunteer open
+          source community, academics and government workers, and for-profit
+          corporations. These sub-communities understandably have different
+          needs and expectations around communication, which can sometimes
+          conflict with each other.
+        </p>
+      </div>
+      <div>
+        {tone.map((text) => (
+          <p>{text}</p>
+        ))}
+      </div>
+    </section>
+  </div>
+</Site>
+<style is:global>
+  .brand-body {
+    position: relative;
+    padding-left: 81px;
+  }
+  .brand-sidebar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background: var(--pink);
+    width: 81px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 32px;
+    gap: 24px;
+    color: white;
+  }
+  .brand-sidebar a {
+    font-size: 26px;
+  }
+  .brand-logos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    min-height: 1120px;
+    padding: 0 0 0 58px;
+  }
+  .brand-logo-copy {
+    padding-top: 156px;
+    padding-right: 90px;
+  }
+  .brand-body h2 {
+    margin-bottom: 24px;
+  }
+  .brand-body p {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 24px;
+  }
+  .brand-body .button {
+    margin-top: 24px;
+  }
+  .logo-showcase {
+    text-align: center;
+  }
+  .logo-showcase h3 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 24px;
+  }
+  .word-mark {
+    height: 480px;
+    padding-top: 120px;
+  }
+  .word-mark img {
+    width: 384px;
+    height: 120px;
+    object-fit: contain;
+    margin-top: 85px;
+  }
+  .logo-options {
+    height: 160px;
+    padding-top: 24px;
+  }
+  .logo-options p {
+    font-size: 14px !important;
+    margin-bottom: 24px !important;
+  }
+  .logo-options [role='tablist'] {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+  }
+  .logo-options button {
+    border: 1px solid #ddd;
+    width: 60px;
+    height: 35px;
+    padding: 0;
+  }
+  .logo-options button[aria-selected='true'] {
+    outline: 2px solid #aaa;
+    outline-offset: 4px;
+  }
+  .logo-mark {
+    height: 480px;
+    padding-top: 55px;
+  }
+  .logo-mark img {
+    width: 384px;
+    height: 120px;
+    object-fit: contain;
+    margin-top: 84px;
+  }
+  .palette-section {
+    min-height: 643px;
+    padding: 80px 80px 80px 58px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 90px;
+    background: #fc6e6b;
+  }
+  .palette-copy {
+    padding-top: 40px;
+  }
+  .palette-copy p {
+    max-width: 490px;
+  }
+  .palette-copy .color-name,
+  .palette-copy .color-label {
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .palette-copy .color-hex {
+    font-weight: 600;
+  }
+  .palette-copy .accessible-colors {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+  .palette-copy .button {
+    font-size: 14px;
+    margin-top: 12px;
+  }
+  .palette-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-content: center;
+  }
+  .palette-grid button {
+    height: 80px;
+    text-align: left;
+    padding: 0 28px;
+    border: 0;
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .palette-grid button[aria-pressed='true'] {
+    box-shadow: inset 0 0 0 3px #ffffff80;
+  }
+  .brand-type {
+    min-height: 958px;
+    padding: 220px 82px 220px 58px;
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: 90px;
+    align-items: center;
+  }
+  .type-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    align-items: center;
+    min-height: 32px;
+    margin-bottom: 8px;
+  }
+  .type-row > span:not(:first-child) {
+    font-size: 16px;
+    font-weight: 300;
+    color: #8d8f8e;
+    line-height: 24px;
+  }
+  .mono {
+    font-family: Inconsolata, monospace;
+  }
+  .brand-tone {
+    background-color: #f5f7f5;
+    padding: 200px 82px 120px 58px;
+    min-height: 1278px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 90px;
+  }
+  .brand-tone > div:nth-child(2) {
+    padding-top: 40px;
+  }
+  .brand-tone p {
+    margin-bottom: 24px;
+  }
+  @media (max-width: 991px) {
+    .brand-body {
+      padding-left: 50px;
+    }
+    .brand-sidebar {
+      width: 50px;
+    }
+    .brand-logos {
+      padding-left: 36px;
+      min-height: 1000px;
+    }
+    .brand-logo-copy {
+      padding-right: 40px;
+      padding-top: 120px;
+    }
+    .word-mark img,
+    .logo-mark img {
+      width: 85%;
+    }
+    .palette-section {
+      padding: 64px 40px 64px 36px;
+      gap: 40px;
+    }
+    .palette-grid button {
+      padding: 0 16px;
+      font-size: 14px;
+    }
+    .brand-type {
+      padding: 140px 40px 140px 36px;
+      gap: 40px;
+      grid-template-columns: 1fr 1fr;
+    }
+    .type-row {
+      gap: 10px;
+    }
+    .type-row > span:not(:first-child) {
+      font-size: 12px;
+      line-height: 18px;
+    }
+    .brand-tone {
+      padding: 140px 40px 100px 36px;
+      gap: 40px;
+    }
+  }
+  @media (max-width: 600px) {
+    .brand-body {
+      padding: 0;
+    }
+    .brand-sidebar {
+      position: relative;
+      height: 80px;
+      width: 100%;
+      flex-direction: row;
+      justify-content: space-around;
+      padding: 0;
+      gap: 0;
+    }
+    .brand-logos {
+      display: block;
+      padding: 80px var(--gutter) 64px;
+      min-height: 0;
+    }
+    .brand-logo-copy {
+      padding: 0;
+    }
+    .brand-body h2 {
+      font-size: 28px;
+      line-height: 36px;
+      margin-bottom: 24px;
+    }
+    .brand-body p {
+      font-size: 16px;
+      line-height: 24px;
+    }
+    .logo-showcase {
+      margin: 80px calc(-1 * var(--gutter)) 0;
+    }
+    .word-mark {
+      height: 240px;
+      padding-top: 0;
+    }
+    .word-mark img {
+      width: 270px;
+      height: 90px;
+      margin-top: 56px;
+    }
+    .logo-options {
+      height: 150px;
+      padding-top: 8px;
+    }
+    .logo-options button {
+      width: 50px;
+      height: 32px;
+    }
+    .logo-options [role='tablist'] {
+      gap: 16px;
+    }
+    .logo-mark {
+      height: 240px;
+      padding-top: 20px;
+    }
+    .logo-mark img {
+      width: 270px;
+      height: 90px;
+      margin-top: 56px;
+    }
+    .palette-section {
+      display: block;
+      padding: 80px var(--gutter);
+      min-height: 0;
+    }
+    .palette-copy {
+      padding: 0;
+    }
+    .palette-grid {
+      grid-template-columns: 1fr;
+      margin-top: 48px;
+    }
+    .palette-grid button {
+      height: 44px;
+      font-size: 16px;
+      padding: 0 20px;
+    }
+    .brand-type {
+      display: block;
+      padding: 80px var(--gutter);
+      min-height: 0;
+    }
+    .type-specimens {
+      margin-top: 64px;
+    }
+    .type-row {
+      grid-template-columns: 1.2fr 1fr 1fr;
+      gap: 12px;
+    }
+    .type-row > span:not(:first-child) {
+      font-size: 12px;
+    }
+    .brand-tone {
+      display: block;
+      min-height: 0;
+      padding: 80px var(--gutter);
+    }
+    .brand-tone > div:nth-child(2) {
+      padding-top: 40px;
+    }
+  }
+</style>

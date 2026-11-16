@@ -1,0 +1,1868 @@
+[
+  {
+    "slug": "home",
+    "elements": [
+      {
+        "text": "Submit New EventSubmit News FeatureSign up for NewsletterSub",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit New Event",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit News Feature",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Sign up for Newsletter",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Parallel PythonFast and EasyEasy Parallel Python that does w",
+        "tag": "DIV",
+        "rect": [
+          0,
+          85,
+          390,
+          1863
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 29.64px"
+      },
+      {
+        "text": "Parallel Python",
+        "tag": "H1",
+        "rect": [
+          43,
+          218,
+          241,
+          37
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Fast and Easy",
+        "tag": "H2",
+        "rect": [
+          43,
+          267,
+          224,
+          37
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "What you can do with Dask",
+        "tag": "H2",
+        "rect": [
+          30,
+          908,
+          331,
+          75
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Big Pandas",
+        "tag": "H2",
+        "rect": [
+          43,
+          1279,
+          157,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Parallel For Loops",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Big Arrays",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Machine Learning",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Performance at ScaleFast on MachinesDask is lightweight, and",
+        "tag": "DIV",
+        "rect": [
+          0,
+          1948,
+          390,
+          1720
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "85.8px 29.64px 81.9px"
+      },
+      {
+        "text": "Performance at Scale",
+        "tag": "H2",
+        "rect": [
+          38,
+          2036,
+          321,
+          75
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Fast on Machines",
+        "tag": "H2",
+        "rect": [
+          39,
+          2278,
+          180,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Made for Humans",
+        "tag": "H2",
+        "rect": [
+          39,
+          2771,
+          182,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Cheap and Efficient",
+        "tag": "H2",
+        "rect": [
+          40,
+          3189,
+          202,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Open Source DeploymentManaged CloudWhere you can run DaskOpe",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          3668,
+          390,
+          1149
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Where you can run DaskOpen Source DeploymentRun Dask on your",
+        "tag": "DIV",
+        "rect": [
+          0,
+          3668,
+          390,
+          1149
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 29.64px"
+      },
+      {
+        "text": "Where you can run Dask",
+        "tag": "H2",
+        "rect": [
+          30,
+          3746,
+          331,
+          87
+        ],
+        "font": "700 37.44px / 43.68px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Open Source Deployment",
+        "tag": "H2",
+        "rect": [
+          43,
+          4045,
+          303,
+          67
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Where you can run DaskManaged CloudRun Dask in the cloud wit",
+        "tag": "DIV",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 29.64px"
+      },
+      {
+        "text": "Where you can run Dask",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "700 37.44px / 43.68px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Managed Cloud",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "What users say about DaskPeople use Dask and like it! You wo",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          4818,
+          390,
+          3206
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "42.9px 30.03px 0px"
+      },
+      {
+        "text": "What users say about Dask",
+        "tag": "H2",
+        "rect": [
+          43,
+          4962,
+          310,
+          75
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Organizations That Use Dask",
+        "tag": "DIV",
+        "rect": [
+          0,
+          8024,
+          390,
+          739
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 29.64px 85.02px"
+      },
+      {
+        "text": "Organizations That Use Dask",
+        "tag": "H2",
+        "rect": [
+          31,
+          8074,
+          328,
+          67
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Use CasesAnything you can do with Python, you can scale with",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          8763,
+          390,
+          2823
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "42.9px 30.03px 0px"
+      },
+      {
+        "text": "Use Cases",
+        "tag": "H2",
+        "rect": [
+          96,
+          8876,
+          199,
+          55
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "6.24px 12.9987px 11.7px"
+      },
+      {
+        "text": "NYC Uber/Lyft",
+        "tag": "H3",
+        "rect": [
+          51,
+          9183,
+          292,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Scalable ETL Pipeline",
+        "tag": "H3",
+        "rect": [
+          51,
+          9547,
+          292,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "National Water Model",
+        "tag": "H3",
+        "rect": [
+          51,
+          9912,
+          292,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "TPC-H Benchmark",
+        "tag": "H3",
+        "rect": [
+          51,
+          10276,
+          292,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "NASA Satellite Imagery",
+        "tag": "H3",
+        "rect": [
+          51,
+          10640,
+          292,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "XGBoost Model Tuning",
+        "tag": "H3",
+        "rect": [
+          51,
+          11005,
+          292,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Want more examples?",
+        "tag": "H3",
+        "rect": [
+          50,
+          11225,
+          289,
+          67
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Super easy to get startedYou can run Dask right now on your ",
+        "tag": "DIV",
+        "rect": [
+          0,
+          11586,
+          390,
+          494
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 30.03px"
+      },
+      {
+        "text": "Super easy to get started",
+        "tag": "H2",
+        "rect": [
+          30,
+          11675,
+          363,
+          75
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Most people use Dask just on their laptops to scale out to 1",
+        "tag": "DIV",
+        "rect": [
+          0,
+          12081,
+          390,
+          435
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 28.587px"
+      },
+      {
+        "text": "Most people use Dask just on their laptops to scale out to 1",
+        "tag": "H2",
+        "rect": [
+          29,
+          12112,
+          333,
+          166
+        ],
+        "font": "700 24.96px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "tag": "DIV",
+        "rect": [
+          0,
+          12516,
+          390,
+          1147
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "85.8px 28.08px"
+      }
+    ],
+    "background": {
+      "size": "499.2px auto",
+      "position": "50% 0px"
+    }
+  },
+  {
+    "slug": "get-started",
+    "elements": [
+      {
+        "text": "Submit New EventSubmit News FeatureSign up for NewsletterSub",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit New Event",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit News Feature",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Sign up for Newsletter",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get Started with DaskReady to dive in? We’re here to help.In",
+        "tag": "DIV",
+        "rect": [
+          0,
+          85,
+          390,
+          1063
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 29.64px"
+      },
+      {
+        "text": "Get Started with Dask",
+        "tag": "H1",
+        "rect": [
+          30,
+          155,
+          331,
+          103
+        ],
+        "font": "700 37.44px / 43.68px Inter, sans-serif",
+        "padding": "7.8px 0px"
+      },
+      {
+        "text": "Install Dask",
+        "tag": "H2",
+        "rect": [
+          44,
+          474,
+          299,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Learn Your Way AroundDo you have a few minutes – or a few ho",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          1148,
+          390,
+          2286
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 30.03px"
+      },
+      {
+        "text": "Learn Your Way Around",
+        "tag": "H2",
+        "rect": [
+          37,
+          1269,
+          319,
+          75
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Introduction to Dask",
+        "tag": "H3",
+        "rect": [
+          42,
+          1580,
+          308,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "10 Minutes to Dask",
+        "tag": "H3",
+        "rect": [
+          42,
+          1843,
+          308,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Dask Tutorial",
+        "tag": "H3",
+        "rect": [
+          42,
+          2107,
+          308,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Dask Video Tutorial",
+        "tag": "H3",
+        "rect": [
+          42,
+          2371,
+          308,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Dask Tutorial Recording",
+        "tag": "H3",
+        "rect": [
+          42,
+          2635,
+          308,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Explore the PossibilitiesDask is a versatile tool that suppo",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          3434,
+          390,
+          1236
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "42.9px 30.03px 0px"
+      },
+      {
+        "text": "Explore the Possibilities",
+        "tag": "H2",
+        "rect": [
+          30,
+          3559,
+          332,
+          75
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Ecosystem",
+        "tag": "H3",
+        "rect": [
+          138,
+          3876,
+          114,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Case studies",
+        "tag": "H3",
+        "rect": [
+          127,
+          4009,
+          135,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Examples",
+        "tag": "H3",
+        "rect": [
+          145,
+          4141,
+          100,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Ecosystem",
+        "tag": "H3",
+        "rect": [
+          47,
+          4287,
+          271,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Case studies",
+        "tag": "H3",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Examples",
+        "tag": "H3",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Dig Deeper into DaskDask has published extensive resources t",
+        "tag": "DIV",
+        "rect": [
+          0,
+          4671,
+          390,
+          288
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 28.587px"
+      },
+      {
+        "text": "Dig Deeper into Dask",
+        "tag": "H2",
+        "rect": [
+          29,
+          4702,
+          333,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get More HelpYou can get help by posting questions on the Da",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          5253,
+          390,
+          737
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "85.8px 29.64px 81.9px"
+      },
+      {
+        "text": "Get More Help",
+        "tag": "H2",
+        "rect": [
+          44,
+          5397,
+          201,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "tag": "DIV",
+        "rect": [
+          0,
+          5990,
+          390,
+          1147
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "85.8px 28.08px"
+      }
+    ],
+    "background": {
+      "size": "499.2px auto",
+      "position": "50% 0px"
+    }
+  },
+  {
+    "slug": "get-help",
+    "elements": [
+      {
+        "text": "Submit New EventSubmit News FeatureSign up for NewsletterSub",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit New Event",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit News Feature",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Sign up for Newsletter",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get Help",
+        "tag": "DIV",
+        "rect": [
+          0,
+          85,
+          390,
+          246
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 29.64px"
+      },
+      {
+        "text": "Get Help",
+        "tag": "H1",
+        "rect": [
+          30,
+          182,
+          331,
+          59
+        ],
+        "font": "700 37.44px / 43.68px Inter, sans-serif",
+        "padding": "7.8px 0px"
+      },
+      {
+        "text": "Asking for helpWe welcome usage questions and bug reports fr",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          331,
+          390,
+          1551
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 30.03px"
+      },
+      {
+        "text": "Asking for help",
+        "tag": "H2",
+        "rect": [
+          44,
+          459,
+          298,
+          37
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Ask questions in the right place",
+        "tag": "H3",
+        "rect": [
+          44,
+          843,
+          298,
+          67
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Ask only in one place",
+        "tag": "H3",
+        "rect": [
+          44,
+          1274,
+          298,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Create a minimal example",
+        "tag": "H3",
+        "rect": [
+          44,
+          1485,
+          298,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get Paid SupportIn addition to the previous options, paid su",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          1882,
+          390,
+          737
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "85.8px 29.64px 81.9px"
+      },
+      {
+        "text": "Get Paid Support",
+        "tag": "H2",
+        "rect": [
+          44,
+          2063,
+          241,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "tag": "DIV",
+        "rect": [
+          0,
+          2619,
+          390,
+          1147
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "85.8px 28.08px"
+      }
+    ],
+    "background": {
+      "size": "499.2px auto",
+      "position": "50% 0px"
+    }
+  },
+  {
+    "slug": "powered-by",
+    "elements": [
+      {
+        "text": "Submit New EventSubmit News FeatureSign up for NewsletterSub",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit New Event",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit News Feature",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Sign up for Newsletter",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Powered byDask is an open-source project, which means there ",
+        "tag": "DIV",
+        "rect": [
+          0,
+          85,
+          390,
+          822
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px 29.64px"
+      },
+      {
+        "text": "Powered by",
+        "tag": "H1",
+        "rect": [
+          36,
+          178,
+          290,
+          59
+        ],
+        "font": "700 37.44px / 43.68px Inter, sans-serif",
+        "padding": "7.8px 6.5013px"
+      },
+      {
+        "text": "Dask is supported by:Add us to Dask supportAnacondaDask is i",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          907,
+          390,
+          1400
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "42.9px 30.03px 0px"
+      },
+      {
+        "text": "Dask is supported by:",
+        "tag": "H2",
+        "rect": [
+          42,
+          975,
+          317,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Anaconda",
+        "tag": "H3",
+        "rect": [
+          38,
+          1241,
+          280,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Coiled",
+        "tag": "H3",
+        "rect": [
+          38,
+          1513,
+          314,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "NVIDIA",
+        "tag": "H3",
+        "rect": [
+          38,
+          1811,
+          314,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Saturn Cloud",
+        "tag": "H3",
+        "rect": [
+          38,
+          2158,
+          314,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Companies Powered by DaskThese companies are part of the lar",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          2307,
+          390,
+          3665
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "42.9px 30.03px 0px"
+      },
+      {
+        "text": "Companies Powered by Dask",
+        "tag": "H2",
+        "rect": [
+          42,
+          2545,
+          314,
+          67
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Projects Powered by DaskThese software projects are part of ",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          5973,
+          390,
+          5600
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "42.9px 30.03px 67.86px"
+      },
+      {
+        "text": "Projects Powered by Dask",
+        "tag": "H2",
+        "rect": [
+          42,
+          6085,
+          317,
+          67
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Dask Adoption Metrics6,049,226*Monthly downloads*Mostly bots",
+        "tag": "DIV",
+        "rect": [
+          0,
+          11572,
+          390,
+          986
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px 30.03px"
+      },
+      {
+        "text": "Dask Adoption Metrics",
+        "tag": "H3",
+        "rect": [
+          43,
+          11659,
+          301,
+          67
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "tag": "DIV",
+        "rect": [
+          0,
+          12558,
+          390,
+          1147
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "85.8px 28.08px"
+      }
+    ],
+    "background": {
+      "size": "499.2px auto",
+      "position": "50% 0px"
+    }
+  },
+  {
+    "slug": "brand-guide",
+    "elements": [
+      {
+        "text": "Submit New EventSubmit News FeatureSign up for NewsletterSub",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit New Event",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit News Feature",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Sign up for Newsletter",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Brand GuideThis site includes both resources and guidelines ",
+        "tag": "DIV",
+        "rect": [
+          0,
+          85,
+          390,
+          492
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px 29.64px"
+      },
+      {
+        "text": "Brand Guide",
+        "tag": "H1",
+        "rect": [
+          36,
+          173,
+          290,
+          59
+        ],
+        "font": "700 37.44px / 43.68px Inter, sans-serif",
+        "padding": "7.8px 6.5013px"
+      },
+      {
+        "text": "white color tabpink color tabblue color tabblack color tabLo",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          656,
+          390,
+          1145
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Logos",
+        "tag": "H2",
+        "rect": [
+          43,
+          751,
+          304,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Logos",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Logos",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Logos",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "#FFFFFF#61BA92#F6F6F6#1F5AFF#EBEAEE#183D72#FFC11E#33363D#FC6",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          1800,
+          390,
+          1148
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          44,
+          1894,
+          302,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "TypographyInter and Inconsolata are the primary Dask typefac",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          2948,
+          390,
+          911
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "43.3368px 30.03px"
+      },
+      {
+        "text": "Typography",
+        "tag": "H2",
+        "rect": [
+          44,
+          3003,
+          303,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Inter",
+        "tag": "H1",
+        "rect": [
+          42,
+          3393,
+          105,
+          15
+        ],
+        "font": "700 40px / 15.4362px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Inter",
+        "tag": "H2",
+        "rect": [
+          42,
+          3410,
+          105,
+          37
+        ],
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Inter",
+        "tag": "H3",
+        "rect": [
+          42,
+          3467,
+          105,
+          33
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "ToneThe Dask community is broad and diverse, mixing a volunt",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          3859,
+          390,
+          1939
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "78px 30.03px"
+      },
+      {
+        "text": "Tone",
+        "tag": "H2",
+        "rect": [
+          44,
+          3972,
+          301,
+          33
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "tag": "DIV",
+        "rect": [
+          0,
+          5798,
+          390,
+          1147
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "85.8px 28.08px"
+      }
+    ],
+    "background": {
+      "size": "499.2px auto",
+      "position": "50% 0px"
+    }
+  },
+  {
+    "slug": "press-mentions",
+    "elements": [
+      {
+        "text": "Submit New EventSubmit News FeatureSign up for NewsletterSub",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit New Event",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Submit News Feature",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Sign up for Newsletter",
+        "tag": "H2",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Press Mentions",
+        "tag": "DIV",
+        "rect": [
+          0,
+          85,
+          390,
+          246
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px 29.64px"
+      },
+      {
+        "text": "Press Mentions",
+        "tag": "H1",
+        "rect": [
+          30,
+          182,
+          331,
+          59
+        ],
+        "font": "700 37.44px / 43.68px Inter, sans-serif",
+        "padding": "7.8px 0px"
+      },
+      {
+        "text": "Add a press mentionJuly 19, 2022Using AI and machine learnin",
+        "tag": "SECTION",
+        "rect": [
+          0,
+          331,
+          390,
+          3189
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "85.8px 29.64px 81.9px"
+      },
+      {
+        "text": "Using AI and machine learning to kickstart climate change fi",
+        "tag": "H2",
+        "rect": [
+          56,
+          758,
+          281,
+          100
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "The New Dask: The Open Source Library for Scaling Python Rev",
+        "tag": "H2",
+        "rect": [
+          56,
+          1079,
+          281,
+          133
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Distributed Computing for AI: A Status Report",
+        "tag": "H2",
+        "rect": [
+          56,
+          1434,
+          281,
+          67
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "IMD & IRD Awards 2022: Best market data newcomer",
+        "tag": "H2",
+        "rect": [
+          56,
+          1721,
+          281,
+          100
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Python at Scale Summit, Presented by NumFOCUS Opens the Call",
+        "tag": "H2",
+        "rect": [
+          56,
+          2042,
+          281,
+          133
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Forecasting Grubhub Order Volume At Scale",
+        "tag": "H2",
+        "rect": [
+          56,
+          2397,
+          281,
+          67
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "HPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Com",
+        "tag": "H2",
+        "rect": [
+          56,
+          2684,
+          281,
+          100
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Coiled Finds Traction in Deploying Dask at Scale",
+        "tag": "H2",
+        "rect": [
+          56,
+          3006,
+          281,
+          67
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "6 essential Python tools for data science—now improved",
+        "tag": "H2",
+        "rect": [
+          56,
+          3293,
+          281,
+          100
+        ],
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px"
+      },
+      {
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "tag": "DIV",
+        "rect": [
+          0,
+          3520,
+          390,
+          1147
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "85.8px 28.08px"
+      }
+    ],
+    "background": {
+      "size": "499.2px auto",
+      "position": "50% 0px"
+    }
+  }
+]

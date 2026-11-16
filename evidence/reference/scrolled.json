@@ -1,0 +1,272 @@
+[
+  {
+    "slug": "home",
+    "view": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "pageHeight": 8267,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281673860e80095d97c187_NumPy-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816564008ae32a73e28e9_Xarray-Logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281656037c4fde07990884_zarr-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cfd3044723ca3a1bd_xGBoost-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c357532b9aa2ceee2_PyTorch_logo_black%201.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c79f5583a89c86af8_optuna-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cef5d0f004c696317_scikit-learn-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c93922cd11ed344aa9_Amazon_Web_Services_Logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c9a88d9c774f9ddd0e_Google_Cloud_logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c99c8d6e226c9f1a6f_Microsoft_Azure_Logo.svg",
+      "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+    ]
+  },
+  {
+    "slug": "get-started",
+    "view": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "pageHeight": 4252,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "get-help",
+    "view": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "pageHeight": 2011,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "powered-by",
+    "view": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "pageHeight": 5531,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "brand-guide",
+    "view": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "pageHeight": 5128,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869a_Dask%20Logo-Lockup-on-Pink.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38696_Dask%20Logo-Icon-on-Pink.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38699_Dask%20Logo-Lockup-on-blue.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38694_Dask%20Logo-Icon-Primary.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869c_Dask%20Logo-Lockup-white.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38697_Dask%20Logo-Icon-White.svg"
+    ]
+  },
+  {
+    "slug": "press-mentions",
+    "view": "desktop",
+    "width": 1440,
+    "height": 1000,
+    "pageHeight": 2379,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "home",
+    "view": "tablet",
+    "width": 768,
+    "height": 900,
+    "pageHeight": 7905,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281673860e80095d97c187_NumPy-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816564008ae32a73e28e9_Xarray-Logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281656037c4fde07990884_zarr-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cfd3044723ca3a1bd_xGBoost-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c357532b9aa2ceee2_PyTorch_logo_black%201.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c79f5583a89c86af8_optuna-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cef5d0f004c696317_scikit-learn-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c93922cd11ed344aa9_Amazon_Web_Services_Logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c9a88d9c774f9ddd0e_Google_Cloud_logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c99c8d6e226c9f1a6f_Microsoft_Azure_Logo.svg",
+      "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+    ]
+  },
+  {
+    "slug": "get-started",
+    "view": "tablet",
+    "width": 768,
+    "height": 900,
+    "pageHeight": 3771,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "get-help",
+    "view": "tablet",
+    "width": 768,
+    "height": 900,
+    "pageHeight": 2079,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "powered-by",
+    "view": "tablet",
+    "width": 768,
+    "height": 900,
+    "pageHeight": 4473,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878a_microsoft.png",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878c_nasa.png"
+    ]
+  },
+  {
+    "slug": "brand-guide",
+    "view": "tablet",
+    "width": 768,
+    "height": 900,
+    "pageHeight": 4216,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869a_Dask%20Logo-Lockup-on-Pink.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38696_Dask%20Logo-Icon-on-Pink.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38699_Dask%20Logo-Lockup-on-blue.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38694_Dask%20Logo-Icon-Primary.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869c_Dask%20Logo-Lockup-white.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38697_Dask%20Logo-Icon-White.svg"
+    ]
+  },
+  {
+    "slug": "press-mentions",
+    "view": "tablet",
+    "width": 768,
+    "height": 900,
+    "pageHeight": 2251,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "home",
+    "view": "mobile",
+    "width": 390,
+    "height": 900,
+    "pageHeight": 13663,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281673860e80095d97c187_NumPy-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816564008ae32a73e28e9_Xarray-Logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281656037c4fde07990884_zarr-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cfd3044723ca3a1bd_xGBoost-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c357532b9aa2ceee2_PyTorch_logo_black%201.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c79f5583a89c86af8_optuna-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cef5d0f004c696317_scikit-learn-logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c93922cd11ed344aa9_Amazon_Web_Services_Logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c9a88d9c774f9ddd0e_Google_Cloud_logo.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c99c8d6e226c9f1a6f_Microsoft_Azure_Logo.svg",
+      "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+    ]
+  },
+  {
+    "slug": "get-started",
+    "view": "mobile",
+    "width": 390,
+    "height": 900,
+    "pageHeight": 7137,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "get-help",
+    "view": "mobile",
+    "width": 390,
+    "height": 900,
+    "pageHeight": 3766,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "powered-by",
+    "view": "mobile",
+    "width": 390,
+    "height": 900,
+    "pageHeight": 13705,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  },
+  {
+    "slug": "brand-guide",
+    "view": "mobile",
+    "width": 390,
+    "height": 900,
+    "pageHeight": 6945,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38693_illustration-brand-guide-hero.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869a_Dask%20Logo-Lockup-on-Pink.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38696_Dask%20Logo-Icon-on-Pink.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38699_Dask%20Logo-Lockup-on-blue.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38694_Dask%20Logo-Icon-Primary.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869c_Dask%20Logo-Lockup-white.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38697_Dask%20Logo-Icon-White.svg"
+    ]
+  },
+  {
+    "slug": "press-mentions",
+    "view": "mobile",
+    "width": 390,
+    "height": 900,
+    "pageHeight": 4667,
+    "brokenImages": [
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg"
+    ]
+  }
+]

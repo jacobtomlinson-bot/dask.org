@@ -1,0 +1,138 @@
+{
+  "text": "Community\nBlog\nDocs\nSubmit New Event\nSubmit News Feature\nSign up for Newsletter\nSubmit News Feature\nPress Mentions\nAdd a press mention\nJuly 19, 2022\nUsing AI and machine learning to kickstart climate change fightback\nopen current article\nJune 7, 2022\nThe New Dask: The Open Source Library for Scaling Python Reveals a New Style\nopen current article\nJune 6, 2022\nDistributed Computing for AI: A Status Report\nopen current article\nMay 25, 2022\nIMD & IRD Awards 2022: Best market data newcomer\nopen current article\nMay 24, 2022\nPython at Scale Summit, Presented by NumFOCUS Opens the Call for Proposals\nopen current article\nMay 19, 2022\nForecasting Grubhub Order Volume At Scale\nopen current article\nMay 18, 2022\nHPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Competition\nopen current article\nFebruary 15, 2022\nCoiled Finds Traction in Deploying Dask at Scale\nopen current article\nJuly 21, 2021\n6 essential Python tools for data science—now improved\nopen current article\nGet Started\nLatest\nCommunity\nGet Help\nPowered By\nDemo Day\nBlog\nDask Blog\nContribute\nBrand\nBrand Guidelines\ngo to github page\ngo to twitter page\ngo to youtube page\ngo to stackoverflow. page\ngo to dask discourse group page\n\nCopyright © 2026 Dask core developers. New-BSD Licensed.\n",
+  "fields": [
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "First-Name",
+      "placeholder": "First Name",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "Last-Name",
+      "placeholder": "Last Name",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "Email",
+      "placeholder": "Event Organizer Email Address",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "Event-Date",
+      "placeholder": "Event Date",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "Event-Time",
+      "placeholder": "Event Time",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "Event-Location",
+      "placeholder": "Location / Virtual",
+      "required": true
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "name": "Event-Description",
+      "placeholder": "Event Description",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "submit",
+      "name": "",
+      "placeholder": "",
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "First-Name---News",
+      "placeholder": "First Name",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "Last-Name---News",
+      "placeholder": "Last Name",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "Email---News",
+      "placeholder": "Email Address",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "News-URL",
+      "placeholder": "URL of News Post",
+      "required": true
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": "textarea",
+      "name": "Content-of-News",
+      "placeholder": "News Content",
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "submit",
+      "name": "",
+      "placeholder": "",
+      "required": false
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "First-Name---Newsletter",
+      "placeholder": "First Name",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "Last-Name---Newsletter",
+      "placeholder": "Last Name",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "Company---Newsletter",
+      "placeholder": "Company",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "email",
+      "name": "Email-Address---Newsletter",
+      "placeholder": "Email Address",
+      "required": true
+    },
+    {
+      "tag": "INPUT",
+      "type": "submit",
+      "name": "",
+      "placeholder": "",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,1396 @@
+{
+  "title": "Dask in the News | Dask Press Mentions",
+  "text": "Community\nBlog\nDocs\nPress Mentions\nAdd a press mention\nJuly 19, 2022\nUsing AI and machine learning to kickstart climate change fightback\nopen current article\nJune 7, 2022\nThe New Dask: The Open Source Library for Scaling Python Reveals a New Style\nopen current article\nJune 6, 2022\nDistributed Computing for AI: A Status Report\nopen current article\nMay 25, 2022\nIMD & IRD Awards 2022: Best market data newcomer\nopen current article\nMay 24, 2022\nPython at Scale Summit, Presented by NumFOCUS Opens the Call for Proposals\nopen current article\nMay 19, 2022\nForecasting Grubhub Order Volume At Scale\nopen current article\nMay 18, 2022\nHPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Competition\nopen current article\nFebruary 15, 2022\nCoiled Finds Traction in Deploying Dask at Scale\nopen current article\nJuly 21, 2021\n6 essential Python tools for data science—now improved\nopen current article\nGet Started\nLatest\nCommunity\nGet Help\nPowered By\nDemo Day\nBlog\nDask Blog\nContribute\nBrand\nBrand Guidelines\ngo to github page\ngo to twitter page\ngo to youtube page\ngo to stackoverflow. page\ngo to dask discourse group page\n\nCopyright © 2026 Dask core developers. New-BSD Licensed.\n",
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 134,
+      "h": 42
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "alt": "get started icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "alt": "community icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "alt": "blog icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38a49_landsat-satellite-image-climate-change-GettyImages-1354422915.jpg",
+      "alt": "",
+      "w": 160,
+      "h": 65
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38a46_Dask%20Logo-lockup-primary.png",
+      "alt": "",
+      "w": 160,
+      "h": 65
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38a47_1586914303741.jpeg",
+      "alt": "",
+      "w": 160,
+      "h": 65
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38861_Waters%20technology-logo.png",
+      "alt": "",
+      "w": 160,
+      "h": 65
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3885d_prn_cision_logo_desktop.png",
+      "alt": "",
+      "w": 160,
+      "h": 65
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38a48_download.png",
+      "alt": "",
+      "w": 160,
+      "h": 65
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3885e_business-wire-vector-logo.png",
+      "alt": "",
+      "w": 160,
+      "h": 65
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3885f_datanami-logo-2018.png",
+      "alt": "",
+      "w": 160,
+      "h": 65
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38860_infoworld-white-logo.svg",
+      "alt": "",
+      "w": 160,
+      "h": 65
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 152,
+      "h": 48
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+      "alt": "Github icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38655_twitter.svg",
+      "alt": "Twitter icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38656_youtube.svg",
+      "alt": "YouTube icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38657_stack-x.svg",
+      "alt": "Stack Overflow icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+      "alt": "Chat icon\n",
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Get Started",
+      "href": "/get-started"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Mailing List",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "News & Events",
+      "href": "/archive/2022-news-events"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Docs",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Submit New Event",
+      "href": "#w-tabs-0-data-w-pane-0"
+    },
+    {
+      "text": "Submit News Feature",
+      "href": "#w-tabs-0-data-w-pane-1"
+    },
+    {
+      "text": "Sign up for Newsletter",
+      "href": "#w-tabs-0-data-w-pane-2"
+    },
+    {
+      "text": "Add a press mention",
+      "href": "#"
+    },
+    {
+      "text": "July 19, 2022\nUsing AI and machine learning to kickstart climate change fightback\nopen current article",
+      "href": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368494/using-ai-and-machine-learning-to-kickstart-climate"
+    },
+    {
+      "text": "June 7, 2022\nThe New Dask: The Open Source Library for Scaling Python Reveals a New Style\nopen current article",
+      "href": "https://www.prnewswire.com/news-releases/the-new-dask-the-open-source-library-for-scaling-python-reveals-a-new-style-301561251.html"
+    },
+    {
+      "text": "June 6, 2022\nDistributed Computing for AI: A Status Report\nopen current article",
+      "href": "https://gradientflow.com/distributed-computing-for-ai-a-status-report/"
+    },
+    {
+      "text": "May 25, 2022\nIMD & IRD Awards 2022: Best market data newcomer\nopen current article",
+      "href": "https://www.waterstechnology.com/awards-rankings/7947666/imd-ird-awards-2022-best-market-data-newcomer-vendor-or-product-maystreet"
+    },
+    {
+      "text": "May 24, 2022\nPython at Scale Summit, Presented by NumFOCUS Opens the Call for Proposals\nopen current article",
+      "href": "https://www.prnewswire.com/news-releases/python-at-scale-summit-presented-by-numfocus-opens-the-call-for-proposals-301553604.html"
+    },
+    {
+      "text": "May 19, 2022\nForecasting Grubhub Order Volume At Scale\nopen current article",
+      "href": "https://bytes.grubhub.com/forecasting-grubhub-order-volume-at-scale-a966c2f901d2"
+    },
+    {
+      "text": "May 18, 2022\nHPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Competition\nopen current article",
+      "href": "https://www.businesswire.com/news/home/20220518005828/en/HPC-AI-Advisory-Council-Announces-5th-Annual-APAC-HPC-AI-Competition-That-Tackles-The-Pressing-Global-Problems-of-Human-Health-and-Sustainability"
+    },
+    {
+      "text": "February 15, 2022\nCoiled Finds Traction in Deploying Dask at Scale\nopen current article",
+      "href": "https://www.datanami.com/2022/02/15/coiled-finds-traction-in-deploying-dask-at-scale/"
+    },
+    {
+      "text": "July 21, 2021\n6 essential Python tools for data science—now improved\nopen current article",
+      "href": "https://www.infoworld.com/article/3233250/6-essential-python-tools-for-data-science-now-improved.html"
+    },
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Latest",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Community",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Blog",
+      "href": "#"
+    },
+    {
+      "text": "Dask Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Contribute",
+      "href": "https://github.com/dask/dask-blog/blob/gh-pages/README.md"
+    },
+    {
+      "text": "Brand",
+      "href": "#"
+    },
+    {
+      "text": "Brand Guidelines",
+      "href": "/brand-guide"
+    },
+    {
+      "text": "go to github page",
+      "href": "https://github.com/dask/dask"
+    },
+    {
+      "text": "go to twitter page",
+      "href": "https://twitter.com/dask_dev"
+    },
+    {
+      "text": "go to youtube page",
+      "href": "https://www.youtube.com/c/Dask-dev"
+    },
+    {
+      "text": "go to stackoverflow. page",
+      "href": "https://stackoverflow.com/questions/tagged/dask"
+    },
+    {
+      "text": "go to dask discourse group page",
+      "href": "https://dask.discourse.group"
+    }
+  ],
+  "elements": [
+    {
+      "tag": "NAV",
+      "text": "Community\nBlog\nDocs",
+      "class": "nav-menu w-nav-menu",
+      "rect": {
+        "x": 214.171875,
+        "y": 11.984375,
+        "w": 1145.921875,
+        "h": 67
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "NAV",
+      "text": "Demo Day.cls-1{fill:#ebeaee;}Get Help.cls-1{fill:#ebeaee;}Powered By",
+      "class": "dropdown-list w-dropdown-list",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Submit New EventSubmit News FeatureSign up for NewsletterSubmit New EventThank you! Your submission has been received!Oops! Something went wrong while submitting the form.Submit Ne",
+      "class": "form-wrapper",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit New Event",
+      "class": "submit-event-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit News Feature",
+      "class": "press-mention-tab w-inline-block w-tab-link w--current",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Sign up for Newsletter",
+      "class": "maillist-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit New Event",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit New Event",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field middle w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 3% 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "27px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit News Feature",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit News Feature",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "27px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Sign up for Newsletter",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Sign up for Newsletter",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "27px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H1",
+      "text": "Press Mentions",
+      "class": "heading-xlarge-box",
+      "rect": {
+        "x": 81,
+        "y": 170.96875,
+        "w": 474,
+        "h": 81
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "56.0016px",
+        "fontWeight": "700",
+        "lineHeight": "56.9952px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(8, 8, 21)",
+        "padding": "8.0064px 24.0048px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "6.0048px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Add a press mention\nJuly 19, 2022\nUsing AI and machine learning to kickstart climate change fightback\nopen current article\nJune 7, 2022\nThe New Dask: The Open Source Library for Sc",
+      "class": "section-responsive bg-white",
+      "rect": {
+        "x": 0,
+        "y": 331.96875,
+        "w": 1440,
+        "h": 1564.828125
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "padding": "81px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Using AI and machine learning to kickstart climate change fightback",
+      "class": "heading-small",
+      "rect": {
+        "x": 700.953125,
+        "y": 468.953125,
+        "w": 614.046875,
+        "h": 64
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "The New Dask: The Open Source Library for Scaling Python Reveals a New Style",
+      "class": "heading-small",
+      "rect": {
+        "x": 700.953125,
+        "y": 635.3125,
+        "w": 614.046875,
+        "h": 64
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Distributed Computing for AI: A Status Report",
+      "class": "heading-small",
+      "rect": {
+        "x": 700.953125,
+        "y": 806.0625,
+        "w": 449,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "IMD & IRD Awards 2022: Best market data newcomer",
+      "class": "heading-small",
+      "rect": {
+        "x": 700.953125,
+        "y": 949.21875,
+        "w": 521,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Python at Scale Summit, Presented by NumFOCUS Opens the Call for Proposals",
+      "class": "heading-small",
+      "rect": {
+        "x": 700.953125,
+        "y": 1087.984375,
+        "w": 614.046875,
+        "h": 64
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Forecasting Grubhub Order Volume At Scale",
+      "class": "heading-small",
+      "rect": {
+        "x": 700.953125,
+        "y": 1258.734375,
+        "w": 430,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "HPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Competition",
+      "class": "heading-small",
+      "rect": {
+        "x": 700.953125,
+        "y": 1397.5,
+        "w": 614.046875,
+        "h": 64
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Coiled Finds Traction in Deploying Dask at Scale",
+      "class": "heading-small",
+      "rect": {
+        "x": 700.953125,
+        "y": 1568.25,
+        "w": 471,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "6 essential Python tools for data science—now improved",
+      "class": "heading-small",
+      "rect": {
+        "x": 700.953125,
+        "y": 1711.40625,
+        "w": 555,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Copyright © 2026 Dask core developers. New-BSD Licensed.\n",
+      "class": "text-tiny white copyright",
+      "rect": {
+        "x": 126.078125,
+        "y": 2248.1875,
+        "w": 461.453125,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "11.9952px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "24.0048px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    }
+  ],
+  "fonts": []
+}

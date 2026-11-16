@@ -1,0 +1,4702 @@
+[
+  {
+    "tag": "DIV",
+    "cls": "navbar w-nav",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      1440,
+      90.96875
+    ],
+    "display": "flex",
+    "padding": "11.9952px 79.92px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "nav-container w-container",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      79.90625,
+      11.984375,
+      1280.1875,
+      67
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "brand w-nav-brand",
+    "text": "",
+    "href": "/",
+    "src": null,
+    "background": "none",
+    "rect": [
+      79.90625,
+      24.421875,
+      134.265625,
+      42.125
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+    "background": "none",
+    "rect": [
+      79.90625,
+      24.421875,
+      134.265625,
+      42.125
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(51, 51, 51)"
+  },
+  {
+    "tag": "NAV",
+    "cls": "nav-menu w-nav-menu",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      214.171875,
+      11.984375,
+      1145.921875,
+      67
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "mobile-nav-link w-inline-block",
+    "text": "",
+    "href": "/get-started",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "menu-icons",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "nav-link large",
+    "text": "Get Started",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown-divider hide-desktop w-embed",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "defs",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "style",
+    "cls": "",
+    "text": ".cls-1{fill:#ebeaee;}",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "mobile-nav-link",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "IMG",
+    "cls": "menu-icons",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "nav-link large",
+    "text": "Community",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown-divider hide-desktop w-embed",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "defs",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "style",
+    "cls": "",
+    "text": ".cls-1{fill:#ebeaee;}",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown w-dropdown",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1046.09375,
+      11.984375,
+      149,
+      67
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown-toggle hide-tablet plausible-event-name--top-nav plausible-event-position--dropdown w-dropdown-toggle",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1046.09375,
+      11.984375,
+      149,
+      67
+    ],
+    "display": "inline-block",
+    "padding": "20px 40px 20px 20px",
+    "gap": "normal",
+    "color": "rgb(34, 34, 34)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(34, 34, 34)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "icon-3 w-icon-dropdown-toggle",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1159.09375,
+      37.484375,
+      16,
+      16
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 16px webflow-icons",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "nav-link",
+    "text": "Community",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1066.09375,
+      31.984375,
+      89,
+      27
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "NAV",
+    "cls": "dropdown-list w-dropdown-list",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "dropdown-link plausible-event-name--top-nav plausible-event-position--dropdown-1 w-dropdown-link",
+    "text": "Demo Day",
+    "href": "https://github.com/dask/community/issues/307",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px 0px 10px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown-divider w-embed",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "defs",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "style",
+    "cls": "",
+    "text": ".cls-1{fill:#ebeaee;}",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "dropdown-link plausible-event-name--top-nav plausible-event-position--dropdown-2 w-dropdown-link w--current",
+    "text": "Get Help",
+    "href": "/get-help",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px 0px 10px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown-divider w-embed",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "defs",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "style",
+    "cls": "",
+    "text": ".cls-1{fill:#ebeaee;}",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "dropdown-link plausible-event-name--top-nav plausible-event-position--dropdown-3 w-dropdown-link",
+    "text": "Powered By",
+    "href": "/powered-by",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px 0px 10px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-layout-grid mobile-grid",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "16px",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "nav-link light w-nav-link",
+    "text": "Mailing List",
+    "href": "#",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown-divider vertical w-embed",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "style",
+    "cls": "",
+    "text": ".st0{fill:#EBEAEE;}",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "nav-link light w-nav-link w--current",
+    "text": "Get Help",
+    "href": "/get-help",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown-divider w-embed",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "defs",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "style",
+    "cls": "",
+    "text": ".cls-1{fill:#ebeaee;}",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown-divider w-embed",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "defs",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "style",
+    "cls": "",
+    "text": ".cls-1{fill:#ebeaee;}",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "nav-link light w-nav-link",
+    "text": "Powered By",
+    "href": "/powered-by",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "A",
+    "cls": "nav-link light w-nav-link",
+    "text": "News & Events",
+    "href": "/archive/2022-news-events",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "dropdown-divider hide-desktop w-embed",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "defs",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "style",
+    "cls": "",
+    "text": ".cls-1{fill:#ebeaee;}",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "g",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "nav-link hide-mobile plausible-event-name--top-nav plausible-event-position--blog w-nav-link",
+    "text": "Blog",
+    "href": "/blog",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1215.09375,
+      32.984375,
+      35,
+      25
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "A",
+    "cls": "mobile-nav-link w-inline-block",
+    "text": "",
+    "href": "/blog",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "menu-icons",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "nav-link large",
+    "text": "Blog",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "nav-button-blcok",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1270.09375,
+      14.484375,
+      90,
+      62
+    ],
+    "display": "block",
+    "padding": "10px 0px 10px 20px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "nav-button plausible-event-name--top-nav plausible-event-position--docs w-button",
+    "text": "Docs",
+    "href": "https://docs.dask.org/en/stable/",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1290.09375,
+      24.484375,
+      70,
+      42
+    ],
+    "display": "inline-block",
+    "padding": "9px 15px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "menu-button w-nav-button",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "18px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "24px / 36px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-icon-nav-menu",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "24px / 24px webflow-icons",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-nav-overlay",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "SECTION",
+    "cls": "form-wrapper",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "form-slider",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "36px 81px 0px 59.4px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-tabs",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "forms-tabs-menu w-tab-menu",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px 0px 36.864px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "A",
+    "cls": "submit-event-tab w-inline-block w-tab-link",
+    "text": "",
+    "href": "#w-tabs-0-data-w-pane-0",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "9px 0px 0px",
+    "gap": "normal",
+    "color": "rgba(235, 234, 238, 0.6)",
+    "font": "300 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "text-regular tab",
+    "text": "Submit New Event",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(235, 234, 238, 0.6)",
+    "font": "15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgba(235, 234, 238, 0.6)"
+  },
+  {
+    "tag": "A",
+    "cls": "press-mention-tab w-inline-block w-tab-link w--current",
+    "text": "",
+    "href": "#w-tabs-0-data-w-pane-1",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "9px 0px 0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "text-regular",
+    "text": "Submit News Feature",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "maillist-tab w-inline-block w-tab-link",
+    "text": "",
+    "href": "#w-tabs-0-data-w-pane-2",
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "9px 0px 0px",
+    "gap": "normal",
+    "color": "rgba(235, 234, 238, 0.6)",
+    "font": "300 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "text-regular",
+    "text": "Sign up for Newsletter",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(235, 234, 238, 0.6)",
+    "font": "15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgba(235, 234, 238, 0.6)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-tab-content",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-tab-pane",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-form",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "FORM",
+    "cls": "form",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px 21.6px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "H2",
+    "cls": "heading-medium form-heading",
+    "text": "Submit New Event",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 36px / 45.9936px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "div-block",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field right w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "div-block",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field middle w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "TEXTAREA",
+    "cls": "form-text-field description w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": "1px solid rgb(144, 143, 151)"
+  },
+  {
+    "tag": "INPUT",
+    "cls": "button w-button",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "11.9952px 15.9984px",
+    "gap": "normal",
+    "color": "rgb(38, 35, 38)",
+    "font": "600 18px / 27px Inter, sans-serif",
+    "border": "0px none rgb(38, 35, 38)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "success-message w-form-done",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "20px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "Thank you! Your submission has been received!",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "error-message w-form-fail",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "10px 21.6px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "Oops! Something went wrong while submitting the form.",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-tab-pane w--tab-active",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-form",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "FORM",
+    "cls": "form",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px 21.6px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "H2",
+    "cls": "heading-medium form-heading",
+    "text": "Submit News Feature",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 36px / 45.9936px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "div-block",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field right w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "div-block",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "TEXTAREA",
+    "cls": "form-text-field description w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": "1px solid rgb(144, 143, 151)"
+  },
+  {
+    "tag": "INPUT",
+    "cls": "button w-button",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "11.9952px 15.9984px",
+    "gap": "normal",
+    "color": "rgb(38, 35, 38)",
+    "font": "600 18px / 27px Inter, sans-serif",
+    "border": "0px none rgb(38, 35, 38)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "success-message w-form-done",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "20px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "Thank you! Your submission has been received!",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "error-message w-form-fail",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "10px 21.6px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "Oops! Something went wrong while submitting the form.",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-tab-pane",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-form",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "FORM",
+    "cls": "form",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px 21.6px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "H2",
+    "cls": "heading-medium form-heading",
+    "text": "Sign up for Newsletter",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 36px / 45.9936px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "div-block",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field right w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "div-block",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "INPUT",
+    "cls": "form-text-field right w-input",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "8px 12px 8px 8px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "14.4px / 21.6px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "INPUT",
+    "cls": "button w-button",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline-block",
+    "padding": "11.9952px 15.9984px",
+    "gap": "normal",
+    "color": "rgb(38, 35, 38)",
+    "font": "600 18px / 27px Inter, sans-serif",
+    "border": "0px none rgb(38, 35, 38)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "success-message w-form-done",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "20px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "Thank you! Your submission has been received!",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "error-message w-form-fail",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "none",
+    "padding": "10px 21.6px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "Oops! Something went wrong while submitting the form.",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "close-event-form-copy",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "flex",
+    "padding": "17.28px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "w-embed",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "form-close",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "section-responsive bg-black get-started",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38661_vector-grid.svg\")",
+    "rect": [
+      0,
+      90.96875,
+      1440,
+      241
+    ],
+    "display": "block",
+    "padding": "0px 81px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "container heading-only",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      81,
+      90.96875,
+      1278,
+      241
+    ],
+    "display": "flex",
+    "padding": "80.0064px 0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "H1",
+    "cls": "heading-xlarge-box",
+    "text": "Get Help",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      81,
+      170.96875,
+      288,
+      81
+    ],
+    "display": "block",
+    "padding": "8.0064px 24.0048px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "700 56.0016px / 56.9952px Inter, sans-serif",
+    "border": "2px solid rgb(239, 17, 97)"
+  },
+  {
+    "tag": "SECTION",
+    "cls": "section-responsive bg-lightgrey",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38661_vector-grid.svg\")",
+    "rect": [
+      0,
+      331.96875,
+      1440,
+      796.421875
+    ],
+    "display": "block",
+    "padding": "0px 81px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "grid get-help-p",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      81,
+      412.96875,
+      1281.59375,
+      635.421875
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "0px",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "get-help-left",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      81,
+      414.96875,
+      556.984375,
+      631.421875
+    ],
+    "display": "flex",
+    "padding": "80.0064px 87.9984px 0px 40.0032px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "gh-text",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      121,
+      494.96875,
+      429,
+      212
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "H2",
+    "cls": "",
+    "text": "Asking for help",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      121,
+      494.96875,
+      429,
+      56
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "700 45.9936px / 56.0016px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "mar-top-medium",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      121,
+      586.96875,
+      429,
+      96
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "We welcome usage questions and bug reports from all users, even those who are new to using the project. There are a few things you can do to improve the likelihood of quickly getting a good answer.",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      121,
+      586.96875,
+      429,
+      96
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "BR",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      454,
+      660.96875,
+      0,
+      19
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "get-help-icons",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      121,
+      750.15625,
+      143.96875,
+      87.984375
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "A",
+    "cls": "link-block get-help w-inline-block",
+    "text": "",
+    "href": "https://github.com/dask/dask",
+    "src": null,
+    "background": "none",
+    "rect": [
+      121,
+      750.15625,
+      63.984375,
+      63.984375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "get-help-icon",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+    "background": "none",
+    "rect": [
+      121,
+      750.15625,
+      63.984375,
+      63.984375
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "A",
+    "cls": "link-block get-help w-inline-block",
+    "text": "",
+    "href": "https://dask.discourse.group",
+    "src": null,
+    "background": "none",
+    "rect": [
+      192.984375,
+      750.15625,
+      63.984375,
+      63.984375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "get-help-icon",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+    "background": "none",
+    "rect": [
+      192.984375,
+      750.15625,
+      63.984375,
+      63.984375
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "_2-col get-help-right",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      643.984375,
+      412.96875,
+      714.609375,
+      636.40625
+    ],
+    "display": "grid",
+    "padding": "0px",
+    "gap": "4.0032px 2.0016px",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "text-get-help",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      645.984375,
+      414.96875,
+      710.609375,
+      236.734375
+    ],
+    "display": "flex",
+    "padding": "0px 28.8px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "H3",
+    "cls": "",
+    "text": "Ask questions in the right place",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      674.78125,
+      437.34375,
+      653.015625,
+      32
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "We strongly prefer the use of  or . Discourse and GitHub are more easily searchable by future users, and therefore can be useful to many more people than those directly involved. If you have a general question about how something should work or want best practices then use . If you think you have found a bug then use",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      674.78125,
+      485.328125,
+      653.015625,
+      120
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "A",
+    "cls": "link",
+    "text": "Discourse",
+    "href": "https://dask.discourse.group",
+    "src": null,
+    "background": "none",
+    "rect": [
+      901.78125,
+      487.328125,
+      78,
+      20
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "A",
+    "cls": "link",
+    "text": "GitHub",
+    "href": "https://github.com/dask/dask",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1005.78125,
+      487.328125,
+      55,
+      20
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "A",
+    "cls": "link",
+    "text": "Discourse",
+    "href": "https://dask.discourse.group",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1017.78125,
+      559.328125,
+      78,
+      20
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "A",
+    "cls": "link",
+    "text": "GitHub",
+    "href": "https://github.com/dask/dask",
+    "src": null,
+    "background": "none",
+    "rect": [
+      777.78125,
+      583.328125,
+      55,
+      20
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "text-get-help",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      645.984375,
+      655.703125,
+      710.609375,
+      156.09375
+    ],
+    "display": "flex",
+    "padding": "0px 28.8px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "H3",
+    "cls": "",
+    "text": "Ask only in one place",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      674.78125,
+      673.75,
+      653.015625,
+      32
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "Please restrict yourself to posting your question in only one place (likely the Dask Discourse or GitHub) and don’t post in both",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      674.78125,
+      721.734375,
+      653.015625,
+      48
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "text-get-help",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      645.984375,
+      815.796875,
+      710.609375,
+      235.578125
+    ],
+    "display": "flex",
+    "padding": "0px 28.8px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "H3",
+    "cls": "",
+    "text": "Create a minimal example",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      674.78125,
+      849.59375,
+      653.015625,
+      32
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "It is ideal to create minimal, complete, verifiable examples. This significantly reduces the time that answerers spend understanding your situation, resulting in higher quality answers more quickly.  this blog post about crafting minimal bug reports. These have a much higher likelihood of being answered",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      674.78125,
+      897.578125,
+      653.015625,
+      96
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "A",
+    "cls": "link",
+    "text": "See also",
+    "href": "#",
+    "src": null,
+    "background": "none",
+    "rect": [
+      847.78125,
+      947.578125,
+      64,
+      20
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "SECTION",
+    "cls": "section-responsive bg-white",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38661_vector-grid.svg\")",
+    "rect": [
+      0,
+      1128.390625,
+      1440,
+      400.71875
+    ],
+    "display": "block",
+    "padding": "81px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "grid more-help",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      81,
+      1209.390625,
+      1278,
+      238.71875
+    ],
+    "display": "grid",
+    "padding": "0px",
+    "gap": "2.0016px",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "container-help",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      85,
+      1211.390625,
+      553.53125,
+      234.71875
+    ],
+    "display": "flex",
+    "padding": "7.2px 40.0032px 0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "H2",
+    "cls": "heading-medium",
+    "text": "Get Paid Support",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      125,
+      1269.34375,
+      296,
+      46
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 36px / 45.9936px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "In addition to the previous options, paid support is available from the following organizations",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      125,
+      1323.34375,
+      473.53125,
+      48
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "get-help-logo-wr w-dyn-list",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      641.65625,
+      1209.390625,
+      717.109375,
+      238.71875
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "_3-col w-dyn-items",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      638.78125,
+      1209.390625,
+      719.984375,
+      237.859375
+    ],
+    "display": "grid",
+    "padding": "0px",
+    "gap": "2.0016px",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "gh-logo-item w-dyn-item",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      639.78125,
+      1209.390625,
+      235.578125,
+      237.859375
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal 2.0016px",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "A",
+    "cls": "container-helplogo w-inline-block",
+    "text": "",
+    "href": "http://anaconda.com",
+    "src": null,
+    "background": "none",
+    "rect": [
+      641.78125,
+      1211.390625,
+      231.578125,
+      235.859375
+    ],
+    "display": "flex",
+    "padding": "40.0032px 14.4px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3864f_anaconda.png",
+    "background": "none",
+    "rect": [
+      656.171875,
+      1251.390625,
+      202.796875,
+      155.859375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "descriptive-link",
+    "text": "go to current company page",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      724.0625,
+      1326.8125,
+      67,
+      5
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "font": "5px / 5px Inter, sans-serif",
+    "border": "0px none rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "gh-logo-item w-dyn-item",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      880.4375,
+      1209.390625,
+      235.578125,
+      237.859375
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal 2.0016px",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "A",
+    "cls": "container-helplogo w-inline-block",
+    "text": "",
+    "href": "http://coiled.io",
+    "src": null,
+    "background": "none",
+    "rect": [
+      882.4375,
+      1211.390625,
+      231.578125,
+      235.859375
+    ],
+    "display": "flex",
+    "padding": "40.0032px 14.4px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38a4c_coiled%20black%20logo.png",
+    "background": "none",
+    "rect": [
+      896.828125,
+      1251.390625,
+      202.796875,
+      155.859375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "descriptive-link",
+    "text": "go to current company page",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      964.71875,
+      1326.8125,
+      67,
+      5
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "font": "5px / 5px Inter, sans-serif",
+    "border": "0px none rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "gh-logo-item w-dyn-item",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1121.09375,
+      1209.390625,
+      235.578125,
+      237.859375
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal 2.0016px",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "A",
+    "cls": "container-helplogo w-inline-block",
+    "text": "",
+    "href": "http://quansight.com/",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1123.09375,
+      1211.390625,
+      231.578125,
+      235.859375
+    ],
+    "display": "flex",
+    "padding": "40.0032px 14.4px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38862_Quansight-01-01.svg",
+    "background": "none",
+    "rect": [
+      1137.484375,
+      1251.390625,
+      202.796875,
+      155.859375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "descriptive-link",
+    "text": "go to current company page",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1205.375,
+      1326.8125,
+      67,
+      5
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "font": "5px / 5px Inter, sans-serif",
+    "border": "0px none rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "footer",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38661_vector-grid.svg\")",
+    "rect": [
+      0,
+      1529.109375,
+      1440,
+      481.765625
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "footer-container w-container",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      1529.109375,
+      1440,
+      481.765625
+    ],
+    "display": "block",
+    "padding": "81px 82.08px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "footer-grid",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      84.078125,
+      1610.109375,
+      1271.84375,
+      319.765625
+    ],
+    "display": "grid",
+    "padding": "0px",
+    "gap": "normal 2.0016px",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col logo",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      86.078125,
+      1610.109375,
+      631.046875,
+      80
+    ],
+    "display": "block",
+    "padding": "31.9968px 0px 0px 40.0032px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "brand-logo footer-logo w-nav-brand",
+    "text": "",
+    "href": "/",
+    "src": null,
+    "background": "none",
+    "rect": [
+      126.078125,
+      1642.09375,
+      152,
+      47.984375
+    ],
+    "display": "flex",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+    "background": "none",
+    "rect": [
+      126.078125,
+      1642.09375,
+      152,
+      47.984375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(51, 51, 51)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      723.125,
+      1610.109375,
+      157.53125,
+      319.765625
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col nav",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      725.125,
+      1612.109375,
+      151.53125,
+      76.3125
+    ],
+    "display": "flex",
+    "padding": "36px 0px 0px 31.9968px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "text-medium footer-nav",
+    "text": "Get Started",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      757.109375,
+      1648.109375,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 18px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-line",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      755.109375,
+      1688.421875,
+      93.5625,
+      1.484375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col nav-text",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      725.125,
+      1691.90625,
+      151.53125,
+      233.84375
+    ],
+    "display": "flex",
+    "padding": "24.0048px 0px 0px 31.9968px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Latest",
+    "href": "https://docs.dask.org/en/stable/",
+    "src": null,
+    "background": "none",
+    "rect": [
+      757.109375,
+      1715.90625,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      882.65625,
+      1610.109375,
+      157.53125,
+      319.765625
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col nav",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      884.65625,
+      1612.109375,
+      151.53125,
+      76.3125
+    ],
+    "display": "flex",
+    "padding": "36px 0px 0px 31.9968px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav",
+    "text": "Community",
+    "href": "#",
+    "src": null,
+    "background": "none",
+    "rect": [
+      916.640625,
+      1648.109375,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-line",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      914.640625,
+      1688.421875,
+      93.5625,
+      1.484375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col nav-text",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      884.65625,
+      1691.90625,
+      151.53125,
+      233.84375
+    ],
+    "display": "flex",
+    "padding": "24.0048px 0px 0px 31.9968px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg w--current",
+    "text": "Get Help",
+    "href": "/get-help",
+    "src": null,
+    "background": "none",
+    "rect": [
+      916.640625,
+      1715.90625,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Powered By",
+    "href": "/powered-by",
+    "src": null,
+    "background": "none",
+    "rect": [
+      916.640625,
+      1755.890625,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Demo Day",
+    "href": "https://github.com/dask/community/issues/307",
+    "src": null,
+    "background": "none",
+    "rect": [
+      916.640625,
+      1795.875,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1042.1875,
+      1610.109375,
+      157.53125,
+      319.765625
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col nav last",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1044.1875,
+      1612.109375,
+      151.53125,
+      76.3125
+    ],
+    "display": "flex",
+    "padding": "36px 0px 0px 31.9968px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav",
+    "text": "Blog",
+    "href": "#",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1076.171875,
+      1648.109375,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-line",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1074.171875,
+      1688.421875,
+      93.5625,
+      1.484375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col nav-text",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1044.1875,
+      1691.90625,
+      151.53125,
+      233.84375
+    ],
+    "display": "flex",
+    "padding": "24.0048px 0px 0px 31.9968px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Dask Blog",
+    "href": "/blog",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1076.171875,
+      1715.90625,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Contribute",
+    "href": "https://github.com/dask/dask-blog/blob/gh-pages/README.md",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1076.171875,
+      1755.890625,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1201.71875,
+      1610.109375,
+      157.53125,
+      319.765625
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col nav",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1203.71875,
+      1612.109375,
+      151.53125,
+      76.3125
+    ],
+    "display": "flex",
+    "padding": "36px 0px 0px 31.9968px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav",
+    "text": "Brand",
+    "href": "#",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1235.703125,
+      1648.109375,
+      119.546875,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-line",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1233.703125,
+      1688.421875,
+      93.5625,
+      1.484375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col nav-text",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      1203.71875,
+      1691.90625,
+      151.53125,
+      233.84375
+    ],
+    "display": "flex",
+    "padding": "24.0048px 0px 0px 31.9968px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "600 16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Brand Guidelines",
+    "href": "/brand-guide",
+    "src": null,
+    "background": "none",
+    "rect": [
+      1235.703125,
+      1715.90625,
+      119.546875,
+      48
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col social",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      86.078125,
+      1690.109375,
+      631.046875,
+      80
+    ],
+    "display": "block",
+    "padding": "31.9968px 0px 0px 40.0032px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "",
+    "href": "https://github.com/dask/dask",
+    "src": null,
+    "background": "none",
+    "rect": [
+      126.078125,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+    "background": "none",
+    "rect": [
+      126.078125,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(51, 51, 51)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "descriptive-link",
+    "text": "go to github page",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      126.078125,
+      1754.078125,
+      31.984375,
+      10
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "font": "5px / 5px Inter, sans-serif",
+    "border": "0px none rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "",
+    "href": "https://twitter.com/dask_dev",
+    "src": null,
+    "background": "none",
+    "rect": [
+      166.0625,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38655_twitter.svg",
+    "background": "none",
+    "rect": [
+      166.0625,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(51, 51, 51)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "descriptive-link",
+    "text": "go to twitter page",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      166.0625,
+      1754.078125,
+      31.984375,
+      10
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "font": "5px / 5px Inter, sans-serif",
+    "border": "0px none rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "",
+    "href": "https://www.youtube.com/c/Dask-dev",
+    "src": null,
+    "background": "none",
+    "rect": [
+      206.046875,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38656_youtube.svg",
+    "background": "none",
+    "rect": [
+      206.046875,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(51, 51, 51)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "descriptive-link",
+    "text": "go to youtube page",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      206.046875,
+      1754.078125,
+      31.984375,
+      15
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "font": "5px / 5px Inter, sans-serif",
+    "border": "0px none rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "",
+    "href": "https://stackoverflow.com/questions/tagged/dask",
+    "src": null,
+    "background": "none",
+    "rect": [
+      246.03125,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38657_stack-x.svg",
+    "background": "none",
+    "rect": [
+      246.03125,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(51, 51, 51)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "descriptive-link",
+    "text": "go to stackoverflow. page",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      246.03125,
+      1754.078125,
+      36,
+      15
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "font": "5px / 5px Inter, sans-serif",
+    "border": "0px none rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "",
+    "href": "https://dask.discourse.group",
+    "src": null,
+    "background": "none",
+    "rect": [
+      286.015625,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": ""
+  },
+  {
+    "tag": "IMG",
+    "cls": "container-logo-img",
+    "text": "",
+    "href": null,
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+    "background": "none",
+    "rect": [
+      286.015625,
+      1722.09375,
+      31.984375,
+      31.984375
+    ],
+    "display": "inline-block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(51, 51, 51)",
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(51, 51, 51)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "descriptive-link",
+    "text": "go to dask discourse group page",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      286.015625,
+      1754.078125,
+      31.984375,
+      15
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgba(0, 0, 0, 0)",
+    "font": "5px / 5px Inter, sans-serif",
+    "border": "0px none rgba(0, 0, 0, 0)"
+  },
+  {
+    "tag": "DIV",
+    "cls": "f-bg-col text",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      86.078125,
+      1770.109375,
+      631.046875,
+      157.234375
+    ],
+    "display": "block",
+    "padding": "86.4px 129.6px 0px 40.0032px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "P",
+    "cls": "text-tiny white copyright",
+    "text": "Copyright ©  Dask core developers. New-BSD Licensed.",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      126.078125,
+      1880.5,
+      461.453125,
+      24
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "11.9952px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "SPAN",
+    "cls": "copyright-year",
+    "text": "2026",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      198.078125,
+      1884.5,
+      29,
+      15
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "11.9952px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "BR",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      472.078125,
+      1884.5,
+      0,
+      15
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(255, 255, 255)",
+    "font": "11.9952px / 24.0048px Inter, sans-serif",
+    "border": "0px none rgb(255, 255, 255)"
+  },
+  {
+    "tag": "NOSCRIPT",
+    "cls": "",
+    "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P4GQM59\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>",
+    "href": null,
+    "src": null,
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "inline",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  },
+  {
+    "tag": "IFRAME",
+    "cls": "",
+    "text": "",
+    "href": null,
+    "src": "https://api.vector.co/pixel/phoenix/sync-container?duid=f3034c40039c--01m7hpaj6mf44gnx7zrvvqvq1r&ds=did-006l&euns=1&s=&version=v3.17.0&cd=.dask.org&pv=8f44485e-0a7f-4885-af3f-836c1b27687e",
+    "background": "none",
+    "rect": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "display": "block",
+    "padding": "0px",
+    "gap": "normal",
+    "color": "rgb(8, 8, 21)",
+    "font": "16px / 24px Inter, sans-serif",
+    "border": "0px none rgb(8, 8, 21)"
+  }
+]

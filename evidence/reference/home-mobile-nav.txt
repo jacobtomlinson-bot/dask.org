@@ -1,0 +1,178 @@
+Get Started
+Community
+Mailing List
+Get Help
+Powered By
+News & Events
+Blog
+Docs
+Parallel Python
+Fast and Easy
+
+Easy Parallel Python that does what you need
+
+Get started
+What you can do with Dask
+Big Pandas
+Parallel For Loops
+Big Arrays
+Machine Learning
+Big Pandas
+
+Dask DataFrames use pandas under the hood, so your current code likely just works. It’s faster than Spark and easier too.
+
+Documentation
+Performance Benchmarks
+import dask.dataframe as dd
+
+df = dd.read_parquet("s3://data/uber/")
+
+# How much did NYC pay Uber?
+df.base_passenger_fare.sum().compute()
+
+# And how much did drivers make?
+df.driver_pay.sum().compute()
+
+Performance at Scale
+Fast on Machines
+
+Dask is lightweight, and runs your raw code on your machines without getting in the way.  No virtualization or compilers.
+
+As the Python stack matures your code matures. Today Dask is 50% faster than Spark on standard benchmarks.
+
+
+        
+
+Made for Humans
+
+Computers are cheap.  Humans are expensive.
+
+Fortunately, humans already know how to use Dask.
+
+It’s just Python. It’s just pandas. It’s just NumPy.
+
+Dask’s dashboard guides you towards efficiency, quickly teaching you to become a distributed computing expert.
+
+Cheap and Efficient
+
+Fast humans + Fast machines = Cheap Computing
+
+Rows of Data Computed
+0
+Cost
+$
+0.03
+
+Dask users often process cloud data at $0.10 per TiB
+
+Open Source Deployment
+Managed Cloud
+Where you can run Dask
+Open Source Deployment
+
+Run Dask on your laptop (it’s trivial) or deploy it on any resource manager like Kubernetes, an HPC job schedulers, cloud SaaS services, or even legacy Hadoop/Spark clusters.
+
+Documentation
+Dask deployment video
+from dask.distributed import LocalCluster
+
+cluster = LocalCluster(
+    processes=False,
+)       
+client = cluster.get_client()
+
+# Use Dask locally
+import dask.dataframe as dd
+df = dd.read_parquet("/path/to/data.parquet")
+df.value.mean().compute()
+What users say about Dask
+People use Dask and like it! You won’t be alone!
+It’s easy
+It’s massive
+It solved my problem
+“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”
+Wes McKinney, Pandas
+“At Capital One, early implementations of Dask have reduced model training times by 91% within a few months of development effort.”
+Ryan McEntee, Capital One
+“My climate science research has been made possible by Dask. Dask integrates seamlessly with Xarray, making it easy to run large-scale computations on multi-dimensional datasets. I can focus on my research instead of thinking about parallelism.”
+Paige Martin, Pangeo
+“Dask shines when dealing with generic data structures which don’t conform to table-like structures. PySpark has RDDs, but who wants to code in Python and debug verbose Java logs?”
+Ajith Aravind, Simeio
+“Dask has transformed how the world interacts with weather, climate, and geospatial data by making it super easy to scale up data processing pipelines on HPC or cloud. Things that seemed impossible five years ago are now routine thanks to Dask.”
+Ryan Abernathy, Earthmover
+“With Dask, I can easily adapt code that runs on a single machine and scale it across an entire cluster. Very few other tools let you get going that quickly—across any language.”
+Jacqueline Nolis, Fanatics Inc.
+“Dask also makes it easy to deploy distributed work locally using multiple Python processes in a way that is nearly identical to how full production load is distributed.”
+Hugues Demers, Grubhub
+“To further accelerate our users’ ability to scale easily on the cloud, we expanded this by setting up pre-configured Horovod and Dask clusters.”
+Meenakshi Sharma, Wayfair
+“I used to work in Spark all the time. The sooner you move to Dask, the sooner you’ll be grateful you did.”
+John Renken, Rebuy
+Organizations That Use Dask
+Use Cases
+Anything you can do with Python, you can scale with Dask
+NYC Uber/Lyft
+Tools
+DataFrames
+Parquet
+Data
+50 GB of Parquet data
+Scalable ETL Pipeline
+Tools
+Deltalake
+Streamlit
+Prefect
+Data
+2 TB of TPC-H JSON records
+National Water Model
+Tools
+Xarray
+Zarr
+Flox
+Data
+250 TB of Zarr data
+TPC-H Benchmark
+Tools
+Spark
+DuckDB
+Polars
+Data
+Standard SQL benchmark results
+NASA Satellite Imagery
+Tools
+Geotiff
+Xarray
+Coiled
+Data
+1 TB of NetCDF files
+XGBoost Model Tuning
+Tools
+XGBoost
+Parquet
+Data
+75 GB of Parquet data
+Want more examples?
+Visit the Dask Blog or Dask Youtube Channel
+Dask Demo Day
+Dask YouTube Channel
+Super easy to get started
+You can run Dask right now on your computer. It’s simple and lightweight.
+Install Now
+
+        
+
+Most people use Dask just on their laptops to scale out to 100 GiB datasets. Dask works great on a single machine.
+Proceed to documentation
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.

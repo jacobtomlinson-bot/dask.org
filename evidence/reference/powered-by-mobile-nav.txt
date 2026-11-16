@@ -1,0 +1,47 @@
+Get Started
+Community
+Mailing List
+Get Help
+Powered By
+News & Events
+Blog
+Docs
+Powered by
+
+Dask is an open-source project, which means there are a lot of people we’d like to thank from code contributors to corporate support to the projects using Dask. And, as a successful open-source project, there are some stats to crow about, too. Collectively, maintained by hundreds of open source contributors across dozens of companies.
+
+Dask is supported by:
+Add us to Dask support
+Anaconda
+Dask is installed by default in Anaconda
+Coiled
+Coiled makes Dask infrastructure accessible to everyone
+NVIDIA
+Dask integrates with RAPIDS cuDF, XGBoost, and RAPIDS cuML for GPU-accelerated data analytics and machine learning.
+Saturn Cloud
+Saturn Cloud lets users create Dask clusters in a hosted platform or within their own AWS accounts.
+Companies
+Powered by Dask
+These companies are part of the larger Dask community. They’re either well-integrated with Dask or use Dask to power components of their infrastructure.
+Projects Powered by Dask
+These software projects are part of the larger Dask community. They’re either well-integrated with Dask or use Dask to power components of their infrastructure.
+Dask Adoption Metrics
+6,049,226*
+Monthly downloads
+*Mostly bots
+Big Data Tools*
+*Python 2021 Developers Survey
+See Python Developers Survey
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.

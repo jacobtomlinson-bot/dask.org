@@ -1,0 +1,1680 @@
+{
+  "title": "What is Dask?",
+  "text": "Community\nBlog\nDocs\nPowered by\n\nDask is an open-source project, which means there are a lot of people we’d like to thank from code contributors to corporate support to the projects using Dask. And, as a successful open-source project, there are some stats to crow about, too. Collectively, maintained by hundreds of open source contributors across dozens of companies.\n\nDask is supported by:\nAdd us to Dask support\nAnaconda\nDask is installed by default in Anaconda\nCoiled\nCoiled makes Dask infrastructure accessible to everyone\nNVIDIA\nDask integrates with RAPIDS cuDF, XGBoost, and RAPIDS cuML for GPU-accelerated data analytics and machine learning.\nSaturn Cloud\nSaturn Cloud lets users create Dask clusters in a hosted platform or within their own AWS accounts.\nCompanies\nPowered by Dask\nThese companies are part of the larger Dask community. They’re either well-integrated with Dask or use Dask to power components of their infrastructure.\nProjects Powered by Dask\nThese software projects are part of the larger Dask community. They’re either well-integrated with Dask or use Dask to power components of their infrastructure.\nDask Adoption Metrics\n6,049,226*\nMonthly downloads\n*Mostly bots\nBig Data Tools*\n*Python 2021 Developers Survey\nSee Python Developers Survey\nGet Started\nLatest\nCommunity\nGet Help\nPowered By\nDemo Day\nBlog\nDask Blog\nContribute\nBrand\nBrand Guidelines\ngo to github page\ngo to twitter page\ngo to youtube page\ngo to stackoverflow. page\ngo to dask discourse group page\n\nCopyright © 2026 Dask core developers. New-BSD Licensed.\n",
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 134,
+      "h": 42
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "alt": "get started icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "alt": "community icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "alt": "blog icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3865f_dask-powered-by.svg",
+      "alt": "",
+      "w": 720,
+      "h": 610
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3864f_anaconda.png",
+      "alt": "Anaconda",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38a4c_coiled%20black%20logo.png",
+      "alt": "Coiled",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38711_nvidia.png",
+      "alt": "NVIDIA",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3872c_saturn-cloud.png",
+      "alt": "Saturn Cloud",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3874d_barclays.png",
+      "alt": "Barclays",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38664_capital-one.png",
+      "alt": "Capital One",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38787_chan-zuckerberg-initiative.png",
+      "alt": "Chan Zuckerberg Initiative",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38788_citi-bank.png",
+      "alt": "CitiBank",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf386eb_deshaw-co.png",
+      "alt": "DE Shaw & Co",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38789_grubhub.png",
+      "alt": "Grubhub",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878a_microsoft.png",
+      "alt": "Microsoft",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878b_mit.png",
+      "alt": "MIT",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878c_nasa.png",
+      "alt": "NASA",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878d_nih.png",
+      "alt": "National Institute of Health",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878e_novartis.png",
+      "alt": "Novartis",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878f_oak-ridge.png",
+      "alt": "Oak Ridge National Laboratory",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38790_shell.png",
+      "alt": "Shell",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38791_us-air-force.png",
+      "alt": "US Air Force",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38792_walmart.png",
+      "alt": "Walmart",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38793_wayfair.png",
+      "alt": "Wayfair",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38794_cesium.png",
+      "alt": "Cesium",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38795_contra-force.png",
+      "alt": "Contra Force",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38796_dataprep.png",
+      "alt": "Data Prep",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3879d_datashader.png",
+      "alt": "Datashader",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf387b3_featuretools.png",
+      "alt": "FeatureTools",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf387c6_intake.png",
+      "alt": "Intake",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf387dd_iris.png",
+      "alt": "Iris",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf387f0_kartothek.png",
+      "alt": "Kartothek",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38804_light-gbm.png",
+      "alt": "LightGBM",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38817_mo-analysis.png",
+      "alt": "MO Analysis",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38829_napari.png",
+      "alt": "Napari",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3882a_numpy.png",
+      "alt": "NumPy",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3882b_pandas.png",
+      "alt": "Pandas",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3882c_pangeo.png",
+      "alt": "Pangeo",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3882d_prefect.png",
+      "alt": "Prefect",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3882e_rapids.png",
+      "alt": "Rapids",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3882f_satpy.png",
+      "alt": "SatPy",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38830_scikit-allel.png",
+      "alt": "Scikit-allel",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38831_scikit-image.png",
+      "alt": "Scikit-image",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38832_scikit-learn.png",
+      "alt": "Scikit learn",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38833_skyportal.png",
+      "alt": "SkyPortal",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38834_snorkel.png",
+      "alt": "Snorkel",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38835_stumpy.png",
+      "alt": "Stumpy",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38836_tpot.png",
+      "alt": "TPOT",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38848_tsfresh.png",
+      "alt": "tsfresh",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3884a_xarray.png",
+      "alt": "xarray",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38849_Xarray-Spatial.png",
+      "alt": "Xarray Spatial",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3885c_xGBoost.png",
+      "alt": "XGBoost",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a6_dask-chart-2.svg",
+      "alt": "Dask adoption metrics chart",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 152,
+      "h": 48
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+      "alt": "Github icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38655_twitter.svg",
+      "alt": "Twitter icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38656_youtube.svg",
+      "alt": "YouTube icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38657_stack-x.svg",
+      "alt": "Stack Overflow icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+      "alt": "Chat icon\n",
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Get Started",
+      "href": "/get-started"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Mailing List",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "News & Events",
+      "href": "/archive/2022-news-events"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Docs",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Submit New Event",
+      "href": "#w-tabs-0-data-w-pane-0"
+    },
+    {
+      "text": "Submit News Feature",
+      "href": "#w-tabs-0-data-w-pane-1"
+    },
+    {
+      "text": "Sign up for Newsletter",
+      "href": "#w-tabs-0-data-w-pane-2"
+    },
+    {
+      "text": "Add us to Dask support",
+      "href": "#"
+    },
+    {
+      "text": "Anaconda\nDask is installed by default in Anaconda",
+      "href": "http://anaconda.com"
+    },
+    {
+      "text": "Coiled\nCoiled makes Dask infrastructure accessible to everyone",
+      "href": "http://coiled.io"
+    },
+    {
+      "text": "NVIDIA\nDask integrates with RAPIDS cuDF, XGBoost, and RAPIDS cuML for GPU-accelerated data analytics and machine learning.",
+      "href": "https://www.nvidia.com/en-us/deep-learning-ai/software/rapids/"
+    },
+    {
+      "text": "Saturn Cloud\nSaturn Cloud lets users create Dask clusters in a hosted platform or within their own AWS accounts.",
+      "href": "https://saturncloud.io"
+    },
+    {
+      "text": "See Python Developers Survey",
+      "href": "https://lp.jetbrains.com/python-developers-survey-2021/#FrameworksLibraries"
+    },
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Latest",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Community",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Blog",
+      "href": "#"
+    },
+    {
+      "text": "Dask Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Contribute",
+      "href": "https://github.com/dask/dask-blog/blob/gh-pages/README.md"
+    },
+    {
+      "text": "Brand",
+      "href": "#"
+    },
+    {
+      "text": "Brand Guidelines",
+      "href": "/brand-guide"
+    },
+    {
+      "text": "go to github page",
+      "href": "https://github.com/dask/dask"
+    },
+    {
+      "text": "go to twitter page",
+      "href": "https://twitter.com/dask_dev"
+    },
+    {
+      "text": "go to youtube page",
+      "href": "https://www.youtube.com/c/Dask-dev"
+    },
+    {
+      "text": "go to stackoverflow. page",
+      "href": "https://stackoverflow.com/questions/tagged/dask"
+    },
+    {
+      "text": "go to dask discourse group page",
+      "href": "https://dask.discourse.group"
+    }
+  ],
+  "elements": [
+    {
+      "tag": "NAV",
+      "text": "Community\nBlog\nDocs",
+      "class": "nav-menu w-nav-menu",
+      "rect": {
+        "x": 214.171875,
+        "y": 11.984375,
+        "w": 1145.921875,
+        "h": 67
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "NAV",
+      "text": "Demo Day.cls-1{fill:#ebeaee;}Get Help.cls-1{fill:#ebeaee;}Powered By",
+      "class": "dropdown-list w-dropdown-list",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Submit New EventSubmit News FeatureSign up for NewsletterSubmit New EventThank you! Your submission has been received!Oops! Something went wrong while submitting the form.Submit Ne",
+      "class": "form-wrapper",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit New Event",
+      "class": "submit-event-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit News Feature",
+      "class": "press-mention-tab w-inline-block w-tab-link w--current",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Sign up for Newsletter",
+      "class": "maillist-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit New Event",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit New Event",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field middle w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 3% 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit News Feature",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit News Feature",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Sign up for Newsletter",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Sign up for Newsletter",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "300",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H1",
+      "text": "Powered by",
+      "class": "heading-xlarge-box powered",
+      "rect": {
+        "x": 80.203125,
+        "y": 198.96875,
+        "w": 372,
+        "h": 81
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "56.0016px",
+        "fontWeight": "700",
+        "lineHeight": "56.9952px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(8, 8, 21)",
+        "padding": "8.0064px 24.0048px",
+        "margin": "24.0048px 0px 24.0048px -28.8px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "6.0048px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Dask is an open-source project, which means there are a lot of people we’d like to thank from code contributors to corporate support to the projects using Dask. And, as a successfu",
+      "class": "",
+      "rect": {
+        "x": 109,
+        "y": 303.96875,
+        "w": 580.46875,
+        "h": 120
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Dask is supported by:\nAdd us to Dask support\nAnaconda\nDask is installed by default in Anaconda\nCoiled\nCoiled makes Dask infrastructure accessible to everyone\nNVIDIA\nDask integrates",
+      "class": "section-responsive bg-largegridbox no-bot-pad",
+      "rect": {
+        "x": 0,
+        "y": 651.984375,
+        "w": 1440,
+        "h": 641.21875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "80.0064px 81px 0px",
+        "margin": "0px 0px -1.152px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Dask is supported by:",
+      "class": "heading-medium",
+      "rect": {
+        "x": 125,
+        "y": 849.390625,
+        "w": 1230,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Anaconda",
+      "class": "",
+      "rect": {
+        "x": 125,
+        "y": 1153.328125,
+        "w": 245.046875,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Coiled",
+      "class": "",
+      "rect": {
+        "x": 445,
+        "y": 1153.328125,
+        "w": 245.046875,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "NVIDIA",
+      "class": "",
+      "rect": {
+        "x": 765,
+        "y": 1153.328125,
+        "w": 245.046875,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Saturn Cloud",
+      "class": "",
+      "rect": {
+        "x": 1085,
+        "y": 1153.328125,
+        "w": 245.046875,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Companies\nPowered by Dask\nThese companies are part of the larger Dask community. They’re either well-integrated with Dask or use Dask to power components of their infrastructure.",
+      "class": "section-responsive bg-largegridbox no-bot-pad",
+      "rect": {
+        "x": 0,
+        "y": 1292.0625,
+        "w": 1440,
+        "h": 1280.203125
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "80.0064px 81px 0px",
+        "margin": "0px 0px -1.152px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Companies\nPowered by Dask",
+      "class": "heading-medium",
+      "rect": {
+        "x": 125,
+        "y": 1521.375,
+        "w": 472.796875,
+        "h": 92
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Projects Powered by Dask\nThese software projects are part of the larger Dask community. They’re either well-integrated with Dask or use Dask to power components of their infrastruc",
+      "class": "section-responsive bg-largegridbox bot-pad",
+      "rect": {
+        "x": 0,
+        "y": 2571.125,
+        "w": 1440,
+        "h": 1757.296875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "300",
+        "lineHeight": "32px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "80.0064px 81px 158.4px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Projects Powered by Dask",
+      "class": "heading-medium",
+      "rect": {
+        "x": 125,
+        "y": 2815.890625,
+        "w": 1230,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Dask Adoption Metrics",
+      "class": "heading-medium",
+      "rect": {
+        "x": 105,
+        "y": 4422.296875,
+        "w": 396,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Copyright © 2026 Dask core developers. New-BSD Licensed.\n",
+      "class": "text-tiny white copyright",
+      "rect": {
+        "x": 126.078125,
+        "y": 5400.5,
+        "w": 461.453125,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "11.9952px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "24.0048px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    }
+  ],
+  "fonts": []
+}

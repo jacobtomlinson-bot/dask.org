@@ -1,0 +1,36 @@
+---
+const { name = 'ecosystem' } = Astro.props;
+---
+
+<svg
+  width="48"
+  height="48"
+  viewBox="0 0 48 48"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.6"
+  aria-hidden="true"
+>
+  {name === 'ecosystem' ? (
+    <>
+      <path d="m24 9-13 26h26L24 9Z" />
+      <circle cx="24" cy="8" r="5" fill="var(--icon-bg,white)" />
+      <circle cx="10" cy="36" r="5" fill="var(--icon-bg,white)" />
+      <circle cx="38" cy="36" r="5" fill="var(--icon-bg,white)" />
+      <circle cx="24" cy="26" r="6" stroke-dasharray="2 2" />
+      <path d="m24 14 0 6m-10 12 5-3m10 0 5 3" />
+    </>
+  ) : name === 'stories' ? (
+    <>
+      <path d="M12 8h18l8 8v26H12V8Z" />
+      <path d="M30 8v10h8M7 15v26h24M17 24h15m-15 6h15m-15 6h10" />
+      <path d="M5 20H2v7H0m2 0v7h3" />
+    </>
+  ) : (
+    <>
+      <rect x="9" y="5" width="34" height="29" rx="2" />
+      <rect x="15" y="10" width="23" height="16" rx="1" />
+      <path d="M3 11v30h34M20 35v5m-7 1h24M6 45h28" stroke-dasharray="2 1" />
+    </>
+  )}
+</svg>

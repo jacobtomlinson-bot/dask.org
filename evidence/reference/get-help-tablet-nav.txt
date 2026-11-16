@@ -1,0 +1,51 @@
+Get Started
+Community
+Mailing List
+Get Help
+Powered By
+News & Events
+Blog
+Docs
+Get Help
+Asking for help
+
+We welcome usage questions and bug reports from all users, even those who are new to using the project. There are a few things you can do to improve the likelihood of quickly getting a good answer.
+
+
+Ask questions in the right place
+
+We strongly prefer the use of Discourse or GitHub. Discourse and GitHub are more easily searchable by future users, and therefore can be useful to many more people than those directly involved. If you have a general question about how something should work or want best practices then use Discourse. If you think you have found a bug then use GitHub
+
+Ask only in one place
+
+Please restrict yourself to posting your question in only one place (likely the Dask Discourse or GitHub) and don’t post in both
+
+Create a minimal example
+
+It is ideal to create minimal, complete, verifiable examples. This significantly reduces the time that answerers spend understanding your situation, resulting in higher quality answers more quickly. See also this blog post about crafting minimal bug reports. These have a much higher likelihood of being answered
+
+Get Paid Support
+
+In addition to the previous options, paid support is available from the following organizations
+
+go to current company page
+go to current company page
+go to current company page
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+go to github page
+go to twitter page
+go to youtube page
+go to stackoverflow. page
+go to dask discourse group page
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.

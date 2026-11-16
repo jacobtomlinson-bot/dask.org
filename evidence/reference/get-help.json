@@ -1,0 +1,1426 @@
+{
+  "title": "Dask Help | Get Help",
+  "text": "Community\nBlog\nDocs\nGet Help\nAsking for help\n\nWe welcome usage questions and bug reports from all users, even those who are new to using the project. There are a few things you can do to improve the likelihood of quickly getting a good answer.\n\n\nAsk questions in the right place\n\nWe strongly prefer the use of Discourse or GitHub. Discourse and GitHub are more easily searchable by future users, and therefore can be useful to many more people than those directly involved. If you have a general question about how something should work or want best practices then use Discourse. If you think you have found a bug then use GitHub\n\nAsk only in one place\n\nPlease restrict yourself to posting your question in only one place (likely the Dask Discourse or GitHub) and don’t post in both\n\nCreate a minimal example\n\nIt is ideal to create minimal, complete, verifiable examples. This significantly reduces the time that answerers spend understanding your situation, resulting in higher quality answers more quickly. See also this blog post about crafting minimal bug reports. These have a much higher likelihood of being answered\n\nGet Paid Support\n\nIn addition to the previous options, paid support is available from the following organizations\n\ngo to current company page\ngo to current company page\ngo to current company page\nGet Started\nLatest\nCommunity\nGet Help\nPowered By\nDemo Day\nBlog\nDask Blog\nContribute\nBrand\nBrand Guidelines\ngo to github page\ngo to twitter page\ngo to youtube page\ngo to stackoverflow. page\ngo to dask discourse group page\n\nCopyright © 2026 Dask core developers. New-BSD Licensed.\n",
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 134,
+      "h": 42
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "alt": "get started icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "alt": "community icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "alt": "blog icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+      "alt": "Github icon",
+      "w": 64,
+      "h": 64
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+      "alt": "Chat icon\n",
+      "w": 64,
+      "h": 64
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3864f_anaconda.png",
+      "alt": "Anaconda",
+      "w": 203,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38a4c_coiled%20black%20logo.png",
+      "alt": "Coiled",
+      "w": 203,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38862_Quansight-01-01.svg",
+      "alt": "quansight",
+      "w": 203,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 152,
+      "h": 48
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+      "alt": "Github icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38655_twitter.svg",
+      "alt": "Twitter icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38656_youtube.svg",
+      "alt": "YouTube icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38657_stack-x.svg",
+      "alt": "Stack Overflow icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+      "alt": "Chat icon\n",
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Get Started",
+      "href": "/get-started"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Mailing List",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "News & Events",
+      "href": "/archive/2022-news-events"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Docs",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Submit New Event",
+      "href": "#w-tabs-0-data-w-pane-0"
+    },
+    {
+      "text": "Submit News Feature",
+      "href": "#w-tabs-0-data-w-pane-1"
+    },
+    {
+      "text": "Sign up for Newsletter",
+      "href": "#w-tabs-0-data-w-pane-2"
+    },
+    {
+      "text": "",
+      "href": "https://github.com/dask/dask"
+    },
+    {
+      "text": "",
+      "href": "https://dask.discourse.group"
+    },
+    {
+      "text": "Discourse",
+      "href": "https://dask.discourse.group"
+    },
+    {
+      "text": "GitHub",
+      "href": "https://github.com/dask/dask"
+    },
+    {
+      "text": "Discourse",
+      "href": "https://dask.discourse.group"
+    },
+    {
+      "text": "GitHub",
+      "href": "https://github.com/dask/dask"
+    },
+    {
+      "text": "See also",
+      "href": "#"
+    },
+    {
+      "text": "go to current company page",
+      "href": "http://anaconda.com"
+    },
+    {
+      "text": "go to current company page",
+      "href": "http://coiled.io"
+    },
+    {
+      "text": "go to current company page",
+      "href": "http://quansight.com/"
+    },
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Latest",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Community",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Blog",
+      "href": "#"
+    },
+    {
+      "text": "Dask Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Contribute",
+      "href": "https://github.com/dask/dask-blog/blob/gh-pages/README.md"
+    },
+    {
+      "text": "Brand",
+      "href": "#"
+    },
+    {
+      "text": "Brand Guidelines",
+      "href": "/brand-guide"
+    },
+    {
+      "text": "go to github page",
+      "href": "https://github.com/dask/dask"
+    },
+    {
+      "text": "go to twitter page",
+      "href": "https://twitter.com/dask_dev"
+    },
+    {
+      "text": "go to youtube page",
+      "href": "https://www.youtube.com/c/Dask-dev"
+    },
+    {
+      "text": "go to stackoverflow. page",
+      "href": "https://stackoverflow.com/questions/tagged/dask"
+    },
+    {
+      "text": "go to dask discourse group page",
+      "href": "https://dask.discourse.group"
+    }
+  ],
+  "elements": [
+    {
+      "tag": "NAV",
+      "text": "Community\nBlog\nDocs",
+      "class": "nav-menu w-nav-menu",
+      "rect": {
+        "x": 214.171875,
+        "y": 11.984375,
+        "w": 1145.921875,
+        "h": 67
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "NAV",
+      "text": "Demo Day.cls-1{fill:#ebeaee;}Get Help.cls-1{fill:#ebeaee;}Powered By",
+      "class": "dropdown-list w-dropdown-list",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Submit New EventSubmit News FeatureSign up for NewsletterSubmit New EventThank you! Your submission has been received!Oops! Something went wrong while submitting the form.Submit Ne",
+      "class": "form-wrapper",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit New Event",
+      "class": "submit-event-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit News Feature",
+      "class": "press-mention-tab w-inline-block w-tab-link w--current",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Sign up for Newsletter",
+      "class": "maillist-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit New Event",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit New Event",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field middle w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 3% 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "27px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit News Feature",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit News Feature",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "27px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Sign up for Newsletter",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Sign up for Newsletter",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "27px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H1",
+      "text": "Get Help",
+      "class": "heading-xlarge-box",
+      "rect": {
+        "x": 81,
+        "y": 170.96875,
+        "w": 288,
+        "h": 81
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "56.0016px",
+        "fontWeight": "700",
+        "lineHeight": "56.9952px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(8, 8, 21)",
+        "padding": "8.0064px 24.0048px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "6.0048px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Asking for help\n\nWe welcome usage questions and bug reports from all users, even those who are new to using the project. There are a few things you can do to improve the likelihood",
+      "class": "section-responsive bg-lightgrey",
+      "rect": {
+        "x": 0,
+        "y": 331.96875,
+        "w": 1440,
+        "h": 796.421875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "padding": "0px 81px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Asking for help",
+      "class": "",
+      "rect": {
+        "x": 121,
+        "y": 494.96875,
+        "w": 429,
+        "h": 56
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "45.9936px",
+        "fontWeight": "700",
+        "lineHeight": "56.0016px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "We welcome usage questions and bug reports from all users, even those who are new to using the project. There are a few things you can do to improve the likelihood of quickly getti",
+      "class": "",
+      "rect": {
+        "x": 121,
+        "y": 586.96875,
+        "w": 429,
+        "h": 96
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Ask questions in the right place",
+      "class": "",
+      "rect": {
+        "x": 674.78125,
+        "y": 437.34375,
+        "w": 653.015625,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "We strongly prefer the use of Discourse or GitHub. Discourse and GitHub are more easily searchable by future users, and therefore can be useful to many more people than those direc",
+      "class": "",
+      "rect": {
+        "x": 674.78125,
+        "y": 485.328125,
+        "w": 653.015625,
+        "h": 120
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Ask only in one place",
+      "class": "",
+      "rect": {
+        "x": 674.78125,
+        "y": 673.75,
+        "w": 653.015625,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Please restrict yourself to posting your question in only one place (likely the Dask Discourse or GitHub) and don’t post in both",
+      "class": "",
+      "rect": {
+        "x": 674.78125,
+        "y": 721.734375,
+        "w": 653.015625,
+        "h": 48
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Create a minimal example",
+      "class": "",
+      "rect": {
+        "x": 674.78125,
+        "y": 849.59375,
+        "w": 653.015625,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "It is ideal to create minimal, complete, verifiable examples. This significantly reduces the time that answerers spend understanding your situation, resulting in higher quality ans",
+      "class": "",
+      "rect": {
+        "x": 674.78125,
+        "y": 897.578125,
+        "w": 653.015625,
+        "h": 96
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Get Paid Support\n\nIn addition to the previous options, paid support is available from the following organizations\n\ngo to current company page\ngo to current company page\ngo to curre",
+      "class": "section-responsive bg-white",
+      "rect": {
+        "x": 0,
+        "y": 1128.390625,
+        "w": 1440,
+        "h": 400.71875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "padding": "81px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Get Paid Support",
+      "class": "heading-medium",
+      "rect": {
+        "x": 125,
+        "y": 1269.34375,
+        "w": 296,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "In addition to the previous options, paid support is available from the following organizations",
+      "class": "",
+      "rect": {
+        "x": 125,
+        "y": 1323.34375,
+        "w": 473.53125,
+        "h": 48
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 24.0048px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Copyright © 2026 Dask core developers. New-BSD Licensed.\n",
+      "class": "text-tiny white copyright",
+      "rect": {
+        "x": 126.078125,
+        "y": 1880.5,
+        "w": 461.453125,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "11.9952px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "24.0048px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    }
+  ],
+  "fonts": []
+}

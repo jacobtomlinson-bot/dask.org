@@ -1,0 +1,150 @@
+{
+  "logos": [
+    {
+      "text": "Logos\n\nThe Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text.\n\n\nDask logos are available below.\n\nDownload Logos\n\nWord Mark\n\nColor Alternatives\n\nLogo Mark",
+      "bg": "rgb(255, 255, 255)",
+      "color": "rgb(8, 8, 21)",
+      "ancestors": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "opacity": "1"
+        }
+      ]
+    },
+    {
+      "text": "Logos\n\nThe Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text.\n\n\nDask logos are available below.\n\nDownload Logos\n\nWord Mark\n\nColor Alternatives\n\nLogo Mark",
+      "bg": "rgb(239, 21, 97)",
+      "color": "rgb(8, 8, 21)",
+      "ancestors": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "opacity": "1"
+        }
+      ]
+    },
+    {
+      "text": "Logos\n\nThe Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text.\n\n\nDask logos are available below.\n\nDownload Logos\n\nWord Mark\n\nColor Alternatives\n\nLogo Mark",
+      "bg": "rgb(31, 90, 255)",
+      "color": "rgb(8, 8, 21)",
+      "ancestors": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "opacity": "1"
+        }
+      ]
+    },
+    {
+      "text": "Logos\n\nThe Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text.\n\n\nDask logos are available below.\n\nDownload Logos\n\nWord Mark\n\nColor Alternatives\n\nLogo Mark",
+      "bg": "rgb(8, 8, 21)",
+      "color": "rgb(8, 8, 21)",
+      "ancestors": [
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "opacity": "1"
+        },
+        {
+          "bg": "rgba(0, 0, 0, 0)",
+          "opacity": "1"
+        }
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nWhite\n\n\n#FFFFFF\n\n\nAccessible Text Colors\n\n\n#EF1561(AA18) #1F5AFF(AA) #183D72(AAA) #33363D(AAA) #262326(AAA) #080815(AAA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(255, 255, 255)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nGreen\n\n\n#61BA92\n\n\nAccessible Text Colors\n\n\n#33363D(AA) #262326(AA) #080815(AA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(97, 186, 146)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nLight Grey\n\n\n#F6F6F6\n\n\nAccessible Text Colors\n\n\n#EF1561(AA18) #1F5AFF(AA) #183D72(AAA) #33363D(AAA) #262326(AAA) #080815(AAA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(246, 246, 246)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nBlue\n\n\n#1F5AFF\n\n\nAccessible Text Colors\n\n\n#FFFFFF(AA) #F6F6F6(AA) #EBEAEE(AA18) #FFC11E(AA18)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(31, 90, 255)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nMedium Grey\n\n\n#EBEAEE\n\n\nAccessible Text Colors\n\n\n#EF1561(AA18) #1F5AFF(AA) #183D72(AAA) #33363D(AAA) #262326(AAA) #080815(AAA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(235, 234, 238)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nNavy\n\n\n#183D72\n\n\nAccessible Text Colors\n\n\n#FFFFFF(AAA) #F6F6F6(AAA) #EBEAEE(AA18A) #FFC11E(AAA) #FC6E6B(AA18) #61BA92(AA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(24, 61, 114)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nMedium Grey\n\n\n#EBEAEE\n\n\nAccessible Text Colors\n\n\n#1F5AFF(AA) #183D72(AAA) #33363D(AAA) #262326(AAA) #080815(AAA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(255, 193, 30)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nSlate Grey\n\n\n#EBEAEE\n\n\nAccessible Text Colors\n\n\n#FFFFFF(AAA) #F6F6F6(AAA) #EBEAEE(AA18A) #FFC11E(AAA) #FC6E6B(AA18) #61BA92(AA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(51, 54, 61)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nSalmon\n\n\n#FC6E6B\n\n\nAccessible Text Colors\n\n\n#33363D(AA18) #262326(AA) #080815(AA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(252, 110, 107)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nCharcoal\n\n\n#262326\n\n\nAccessible Text Colors\n\n\n#FFFFFF(AAA) #F6F6F6(AAA) #EBEAEE(AA18A) #FFC11E(AAA) #FC6E6B(AA18) #61BA92(AA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(38, 35, 38)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nRed\n\n\n#EF1561\n\n\nAccessible Text Colors\n\n\n#FFFFFF(AA) #F6F6F6(AA18) #EBEAEE(AA18A)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(239, 21, 97)"
+    },
+    {
+      "text": "Colors\n\nSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).\n\n\nBlack\n\n\n#080815\n\n\nAccessible Text Colors\n\n\n#FFFFFF(AAA) #F6F6F6(AAA) #EBEAEE(AA18A) #FFC11E(AAA) #FC6E6B(AA18) #61BA92(AA)\n\n\nCopy Hex Code",
+      "bg": "rgba(0, 0, 0, 0)",
+      "color": "rgb(8, 8, 21)",
+      "opacity": "1",
+      "parentBg": "rgb(8, 8, 21)"
+    }
+  ]
+}

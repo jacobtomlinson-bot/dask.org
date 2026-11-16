@@ -1,0 +1,4286 @@
+[
+  {
+    "slug": "home",
+    "view": "desktop",
+    "referenceSize": [
+      1440,
+      8267
+    ],
+    "localSize": [
+      1440,
+      8285
+    ],
+    "differentPixels": 752937,
+    "differencePercent": 6.311,
+    "topViewportDifferencePercent": 8.935,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Parallel PythonFast and EasyEasy Parallel Python that does w",
+        "rect": [
+          0,
+          91,
+          1440,
+          1210
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Parallel Python",
+        "rect": [
+          81,
+          183,
+          391,
+          81
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Fast and Easy",
+        "rect": [
+          81,
+          272,
+          363,
+          81
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "What you can do with Dask",
+        "rect": [
+          162,
+          582,
+          1116,
+          56
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Big Pandas",
+        "rect": [
+          186,
+          776,
+          536,
+          46
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Parallel For Loops",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Big Arrays",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Machine Learning",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Performance at ScaleFast on MachinesDask is lightweight, and",
+        "rect": [
+          0,
+          1301,
+          1440,
+          1502
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Performance at Scale",
+        "rect": [
+          81,
+          1381,
+          1278,
+          56
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Fast on Machines",
+        "rect": [
+          131,
+          1609,
+          537,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Made for Humans",
+        "rect": [
+          772,
+          2022,
+          537,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Cheap and Efficient",
+        "rect": [
+          81,
+          2363,
+          1278,
+          32
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Where you can run DaskOpen Source DeploymentManaged CloudOpe",
+        "rect": [
+          0,
+          2803,
+          1440,
+          718
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Where you can run Dask",
+        "rect": [
+          362,
+          2883,
+          716,
+          81
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Open Source Deployment",
+        "rect": [
+          186,
+          3087,
+          536,
+          46
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Managed Cloud",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "What users say about DaskPeople use Dask and like it!You won",
+        "rect": [
+          0,
+          3521,
+          1440,
+          1844
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "What users say about Dask",
+        "rect": [
+          105,
+          3674,
+          431,
+          112
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Organizations That Use Dask",
+        "rect": [
+          0,
+          5365,
+          1440,
+          559
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Organizations That Use Dask",
+        "rect": [
+          81,
+          5421,
+          1278,
+          46
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Use CasesAnything you can do with Python, you can scale with",
+        "rect": [
+          0,
+          5924,
+          1440,
+          1215
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Use Cases",
+        "rect": [
+          575,
+          6084,
+          291,
+          80
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "NYC Uber/Lyft",
+        "rect": [
+          119,
+          6358,
+          238,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Scalable ETL Pipeline",
+        "rect": [
+          441,
+          6358,
+          238,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "National Water Model",
+        "rect": [
+          762,
+          6358,
+          238,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "TPC-H Benchmark",
+        "rect": [
+          1084,
+          6358,
+          238,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "NASA Satellite Imagery",
+        "rect": [
+          119,
+          6734,
+          238,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "XGBoost Model Tuning",
+        "rect": [
+          441,
+          6734,
+          238,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Want more examples?",
+        "rect": [
+          748,
+          6711,
+          587,
+          46
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Super easy to get startedYou can run Dask right now on your ",
+        "rect": [
+          0,
+          7139,
+          1440,
+          400
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Super easy to get started",
+        "rect": [
+          81,
+          7243,
+          599,
+          46
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Most people use Dask just on their laptops to scale out to 1",
+        "rect": [
+          0,
+          7539,
+          1440,
+          264
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          7803,
+          1440,
+          482
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          752,
+          7916,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          901,
+          7916,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          1049,
+          7916,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          1198,
+          7916,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "get-started",
+    "view": "desktop",
+    "referenceSize": [
+      1440,
+      4252
+    ],
+    "localSize": [
+      1440,
+      4256
+    ],
+    "differentPixels": 163303,
+    "differencePercent": 2.665,
+    "topViewportDifferencePercent": 1.855,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Get Started with DaskReady to dive in? We’re here to help.",
+        "rect": [
+          0,
+          91,
+          1440,
+          325
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Get Started with Dask",
+        "rect": [
+          393,
+          171,
+          654,
+          81
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Install DaskDask is included by default in Anaconda. You can",
+        "rect": [
+          0,
+          416,
+          1440,
+          479
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Install Dask",
+        "rect": [
+          109,
+          496,
+          437,
+          46
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Learn Your Way AroundDo you have a few minutes – or a few ho",
+        "rect": [
+          0,
+          895,
+          1440,
+          1037
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Learn Your Way Around",
+        "rect": [
+          457,
+          1009,
+          902,
+          56
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Introduction to Dask",
+        "rect": [
+          445,
+          1256,
+          246,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "10 Minutes to Dask",
+        "rect": [
+          779,
+          1256,
+          246,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Dask Tutorial",
+        "rect": [
+          1113,
+          1256,
+          246,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Dask Video Tutorial",
+        "rect": [
+          445,
+          1576,
+          246,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Dask Tutorial Recording",
+        "rect": [
+          779,
+          1576,
+          246,
+          32
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Explore the PossibilitiesDask is a versatile tool that suppo",
+        "rect": [
+          0,
+          1932,
+          1440,
+          1119
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Explore the Possibilities",
+        "rect": [
+          81,
+          2100,
+          1278,
+          56
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Ecosystem",
+        "rect": [
+          467,
+          2620,
+          507,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Case studies",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Examples",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Dig Deeper into DaskDask has published extensive resources t",
+        "rect": [
+          0,
+          3051,
+          1440,
+          322
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Dig Deeper into Dask",
+        "rect": [
+          81,
+          3123,
+          1278,
+          46
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Get More HelpYou can get help by posting questions on the Da",
+        "rect": [
+          0,
+          3373,
+          1440,
+          401
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get More Help",
+        "rect": [
+          125,
+          3487,
+          472,
+          46
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          3774,
+          1440,
+          482
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          752,
+          3887,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          901,
+          3887,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          1049,
+          3887,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          1198,
+          3887,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "get-help",
+    "view": "desktop",
+    "referenceSize": [
+      1440,
+      2011
+    ],
+    "localSize": [
+      1440,
+      2011
+    ],
+    "differentPixels": 59829,
+    "differencePercent": 2.066,
+    "topViewportDifferencePercent": 2.715,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Get Help",
+        "rect": [
+          0,
+          91,
+          1440,
+          241
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Get Help",
+        "rect": [
+          81,
+          171,
+          286,
+          81
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Asking for helpWe welcome usage questions and bug reports fr",
+        "rect": [
+          0,
+          332,
+          1440,
+          796
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Asking for help",
+        "rect": [
+          121,
+          495,
+          429,
+          56
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Ask questions in the right place",
+        "rect": [
+          675,
+          437,
+          644,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Ask only in one place",
+        "rect": [
+          675,
+          676,
+          644,
+          32
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Create a minimal example",
+        "rect": [
+          675,
+          843,
+          644,
+          32
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Get Paid SupportIn addition to the previous options, paid su",
+        "rect": [
+          0,
+          1128,
+          1440,
+          401
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Paid Support",
+        "rect": [
+          125,
+          1266,
+          472,
+          46
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          1529,
+          1440,
+          482
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          752,
+          1642,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          901,
+          1642,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          1049,
+          1642,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          1198,
+          1642,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "powered-by",
+    "view": "desktop",
+    "referenceSize": [
+      1440,
+      5531
+    ],
+    "localSize": [
+      1440,
+      5533
+    ],
+    "differentPixels": 262968,
+    "differencePercent": 3.301,
+    "topViewportDifferencePercent": 4.596,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Powered byDask is an open-source project, which means there ",
+        "rect": [
+          0,
+          91,
+          1440,
+          561
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Powered by",
+        "rect": [
+          81,
+          199,
+          370,
+          81
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Dask is supported by:Add us to Dask supportAnacondaDask is i",
+        "rect": [
+          0,
+          652,
+          1440,
+          641
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Dask is supported by:",
+        "rect": [
+          125,
+          849,
+          1190,
+          46
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Anaconda",
+        "rect": [
+          125,
+          1159,
+          244,
+          65
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Coiled",
+        "rect": [
+          441,
+          1159,
+          244,
+          65
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "NVIDIA",
+        "rect": [
+          756,
+          1159,
+          244,
+          65
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Saturn Cloud",
+        "rect": [
+          1072,
+          1159,
+          244,
+          65
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "CompaniesPowered by DaskThese companies are part of the larg",
+        "rect": [
+          0,
+          1293,
+          1440,
+          1280
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "CompaniesPowered by Dask",
+        "rect": [
+          125,
+          1521,
+          473,
+          92
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Projects Powered by DaskThese software projects are part of ",
+        "rect": [
+          0,
+          2573,
+          1440,
+          1757
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Projects Powered by Dask",
+        "rect": [
+          125,
+          2818,
+          650,
+          46
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Dask Adoption Metrics6,049,226*Monthly downloads*Mostly bots",
+        "rect": [
+          0,
+          4330,
+          1440,
+          721
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Dask Adoption Metrics",
+        "rect": [
+          105,
+          4424,
+          1230,
+          46
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          5051,
+          1440,
+          482
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          752,
+          5164,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          901,
+          5164,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          1049,
+          5164,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          1198,
+          5164,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "brand-guide",
+    "view": "desktop",
+    "referenceSize": [
+      1440,
+      5128
+    ],
+    "localSize": [
+      1440,
+      5132
+    ],
+    "differentPixels": 344536,
+    "differencePercent": 4.662,
+    "topViewportDifferencePercent": 3.719,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Brand GuideThis site includes both resources and guidelines ",
+        "rect": [
+          0,
+          91,
+          1440,
+          561
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Brand Guide",
+        "rect": [
+          81,
+          199,
+          388,
+          81
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Logos",
+        "rect": [
+          139,
+          808,
+          445,
+          46
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Word Mark",
+        "rect": [
+          744,
+          772,
+          696,
+          24
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Logo Mark",
+        "rect": [
+          744,
+          1347,
+          696,
+          24
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Colors",
+        "rect": [
+          139,
+          1892,
+          566,
+          46
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Typography",
+        "rect": [
+          139,
+          2685,
+          513,
+          46
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Tone",
+        "rect": [
+          139,
+          3572,
+          488,
+          46
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          4650,
+          1440,
+          482
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          752,
+          4763,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          901,
+          4763,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          1049,
+          4763,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          1198,
+          4763,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "press-mentions",
+    "view": "desktop",
+    "referenceSize": [
+      1440,
+      2379
+    ],
+    "localSize": [
+      1440,
+      2379
+    ],
+    "differentPixels": 70787,
+    "differencePercent": 2.066,
+    "topViewportDifferencePercent": 1.977,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Press Mentions",
+        "rect": [
+          0,
+          91,
+          1440,
+          241
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Press Mentions",
+        "rect": [
+          81,
+          171,
+          472,
+          81
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Add a press mentionJuly 19, 2022Using AI and machine learnin",
+        "rect": [
+          0,
+          332,
+          1440,
+          1565
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Using AI and machine learning to kickstart climate change fi",
+        "rect": [
+          703,
+          469,
+          613,
+          64
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "The New Dask: The Open Source Library for Scaling Python Rev",
+        "rect": [
+          703,
+          635,
+          613,
+          64
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Distributed Computing for AI: A Status Report",
+        "rect": [
+          703,
+          806,
+          613,
+          32
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "IMD & IRD Awards 2022: Best market data newcomer",
+        "rect": [
+          703,
+          949,
+          613,
+          32
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Python at Scale Summit, Presented by NumFOCUS Opens the Call",
+        "rect": [
+          703,
+          1087,
+          613,
+          64
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Forecasting Grubhub Order Volume At Scale",
+        "rect": [
+          703,
+          1258,
+          613,
+          32
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "HPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Com",
+        "rect": [
+          703,
+          1396,
+          613,
+          64
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Coiled Finds Traction in Deploying Dask at Scale",
+        "rect": [
+          703,
+          1567,
+          613,
+          32
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "6 essential Python tools for data science—now improved",
+        "rect": [
+          703,
+          1710,
+          613,
+          32
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          1897,
+          1440,
+          482
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          752,
+          2010,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          901,
+          2010,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          1049,
+          2010,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          1198,
+          2010,
+          117,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "home",
+    "view": "tablet",
+    "referenceSize": [
+      768,
+      7905
+    ],
+    "localSize": [
+      768,
+      7905
+    ],
+    "differentPixels": 571278,
+    "differencePercent": 9.41,
+    "topViewportDifferencePercent": 18.072,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Parallel PythonFast and EasyEasy Parallel Python that does w",
+        "rect": [
+          0,
+          80,
+          768,
+          918
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Parallel Python",
+        "rect": [
+          56,
+          206,
+          248,
+          56
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Fast and Easy",
+        "rect": [
+          56,
+          266,
+          232,
+          56
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "What you can do with Dask",
+        "rect": [
+          56,
+          523,
+          656,
+          35
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Big Pandas",
+        "rect": [
+          70,
+          639,
+          296,
+          30
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Parallel For Loops",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Big Arrays",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Machine Learning",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Performance at ScaleFast on MachinesDask is lightweight, and",
+        "rect": [
+          0,
+          998,
+          768,
+          1241
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Performance at Scale",
+        "rect": [
+          56,
+          1063,
+          656,
+          35
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Fast on Machines",
+        "rect": [
+          76,
+          1175,
+          286,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Made for Humans",
+        "rect": [
+          406,
+          1448,
+          286,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Cheap and Efficient",
+        "rect": [
+          76,
+          1770,
+          616,
+          27
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Where you can run DaskOpen Source DeploymentManaged CloudOpe",
+        "rect": [
+          0,
+          2239,
+          768,
+          539
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Where you can run Dask",
+        "rect": [
+          127,
+          2293,
+          514,
+          56
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Open Source Deployment",
+        "rect": [
+          72,
+          2420,
+          294,
+          61
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Managed Cloud",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "What users say about DaskPeople use Dask and like it!You won",
+        "rect": [
+          0,
+          2778,
+          768,
+          2145
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "What users say about Dask",
+        "rect": [
+          69,
+          2902,
+          229,
+          71
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Organizations That Use Dask",
+        "rect": [
+          0,
+          4923,
+          768,
+          597
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Organizations That Use Dask",
+        "rect": [
+          56,
+          4962,
+          656,
+          30
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Use CasesAnything you can do with Python, you can scale with",
+        "rect": [
+          0,
+          5520,
+          768,
+          1140
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Use Cases",
+        "rect": [
+          291,
+          5630,
+          186,
+          57
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "NYC Uber/Lyft",
+        "rect": [
+          76,
+          5834,
+          175,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Scalable ETL Pipeline",
+        "rect": [
+          296,
+          5834,
+          175,
+          54
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "National Water Model",
+        "rect": [
+          517,
+          5834,
+          175,
+          54
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "TPC-H Benchmark",
+        "rect": [
+          76,
+          6139,
+          175,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "NASA Satellite Imagery",
+        "rect": [
+          296,
+          6139,
+          175,
+          54
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "XGBoost Model Tuning",
+        "rect": [
+          517,
+          6139,
+          175,
+          54
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Want more examples?",
+        "rect": [
+          80,
+          6384,
+          608,
+          30
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Super easy to get startedYou can run Dask right now on your ",
+        "rect": [
+          0,
+          6660,
+          768,
+          325
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Super easy to get started",
+        "rect": [
+          56,
+          6725,
+          312,
+          71
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Most people use Dask just on their laptops to scale out to 1",
+        "rect": [
+          0,
+          6985,
+          768,
+          272
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          7257,
+          768,
+          648
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          78,
+          7429,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          239,
+          7429,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          400,
+          7429,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          561,
+          7429,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "get-started",
+    "view": "tablet",
+    "referenceSize": [
+      768,
+      3771
+    ],
+    "localSize": [
+      768,
+      3771
+    ],
+    "differentPixels": 193567,
+    "differencePercent": 6.684,
+    "topViewportDifferencePercent": 5.504,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Get Started with DaskReady to dive in? We’re here to help.",
+        "rect": [
+          0,
+          80,
+          768,
+          217
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Get Started with Dask",
+        "rect": [
+          149,
+          134,
+          469,
+          57
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Install DaskDask is included by default in Anaconda. You can",
+        "rect": [
+          0,
+          297,
+          768,
+          323
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Install Dask",
+        "rect": [
+          71,
+          321,
+          305,
+          30
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Learn Your Way AroundDo you have a few minutes – or a few ho",
+        "rect": [
+          0,
+          620,
+          768,
+          921
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Learn Your Way Around",
+        "rect": [
+          290,
+          692,
+          416,
+          35
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Introduction to Dask",
+        "rect": [
+          287,
+          891,
+          180,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "10 Minutes to Dask",
+        "rect": [
+          527,
+          891,
+          180,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Dask Tutorial",
+        "rect": [
+          287,
+          1112,
+          180,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Dask Video Tutorial",
+        "rect": [
+          527,
+          1112,
+          180,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Dask Tutorial Recording",
+        "rect": [
+          287,
+          1351,
+          180,
+          54
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Explore the PossibilitiesDask is a versatile tool that suppo",
+        "rect": [
+          0,
+          1541,
+          768,
+          767
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Explore the Possibilities",
+        "rect": [
+          56,
+          1660,
+          656,
+          35
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Ecosystem",
+        "rect": [
+          96,
+          2024,
+          576,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Case studies",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Examples",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Dig Deeper into DaskDask has published extensive resources t",
+        "rect": [
+          0,
+          2308,
+          768,
+          437
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Dig Deeper into Dask",
+        "rect": [
+          56,
+          2392,
+          656,
+          30
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Get More HelpYou can get help by posting questions on the Da",
+        "rect": [
+          0,
+          2745,
+          768,
+          378
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get More Help",
+        "rect": [
+          80,
+          2836,
+          608,
+          30
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          3123,
+          768,
+          648
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          78,
+          3295,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          239,
+          3295,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          400,
+          3295,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          561,
+          3295,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "get-help",
+    "view": "tablet",
+    "referenceSize": [
+      768,
+      2079
+    ],
+    "localSize": [
+      768,
+      2079
+    ],
+    "differentPixels": 75007,
+    "differencePercent": 4.698,
+    "topViewportDifferencePercent": 6.643,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Get Help",
+        "rect": [
+          0,
+          80,
+          768,
+          162
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Get Help",
+        "rect": [
+          56,
+          134,
+          211,
+          57
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Asking for helpWe welcome usage questions and bug reports fr",
+        "rect": [
+          0,
+          242,
+          768,
+          811
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Asking for help",
+        "rect": [
+          89,
+          342,
+          191,
+          71
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Ask questions in the right place",
+        "rect": [
+          344,
+          342,
+          335,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Ask only in one place",
+        "rect": [
+          344,
+          597,
+          335,
+          27
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Create a minimal example",
+        "rect": [
+          344,
+          772,
+          335,
+          27
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Get Paid SupportIn addition to the previous options, paid su",
+        "rect": [
+          0,
+          1053,
+          768,
+          378
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Paid Support",
+        "rect": [
+          80,
+          1155,
+          608,
+          30
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          1431,
+          768,
+          648
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          78,
+          1603,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          239,
+          1603,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          400,
+          1603,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          561,
+          1603,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "powered-by",
+    "view": "tablet",
+    "referenceSize": [
+      768,
+      4473
+    ],
+    "localSize": [
+      768,
+      4477
+    ],
+    "differentPixels": 161341,
+    "differencePercent": 4.692,
+    "topViewportDifferencePercent": 8.935,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Powered byDask is an open-source project, which means there ",
+        "rect": [
+          0,
+          80,
+          768,
+          378
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Powered by",
+        "rect": [
+          56,
+          135,
+          255,
+          57
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Dask is supported by:Add us to Dask supportAnacondaDask is i",
+        "rect": [
+          0,
+          458,
+          768,
+          550
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Dask is supported by:",
+        "rect": [
+          80,
+          588,
+          608,
+          30
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Anaconda",
+        "rect": [
+          80,
+          811,
+          125,
+          48
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Coiled",
+        "rect": [
+          241,
+          811,
+          125,
+          48
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "NVIDIA",
+        "rect": [
+          402,
+          811,
+          125,
+          48
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Saturn Cloud",
+        "rect": [
+          563,
+          811,
+          125,
+          48
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "CompaniesPowered by DaskThese companies are part of the larg",
+        "rect": [
+          0,
+          1008,
+          768,
+          879
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "CompaniesPowered by Dask",
+        "rect": [
+          80,
+          1158,
+          242,
+          61
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Projects Powered by DaskThese software projects are part of ",
+        "rect": [
+          0,
+          1887,
+          768,
+          1183
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Projects Powered by Dask",
+        "rect": [
+          80,
+          2067,
+          608,
+          30
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Dask Adoption Metrics6,049,226*Monthly downloads*Mostly bots",
+        "rect": [
+          0,
+          3070,
+          768,
+          759
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Dask Adoption Metrics",
+        "rect": [
+          69,
+          3162,
+          630,
+          30
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          3829,
+          768,
+          648
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          78,
+          4001,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          239,
+          4001,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          400,
+          4001,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          561,
+          4001,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "brand-guide",
+    "view": "tablet",
+    "referenceSize": [
+      768,
+      4216
+    ],
+    "localSize": [
+      768,
+      4216
+    ],
+    "differentPixels": 214132,
+    "differencePercent": 6.613,
+    "topViewportDifferencePercent": 7.617,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Brand GuideThis site includes both resources and guidelines ",
+        "rect": [
+          0,
+          80,
+          768,
+          378
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Brand Guide",
+        "rect": [
+          56,
+          135,
+          266,
+          57
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Logos",
+        "rect": [
+          86,
+          532,
+          262,
+          30
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Word Mark",
+        "rect": [
+          393,
+          538,
+          375,
+          20
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Logo Mark",
+        "rect": [
+          393,
+          878,
+          375,
+          20
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Colors",
+        "rect": [
+          86,
+          1171,
+          291,
+          30
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Typography",
+        "rect": [
+          88,
+          1746,
+          261,
+          30
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Tone",
+        "rect": [
+          88,
+          2317,
+          274,
+          30
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          3568,
+          768,
+          648
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          78,
+          3740,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          239,
+          3740,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          400,
+          3740,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          561,
+          3740,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "press-mentions",
+    "view": "tablet",
+    "referenceSize": [
+      768,
+      2251
+    ],
+    "localSize": [
+      768,
+      2251
+    ],
+    "differentPixels": 92633,
+    "differencePercent": 5.358,
+    "topViewportDifferencePercent": 5.47,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Press Mentions",
+        "rect": [
+          0,
+          80,
+          768,
+          162
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Press Mentions",
+        "rect": [
+          56,
+          134,
+          345,
+          57
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Add a press mentionJuly 19, 2022Using AI and machine learnin",
+        "rect": [
+          0,
+          242,
+          768,
+          1361
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Using AI and machine learning to kickstart climate change fi",
+        "rect": [
+          428,
+          340,
+          255,
+          81
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "The New Dask: The Open Source Library for Scaling Python Rev",
+        "rect": [
+          428,
+          495,
+          255,
+          81
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Distributed Computing for AI: A Status Report",
+        "rect": [
+          428,
+          650,
+          255,
+          54
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "IMD & IRD Awards 2022: Best market data newcomer",
+        "rect": [
+          428,
+          778,
+          255,
+          54
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Python at Scale Summit, Presented by NumFOCUS Opens the Call",
+        "rect": [
+          428,
+          906,
+          255,
+          81
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Forecasting Grubhub Order Volume At Scale",
+        "rect": [
+          428,
+          1060,
+          255,
+          54
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "HPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Com",
+        "rect": [
+          428,
+          1188,
+          255,
+          81
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Coiled Finds Traction in Deploying Dask at Scale",
+        "rect": [
+          428,
+          1343,
+          255,
+          54
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "6 essential Python tools for data science—now improved",
+        "rect": [
+          428,
+          1471,
+          255,
+          54
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          1603,
+          768,
+          648
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          78,
+          1775,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          239,
+          1775,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          400,
+          1775,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          561,
+          1775,
+          129,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "home",
+    "view": "mobile",
+    "referenceSize": [
+      390,
+      13663
+    ],
+    "localSize": [
+      390,
+      13803
+    ],
+    "differentPixels": 678804,
+    "differencePercent": 12.61,
+    "topViewportDifferencePercent": 17.025,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Parallel PythonFast and EasyEasy Parallel Python that does w",
+        "rect": [
+          0,
+          85,
+          390,
+          1863
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Parallel Python",
+        "rect": [
+          43,
+          218,
+          241,
+          37
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Fast and Easy",
+        "rect": [
+          43,
+          267,
+          224,
+          37
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "What you can do with Dask",
+        "rect": [
+          30,
+          908,
+          331,
+          75
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Big Pandas",
+        "rect": [
+          43,
+          1279,
+          305,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Parallel For Loops",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Big Arrays",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Machine Learning",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Performance at ScaleFast on MachinesDask is lightweight, and",
+        "rect": [
+          0,
+          1948,
+          390,
+          1720
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Performance at Scale",
+        "rect": [
+          38,
+          2036,
+          321,
+          75
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Fast on Machines",
+        "rect": [
+          40,
+          2277,
+          310,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Made for Humans",
+        "rect": [
+          40,
+          2773,
+          310,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Cheap and Efficient",
+        "rect": [
+          40,
+          3185,
+          311,
+          33
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Where you can run DaskOpen Source DeploymentManaged CloudOpe",
+        "rect": [
+          0,
+          3668,
+          390,
+          1149
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Where you can run Dask",
+        "rect": [
+          30,
+          3746,
+          331,
+          87
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Open Source Deployment",
+        "rect": [
+          43,
+          4045,
+          305,
+          67
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Managed Cloud",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "What users say about DaskPeople use Dask and like it!You won",
+        "rect": [
+          0,
+          4817,
+          390,
+          3348
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "What users say about Dask",
+        "rect": [
+          43,
+          4961,
+          305,
+          75
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Organizations That Use Dask",
+        "rect": [
+          0,
+          8165,
+          390,
+          739
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Organizations That Use Dask",
+        "rect": [
+          30,
+          8215,
+          331,
+          67
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Use CasesAnything you can do with Python, you can scale with",
+        "rect": [
+          0,
+          8904,
+          390,
+          2823
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Use Cases",
+        "rect": [
+          95,
+          9017,
+          201,
+          57
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "NYC Uber/Lyft",
+        "rect": [
+          52,
+          9303,
+          287,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Scalable ETL Pipeline",
+        "rect": [
+          52,
+          9679,
+          287,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "National Water Model",
+        "rect": [
+          52,
+          10055,
+          287,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "TPC-H Benchmark",
+        "rect": [
+          52,
+          10431,
+          287,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "NASA Satellite Imagery",
+        "rect": [
+          52,
+          10807,
+          287,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "XGBoost Model Tuning",
+        "rect": [
+          52,
+          11183,
+          287,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Want more examples?",
+        "rect": [
+          50,
+          11466,
+          291,
+          67
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Super easy to get startedYou can run Dask right now on your ",
+        "rect": [
+          0,
+          11727,
+          390,
+          494
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Super easy to get started",
+        "rect": [
+          30,
+          11816,
+          331,
+          75
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Most people use Dask just on their laptops to scale out to 1",
+        "rect": [
+          0,
+          12221,
+          390,
+          435
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          12656,
+          390,
+          1147
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          44,
+          12877,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          44,
+          13001,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          44,
+          13199,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          44,
+          13360,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "get-started",
+    "view": "mobile",
+    "referenceSize": [
+      390,
+      7137
+    ],
+    "localSize": [
+      390,
+      7136
+    ],
+    "differentPixels": 229590,
+    "differencePercent": 8.248,
+    "topViewportDifferencePercent": 6.257,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Get Started with DaskReady to dive in? We’re here to help.",
+        "rect": [
+          0,
+          85,
+          390,
+          316
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Get Started with Dask",
+        "rect": [
+          30,
+          155,
+          331,
+          103
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Install DaskDask is included by default in Anaconda. You can",
+        "rect": [
+          0,
+          401,
+          390,
+          747
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Install Dask",
+        "rect": [
+          44,
+          473,
+          303,
+          33
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Learn Your Way AroundDo you have a few minutes – or a few ho",
+        "rect": [
+          0,
+          1148,
+          390,
+          2286
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Learn Your Way Around",
+        "rect": [
+          37,
+          1269,
+          311,
+          75
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Introduction to Dask",
+        "rect": [
+          42,
+          1612,
+          306,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "10 Minutes to Dask",
+        "rect": [
+          42,
+          1876,
+          306,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Dask Tutorial",
+        "rect": [
+          42,
+          2140,
+          306,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Dask Video Tutorial",
+        "rect": [
+          42,
+          2404,
+          306,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Dask Tutorial Recording",
+        "rect": [
+          42,
+          2668,
+          306,
+          33
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Explore the PossibilitiesDask is a versatile tool that suppo",
+        "rect": [
+          0,
+          3434,
+          390,
+          1236
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Explore the Possibilities",
+        "rect": [
+          30,
+          3559,
+          331,
+          75
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Ecosystem",
+        "rect": [
+          48,
+          4325,
+          295,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Case studies",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Examples",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Dig Deeper into DaskDask has published extensive resources t",
+        "rect": [
+          0,
+          4670,
+          390,
+          582
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Dig Deeper into Dask",
+        "rect": [
+          29,
+          4701,
+          333,
+          33
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Get More HelpYou can get help by posting questions on the Da",
+        "rect": [
+          0,
+          5252,
+          390,
+          737
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get More Help",
+        "rect": [
+          44,
+          5396,
+          303,
+          33
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          5989,
+          390,
+          1147
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          44,
+          6211,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          44,
+          6335,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          44,
+          6533,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          44,
+          6694,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "get-help",
+    "view": "mobile",
+    "referenceSize": [
+      390,
+      3766
+    ],
+    "localSize": [
+      390,
+      3766
+    ],
+    "differentPixels": 97335,
+    "differencePercent": 6.627,
+    "topViewportDifferencePercent": 4.806,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Get Help",
+        "rect": [
+          0,
+          85,
+          390,
+          246
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Get Help",
+        "rect": [
+          30,
+          182,
+          331,
+          59
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Asking for helpWe welcome usage questions and bug reports fr",
+        "rect": [
+          0,
+          331,
+          390,
+          1551
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Asking for help",
+        "rect": [
+          44,
+          459,
+          303,
+          37
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Ask questions in the right place",
+        "rect": [
+          44,
+          872,
+          303,
+          67
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Ask only in one place",
+        "rect": [
+          44,
+          1310,
+          303,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Create a minimal example",
+        "rect": [
+          44,
+          1540,
+          303,
+          33
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Get Paid SupportIn addition to the previous options, paid su",
+        "rect": [
+          0,
+          1882,
+          390,
+          737
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Paid Support",
+        "rect": [
+          44,
+          2063,
+          303,
+          33
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          2619,
+          390,
+          1147
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          44,
+          2841,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          44,
+          2965,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          44,
+          3163,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          44,
+          3324,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "powered-by",
+    "view": "mobile",
+    "referenceSize": [
+      390,
+      13705
+    ],
+    "localSize": [
+      390,
+      13705
+    ],
+    "differentPixels": 206913,
+    "differencePercent": 3.871,
+    "topViewportDifferencePercent": 10.809,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Powered byDask is an open-source project, which means there ",
+        "rect": [
+          0,
+          85,
+          390,
+          822
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Powered by",
+        "rect": [
+          36,
+          178,
+          290,
+          59
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Dask is supported by:Add us to Dask supportAnacondaDask is i",
+        "rect": [
+          0,
+          907,
+          390,
+          1400
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Dask is supported by:",
+        "rect": [
+          42,
+          975,
+          306,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Anaconda",
+        "rect": [
+          42,
+          1236,
+          306,
+          58
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Coiled",
+        "rect": [
+          42,
+          1558,
+          306,
+          58
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "NVIDIA",
+        "rect": [
+          42,
+          1881,
+          306,
+          58
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Saturn Cloud",
+        "rect": [
+          42,
+          2253,
+          306,
+          58
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "CompaniesPowered by DaskThese companies are part of the larg",
+        "rect": [
+          0,
+          2307,
+          390,
+          3665
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "CompaniesPowered by Dask",
+        "rect": [
+          42,
+          2545,
+          306,
+          67
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Projects Powered by DaskThese software projects are part of ",
+        "rect": [
+          0,
+          5972,
+          390,
+          5600
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Projects Powered by Dask",
+        "rect": [
+          42,
+          6084,
+          306,
+          67
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Dask Adoption Metrics6,049,226*Monthly downloads*Mostly bots",
+        "rect": [
+          0,
+          11572,
+          390,
+          986
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Dask Adoption Metrics",
+        "rect": [
+          42,
+          11672,
+          306,
+          67
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          12558,
+          390,
+          1147
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          44,
+          12780,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          44,
+          12904,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          44,
+          13102,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          44,
+          13263,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "brand-guide",
+    "view": "mobile",
+    "referenceSize": [
+      390,
+      6945
+    ],
+    "localSize": [
+      390,
+      6946
+    ],
+    "differentPixels": 396514,
+    "differencePercent": 14.637,
+    "topViewportDifferencePercent": 9.728,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Brand GuideThis site includes both resources and guidelines ",
+        "rect": [
+          0,
+          85,
+          390,
+          491
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Brand Guide",
+        "rect": [
+          36,
+          173,
+          290,
+          59
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Logos",
+        "rect": [
+          44,
+          750,
+          303,
+          33
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Word Mark",
+        "rect": [
+          14,
+          1245,
+          362,
+          24
+        ]
+      },
+      {
+        "tag": "H3",
+        "text": "Logo Mark",
+        "rect": [
+          14,
+          1595,
+          362,
+          24
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Colors",
+        "rect": [
+          44,
+          1895,
+          303,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Typography",
+        "rect": [
+          44,
+          3004,
+          303,
+          33
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Tone",
+        "rect": [
+          44,
+          3973,
+          303,
+          33
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          5799,
+          390,
+          1147
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          44,
+          6021,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          44,
+          6145,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          44,
+          6343,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          44,
+          6504,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "press-mentions",
+    "view": "mobile",
+    "referenceSize": [
+      390,
+      4667
+    ],
+    "localSize": [
+      390,
+      4667
+    ],
+    "differentPixels": 77684,
+    "differencePercent": 4.268,
+    "topViewportDifferencePercent": 4.321,
+    "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
+    "geometry": [
+      {
+        "tag": "SECTION",
+        "text": "Press Mentions",
+        "rect": [
+          0,
+          85,
+          390,
+          246
+        ]
+      },
+      {
+        "tag": "H1",
+        "text": "Press Mentions",
+        "rect": [
+          30,
+          182,
+          331,
+          59
+        ]
+      },
+      {
+        "tag": "SECTION",
+        "text": "Add a press mentionJuly 19, 2022Using AI and machine learnin",
+        "rect": [
+          0,
+          331,
+          390,
+          3189
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Using AI and machine learning to kickstart climate change fi",
+        "rect": [
+          56,
+          758,
+          281,
+          100
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "The New Dask: The Open Source Library for Scaling Python Rev",
+        "rect": [
+          56,
+          1079,
+          281,
+          133
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Distributed Computing for AI: A Status Report",
+        "rect": [
+          56,
+          1433,
+          281,
+          67
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "IMD & IRD Awards 2022: Best market data newcomer",
+        "rect": [
+          56,
+          1720,
+          281,
+          100
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Python at Scale Summit, Presented by NumFOCUS Opens the Call",
+        "rect": [
+          56,
+          2041,
+          281,
+          133
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Forecasting Grubhub Order Volume At Scale",
+        "rect": [
+          56,
+          2395,
+          281,
+          67
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "HPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Com",
+        "rect": [
+          56,
+          2682,
+          281,
+          100
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Coiled Finds Traction in Deploying Dask at Scale",
+        "rect": [
+          56,
+          3003,
+          281,
+          67
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "6 essential Python tools for data science—now improved",
+        "rect": [
+          56,
+          3291,
+          281,
+          100
+        ]
+      },
+      {
+        "tag": "FOOTER",
+        "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
+        "rect": [
+          0,
+          3520,
+          390,
+          1147
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Get Started",
+        "rect": [
+          44,
+          3741,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Community",
+        "rect": [
+          44,
+          3865,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Blog",
+        "rect": [
+          44,
+          4063,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Brand",
+        "rect": [
+          44,
+          4224,
+          303,
+          41
+        ]
+      },
+      {
+        "tag": "H2",
+        "text": "Submit New Event",
+        "rect": [
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,586 @@
+home Community
+Blog
+Docs
+Parallel Python
+Fast and Easy
+
+Easy Parallel Python that does what you need
+
+Get started
+What you can do with Dask
+Big Pandas
+Parallel For Loops
+Big Arrays
+Machine Learning
+Big Pandas
+
+Dask DataFrames use pandas under the hood, so your current code likely just works. It’s faster than Spark and easier too.
+
+Documentation
+Performance Benchmarks
+import dask.dataframe as dd
+
+df = dd.read_parquet("s3://data/uber/")
+
+# How much did NYC pay Uber?
+df.base_passenger_fare.sum().compute()
+
+# And how much did drivers make?
+df.driver_pay.sum().compute()
+
+Performance at Scale
+Fast on Machines
+
+Dask is lightweight, and runs your raw code on your machines without getting in the way.  No virtualization or compilers.
+
+As the Python stack matures your code matures. Today Dask is 50% faster than Spark on standard benchmarks.
+
+
+        
+
+Made for Humans
+
+Computers are cheap.  Humans are expensive.
+
+Fortunately, humans already know how to use Dask.
+
+It’s just Python. It’s just pandas. It’s just NumPy.
+
+Dask’s dashboard guides you towards efficiency, quickly teaching you to become a distributed computing expert.
+
+Cheap and Efficient
+
+Fast humans + Fast machines = Cheap Computing
+
+Rows of Data Computed
+0
+Cost
+$
+0.03
+
+Dask users often process cloud data at $0.10 per TiB
+
+Open Source Deployment
+Managed Cloud
+Where you can run Dask
+Open Source Deployment
+
+Run Dask on your laptop (it’s trivial) or deploy it on any resource manager like Kubernetes, an HPC job schedulers, cloud SaaS services, or even legacy Hadoop/Spark clusters.
+
+Documentation
+Dask deployment video
+from dask.distributed import LocalCluster
+
+cluster = LocalCluster(
+    processes=False,
+)       
+client = cluster.get_client()
+
+# Use Dask locally
+import dask.dataframe as dd
+df = dd.read_parquet("/path/to/data.parquet")
+df.value.mean().compute()
+What users say about Dask
+People use Dask and like it! You won’t be alone!
+It’s easy
+It’s massive
+It solved my problem
+“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”
+Wes McKinney, Pandas
+“At Capital One, early implementations of Dask have reduced model training times by 91% within a few months of development effort.”
+Ryan McEntee, Capital One
+“My climate science research has been made possible by Dask. Dask integrates seamlessly with Xarray, making it easy to run large-scale computations on multi-dimensional datasets. I can focus on my research instead of thinking about parallelism.”
+Paige Martin, Pangeo
+“Dask shines when dealing with generic data structures which don’t conform to table-like structures. PySpark has RDDs, but who wants to code in Python and debug verbose Java logs?”
+Ajith Aravind, Simeio
+“Dask has transformed how the world interacts with weather, climate, and geospatial data by making it super easy to scale up data processing pipelines on HPC or cloud. Things that seemed impossible five years ago are now routine thanks to Dask.”
+Ryan Abernathy, Earthmover
+“With Dask, I can easily adapt code that runs on a single machine and scale it across an entire cluster. Very few other tools let you get going that quickly—across any language.”
+Jacqueline Nolis, Fanatics Inc.
+“Dask also makes it easy to deploy distributed work locally using multiple Python processes in a way that is nearly identical to how full production load is distributed.”
+Hugues Demers, Grubhub
+“To further accelerate our users’ ability to scale easily on the cloud, we expanded this by setting up pre-configured Horovod and Dask clusters.”
+Meenakshi Sharma, Wayfair
+“I used to work in Spark all the time. The sooner you move to Dask, the sooner you’ll be grateful you did.”
+John Renken, Rebuy
+Organizations That Use Dask
+Use Cases
+Anything you can do with Python, you can scale with Dask
+NYC Uber/Lyft
+Tools
+DataFrames
+Parquet
+Data
+50 GB of Parquet data
+Scalable ETL Pipeline
+Tools
+Deltalake
+Streamlit
+Prefect
+Data
+2 TB of TPC-H JSON records
+National Water Model
+Tools
+Xarray
+Zarr
+Flox
+Data
+250 TB of Zarr data
+TPC-H Benchmark
+Tools
+Spark
+DuckDB
+Polars
+Data
+Standard SQL benchmark results
+NASA Satellite Imagery
+Tools
+Geotiff
+Xarray
+Coiled
+Data
+1 TB of NetCDF files
+XGBoost Model Tuning
+Tools
+XGBoost
+Parquet
+Data
+75 GB of Parquet data
+Want more examples?
+Visit the Dask Blog or Dask Youtube Channel
+Dask Demo Day
+Dask YouTube Channel
+Super easy to get started
+You can run Dask right now on your computer. It’s simple and lightweight.
+Install Now
+
+        
+
+Most people use Dask just on their laptops to scale out to 100 GiB datasets. Dask works great on a single machine.
+Proceed to documentation
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+go to github page
+go to twitter page
+go to youtube page
+go to stackoverflow. page
+go to dask discourse group page
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.
+
+get-started Community
+Blog
+Docs
+Get Started with Dask
+
+Ready to dive in? We’re here to help.
+
+Install Dask
+
+Dask is included by default in Anaconda. You can also install Dask with Pip, or you have several options for installing from source. You can also use Conda to update Dask or to do a minimal Dask install.
+
+Install Now
+Learn Your Way Around
+
+Do you have a few minutes – or a few hours? Either way, we’ve got you covered.
+
+Introduction to Dask
+This 7-minute video provides a short overview of Dask.
+Watch the video
+10 Minutes to Dask
+This document gives new users an overview of what you can do with Dask.
+Read the overview
+Dask Tutorial
+This collection of Jupyter Notebooks, presented in the Dask Tutorial at SciPy, helps new users get started with Dask.
+Start the tutorial
+Dask Video Tutorial
+This 90-minute video covers the basics of using Dask.
+Watch the tutorial
+Dask Tutorial Recording
+This video is a recording of a three-hour Dask tutorial presented at SciPy 2020.
+Watch the recording
+Explore the Possibilities
+Dask is a versatile tool that supports a variety of workloads. Here are some resources to help you explore your options and see what’s possible.
+Ecosystem
+Case studies
+Examples
+right arrow
+Ecosystem
+Browse the ecosystem to learn more about the open source projects that extend the Dask interface and provide different mechanisms for deploying Dask clusters.
+Browse the ecosystem
+Dig Deeper into Dask
+Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:
+Dask Best Practices
+Dask Documentation
+Talks and Tutorials
+The Dask Blog
+Dask YouTube Channel
+Get More Help
+
+You can get help by posting questions on the Dask Discourse forum or on Stack Overflow, or you can submit an issue on GitHub. You can also get paid support from these organizations:
+
+go to current company page
+go to current company page
+go to current company page
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+go to github page
+go to twitter page
+go to youtube page
+go to stackoverflow. page
+go to dask discourse group page
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.
+
+get-help Community
+Blog
+Docs
+Get Help
+Asking for help
+
+We welcome usage questions and bug reports from all users, even those who are new to using the project. There are a few things you can do to improve the likelihood of quickly getting a good answer.
+
+
+Ask questions in the right place
+
+We strongly prefer the use of Discourse or GitHub. Discourse and GitHub are more easily searchable by future users, and therefore can be useful to many more people than those directly involved. If you have a general question about how something should work or want best practices then use Discourse. If you think you have found a bug then use GitHub
+
+Ask only in one place
+
+Please restrict yourself to posting your question in only one place (likely the Dask Discourse or GitHub) and don’t post in both
+
+Create a minimal example
+
+It is ideal to create minimal, complete, verifiable examples. This significantly reduces the time that answerers spend understanding your situation, resulting in higher quality answers more quickly. See also this blog post about crafting minimal bug reports. These have a much higher likelihood of being answered
+
+Get Paid Support
+
+In addition to the previous options, paid support is available from the following organizations
+
+go to current company page
+go to current company page
+go to current company page
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+go to github page
+go to twitter page
+go to youtube page
+go to stackoverflow. page
+go to dask discourse group page
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.
+
+powered-by Community
+Blog
+Docs
+Powered by
+
+Dask is an open-source project, which means there are a lot of people we’d like to thank from code contributors to corporate support to the projects using Dask. And, as a successful open-source project, there are some stats to crow about, too. Collectively, maintained by hundreds of open source contributors across dozens of companies.
+
+Dask is supported by:
+Add us to Dask support
+Anaconda
+Dask is installed by default in Anaconda
+Coiled
+Coiled makes Dask infrastructure accessible to everyone
+NVIDIA
+Dask integrates with RAPIDS cuDF, XGBoost, and RAPIDS cuML for GPU-accelerated data analytics and machine learning.
+Saturn Cloud
+Saturn Cloud lets users create Dask clusters in a hosted platform or within their own AWS accounts.
+Companies
+Powered by Dask
+These companies are part of the larger Dask community. They’re either well-integrated with Dask or use Dask to power components of their infrastructure.
+Projects Powered by Dask
+These software projects are part of the larger Dask community. They’re either well-integrated with Dask or use Dask to power components of their infrastructure.
+Dask Adoption Metrics
+6,049,226*
+Monthly downloads
+*Mostly bots
+Big Data Tools*
+*Python 2021 Developers Survey
+See Python Developers Survey
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+go to github page
+go to twitter page
+go to youtube page
+go to stackoverflow. page
+go to dask discourse group page
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.
+
+brand-guide Community
+Blog
+Docs
+Brand Guide
+
+This site includes both resources and guidelines for presenting and communicating Dask to a broad audience. We hope that this serves to generate a strong and consistent message among the many groups that contribute to Dask and it’s surrounding software projects.
+
+We hope that these resources make your job easier, and we thank you for your efforts in communicating about the project.
+
+go to info section
+go to advantages section
+go to ecosystem section
+go to events section
+white color tab
+pink color tab
+blue color tab
+black color tab
+Logos
+
+The Dask logo is made up of two components: The Logo Mark and the Word Mark, which together make up the Horizontal Logo. Using the Logo Mark alone should be reserved for instances where the Horizontal Logo is already present, or as an avatar when “Dask” appears alongside the Logo Mark in plain text.
+
+
+Dask logos are available below.
+
+Download Logos
+
+Word Mark
+
+Color Alternatives
+
+Logo Mark
+
+#FFFFFF
+#61BA92
+#F6F6F6
+#1F5AFF
+#EBEAEE
+#183D72
+#FFC11E
+#33363D
+#FC6E6B
+#262326
+#EF1561
+#080815
+Colors
+
+Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).
+
+
+Salmon
+
+
+#FC6E6B
+
+
+Accessible Text Colors
+
+
+#33363D(AA18) #262326(AA) #080815(AA)
+
+
+Copy Hex Code
+Typography
+
+Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.
+
+
+Download Typefaces
+Inter
+
+Heading 1
+
+Bold, 56px
+
+Inter
+
+Heading 2
+
+Bold, 46px
+
+Inter
+
+Heading 2-small
+
+SemiBold, 36px
+
+Inter
+
+Heading 3
+
+Bold, 20px
+
+Inter
+
+Text-xlarge
+
+Light, 36px
+
+Inter
+
+Text-large
+
+Light, 24px
+
+Inter
+
+Text-medium
+
+Regular, 18px
+
+Inter
+
+Text-regular
+
+Light, 16px
+
+Inter
+
+Text-small
+
+Light, 14px
+
+Inter
+
+Text-tiny
+
+Light, 12px
+
+Inconsolata
+
+syntax/code
+
+Regular, 16px
+
+Tone
+
+The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.
+
+
+For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.
+
+
+For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …
+
+
+We strive to promote positive news about Dask, either its technical features:
+
+
+Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.
+
+
+We avoid overt self-praise, especially if it is not very well proven.
+Dask is 100x faster than Spark!
+
+
+We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.
+We’re excited to announce Dask integration with Cassandra!
+…
+But there is still plenty to do.
+
+
+We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.
+While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.
+
+
+We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.
+Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)
+
+
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+go to github page
+go to twitter page
+go to youtube page
+go to stackoverflow. page
+go to dask discourse group page
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.
+
+press-mentions Community
+Blog
+Docs
+Press Mentions
+Add a press mention
+July 19, 2022
+Using AI and machine learning to kickstart climate change fightback
+open current article
+June 7, 2022
+The New Dask: The Open Source Library for Scaling Python Reveals a New Style
+open current article
+June 6, 2022
+Distributed Computing for AI: A Status Report
+open current article
+May 25, 2022
+IMD & IRD Awards 2022: Best market data newcomer
+open current article
+May 24, 2022
+Python at Scale Summit, Presented by NumFOCUS Opens the Call for Proposals
+open current article
+May 19, 2022
+Forecasting Grubhub Order Volume At Scale
+open current article
+May 18, 2022
+HPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Competition
+open current article
+February 15, 2022
+Coiled Finds Traction in Deploying Dask at Scale
+open current article
+July 21, 2021
+6 essential Python tools for data science—now improved
+open current article
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+go to github page
+go to twitter page
+go to youtube page
+go to stackoverflow. page
+go to dask discourse group page
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.
+

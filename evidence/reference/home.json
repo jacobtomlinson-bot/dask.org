@@ -1,0 +1,2836 @@
+{
+  "title": "Dask | Scale the Python tools you love",
+  "text": "Community\nBlog\nDocs\nParallel Python\nFast and Easy\n\nEasy Parallel Python that does what you need\n\nGet started\nWhat you can do with Dask\nBig Pandas\nParallel For Loops\nBig Arrays\nMachine Learning\nBig Pandas\n\nDask DataFrames use pandas under the hood, so your current code likely just works. It’s faster than Spark and easier too.\n\nDocumentation\nPerformance Benchmarks\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()\n\nPerformance at Scale\nFast on Machines\n\nDask is lightweight, and runs your raw code on your machines without getting in the way.  No virtualization or compilers.\n\nAs the Python stack matures your code matures. Today Dask is 50% faster than Spark on standard benchmarks.\n\n\n        \n\nMade for Humans\n\nComputers are cheap.  Humans are expensive.\n\nFortunately, humans already know how to use Dask.\n\nIt’s just Python. It’s just pandas. It’s just NumPy.\n\nDask’s dashboard guides you towards efficiency, quickly teaching you to become a distributed computing expert.\n\nCheap and Efficient\n\nFast humans + Fast machines = Cheap Computing\n\nRows of Data Computed\n0\nCost\n$\n0.03\n\nDask users often process cloud data at $0.10 per TiB\n\nOpen Source Deployment\nManaged Cloud\nWhere you can run Dask\nOpen Source Deployment\n\nRun Dask on your laptop (it’s trivial) or deploy it on any resource manager like Kubernetes, an HPC job schedulers, cloud SaaS services, or even legacy Hadoop/Spark clusters.\n\nDocumentation\nDask deployment video\nfrom dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)       \nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()\nWhat users say about Dask\nPeople use Dask and like it! You won’t be alone!\nIt’s easy\nIt’s massive\nIt solved my problem\n“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”\nWes McKinney, Pandas\n“At Capital One, early implementations of Dask have reduced model training times by 91% within a few months of development effort.”\nRyan McEntee, Capital One\n“My climate science research has been made possible by Dask. Dask integrates seamlessly with Xarray, making it easy to run large-scale computations on multi-dimensional datasets. I can focus on my research instead of thinking about parallelism.”\nPaige Martin, Pangeo\n“Dask shines when dealing with generic data structures which don’t conform to table-like structures. PySpark has RDDs, but who wants to code in Python and debug verbose Java logs?”\nAjith Aravind, Simeio\n“Dask has transformed how the world interacts with weather, climate, and geospatial data by making it super easy to scale up data processing pipelines on HPC or cloud. Things that seemed impossible five years ago are now routine thanks to Dask.”\nRyan Abernathy, Earthmover\n“With Dask, I can easily adapt code that runs on a single machine and scale it across an entire cluster. Very few other tools let you get going that quickly—across any language.”\nJacqueline Nolis, Fanatics Inc.\n“Dask also makes it easy to deploy distributed work locally using multiple Python processes in a way that is nearly identical to how full production load is distributed.”\nHugues Demers, Grubhub\n“To further accelerate our users’ ability to scale easily on the cloud, we expanded this by setting up pre-configured Horovod and Dask clusters.”\nMeenakshi Sharma, Wayfair\n“I used to work in Spark all the time. The sooner you move to Dask, the sooner you’ll be grateful you did.”\nJohn Renken, Rebuy\nOrganizations That Use Dask\nUse Cases\nAnything you can do with Python, you can scale with Dask\nNYC Uber/Lyft\nTools\nDataFrames\nParquet\nData\n50 GB of Parquet data\nScalable ETL Pipeline\nTools\nDeltalake\nStreamlit\nPrefect\nData\n2 TB of TPC-H JSON records\nNational Water Model\nTools\nXarray\nZarr\nFlox\nData\n250 TB of Zarr data\nTPC-H Benchmark\nTools\nSpark\nDuckDB\nPolars\nData\nStandard SQL benchmark results\nNASA Satellite Imagery\nTools\nGeotiff\nXarray\nCoiled\nData\n1 TB of NetCDF files\nXGBoost Model Tuning\nTools\nXGBoost\nParquet\nData\n75 GB of Parquet data\nWant more examples?\nVisit the Dask Blog or Dask Youtube Channel\nDask Demo Day\nDask YouTube Channel\nSuper easy to get started\nYou can run Dask right now on your computer. It’s simple and lightweight.\nInstall Now\n\n        \n\nMost people use Dask just on their laptops to scale out to 100 GiB datasets. Dask works great on a single machine.\nProceed to documentation\nGet Started\nLatest\nCommunity\nGet Help\nPowered By\nDemo Day\nBlog\nDask Blog\nContribute\nBrand\nBrand Guidelines\ngo to github page\ngo to twitter page\ngo to youtube page\ngo to stackoverflow. page\ngo to dask discourse group page\n\nCopyright © 2026 Dask core developers. New-BSD Licensed.\n",
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 134,
+      "h": 42
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869e_mobile-get-started.svg",
+      "alt": "get started icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf386a5_mobile-community.svg",
+      "alt": "community icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869d_mobile-blog.svg",
+      "alt": "blog icon",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816565d46236166851240_Parquet_logo.svg",
+      "alt": "Parquet logo",
+      "w": 140,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628165698c9a123d5612caf_Apache-arrow-logo.svg",
+      "alt": "Apache Arrow logo",
+      "w": 90,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281656453c4b8c508022ec_Pandas_logo.svg",
+      "alt": "Pandas logo",
+      "w": 108,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281673860e80095d97c187_NumPy-logo.svg",
+      "alt": "NumPy logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816564008ae32a73e28e9_Xarray-Logo.svg",
+      "alt": "Xarray logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281656037c4fde07990884_zarr-logo.svg",
+      "alt": "Zarr logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cfd3044723ca3a1bd_xGBoost-logo.svg",
+      "alt": "xGBoost logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c357532b9aa2ceee2_PyTorch_logo_black%201.svg",
+      "alt": "PyTorch_logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c79f5583a89c86af8_optuna-logo.svg",
+      "alt": "optuna logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cef5d0f004c696317_scikit-learn-logo.svg",
+      "alt": "scikit learn logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c94fc043f7607cd513_Kubernetes_logo.svg",
+      "alt": "Kubernetes logo",
+      "w": 191,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c9696a03456b400847_Yarn-logo-kitten.svg",
+      "alt": "Yarn logo",
+      "w": 73,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c9d02138a9f636074f_Slurm_logo.svg",
+      "alt": "Slurm logo",
+      "w": 35,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c831245c5b5ed008f8_lsf-logo-svg-vector%202.svg",
+      "alt": "LSF logo",
+      "w": 27,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66351f26dee81f3f8415fcae_openPBS-logo.svg",
+      "alt": "OpenOBS logo",
+      "w": 41,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c93922cd11ed344aa9_Amazon_Web_Services_Logo.svg",
+      "alt": "Amazon Web Services logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c9a88d9c774f9ddd0e_Google_Cloud_logo.svg",
+      "alt": "Google Cloud logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816c99c8d6e226c9f1a6f_Microsoft_Azure_Logo.svg",
+      "alt": "Microsoft Azure Logo",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66326000a3b83d7c243efd47_Pandas_logo.svg",
+      "alt": "",
+      "w": 134,
+      "h": 40
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/663262dd2629dfa6eda70a12_Wes%20McKinney.webp",
+      "alt": "Wes McKinney",
+      "w": 27,
+      "h": 27
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662af5ccaba9c68330ca03ac_Capital_One-logo.svg",
+      "alt": "Capital One logo",
+      "w": 110,
+      "h": 40
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/663262dd5388aff7bddbee67_Ryan%20McEntee.webp",
+      "alt": "Ryan McEntee",
+      "w": 27,
+      "h": 27
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662af5cd7b3077382ff765cd_pangeo-logo.svg",
+      "alt": "Pangeo logo",
+      "w": 0,
+      "h": 40
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/663262dd9e9398cb87c7128d_Paige%20Martin.webp",
+      "alt": "Paige Martin",
+      "w": 27,
+      "h": 27
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662af5cd349ea94f1fb1d37f_simeio-logo.svg",
+      "alt": "Simeio logo",
+      "w": 0,
+      "h": 40
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/664f9602df8e027c53e4729e_earthmover-logo.svg",
+      "alt": "earthmover logo",
+      "w": 248,
+      "h": 40
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/663262ddc804c47ae2d1dbde_Ryan%20Abernathy.webp",
+      "alt": "Ryan Abernathy",
+      "w": 27,
+      "h": 27
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662af5cd0527eaf000044dff_Fanatics-logo.svg",
+      "alt": "Fanatics logo",
+      "w": 0,
+      "h": 40
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/663262dc72dbb759f91c6862_Jacqueline%20Nolis.webp",
+      "alt": "Jacqueline Nolis",
+      "w": 27,
+      "h": 27
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662af5cdcbf67680b1f25a9f_GrubHub-logo.svg",
+      "alt": "GrubHub logo",
+      "w": 0,
+      "h": 40
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/663262dc32a4fc8ecc683bcb_Hugues%20Demers.webp",
+      "alt": "Hugues Demers",
+      "w": 27,
+      "h": 27
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662af5cd5b1a50ed7d574480_Wayfair-logo.svg",
+      "alt": "Wayfair logo",
+      "w": 0,
+      "h": 40
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/663262dc08e06b5fc0bcc69e_Meenakshi%20Sharma.webp",
+      "alt": "Meenakshi Sharma",
+      "w": 27,
+      "h": 27
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66326264c91d02733ecbba21_rebuy_logo.svg",
+      "alt": "Rebuy logo",
+      "w": 0,
+      "h": 40
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/663262dcdf4c53a0b3c8abfc_John%20Renken.webp",
+      "alt": "John Renken",
+      "w": 27,
+      "h": 27
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/662c3e3cf7b7a2501ab9f3bb_arm-logo.svg",
+      "alt": "arm",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38664_capital-one.png",
+      "alt": "Capital One",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf386eb_deshaw-co.png",
+      "alt": "DE Shaw & Co",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38789_grubhub.png",
+      "alt": "Grubhub",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878a_microsoft.png",
+      "alt": "Microsoft",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878c_nasa.png",
+      "alt": "NASA",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38711_nvidia.png",
+      "alt": "NVIDIA",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38790_shell.png",
+      "alt": "Shell",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/662c3e17e0a164b57fb98db6_two-sigma-logo.svg",
+      "alt": "Two Sigma",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38791_us-air-force.png",
+      "alt": "US Air Force",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/664f9d587d81d2dac45d96e6_defense-department.webp",
+      "alt": "US government",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38792_walmart.png",
+      "alt": "Walmart",
+      "w": 207,
+      "h": 156
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b1f8e7ea8ce6c88ccb_Pandas-logo.webp",
+      "alt": "Pandas logo",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b05075f11bdb83d6dc_prefect-logo.webp",
+      "alt": "Prefect logo",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b1be74ea174135b09b_Xarray-logo.webp",
+      "alt": "Xarray logo",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b48f7a7f0e6ea02537_TPC-logo.webp",
+      "alt": "TPC logo",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b12c440cb7a494a103_nasa-logo.webp",
+      "alt": "NASA logo",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b19c8d6e226c9e1f48_xGBoost-logo.webp",
+      "alt": "xGBoost logo",
+      "w": 233,
+      "h": 108
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866a_illustration-home-stay-connected.svg",
+      "alt": "",
+      "w": 216,
+      "h": 216
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+      "alt": "Dask logo",
+      "w": 152,
+      "h": 48
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+      "alt": "Github icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38655_twitter.svg",
+      "alt": "Twitter icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38656_youtube.svg",
+      "alt": "YouTube icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38657_stack-x.svg",
+      "alt": "Stack Overflow icon",
+      "w": 32,
+      "h": 32
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+      "alt": "Chat icon\n",
+      "w": 32,
+      "h": 32
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Get Started",
+      "href": "/get-started"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Mailing List",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "News & Events",
+      "href": "/archive/2022-news-events"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Docs",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Submit New Event",
+      "href": "#w-tabs-0-data-w-pane-0"
+    },
+    {
+      "text": "Submit News Feature",
+      "href": "#w-tabs-0-data-w-pane-1"
+    },
+    {
+      "text": "Sign up for Newsletter",
+      "href": "#w-tabs-0-data-w-pane-2"
+    },
+    {
+      "text": "Get started",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Big Pandas",
+      "href": "#w-tabs-1-data-w-pane-0"
+    },
+    {
+      "text": "Parallel For Loops",
+      "href": "#w-tabs-1-data-w-pane-1"
+    },
+    {
+      "text": "Big Arrays",
+      "href": "#w-tabs-1-data-w-pane-2"
+    },
+    {
+      "text": "Machine Learning",
+      "href": "#w-tabs-1-data-w-pane-3"
+    },
+    {
+      "text": "Documentation",
+      "href": "https://docs.dask.org/en/stable/dataframe.html"
+    },
+    {
+      "text": "Performance Benchmarks",
+      "href": "https://docs.coiled.io/blog/tpch.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "Documentation",
+      "href": "https://docs.dask.org/en/stable/futures.html"
+    },
+    {
+      "text": "Process 5,000 files in parallel",
+      "href": "https://docs.coiled.io/user_guide/arxiv-matplotlib.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "Documentation",
+      "href": "https://docs.dask.org/en/stable/array.html"
+    },
+    {
+      "text": "Aggregate 250 TB of Water Model Data",
+      "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "Documentation",
+      "href": "https://docs.dask.org/en/stable/ml.html"
+    },
+    {
+      "text": "Example: XGBoost Model Training",
+      "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "Dask is 50% faster than Spark",
+      "href": "https://docs.coiled.io/blog/spark-vs-dask.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "$0.10 per TiB",
+      "href": "https://docs.coiled.io/blog/ten-cents.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "Open Source Deployment",
+      "href": "#w-tabs-2-data-w-pane-0"
+    },
+    {
+      "text": "Managed Cloud",
+      "href": "#w-tabs-2-data-w-pane-1"
+    },
+    {
+      "text": "Documentation",
+      "href": "https://docs.dask.org/en/stable/deploying.html"
+    },
+    {
+      "text": "Dask deployment video",
+      "href": "https://www.youtube.com/watch?v=faFncNrXmIY"
+    },
+    {
+      "text": "Documentation",
+      "href": "https://docs.coiled.io/user_guide/index.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "Video: Dask in the Cloud",
+      "href": "https://youtu.be/SfPzmIqMKp0"
+    },
+    {
+      "text": "NYC Uber/Lyft\nTools\nDataFrames\nParquet\nData\n50 GB of Parquet data",
+      "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "Scalable ETL Pipeline\nTools\nDeltalake\nStreamlit\nPrefect\nData\n2 TB of TPC-H JSON records",
+      "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "National Water Model\nTools\nXarray\nZarr\nFlox\nData\n250 TB of Zarr data",
+      "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "TPC-H Benchmark\nTools\nSpark\nDuckDB\nPolars\nData\nStandard SQL benchmark results",
+      "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "NASA Satellite Imagery\nTools\nGeotiff\nXarray\nCoiled\nData\n1 TB of NetCDF files",
+      "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "XGBoost Model Tuning\nTools\nXGBoost\nParquet\nData\n75 GB of Parquet data",
+      "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage"
+    },
+    {
+      "text": "Dask Demo Day",
+      "href": "https://www.youtube.com/playlist?list=PLJ0vO2F_f6OD0cwscL_yeG1aC3ESBquAT"
+    },
+    {
+      "text": "Dask YouTube Channel",
+      "href": "https://www.youtube.com/c/dask-dev"
+    },
+    {
+      "text": "Install Now",
+      "href": "https://docs.dask.org/en/latest/install.html"
+    },
+    {
+      "text": "Proceed to documentation",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "Latest",
+      "href": "https://docs.dask.org/en/stable/"
+    },
+    {
+      "text": "Community",
+      "href": "#"
+    },
+    {
+      "text": "Get Help",
+      "href": "/get-help"
+    },
+    {
+      "text": "Powered By",
+      "href": "/powered-by"
+    },
+    {
+      "text": "Demo Day",
+      "href": "https://github.com/dask/community/issues/307"
+    },
+    {
+      "text": "Blog",
+      "href": "#"
+    },
+    {
+      "text": "Dask Blog",
+      "href": "/blog"
+    },
+    {
+      "text": "Contribute",
+      "href": "https://github.com/dask/dask-blog/blob/gh-pages/README.md"
+    },
+    {
+      "text": "Brand",
+      "href": "#"
+    },
+    {
+      "text": "Brand Guidelines",
+      "href": "/brand-guide"
+    },
+    {
+      "text": "go to github page",
+      "href": "https://github.com/dask/dask"
+    },
+    {
+      "text": "go to twitter page",
+      "href": "https://twitter.com/dask_dev"
+    },
+    {
+      "text": "go to youtube page",
+      "href": "https://www.youtube.com/c/Dask-dev"
+    },
+    {
+      "text": "go to stackoverflow. page",
+      "href": "https://stackoverflow.com/questions/tagged/dask"
+    },
+    {
+      "text": "go to dask discourse group page",
+      "href": "https://dask.discourse.group"
+    }
+  ],
+  "elements": [
+    {
+      "tag": "NAV",
+      "text": "Community\nBlog\nDocs",
+      "class": "nav-menu w-nav-menu",
+      "rect": {
+        "x": 214.171875,
+        "y": 11.984375,
+        "w": 1145.921875,
+        "h": 67
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "NAV",
+      "text": "Demo Day.cls-1{fill:#ebeaee;}Get Help.cls-1{fill:#ebeaee;}Powered By",
+      "class": "dropdown-list w-dropdown-list",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(51, 54, 61)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Submit New EventSubmit News FeatureSign up for NewsletterSubmit New EventThank you! Your submission has been received!Oops! Something went wrong while submitting the form.Submit Ne",
+      "class": "form-wrapper",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "none",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit New Event",
+      "class": "submit-event-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Submit News Feature",
+      "class": "press-mention-tab w-inline-block w-tab-link w--current",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Sign up for Newsletter",
+      "class": "maillist-tab w-inline-block w-tab-link",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "300",
+        "lineHeight": "24.0048px",
+        "color": "rgba(235, 234, 238, 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "9px 0px 0px",
+        "margin": "0px 21.6px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit New Event",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit New Event",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field middle w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 3% 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "27px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Submit News Feature",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Submit News Feature",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "27px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "FORM",
+      "text": "Sign up for Newsletter",
+      "class": "form",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px 21.6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Sign up for Newsletter",
+      "class": "heading-medium form-heading",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "61.2px 0px 57.6px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "form-text-field right w-input",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "14.4px",
+        "fontWeight": "400",
+        "lineHeight": "21.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8px 12px 8px 8px",
+        "margin": "0px 0px 18.72px 4%",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "class": "button w-button",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "27px",
+        "color": "rgb(38, 35, 38)",
+        "backgroundColor": "rgb(255, 193, 30)",
+        "padding": "11.9952px 15.9984px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "inline-block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "4px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H1",
+      "text": "Parallel Python",
+      "class": "heading-large-box hero-h",
+      "rect": {
+        "x": 81,
+        "y": 182.359375,
+        "w": 393,
+        "h": 81
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "45.9936px",
+        "fontWeight": "700",
+        "lineHeight": "56.0016px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8.0064px 24.0048px 0px",
+        "margin": "0px 0px 8.0064px -28.008px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "6px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Fast and Easy",
+      "class": "heading-large-box hero-h",
+      "rect": {
+        "x": 81,
+        "y": 271.359375,
+        "w": 365,
+        "h": 81
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "45.9936px",
+        "fontWeight": "700",
+        "lineHeight": "56.0016px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "8.0064px 24.0048px 0px",
+        "margin": "0px 0px 8.0064px -28.008px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "6px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Easy Parallel Python that does what you need",
+      "class": "text-medium hero-p",
+      "rect": {
+        "x": 109,
+        "y": 372.359375,
+        "w": 393,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "12.0096px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "What you can do with Dask",
+      "class": "",
+      "rect": {
+        "x": 412.765625,
+        "y": 582.140625,
+        "w": 613,
+        "h": 56
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "45.9936px",
+        "fontWeight": "700",
+        "lineHeight": "56.0016px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Big Pandas",
+      "class": "home-tab-link plausible-event-name--hero-tab-pandas w-inline-block w-tab-link w--current",
+      "rect": {
+        "x": 352.765625,
+        "y": 684.46875,
+        "w": 96,
+        "h": 49.96875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "padding": "11.9952px 0px",
+        "margin": "0px 0px -1.4976px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Parallel For Loops",
+      "class": "home-tab-link plausible-event-name--hero-tab-futures w-inline-block w-tab-link",
+      "rect": {
+        "x": 528.765625,
+        "y": 684.46875,
+        "w": 154,
+        "h": 49.96875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(173, 173, 173)",
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "padding": "11.9952px 0px",
+        "margin": "0px 0px -1.4976px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Big Arrays",
+      "class": "home-tab-link plausible-event-name--hero-tab-array w-inline-block w-tab-link",
+      "rect": {
+        "x": 762.765625,
+        "y": 684.46875,
+        "w": 89,
+        "h": 49.96875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(173, 173, 173)",
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "padding": "11.9952px 0px",
+        "margin": "0px 0px -1.4976px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Machine Learning",
+      "class": "home-tab-link plausible-event-name--hero-tab-ml w-inline-block w-tab-link",
+      "rect": {
+        "x": 931.765625,
+        "y": 684.46875,
+        "w": 154,
+        "h": 49.96875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(173, 173, 173)",
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "padding": "11.9952px 0px",
+        "margin": "0px 0px -1.4976px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Big Pandas",
+      "class": "heading-medium",
+      "rect": {
+        "x": 186,
+        "y": 775.953125,
+        "w": 195,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Dask DataFrames use pandas under the hood, so your current code likely just works. It’s faster than Spark and easier too.",
+      "class": "",
+      "rect": {
+        "x": 186,
+        "y": 836.34375,
+        "w": 537.59375,
+        "h": 48
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Parallel For Loops",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Parallelize your Python code, no matter how complex. Dask is flexible and supports arbitrary dependencies and fine-grained task scheduling.",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Big Arrays",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Use Dask and NumPy/Xarray to churn through terabytes of multi-dimensional array data in formats like HDF, NetCDF, TIFF, or Zarr.  ",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Machine Learning",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Use Dask with common machine learning libraries to train or predict on large datasets, increasing model accuracy by using all of your data.",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Performance at Scale",
+      "class": "",
+      "rect": {
+        "x": 476.5,
+        "y": 1381.34375,
+        "w": 487,
+        "h": 56
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "45.9936px",
+        "fontWeight": "700",
+        "lineHeight": "56.0016px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Fast on Machines",
+      "class": "heading-small",
+      "rect": {
+        "x": 130.984375,
+        "y": 1562.953125,
+        "w": 171,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Dask is lightweight, and runs your raw code on your machines without getting in the way.  No virtualization or compilers.",
+      "class": "",
+      "rect": {
+        "x": 130.984375,
+        "y": 1610.9375,
+        "w": 537.625,
+        "h": 48
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "As the Python stack matures your code matures. Today Dask is 50% faster than Spark on standard benchmarks.",
+      "class": "",
+      "rect": {
+        "x": 130.984375,
+        "y": 1670.921875,
+        "w": 537.625,
+        "h": 48
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Made for Humans",
+      "class": "heading-small",
+      "rect": {
+        "x": 768.578125,
+        "y": 1979.546875,
+        "w": 173,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Computers are cheap.  Humans are expensive.",
+      "class": "",
+      "rect": {
+        "x": 768.578125,
+        "y": 2027.53125,
+        "w": 537.625,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Fortunately, humans already know how to use Dask.",
+      "class": "",
+      "rect": {
+        "x": 768.578125,
+        "y": 2063.515625,
+        "w": 537.625,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "It’s just Python. It’s just pandas. It’s just NumPy.",
+      "class": "",
+      "rect": {
+        "x": 768.578125,
+        "y": 2099.5,
+        "w": 537.625,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Dask’s dashboard guides you towards efficiency, quickly teaching you to become a distributed computing expert.",
+      "class": "",
+      "rect": {
+        "x": 768.578125,
+        "y": 2135.484375,
+        "w": 537.625,
+        "h": 48
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Cheap and Efficient",
+      "class": "heading-small",
+      "rect": {
+        "x": 623.484375,
+        "y": 2362.578125,
+        "w": 193,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Fast humans + Fast machines = Cheap Computing",
+      "class": "",
+      "rect": {
+        "x": 523.484375,
+        "y": 2410.5625,
+        "w": 393,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Dask users often process cloud data at $0.10 per TiB",
+      "class": "",
+      "rect": {
+        "x": 266.984375,
+        "y": 2651.53125,
+        "w": 906,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Open Source Deployment\nManaged Cloud\nWhere you can run Dask\nOpen Source Deployment\n\nRun Dask on your laptop (it’s trivial) or deploy it on any resource manager like Kubernetes, an ",
+      "class": "section",
+      "rect": {
+        "x": 0,
+        "y": 2803.3125,
+        "w": 1440,
+        "h": 718.46875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Open Source Deployment",
+      "class": "run-dask-tab-link _1st w-inline-block w-tab-link w--current",
+      "rect": {
+        "x": 489,
+        "y": 2979.6875,
+        "w": 295,
+        "h": 48.96875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "padding": "11.9952px 72px 11.9952px 0px",
+        "margin": "0px -20.0016px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Managed Cloud",
+      "class": "run-dask-tab-link _2nd plausible-event-name--cloud-toggle w-inline-block w-tab-link",
+      "rect": {
+        "x": 744,
+        "y": 2979.6875,
+        "w": 207,
+        "h": 48.96875
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "24.0048px",
+        "color": "rgb(173, 173, 173)",
+        "backgroundColor": "rgba(255, 255, 255, 0)",
+        "padding": "11.9952px 0px 11.9952px 72px",
+        "margin": "0px 0px 0px -20.0016px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "100%",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Where you can run Dask",
+      "class": "heading-xlarge-box run-dask-tab",
+      "rect": {
+        "x": 361,
+        "y": 2883.3125,
+        "w": 718,
+        "h": 81
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "56.0016px",
+        "fontWeight": "700",
+        "lineHeight": "56.9952px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(8, 8, 21)",
+        "padding": "8.0064px 24.0048px",
+        "margin": "0px 280px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "6.0048px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Open Source Deployment",
+      "class": "heading-medium",
+      "rect": {
+        "x": 186.71875,
+        "y": 3087.3125,
+        "w": 442,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Run Dask on your laptop (it’s trivial) or deploy it on any resource manager like Kubernetes, an HPC job schedulers, cloud SaaS services, or even legacy Hadoop/Spark clusters.",
+      "class": "",
+      "rect": {
+        "x": 186.71875,
+        "y": 3147.703125,
+        "w": 537.59375,
+        "h": 72
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Where you can run Dask",
+      "class": "heading-xlarge-box run-dask-tab",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "56.0016px",
+        "fontWeight": "700",
+        "lineHeight": "56.9952px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(8, 8, 21)",
+        "padding": "8.0064px 24.0048px",
+        "margin": "0px auto",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "6.0048px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Managed Cloud",
+      "class": "heading-medium",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Run Dask in the cloud with open source Kubernetes, or with an easy SaaS solution.  Coiled is free for individuals with modest use and easy for anyone with a cloud account.",
+      "class": "",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "15.9984px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 11.9952px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "What users say about Dask\nPeople use Dask and like it! You won’t be alone!\nIt’s easy\nIt’s massive\nIt solved my problem\n“Dask has been a trailblazer in making distributed and out-of",
+      "class": "section-responsive bg-largegridbox overflow-visible",
+      "rect": {
+        "x": 0,
+        "y": 3521.78125,
+        "w": 1440,
+        "h": 1826.203125
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "80.0064px 81px 81px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "What users say about Dask",
+      "class": "",
+      "rect": {
+        "x": 105,
+        "y": 3707.21875,
+        "w": 429.984375,
+        "h": 112
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "45.9936px",
+        "fontWeight": "700",
+        "lineHeight": "56.0016px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Organizations That Use Dask",
+      "class": "heading-medium",
+      "rect": {
+        "x": 467,
+        "y": 5402.25,
+        "w": 506,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "text": "Use Cases\nAnything you can do with Python, you can scale with Dask\nNYC Uber/Lyft\nTools\nDataFrames\nParquet\nData\n50 GB of Parquet data\nScalable ETL Pipeline\nTools\nDeltalake\nStreamlit",
+      "class": "section-responsive bg-largegridbox",
+      "rect": {
+        "x": 0,
+        "y": 5906.65625,
+        "w": 1440,
+        "h": 1215.59375
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "80.0064px 81px 81px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Use Cases",
+      "class": "heading-large-box with-white-bg",
+      "rect": {
+        "x": 573.5,
+        "y": 6066.65625,
+        "w": 293,
+        "h": 81
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "45.9936px",
+        "fontWeight": "700",
+        "lineHeight": "56.0016px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "padding": "10.08px 24.0048px 0px",
+        "margin": "0px 0px 2.88px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "6px",
+        "maxWidth": "none",
+        "textAlign": "center"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "NYC Uber/Lyft",
+      "class": "",
+      "rect": {
+        "x": 118.890625,
+        "y": 6405.984375,
+        "w": 245.078125,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Scalable ETL Pipeline",
+      "class": "",
+      "rect": {
+        "x": 437.9375,
+        "y": 6405.984375,
+        "w": 245.078125,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "National Water Model",
+      "class": "",
+      "rect": {
+        "x": 756.984375,
+        "y": 6405.984375,
+        "w": 245.078125,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "TPC-H Benchmark",
+      "class": "",
+      "rect": {
+        "x": 1076.03125,
+        "y": 6405.984375,
+        "w": 245.078125,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "NASA Satellite Imagery",
+      "class": "",
+      "rect": {
+        "x": 118.890625,
+        "y": 6782.390625,
+        "w": 245.078125,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "XGBoost Model Tuning",
+      "class": "",
+      "rect": {
+        "x": 437.9375,
+        "y": 6782.390625,
+        "w": 245.078125,
+        "h": 32
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "20.0016px",
+        "fontWeight": "700",
+        "lineHeight": "31.9968px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H3",
+      "text": "Want more examples?",
+      "class": "heading-medium",
+      "rect": {
+        "x": 847.546875,
+        "y": 6722.875,
+        "w": 383,
+        "h": 46
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45.9936px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px 0px 8.0064px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "left"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Super easy to get started",
+      "class": "",
+      "rect": {
+        "x": 85,
+        "y": 7222.640625,
+        "w": 584.390625,
+        "h": 56
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "45.9936px",
+        "fontWeight": "700",
+        "lineHeight": "56.0016px",
+        "color": "rgb(8, 8, 21)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "H2",
+      "text": "Most people use Dask just on their laptops to scale out to 100 GiB datasets. Dask works great on a single machine.",
+      "class": "text-large",
+      "rect": {
+        "x": 720,
+        "y": 7586.546875,
+        "w": 590.390625,
+        "h": 84
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "24.0048px",
+        "fontWeight": "700",
+        "lineHeight": "27.9936px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    },
+    {
+      "tag": "P",
+      "text": "Copyright © 2026 Dask core developers. New-BSD Licensed.\n",
+      "class": "text-tiny white copyright",
+      "rect": {
+        "x": 126.078125,
+        "y": 8136.4375,
+        "w": 461.453125,
+        "h": 24
+      },
+      "css": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "11.9952px",
+        "fontWeight": "400",
+        "lineHeight": "24.0048px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "margin": "24.0048px 0px 15.9984px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "borderRadius": "0px",
+        "maxWidth": "none",
+        "textAlign": "start"
+      }
+    }
+  ],
+  "fonts": []
+}

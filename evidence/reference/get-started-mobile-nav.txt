@@ -1,0 +1,68 @@
+Get Started
+Community
+Mailing List
+Get Help
+Powered By
+News & Events
+Blog
+Docs
+Get Started with Dask
+
+Ready to dive in? We’re here to help.
+
+Install Dask
+
+Dask is included by default in Anaconda. You can also install Dask with Pip, or you have several options for installing from source. You can also use Conda to update Dask or to do a minimal Dask install.
+
+Install Now
+Learn Your Way Around
+
+Do you have a few minutes – or a few hours? Either way, we’ve got you covered.
+
+Introduction to Dask
+This 7-minute video provides a short overview of Dask.
+Watch the video
+10 Minutes to Dask
+This document gives new users an overview of what you can do with Dask.
+Read the overview
+Dask Tutorial
+This collection of Jupyter Notebooks, presented in the Dask Tutorial at SciPy, helps new users get started with Dask.
+Start the tutorial
+Dask Video Tutorial
+This 90-minute video covers the basics of using Dask.
+Watch the tutorial
+Dask Tutorial Recording
+This video is a recording of a three-hour Dask tutorial presented at SciPy 2020.
+Watch the recording
+Explore the Possibilities
+Dask is a versatile tool that supports a variety of workloads. Here are some resources to help you explore your options and see what’s possible.
+Ecosystem
+Case studies
+Examples
+Ecosystem
+Browse the ecosystem to learn more about the open source projects that extend the Dask interface and provide different mechanisms for deploying Dask clusters.
+Browse the ecosystem
+Dig Deeper into Dask
+Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:
+Dask Best Practices
+Dask Documentation
+Talks and Tutorials
+The Dask Blog
+Dask YouTube Channel
+Get More Help
+
+You can get help by posting questions on the Dask Discourse forum or on Stack Overflow, or you can submit an issue on GitHub. You can also get paid support from these organizations:
+
+Get Started
+Latest
+Community
+Get Help
+Powered By
+Demo Day
+Blog
+Dask Blog
+Contribute
+Brand
+Brand Guidelines
+
+Copyright © 2026 Dask core developers. New-BSD Licensed.

@@ -1,0 +1,374 @@
+[
+  {
+    "name": "workload-0",
+    "reference": [
+      1115,
+      644
+    ],
+    "local": [
+      1116,
+      627
+    ],
+    "differentPercent": 10.907
+  },
+  {
+    "name": "workload-1",
+    "reference": [
+      1115,
+      644
+    ],
+    "local": [
+      1116,
+      627
+    ],
+    "differentPercent": 10.413
+  },
+  {
+    "name": "workload-2",
+    "reference": [
+      1115,
+      644
+    ],
+    "local": [
+      1116,
+      627
+    ],
+    "differentPercent": 10.419
+  },
+  {
+    "name": "workload-3",
+    "reference": [
+      1115,
+      644
+    ],
+    "local": [
+      1116,
+      627
+    ],
+    "differentPercent": 11.095
+  },
+  {
+    "name": "deployment-0",
+    "reference": [
+      1440,
+      719
+    ],
+    "local": [
+      1440,
+      718
+    ],
+    "differentPercent": 5.823
+  },
+  {
+    "name": "deployment-1",
+    "reference": [
+      1440,
+      719
+    ],
+    "local": [
+      1440,
+      718
+    ],
+    "differentPercent": 5.379
+  },
+  {
+    "name": "explore-0",
+    "reference": [
+      1440,
+      1120
+    ],
+    "local": [
+      1440,
+      1119
+    ],
+    "differentPercent": 1.837
+  },
+  {
+    "name": "explore-1",
+    "reference": [
+      1440,
+      1120
+    ],
+    "local": [
+      1440,
+      1119
+    ],
+    "differentPercent": 1.76
+  },
+  {
+    "name": "explore-2",
+    "reference": [
+      1440,
+      1120
+    ],
+    "local": [
+      1440,
+      1119
+    ],
+    "differentPercent": 1.728
+  },
+  {
+    "name": "logo-0",
+    "reference": [
+      1440,
+      1123
+    ],
+    "local": [
+      1359,
+      1120
+    ],
+    "differentPercent": 9.579
+  },
+  {
+    "name": "logo-1",
+    "reference": [
+      1440,
+      1123
+    ],
+    "local": [
+      1359,
+      1120
+    ],
+    "differentPercent": 9.982
+  },
+  {
+    "name": "logo-2",
+    "reference": [
+      1440,
+      1123
+    ],
+    "local": [
+      1359,
+      1120
+    ],
+    "differentPercent": 15.196
+  },
+  {
+    "name": "logo-3",
+    "reference": [
+      1440,
+      1123
+    ],
+    "local": [
+      1359,
+      1120
+    ],
+    "differentPercent": 15.009
+  },
+  {
+    "name": "palette-0",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 15.83
+  },
+  {
+    "name": "palette-1",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 20.642
+  },
+  {
+    "name": "palette-2",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 15.856
+  },
+  {
+    "name": "palette-3",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 20.846
+  },
+  {
+    "name": "palette-4",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 15.845
+  },
+  {
+    "name": "palette-5",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 21.145
+  },
+  {
+    "name": "palette-6",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 21.517
+  },
+  {
+    "name": "palette-7",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 20.472
+  },
+  {
+    "name": "palette-8",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 21.31
+  },
+  {
+    "name": "palette-9",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 20.509
+  },
+  {
+    "name": "palette-10",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 16.366
+  },
+  {
+    "name": "palette-11",
+    "reference": [
+      1440,
+      644
+    ],
+    "local": [
+      1359,
+      643
+    ],
+    "differentPercent": 20.85
+  },
+  {
+    "name": "dialog-0",
+    "reference": [
+      1440,
+      2379
+    ],
+    "local": [
+      1440,
+      2379
+    ],
+    "differentPercent": 2.303
+  },
+  {
+    "name": "dialog-1",
+    "reference": [
+      1440,
+      2379
+    ],
+    "local": [
+      1440,
+      2379
+    ],
+    "differentPercent": 2.221
+  },
+  {
+    "name": "dialog-2",
+    "reference": [
+      1440,
+      2379
+    ],
+    "local": [
+      1440,
+      2379
+    ],
+    "differentPercent": 2.057
+  },
+  {
+    "name": "nav-1440",
+    "reference": [
+      1440,
+      1000
+    ],
+    "local": [
+      1440,
+      1000
+    ],
+    "differentPercent": 10.107
+  },
+  {
+    "name": "nav-768",
+    "reference": [
+      768,
+      1000
+    ],
+    "local": [
+      768,
+      1000
+    ],
+    "differentPercent": 10.312
+  },
+  {
+    "name": "nav-390",
+    "reference": [
+      390,
+      1000
+    ],
+    "local": [
+      390,
+      1000
+    ],
+    "differentPercent": 16.766
+  }
+]
