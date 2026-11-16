@@ -1,6 +1,7 @@
 ---
 import Site from '../layouts/Site.astro';
 import '../styles/powered-by.css';
+import '../styles/organizations.css';
 import Hero from '../components/Hero.astro';
 import { asset, supporters, companies, projects } from '../data/site';
 ---
@@ -42,8 +43,7 @@ import { asset, supporters, companies, projects } from '../data/site';
   <section class="org-section light-grid large-grid">
     <div class="org-intro">
       <h2 class="medium-title">
-        Companies
-        <br />
+        Companies <br />
         Powered by Dask
       </h2>
       <p>
@@ -54,22 +54,32 @@ import { asset, supporters, companies, projects } from '../data/site';
     </div>
     <div class="logo-grid">
       {companies.map((name) => (
-        <img src={asset(name + '.png')} alt={name.replaceAll('-', ' ')} />
+        <div class="org-logo">
+          <div class="org-logo-media">
+            <img src={asset(name + '.png')} alt={name.replaceAll('-', ' ')} />
+          </div>
+        </div>
       ))}
     </div>
   </section>
   <section class="org-section projects light-grid large-grid">
     <div class="org-intro">
-      <h2 class="medium-title">Projects Powered by Dask</h2>
-      <p>
-        These software projects are part of the larger Dask community. They’re
-        either well-integrated with Dask or use Dask to power components of
-        their infrastructure.
-      </p>
+      <div class="org-copy">
+        <h2 class="medium-title">Projects Powered by Dask</h2>
+        <p>
+          These software projects are part of the larger Dask community. They’re
+          either well-integrated with Dask or use Dask to power components of
+          their infrastructure.
+        </p>
+      </div>
     </div>
     <div class="logo-grid">
       {projects.map((name) => (
-        <img src={asset(name + '.png')} alt={name.replaceAll('-', ' ')} />
+        <div class="org-logo">
+          <div class="org-logo-media">
+            <img src={asset(name + '.png')} alt={name.replaceAll('-', ' ')} />
+          </div>
+        </div>
       ))}
     </div>
   </section>

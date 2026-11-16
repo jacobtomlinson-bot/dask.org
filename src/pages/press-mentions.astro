@@ -17,7 +17,8 @@ import press from '../data/press.json';
       {press.map((item) => (
         <a href={item.href} class="press-card">
           <img src={'/assets/' + item.image} alt="" />
-          <div>
+          <div class="press-divider" aria-hidden="true"></div>
+          <div class="press-copy">
             <time datetime={new Date(item.date).toISOString().slice(0, 10)}>
               {item.date}
             </time>

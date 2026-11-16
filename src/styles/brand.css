@@ -190,35 +190,6 @@
   color: transparent !important;
   background: transparent !important;
 }
-.brand-type {
-  min-height: 59.875rem;
-  padding: 13.75rem 5.125rem 13.75rem 3.625rem;
-  display: grid;
-  grid-template-columns: 43.3fr 56.7fr;
-  gap: 5.625rem;
-  align-items: start;
-}
-.brand-type > div:first-child {
-  background: transparent;
-  padding-top: 3.125rem;
-}
-.type-row {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1.25rem;
-  align-items: center;
-  min-height: 2rem;
-  margin-bottom: 0.5rem;
-}
-.type-row > span {
-  min-width: 0;
-}
-.type-row > span:not(:first-child) {
-  font-size: 1rem;
-  color: #8d8f8e;
-  line-height: 1.5rem;
-  font-weight: 400;
-}
 .mono {
   font-family: Inconsolata, monospace;
 }
@@ -226,9 +197,6 @@
   color: white !important;
 }
 @media (max-width: 991px) and (min-width: 768px) {
-  .brand-type > div {
-    background-color: white;
-  }
   .brand-body {
     --brand-rail: 3.4375rem;
   }
@@ -357,40 +325,8 @@
     font-size: 0.736875rem;
     margin-bottom: 0;
   }
-  .brand-type {
-    grid-template-columns: 1fr 1.2fr;
-    min-height: 34.8125rem;
-    padding: 6.625rem 3.4375rem 5rem 2.0625rem;
-    gap: 3.125rem;
-  }
-  .brand-type > div:first-child {
-    padding: 0;
-  }
-  .type-specimens {
-    margin-top: 0.625rem;
-  }
-  .type-row {
-    min-height: 1.25rem;
-    margin-bottom: 0.125rem;
-    gap: 0.75rem;
-  }
-  .type-row > span:first-child {
-    font-size: 1rem !important;
-    line-height: 1.5rem !important;
-  }
-  .type-row:nth-child(-n + 2) > span:first-child {
-    font-size: 1.875rem !important;
-    line-height: 2.1875rem !important;
-  }
-  .type-row > span:not(:first-child) {
-    font-size: 0.75rem;
-    line-height: 1.25rem;
-  }
 }
 @media (max-width: 767px) {
-  .brand-type > div {
-    background-color: white;
-  }
   .brand-body {
     background-image: none;
     display: block;
@@ -533,56 +469,6 @@
     font-size: 1.04rem;
     font-weight: 400;
   }
-  .brand-type {
-    display: block;
-    min-height: 56.9375rem;
-    padding: 3.4375rem 11.16vw 1.875rem;
-  }
-  .brand-type > div:first-child {
-    padding: 0;
-  }
-  .brand-type .button {
-    margin-top: 1rem;
-  }
-  .type-specimens {
-    margin-right: -0.625rem;
-    margin-left: -0.08125rem;
-    margin-top: 2.68125rem;
-  }
-  .type-row {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 0;
-    min-height: 1.8125rem;
-    margin: 0;
-    align-items: start;
-  }
-  .type-row > span:not(:first-child) {
-    font-size: 1.04rem;
-    line-height: 1.56rem;
-    overflow-wrap: anywhere;
-  }
-  .type-row > span:first-child {
-    font-size: 1rem !important;
-    line-height: 1.5rem !important;
-  }
-  .type-row:nth-child(1) > span:first-child {
-    font-size: 2.5rem !important;
-    line-height: 0.965rem !important;
-  }
-  .type-row:nth-child(2) > span:first-child {
-    font-size: 2.08rem !important;
-    line-height: 2.34rem !important;
-  }
-  .type-row:nth-child(5) > span:first-child {
-    font-size: 1.82rem !important;
-    line-height: 2.4375rem !important;
-    font-weight: 400 !important;
-  }
-  .type-row:nth-child(6) > span:first-child {
-    font-size: 1.56rem !important;
-    line-height: 2.08rem !important;
-    font-weight: 400 !important;
-  }
   .brand-logo-copy .button {
     margin-top: 0.9375rem;
   }
@@ -592,67 +478,6 @@
   }
   .palette-copy h2 {
     margin-bottom: 0.75rem;
-  }
-  .brand-type > div:first-child p {
-    width: 100%;
-  }
-  .type-row:nth-child(1) {
-    min-height: 2.475rem;
-  }
-  .type-row:nth-child(2) {
-    min-height: 1.74375rem;
-  }
-  .type-row:nth-child(3) {
-    min-height: 3.775rem;
-  }
-  .type-row:nth-child(4) {
-    min-height: 2.5725rem;
-  }
-  .type-row:nth-child(5) {
-    min-height: 2.734375rem;
-  }
-  .type-row:nth-child(6) {
-    min-height: 1.7425rem;
-  }
-  .type-row:nth-child(7) {
-    min-height: 3.301875rem;
-  }
-  .type-row:nth-child(8) {
-    min-height: 1.7425rem;
-  }
-  .type-row:nth-child(9) {
-    min-height: 1.9075rem;
-  }
-  .type-row:nth-child(10) {
-    min-height: 1.7425rem;
-  }
-  .type-row:nth-child(11) {
-    min-height: 3.125rem;
-  }
-  .type-row:nth-child(7) > span:first-child {
-    font-size: 1.17rem !important;
-    line-height: 1.56rem !important;
-    font-weight: 400 !important;
-  }
-  .type-row:nth-child(8) > span:first-child {
-    font-size: 1.04rem !important;
-    line-height: 1.56rem !important;
-    font-weight: 400 !important;
-  }
-  .type-row:nth-child(9) > span:first-child {
-    font-size: 0.91rem !important;
-    line-height: 1.56rem !important;
-    font-weight: 400 !important;
-  }
-  .type-row:nth-child(10) > span:first-child {
-    font-size: 0.78rem !important;
-    line-height: 1.56rem !important;
-    font-weight: 400 !important;
-  }
-  .type-row:nth-child(11) > span:first-child {
-    font-size: 1.04rem !important;
-    line-height: 1.56rem !important;
-    font-weight: 400 !important;
   }
 }
 
@@ -706,13 +531,7 @@
   .logo-options {
     height: 10rem;
   }
-  .brand-type,
   .palette-section {
     min-height: 0;
   }
-}
-/* Specimen panels have vertical rails, not an overlay of dense cells. */
-.brand-type {
-  background-image: var(--grid-light);
-  background-repeat: repeat-y;
 }

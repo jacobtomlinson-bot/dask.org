@@ -23,6 +23,69 @@
 .site-header .button {
   padding: 0.5rem 0.9375rem;
 }
+/* Desktop controls retain their source pixel scale; the logo stays fluid. */
+@media (min-width: 992px) {
+  .site-header nav {
+    gap: 20px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .site-header .community-toggle {
+    width: 149px;
+    height: 67px;
+    padding: 20px 40px 20px 20px;
+    font-size: 16px;
+    line-height: 24px;
+    position: relative;
+  }
+  .site-header .chevron {
+    position: absolute;
+    right: 20px;
+    font-size: 18px;
+  }
+  .site-header .blog-link {
+    height: 25px;
+  }
+  .site-header .docs-button {
+    margin-left: 20px;
+    padding: 9px 15px;
+    width: 70px;
+    height: 42px;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .site-header nav .community #community-links {
+    top: 88px;
+    left: -12px;
+    right: auto;
+    width: 240px;
+    padding: 24px 24px 24px 16px;
+    gap: 24px;
+    box-shadow: none;
+  }
+  .site-header nav .community #community-links a {
+    position: relative;
+    margin-left: 16px;
+    width: fit-content;
+    height: 34px;
+    padding: 0 0 10px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+  }
+  .site-header #community-links a.desktop-only::after,
+  .site-header #community-links a[href='/get-help']::after {
+    content: '';
+    position: absolute;
+    left: -16px;
+    top: 37.5px;
+    width: 200px;
+    height: 8.6px;
+    background: radial-gradient(circle, #ebeaee 0.55px, transparent 0.9px) 0
+      center/4px 2px repeat-x;
+    pointer-events: none;
+  }
+}
 .community {
   position: relative;
 }
@@ -225,9 +288,6 @@ dialog .form-status {
   color: #bbb;
 }
 @media (max-width: 1100px) {
-  .site-header nav {
-    gap: 1.75rem;
-  }
   .footer-top {
     gap: 2rem;
   }
@@ -236,21 +296,6 @@ dialog .form-status {
   }
 }
 @media (min-width: 992px) {
-  .community #community-links {
-    left: -1.875rem;
-    right: auto;
-    top: 5.40625rem;
-    width: 15rem;
-    padding: 1.5rem 1.5rem 1.5rem 2rem;
-    box-shadow: none;
-  }
-  .community-toggle[aria-expanded='true'] + #community-links {
-    gap: 1.5rem;
-  }
-  #community-links a {
-    padding: 0 0 0.625rem;
-    font-weight: 400;
-  }
   .site-footer {
     padding-right: 5.9vw;
   }

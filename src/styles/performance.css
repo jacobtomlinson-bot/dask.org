@@ -312,6 +312,22 @@
     margin: 0 0.08301rem 0 0;
     aspect-ratio: 1.017716;
   }
+  .human-code .terminal-body {
+    padding: 0.24375rem 0.4875rem 0.24375rem 0.73125rem;
+  }
+  .human-code .terminal pre {
+    font-size: 0.63375rem;
+    line-height: 1.21875rem;
+    margin: 0.63375rem 0;
+    padding: 0;
+  }
+  .human-code .window-bar {
+    height: 1.705rem;
+  }
+  .human-code .window-bar i {
+    width: 0.4875rem;
+    height: 0.4875rem;
+  }
   .human-code {
     min-height: 0;
     margin: 0.12109rem 0.08301rem 0 0;
@@ -462,5 +478,30 @@
   .rows-total output,
   .cost-digits {
     margin-top: 4px;
+  }
+}
+
+/* Phone typing can enlarge the row intrinsically. As on the reference, only the
+   decorative paper's last few pixels meet the section viewport; all copy ink
+   stays inside it. This is a component boundary, not a document overflow mask. */
+@media (max-width: 479px) and (prefers-reduced-motion: no-preference) {
+  .performance {
+    overflow: clip;
+  }
+  .performance-row.humans[data-intrinsic] {
+    width: var(--human-row-width);
+  }
+  .humans[data-intrinsic] .human-code,
+  .humans[data-intrinsic] .performance-copy {
+    width: 99.6%;
+    margin-right: 0;
+    aspect-ratio: auto;
+    flex-shrink: 0;
+  }
+  .humans[data-intrinsic] .human-code {
+    height: calc(84.8vw * 0.996 / 2.07063);
+  }
+  .humans[data-intrinsic] .performance-copy {
+    height: calc(84.8vw * 0.996 / 1.017716);
   }
 }

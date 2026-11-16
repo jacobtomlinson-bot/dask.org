@@ -1,73 +1,75 @@
-# Developer review package — round9
+# Developer review package — round10
 
 - Card: `549aad55-ef02-4222-a004-0df05ae01ca1` (dask).
-- Outcome: **ready_for_review**, local-only intermediate package; no equivalence or reviewer approval claim.
-- Branch: `openclaw/dask-org-astro-developer`; exact signed SHA is in the final handoff. Parent implementation: `44a530564e490fadc235898414ed732f276a1976`.
-- Main remains sole coordinator, tester relay, integration and completion owner. Main/card were not changed. No remote/fetch/push/PR/deployment/CI, live submission, new runtime dependency or backend work.
+- Outcome: **ready_for_review**, local-only intermediate package; not an equivalence or independent-approval claim.
+- Branch: `openclaw/dask-org-astro-developer`. Parent: `6cf43ba8f814d0569de87b71eb4506e53885261a`. Exact signed SHA is supplied with the final handoff.
+- Main remains sole coordinator, tester relay, integration and completion owner. No main/card mutation, fetch/remote/push/PR/deployment/CI, live submission, new dependency, backend or authentication changes.
 
-## Explicit responses to independent round8 findings
+## Explicit responses to independent round9 findings
 
-### R8-1 — copy papers and hero rhythm
+### R9-1 — actual typography specimens
 
-Implemented explicit decorative copy sheets independently from text tracks in `copy-papers.css`, plus real Help/Learn/Support/sponsor frames in their component owners. This covers the observed hero, workload headline/menu/content, Install/Learn, Help/Support, sponsor/organization introduction and Brand Logos/Typography/palette copy roles. Sheets use the observed RGB and responsive insets; palette sheets inherit the selected color. They do not clip foreground, stretch paragraphs or substitute a broad opaque section overlay. The source Typography sheet's fixed40px sticky inset and phone intrinsic text height are retained rather than blindly scaling a rectangle.
+Replaced scattered specimen overrides with `specimens.css`: an intrinsic three-cell row, bottom-aligned cells, real label paragraph margins, actual responsive sample font/weight/line-height matrix, and separately owned intro/action tracks. Printed design labels remain unchanged even when they differ from actual rendering. The desktop paper extent is the observed specimen-panel aspect, not a section-height spacer. Samples/intro can grow and are not clipped.
 
-Corrected actual Hero/Install heading/body widths, source-sized paragraph spacing and compact-tier subtitle geometry, including the original responsive outline widths. Inspection also revealed that reused public Hero art had incorrect size/position/cropping: Powered By phone/tablet and Brand tablet now match the measured image rectangles and actual cover/position behavior. Source-backed tests cover both image bounds and real fitting, not only outer wrappers.
+Fresh reference/native measurements cover **all11 rows ×3 cells ×11 widths =363 cells**, including actual fonts/weights/line-height, exact rendered lines, cell/content rectangles and DOMRange ink. Both intro typography and its fixed inline action strut are measured, not inferred from page height. Accepted Tone/paper/rail geometry is independently rerun.
 
-### R8-2 — homepage performance/cost and workload copy
+An explicit compatibility detail: the original itself uses40px for the first sample at320px and its “Inter” ink reaches6.109375px into the next cell. `narrow-specimen-reference.json` records that exact GET-only observation and the non-overlapping360px neighbor. The historical round3 blanket no-collision assertion now compares this one observed source case within0.05px; it remains strict for every other row/view. We did not shrink the specimen or conceal it to pass the old inaccurate assumption. No document overflow results.
 
-`performance.css` now owns copy/code/gauge tracks, artwork frames, typography and ticker layout, removed from the home/illustration override chains. At768–991 Rows/Cost are full-width stacked panels with the original fixed-pixel inner labels/digits and source-sized fluid padding. Corrected machine/human copy, emphasis, inline link line-box behavior, source paragraph spacing and the real human terminal font/insets/bar styling. The source992px Cost paper extends outside the viewport; the native grid matches its **visible** paint while remaining structurally within the viewport (no document overflow mask).
+### R9-2 — organization banks
 
-Corrected actual workload title/menu/button geometry and all-label600 emphasis, paragraph rhythm, landscape partner-logo sizes/spacing and terminal flow. The landscape hero headline's collapsed child margin had shifted subsequent content; containing that margin fixes the real flow rather than moving the background or compensating the page height. The desktop home introduction now flows intrinsically with its measured gutter.
+`organizations.css` owns both banks, with separate native card/media wrappers, real contained artwork, media insets, intro-to-grid flow, row gaps and trailing gutters. Removed the older fixed overall organization-section heights and conflicting bank rules. Sponsor cards are untouched. The source's fixed inter-component gaps are retained alongside fluid design units.
 
-### R8-3 — Help phone/tablet composition
+Intro text tracks are also checked at every width. The project intro centers its whole intrinsic content block in the paper, so the1100px two-line paragraph naturally moves its heading; no1100px y-offset exception is used.
 
-`get-help.css` owns source-sized copy tracks, icons, H3/body spacing, paper frames and responsive source link sizes. All four text regions' heading/body rendered-line arrays match at all ten requested widths. Source-sized intrinsic/aspect frames retain the observed centering when line count changes near a breakpoint, with visible overflow rather than text clipping. No fixed Help section height is used.
+Checks cover **every16 company +28 project +12 homepage image at11 widths =616 images**, their rectangles, intrinsic row positions, source-artwork filenames, actual object-fit and object-position. This restores the phone company lead offset and project pitch, tablet110px row pitch, and the smaller homepage partner artwork without replacing any artwork.
 
-### R8-4 — Learn cards and actual artwork paint
+### R9-3 — all nine press cards
 
-`learn.css` owns all five cards, typography, heading/body/CTA tracks and three public artwork boxes. Card CTA rows respect min-content plus the observed gap, including the source's overflowing tall descriptions; they do not overlap merely to preserve an arbitrary height. Restored every card's actual decorative divider. Phone artwork uses a genuine flexible column with intrinsic minimum sizes, reproducing the479px top-image shrink without an endpoint pixel cap.
+Rebuilt the card's native flex composition with independent media/separator/shrink-wrapped copy. Removed the1100px shortcut and tablet section-height constraint. Date400/title700 and exact source type coefficients drive genuine title wrapping. The list owns its trailing reading gutter independently of the symmetric section inset; there is no page-height correction.
 
-Critically, visual inspection caught a false-positive outer-box match: the tablet middle SVG was letterboxed inside its correct rectangle. Corrected the actual source `cover`/right-center paint, with `contain` on phones/landscape and the observed desktop behavior. All ten widths now assert both element rectangles **and** actual object-fit/position/dividers.
+Checks cover **all99 cards at11 widths**, including767/768/769/991/992/1100: media bounds/fitting, card frames/pitch, copy tracks, actual date/title fonts/weights and exact line arrays. A separate collector checks **all99 separator rectangles/colors**. In particular, tablet media is122.875×61.438px at768, while the992 title returns to the source423px track/two-line composition. The accepted phone cards/forms remain intact.
 
-### R8-5 — sponsor flow and typography
+### R9-4 — closing CTA/note
 
-Separated sponsor media, divider and copy into component roles; restored all four logos, title/description font sizes/line heights and per-card phone flow. Landscape first-card shrink-to-fit, two-column row rhythm and tablet/desktop frames retain the observed behavior. All four cards' rendered copy arrays, logo/divider bounds and title/body positions are source-backed at all ten widths. External destinations are unchanged.
+`closing.css` owns the real heading/body/action/terminal and navy-note tracks. Restored the45.9936px desktop heading,18px/600 body in the403px track, source-sized action rows,700 note emphasis, contained reused artwork, and actual terminal code typography/insets. The window controls use native primitives with measured size, padding, gap and color, not an imported animation/runtime.
 
-### R8-6 — shared footer papers/separators
+All11 widths compare heading/body/action/note fonts, weight, exact line arrays, ink and section-relative rectangles, terminal frame and pre rectangle. **All44 window-control rectangles/colors** are separately checked. Text is intrinsic; only the deliberately off-canvas illustration has its observed component viewport boundary.
 
-One `Footer.astro` plus `footer-papers.css` implements logo, all four heading/text groups, social and copyright sheets, and independent source-sized separators. Text/layout still belong to the shared chrome owner. Corrected fluid footer logo sizing, desktop gap at992, fractional separator flow and the landscape copyright/paper padding. Paper RGB is `#33363d`; grid remains visible in gutters. Source-backed geometry/color checks explicitly cover all six routes × all ten widths, not just one shared screenshot.
+### R9-5 — landscape Use Cases
 
-## Evidence and measurements
+Restored the480–767 pink frame, real heading inset/minimum frame, section top/bottom breathing room and description-to-grid rhythm. The minimum belongs to the measured heading box and can grow; no card or section content is clipped. Kept the accepted `cases.css` internals unchanged. Tests compare heading/description/grid/CTA section-relative bounds and border quantization across all11 widths, with tight vertical assertions.
 
-All requested widths: **390/479/480/601/767/768/769/991/992/1440**.
+The formerly ~74px-early601 grid/CTA now follow the original header rhythm. A small pre-existing intrinsic card-track residual is retained transparently: at767 the whole grid is4.25px narrower (2.125px inset each side); at991 its total intrinsic height differs1.625px. These are recorded as limits, not called identical. New checks bound those fields separately instead of disguising them with spacers or claiming a0.4px whole-component match.
 
-- `round9/reference.json`:60 fresh read-only, font-ready, fully traversed original page/width records; actual DOM Range ink, line arrays, paper/color and image bounds. `round9/local.json` is the corresponding native inventory.
-- `round9/reference-learn-paint.json`: all50 dividers and all30 original image fitting states.
-- `round9/reference-hero-paint.json`: original hero image fitting/visibility by responsive tier.
-- `round9/checks.json`:229 focused groups, including370 exact copy-line arrays, actual ink/CTA/image/divider bounds, all60 paper/footer route-width cases, palette selection and final painted pixels.
-- Measured card/support copy/CTA maximum error: **0.25px**; reused Learn/sponsor artwork/divider bound error: **0.25px**. Hero/Install actual ink maximum: **1.265625px** (separately reported, not folded into the card metric).
-- Target performance paragraph/viewport-visible ticker bound maximum: **0.609375px**.
-- `round9/surfaces.json`: measured sheet/separator coordinates and RGB. Largest boundary error **0.89304px**. `round9/measurements-summary.json` records scope separately.
-- Actual final-pixel checks found1210 solid source-colored paper samples in the18 canonical route-width screenshots; these are not only CSS declarations.
-- `round9/gallery.html`, `pair-<route>-<width>.png`, `reference/`, `local/`, `diff/`, `capture.json`, `comparison.json`: all18 canonical full-page pairs at390/768/1440, all fully traversed.
-- Inspected all18 route tops and all18 route footers (`top-all-*.png`, `footer-all-*.png`), plus full-page overview pairs, performance/Learn/sponsor/Support detail pairs and the retained cases/quotes/Tone/press detail strips. Inspection caught and led to fixes for missing Learn dividers, wrong real SVG paint and hero illustration size/cropping.
+### R9-6 — fixed desktop navigation
 
-`round9/reference-human-phases.json` records an original phone layout change after the typing observer activates:329.42→350.94→329.42px. This is reproducible animation-dependent geometry, not a static source width. `reference-quiet-human.json` records an unaltered quiet phase for static comparison; the original was not frozen or edited.
+Separated fixed desktop controls from the fluid root/logo:16px/24px labels,20px control gaps and70×42px Docs at992/1100/1440. Removed the conflicting1100px fluid-gap override. Existing fluid logo and991px drawer boundary remain intact. Shared-header measurements are checked on all four captured routes at the desktop widths and the drawer neighbor; all six routes' navigation is also exercised by the full suite. The attached desktop dropdown has its own fixed240×198px frame,16px regular links and native decorative separators, with source-backed992/1100/1440 checks for frame/link geometry, destinations, Escape and outside dismissal.
 
-## Verification
+### R9-7 — content-driven phone human copy
 
-Final build:PASS (six core routes plus404). Focused suite:229 passed/0 failed. Full runner: **70 passed/0 failed**; final result is recorded in `round9/tests.log` and `round9/regressions/outer-results.json`; nested focused counts are **not additive**. Format, diff integrity and dependency-audit evidence are alongside them. No backend call is made by the tests. Accepted Tone90 paragraph arrays/papers and rail states remain in the full runner.
+The native typing lifecycle measures the **currently rendered code DOMRange plus actual frame insets** to derive the row's intrinsic width. It is not a timed width animation or a hardcoded width sequence. At390, quiet/pandas/Dask states reproduce ~329.42/350.94/363.09px copy tracks and the final paragraph's four/three-line transition;479px has its corresponding states. Token spans and newline structure survive complete cycles.
 
-## Honest remaining limits
+`human-reference.json` contains200 fresh source samples; `human-local.json` samples normal motion at320/360/390/479 plus stable reduced-motion states. Assertions check both completed frames, highlighting/newlines, state widths, document width and copy ink inside the viewport. The original performance section explicitly clips decorative overhang; the native component has the same local boundary. It does not globally mask overflow or clip text. Reduced motion intentionally stays stable.
 
-- **Exact equivalence is not certified.** Independently authored dashboard/gauge/rolling-digit and rail contours still have static drawing, spacing and raster differences. Their unsynchronized task distributions, typing and timings are not bit-identical to the original. The human terminal matches measured frame/type behavior, but a timed screenshot need not contain the same partial code.
-- The original phone human-copy track transiently grows during typing. Native retains the stable quiet layout rather than deliberately reproducing that transient overflow. This is a known behavior difference, supported by phase measurements, not dismissed as antialias noise.
-- Hero/Install ink can differ by up to1.265625px; paper/separator bounds by up to0.89304px. Non-target typography/specimen/organization details and some grid/contour/raster differences remain visible. The full-page comparison records them; a low pixel percentage or similar page height is not acceptance.
-- At992, the original counter extends beyond the viewport. Native preserves viewport-visible paint without intentionally extending the document; off-viewport element width is therefore not identical.
-- Native focus rings and the safe local form notice/Not sent result intentionally differ from a live delivery workflow. Backends, redirect destinations, all third-party/download payloads, Safari/Firefox and physical devices remain unverified. Pending redirects are not guessed.
+## Verification and inspected evidence
 
-## Reproduce and integrate locally
+Final build/test/format/audit results are recorded in `round10/build.txt`, `tests.txt`, `format.txt`, `audit.json`, `checks.json`, and the regression summaries. Final frozen build passed; **72 outer regression groups passed, 0 failed**, including **193 focused round10 groups**, **673 exact rendered text-line arrays**, 363 specimen cells, 616 images, 99 press cards/dividers and44 window controls. Four normal-motion phone cycles and two reduced-motion states passed. Formatting/whitespace checks passed; dependency audit reports **0 vulnerabilities**. Exact signed SHA is supplied in the final handoff.
 
-See root `README.md` for `npm ci`, Chromium setup, dev/preview, build, full tests and individual evidence commands. `BASE_URL=http://127.0.0.1:4321` reuses an existing static preview; `npm test` without it starts/stops its own4322 preview. Reference tools allow GET/HEAD only.
+Measured maximum absolute geometry errors: specimen cells0.03125px, organization images0.40625px, organization intro0.109375px, press tracks0.265625px, closing tracks0.109375px and navigation0.015625px. These maxima do not include the explicitly bounded Use Cases residuals below. Final refreshed company/project details and desktop dropdown pairs were also visually inspected; native dotted-separator raster/paint differs from the source and is not represented as exact.
 
-After main obtains the same independent tester's approval of the **new exact SHA**, shared Git objects permit `git show <SHA>` or a local fast-forward from the main checkout with no fetch/network. Do not integrate/publish based on an older approval. The developer's final handoff records the exact signed SHA, clean status and stopped owned server. Main owns integration and Workboard reconciliation.
+- Fresh GET/HEAD-only source measurements:44 route/width records at390/479/480/601/767/768/769/991/992/1100/1440, plus narrow320/360 specimens and independently observed typing phases.
+- `round10/gallery.html`:18 canonical original-left/native-right page pairs. `neighbors.html` and the raw captures additionally cover landscape/press boundaries; two extra organization neighbor captures cover601/1100.
+- `round10/details.html`:21 component-aligned specimen, organization, press, CTA/note pairs. Full page thumbnails: `inspect-*.png`.
+- `reference-dividers.json` / `local-dividers.json`:99 separators and44 controls per side.
+- `reference.json` / `local.json`: full raw element/ink/font/line data. `checks.json`: exhaustive target assertions. Historical regression artifacts are retained under `round10/regressions/` rather than silently replacing older rounds' reports.
+- All18 canonical pairs and targeted typography/closing/press/organization details were inspected; additional boundary captures are included for independent review. No live form submission is required or performed.
+
+## Honest limits / remaining differences
+
+This is **not exact-equivalence certification**. The bounded intrinsic Use Cases residuals above remain. Native dashboard/gauge/counter/rail contours and small grid/dot/paint-phase differences remain measurable; page captures also contain unsynchronized normal motion versus stable reduced-motion native frames. Whole-page pixel percentages and height deltas are diagnostics, not acceptance evidence. Target measurements do not certify unmeasured elements or browsers.
+
+The source's own320px specimen overlap is reproduced explicitly, not waived as a native deviation. Native local forms still prevent submission and truthfully report “Not sent”; no backend is fabricated. Blog/event redirect destinations remain explicitly pending, not guessed. Validation is Chromium on this host, not cross-engine, device or accessibility certification.
+
+## Local integration instructions
+
+Do not integrate merely because this package exists. Main sends the final exact signed SHA to the **same independent tester**. Only after that SHA is approved may main fast-forward the authorized local checkout using the shared object store (no fetch/push/PR needed): `git merge --ff-only <approved-SHA>`. This developer did not integrate main or change the card. The final handoff confirms clean status and stopped owned listeners.

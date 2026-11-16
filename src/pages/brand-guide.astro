@@ -2,6 +2,7 @@
 import Site from '../layouts/Site.astro';
 import '../styles/brand.css';
 import '../styles/tone.css';
+import '../styles/specimens.css';
 import Hero from '../components/Hero.astro';
 import BrandNav from '../components/BrandNav.astro';
 import ContrastText from '../components/ContrastText.astro';
@@ -21,17 +22,17 @@ const brandColorOrder = [
   '#080815',
 ];
 const fonts = [
-  ['Inter', 'Heading 1', 'Bold, 56px', 56, 700],
-  ['Inter', 'Heading 2', 'Bold, 46px', 46, 700],
-  ['Inter', 'Heading 2-small', 'SemiBold, 36px', 20, 700],
-  ['Inter', 'Heading 3', 'Bold, 20px', 20, 700],
-  ['Inter', 'Text-xlarge', 'Light, 36px', 36, 300],
-  ['Inter', 'Text-large', 'Light, 24px', 24, 300],
-  ['Inter', 'Text-medium', 'Regular, 18px', 18, 400],
-  ['Inter', 'Text-regular', 'Light, 16px', 16, 300],
-  ['Inter', 'Text-small', 'Light, 14px', 14, 300],
-  ['Inter', 'Text-tiny', 'Light, 12px', 12, 300],
-  ['Inconsolata', 'syntax/code', 'Regular, 16px', 16, 400],
+  ['Inter', 'Heading 1', 'Bold, 56px'],
+  ['Inter', 'Heading 2', 'Bold, 46px'],
+  ['Inter', 'Heading 2-small', 'SemiBold, 36px'],
+  ['Inter', 'Heading 3', 'Bold, 20px'],
+  ['Inter', 'Text-xlarge', 'Light, 36px'],
+  ['Inter', 'Text-large', 'Light, 24px'],
+  ['Inter', 'Text-medium', 'Regular, 18px'],
+  ['Inter', 'Text-regular', 'Light, 16px'],
+  ['Inter', 'Text-small', 'Light, 14px'],
+  ['Inter', 'Text-tiny', 'Light, 12px'],
+  ['Inconsolata', 'syntax/code', 'Regular, 16px'],
 ];
 const logoStates = [
   ['White', '#ffffff', 'primary'],
@@ -174,23 +175,29 @@ const tone = [
           displaying syntax/code snippets or as a labeling device for charts,
           graphics, and specialty layout components.
         </p>
-        <a
-          class="button"
-          href="https://www.dropbox.com/s/o89igbdknyieedp/Dask-Fonts.zip?dl=1"
-        >
-          Download Typefaces
-        </a>
+        <div class="type-action">
+          <a
+            class="button"
+            href="https://www.dropbox.com/s/o89igbdknyieedp/Dask-Fonts.zip?dl=1"
+          >
+            Download Typefaces
+          </a>
+        </div>
       </div>
       <div class="type-specimens">
-        {fonts.map(([font, label, note, size, weight]) => (
+        {fonts.map(([font, label, note]) => (
           <div class="type-row">
-            <span
-              style={`font-family:${font};font-size:${Number(size) / 16}rem;font-weight:${weight};line-height:${(Number(size) > 40 ? 57 : 32) / 16}rem`}
-            >
-              {font}
-            </span>
-            <span>{label}</span>
-            <span>{note}</span>
+            <div class="type-cell">
+              <p class="type-sample" style={`font-family:${font}`}>
+                {font}
+              </p>
+            </div>
+            <div class="type-cell">
+              <p class="type-label">{label}</p>
+            </div>
+            <div class="type-cell">
+              <p class="type-label">{note}</p>
+            </div>
           </div>
         ))}
       </div>

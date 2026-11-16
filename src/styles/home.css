@@ -72,34 +72,6 @@
   padding: 5rem var(--gutter);
   min-height: 44.875rem;
 }
-.home-org-grid {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 0.3125rem;
-  margin-top: 3.5rem;
-}
-.home-org-grid img {
-  width: 100%;
-  height: 9.75rem;
-  object-fit: contain;
-}
-.laptop-note {
-  background-image: url('/assets/grid-half-home.svg');
-  background-size: 100% auto;
-  background-position: left top;
-  padding: 2.5rem var(--gutter) 2.5rem 50%;
-  background-color: #062959;
-  color: white;
-  position: relative;
-  min-height: 16.5rem;
-}
-.closing-art {
-  position: absolute;
-  left: 11%;
-  top: 1.5rem;
-  width: 13.5rem;
-  height: 13.5rem;
-}
 .home-hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
@@ -159,12 +131,6 @@
 .deployment .workload-logos img {
   max-width: 31%;
 }
-.org-band {
-  text-align: center;
-  min-height: 34.9375rem;
-  padding: 3.5rem var(--gutter);
-  background-color: #ebeaee;
-}
 .use-cases {
   padding: 10.0008rem var(--gutter) 7.9925rem;
   text-align: center;
@@ -176,46 +142,14 @@
   font-size: 2.875rem;
   line-height: 3.5001rem;
   border-width: 2px;
-  padding: 0.63rem 1.5003rem 0.6825rem;
+  min-block-size: 5.625vw;
+  padding: 0.63rem 1.5003rem 0;
 }
 .use-cases > p {
+  width: fit-content;
+  margin-inline: auto;
   font-weight: 400;
-  margin: 1.1799rem 0 2.34rem;
-}
-.home-install {
-  padding: 5rem var(--gutter) 0;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0;
-  min-height: 25rem;
-  overflow: hidden;
-  background-color: #f5f7f5;
-}
-.home-install > div:first-child {
-  padding: 1.5rem 2.5rem 1.5rem 0;
-}
-.home-install h2 {
-  font-size: 2.25rem;
-  line-height: 2.875rem;
-  margin-bottom: 1rem;
-}
-.home-install p {
-  margin-bottom: 1.5rem;
-}
-.home-install > .terminal {
-  width: calc(100% + var(--gutter));
-}
-.home-install .window-bar {
-  background: #ebeaee;
-}
-.laptop-note p {
-  max-width: 33.75rem;
-  font-weight: 600;
-  font-size: 1.5rem;
-  line-height: 1.75rem;
-}
-.laptop-note .text-link {
-  font-size: 1rem;
+  margin: 1.1799rem auto 2.34rem;
 }
 @media (max-width: 1100px) {
   .workload-copy {
@@ -228,13 +162,6 @@
 @media (min-width: 992px) {
   .deployment {
     height: 44.875rem;
-  }
-  .org-band {
-    min-height: 34.9375rem;
-  }
-  .home-install h2 {
-    font-size: 2.25rem;
-    line-height: 2.875rem;
   }
 }
 @media (max-width: 991px) {
@@ -301,29 +228,8 @@
   .deployment .workload-logos {
     gap: 1rem;
   }
-  .org-band {
-    min-height: 25rem;
-  }
-  .org-band h2 {
-    font-size: 1.75rem;
-  }
   .use-cases {
     padding: 6.25rem var(--gutter);
-  }
-  .home-install h2 {
-    font-size: 1.75rem;
-    line-height: 2.25rem;
-  }
-  .home-install {
-    min-height: 25rem;
-  }
-  .laptop-note {
-    background-image: none;
-    padding-left: 48%;
-  }
-  .laptop-note p {
-    font-size: 1.125rem;
-    line-height: 1.625rem;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
@@ -444,65 +350,21 @@
   .deployment .workload-logos img {
     height: 1.25rem;
   }
-  .org-band {
-    height: 37.3125rem;
-    min-height: 37.3125rem;
-    padding-top: 2.4375rem;
-  }
-  .org-band h2 {
-    font-size: 1.684375rem;
-    line-height: 1.894375rem;
-  }
   .use-cases {
     padding: 6.8448rem 7.26vw 5.7408rem;
   }
   .use-cases > .boxed {
     font-size: 1.894375rem;
     line-height: 2.210625rem;
-    padding: 0.48rem 0.84192rem 0.5376rem;
+    padding: 0.48rem 0.84192rem 0;
+    min-block-size: 7.26vw;
+    border-width: max(2px, 0.32vw);
   }
   .use-cases > p {
-    margin: 0.6291rem 0 1.536rem;
-  }
-  .home-install {
-    height: 20.3125rem;
-    min-height: 20.3125rem;
-    padding-top: 4.0625rem;
-  }
-  .home-install > div:first-child {
-    padding: 0 1rem 1.5rem 0;
-  }
-  .home-install h2 {
-    font-size: 1.894375rem;
-    line-height: 2.210625rem;
-  }
-  .laptop-note {
-    height: 17rem;
-    padding-top: 3.875rem;
-    padding-left: 50%;
-    min-height: 17rem;
-  }
-  .laptop-note p {
-    font-size: 1.263125rem;
-    line-height: 1.47375rem;
-  }
-  .laptop-note .text-link {
-    font-size: 0.842187rem;
+    margin: 0.6291rem auto 1.536rem;
   }
   .workload-tabs .workload-copy {
     padding-top: 1.06445rem;
-  }
-  .home-org-grid {
-    grid-template-columns: repeat(3, 1fr);
-    margin-top: 2.5rem;
-  }
-  .home-org-grid img {
-    height: 6.875rem;
-  }
-  .closing-art {
-    width: 10rem;
-    height: 10rem;
-    top: 2.5rem;
   }
 }
 @media (max-width: 767px) {
@@ -674,15 +536,6 @@
   .deployment .workload-actions {
     gap: 1rem;
   }
-  .org-band {
-    min-height: 46.1875rem;
-    height: 46.1875rem;
-    padding: 3.125rem var(--gutter);
-  }
-  .org-band h2 {
-    font-size: 1.82rem;
-    line-height: 2.08rem;
-  }
   .use-cases {
     padding: 7.0625rem 7.7vw 5.11875rem;
     background-image: var(--grid-light);
@@ -692,67 +545,13 @@
     line-height: 2.34rem;
     padding: 0.39rem 0.81242rem 0.73125rem;
     border: 0;
+    min-block-size: 0;
   }
   .use-cases > p {
     margin: 0.31836rem 0 0.78rem;
     font-size: 1.04rem;
     font-weight: 400;
     line-height: 1.56rem;
-  }
-  .home-install {
-    display: block;
-    height: 30.875rem;
-    min-height: 30.875rem;
-    padding: 5.5625rem var(--gutter) 0;
-  }
-  .home-install h2 {
-    font-size: 2.08rem;
-    line-height: 2.34rem;
-  }
-  .home-install > div:first-child {
-    padding: 0 0 1.5rem;
-  }
-  .laptop-note {
-    height: 27.1875rem;
-    padding: 1.9375rem var(--gutter);
-    min-height: 27.1875rem;
-    display: flex;
-    flex-direction: column;
-  }
-  .laptop-note p {
-    font-size: 1.56rem;
-    line-height: 2.08rem;
-    font-weight: 700;
-    order: 0;
-  }
-  .laptop-note .text-link {
-    font-size: 1.04rem;
-    display: block;
-    margin-top: 1.75rem;
-  }
-  .home-install > .terminal {
-    width: calc(100% + var(--gutter));
-    height: 12.5rem;
-  }
-  .home-org-grid {
-    grid-template-columns: repeat(2, 1fr);
-    margin-top: 2.5rem;
-  }
-  .home-org-grid img {
-    height: 5.375rem;
-  }
-  .closing-art {
-    position: static;
-    display: block;
-    width: 8.75rem;
-    height: 8.75rem;
-    margin: 1.5rem auto;
-  }
-  .laptop-note .closing-art {
-    order: 2;
-  }
-  .laptop-note a {
-    order: 1;
   }
   .home-headline .button {
     font-size: 1.17rem;
@@ -866,27 +665,21 @@
   .workload-logos {
     margin-top: 1.5rem;
   }
-  .org-band {
-    min-height: 44.12rem;
-    height: auto;
-  }
-  .home-org-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-  .home-org-grid img {
-    height: 7.8rem;
-  }
   .use-cases {
-    padding-top: 4.21rem;
+    padding-top: 8.21rem;
+    padding-bottom: 7.89rem;
   }
-  .home-install {
-    min-height: 36.13rem;
-    padding-top: 4.21rem;
+  .use-cases > .boxed {
+    border: max(1px, 0.3vw) solid var(--pink);
+    font-size: 2.08rem;
+    line-height: 2.34rem;
+    padding: 0.7488rem 1.56rem 0;
+    min-block-size: 9vw;
   }
-  .laptop-note {
-    height: 31.74rem;
-    min-height: 31.74rem;
+  .use-cases > p {
+    margin: 0.615rem auto 1.499rem;
   }
+
   .workload-actions {
     flex-direction: row;
     align-items: center;

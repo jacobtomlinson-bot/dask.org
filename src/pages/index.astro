@@ -1,6 +1,8 @@
 ---
 import Site from '../layouts/Site.astro';
 import '../styles/home.css';
+import '../styles/organizations.css';
+import '../styles/closing.css';
 import '../styles/cases.css';
 import '../styles/testimonials.css';
 import '../styles/illustrations.css';
@@ -199,10 +201,14 @@ import cases from '../data/cases.json';
         'defense-department.webp',
         'walmart.png',
       ].map((name) => (
-        <img
-          src={asset(name)}
-          alt={name.replace(/\.(svg|png|webp)$/, '').replaceAll('-', ' ')}
-        />
+        <div class="home-org-logo">
+          <div class="home-org-media">
+            <img
+              src={asset(name)}
+              alt={name.replace(/\.(svg|png|webp)$/, '').replaceAll('-', ' ')}
+            />
+          </div>
+        </div>
       ))}
     </div>
   </section>
@@ -253,9 +259,11 @@ import cases from '../data/cases.json';
         You can run Dask right now on your computer. It’s simple and
         lightweight.
       </p>
-      <a class="button" href="https://docs.dask.org/en/latest/install.html">
-        Install Now
-      </a>
+      <div class="closing-actions">
+        <a class="button" href="https://docs.dask.org/en/latest/install.html">
+          Install Now
+        </a>
+      </div>
     </div>
     <Terminal
       light
@@ -270,12 +278,14 @@ import cases from '../data/cases.json';
       src={asset('illustration-home-stay-connected.svg')}
       alt=""
     />
-    <p>
-      Most people use Dask just on their laptops to scale out to 100 GiB
-      datasets. Dask works great on a single machine.
-    </p>
-    <a class="text-link" href={docs}>
-      Proceed to documentation
-    </a>
+    <div class="laptop-copy">
+      <p>
+        Most people use Dask just on their laptops to scale out to 100 GiB
+        datasets. Dask works great on a single machine.
+      </p>
+      <a class="text-link" href={docs}>
+        Proceed to documentation
+      </a>
+    </div>
   </section>
 </Site>

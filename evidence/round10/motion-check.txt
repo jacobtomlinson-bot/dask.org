@@ -1,0 +1,1 @@
+4 phone normal-motion cycles and 2 reduced-motion states passed: intrinsic widths, rewrapping, intact tokens/newlines, unclipped ink and no document overflow.

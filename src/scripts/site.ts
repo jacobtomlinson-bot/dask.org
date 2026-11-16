@@ -222,7 +222,54 @@ if (!reduceMotion.matches) {
         observer.unobserve(root);
         const frames = JSON.parse(root.dataset.loopCodes!) as string[];
         const code = root.querySelector('code')!;
-        let index = 0;
+        const humanRow = root.closest<HTMLElement>('.performance-row.humans');
+        let index = humanRow ? frames.length - 1 : 0;
+        // The source phone row grows from the rendered monospace line's intrinsic
+        // width, not from a timed width animation or a list of viewport constants.
+        const resizeHumanRow = () => {
+          if (!humanRow) return;
+          if (
+            reduceMotion.matches ||
+            !matchMedia('(max-width:479px)').matches
+          ) {
+            delete humanRow.dataset.intrinsic;
+            humanRow.style.removeProperty('--human-row-width');
+            return;
+          }
+          const section = humanRow.closest<HTMLElement>('.performance')!;
+          const sheet = humanRow.querySelector<HTMLElement>('.human-code')!;
+          const body = root.querySelector<HTMLElement>('.terminal-body')!;
+          const sideInsets = (e: Element) => {
+            const s = getComputedStyle(e);
+            return (
+              parseFloat(s.paddingLeft) +
+              parseFloat(s.paddingRight) +
+              parseFloat(s.borderLeftWidth) +
+              parseFloat(s.borderRightWidth)
+            );
+          };
+          const frame = document.createRange();
+          frame.selectNodeContents(code);
+          const sectionStyle = getComputedStyle(section);
+          const available =
+            section.clientWidth -
+            parseFloat(sectionStyle.paddingLeft) -
+            parseFloat(sectionStyle.paddingRight);
+          const intrinsic =
+            frame.getBoundingClientRect().width +
+            sideInsets(sheet) +
+            sideInsets(root) +
+            sideInsets(body);
+          humanRow.dataset.intrinsic = '';
+          humanRow.style.setProperty(
+            '--human-row-width',
+            `${Math.max(available, intrinsic)}px`,
+          );
+        };
+        if (humanRow) {
+          addEventListener('resize', resizeHumanRow);
+          reduceMotion.addEventListener('change', resizeHumanRow);
+        }
         const cycle = () => {
           if (!root.isConnected || reduceMotion.matches) return;
           index = (index + 1) % frames.length;
@@ -232,6 +279,7 @@ if (!reduceMotion.matches) {
           const type = () => {
             if (!root.isConnected || reduceMotion.matches) return;
             renderCode(code, next.slice(0, ++cursor));
+            resizeHumanRow();
             root.dataset.typing = cursor < next.length ? 'typing' : 'complete';
             root.dataset.frame = String(index);
             if (cursor < next.length) setTimeout(type, 24);
@@ -239,7 +287,7 @@ if (!reduceMotion.matches) {
           };
           type();
         };
-        setTimeout(cycle, 4000);
+        setTimeout(cycle, humanRow ? 0 : 4000);
       }
     },
     { threshold: 0.3 },

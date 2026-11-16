@@ -1,0 +1,1 @@
+192 round10 component groups passed; 0 failed. 363 specimen cells, 616 images, 99 press cards, 673 exact text arrays.

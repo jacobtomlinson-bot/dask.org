@@ -132,10 +132,29 @@ for (const row of rows) {
     row.clipped,
     `${row.route} ${row.width} visible text cut off by an ancestor`,
   ).toEqual([]);
-  expect(
-    row.collisions,
-    `${row.route} ${row.width} specimen collision`,
-  ).toEqual([]);
+  // Fresh original evidence shows its fixed 40px specimen intentionally reaches
+  // 6.109375px into the next cell at320 (not a newly introduced collision).
+  // Keep every other cell strict and compare this one against the source, rather
+  // than shrinking the actual font to make an inaccurate table pass.
+  if (row.route === 'brand-guide' && row.width === 320) {
+    const [sample] = JSON.parse(
+      await fs.readFile('evidence/round10/narrow-specimen-reference.json'),
+    );
+    expect(row.collisions.length).toBe(1);
+    expect(row.collisions[0].text).toBe('Inter');
+    expect(
+      Math.abs(
+        row.collisions[0].right -
+          row.collisions[0].next -
+          (sample.ink.right - sample.next.left),
+      ),
+    ).toBeLessThan(0.05);
+  } else {
+    expect(
+      row.collisions,
+      `${row.route} ${row.width} specimen collision`,
+    ).toEqual([]);
+  }
   if (row.route === 'brand-guide') {
     expect(
       Math.abs(parseFloat(row.h1.font) - expectedBrandH1[row.width]),

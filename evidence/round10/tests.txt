@@ -1,0 +1,230 @@
+
+> test
+> node scripts/test.mjs
+
+PASS home 1440: semantic page, local assets, no JS errors
+PASS home 1440: no horizontal overflow
+PASS home 1440: navigation
+PASS get-started 1440: semantic page, local assets, no JS errors
+PASS get-started 1440: no horizontal overflow
+PASS get-started 1440: navigation
+PASS get-help 1440: semantic page, local assets, no JS errors
+PASS get-help 1440: no horizontal overflow
+PASS get-help 1440: navigation
+PASS powered-by 1440: semantic page, local assets, no JS errors
+PASS powered-by 1440: no horizontal overflow
+PASS powered-by 1440: navigation
+PASS brand-guide 1440: semantic page, local assets, no JS errors
+PASS brand-guide 1440: no horizontal overflow
+PASS brand-guide 1440: navigation
+PASS press-mentions 1440: semantic page, local assets, no JS errors
+PASS press-mentions 1440: no horizontal overflow
+PASS press-mentions 1440: navigation
+PASS home 768: semantic page, local assets, no JS errors
+PASS home 768: no horizontal overflow
+PASS home 768: navigation
+PASS get-started 768: semantic page, local assets, no JS errors
+PASS get-started 768: no horizontal overflow
+PASS get-started 768: navigation
+PASS get-help 768: semantic page, local assets, no JS errors
+PASS get-help 768: no horizontal overflow
+PASS get-help 768: navigation
+PASS powered-by 768: semantic page, local assets, no JS errors
+PASS powered-by 768: no horizontal overflow
+PASS powered-by 768: navigation
+PASS brand-guide 768: semantic page, local assets, no JS errors
+PASS brand-guide 768: no horizontal overflow
+PASS brand-guide 768: navigation
+PASS press-mentions 768: semantic page, local assets, no JS errors
+PASS press-mentions 768: no horizontal overflow
+PASS press-mentions 768: navigation
+PASS home 390: semantic page, local assets, no JS errors
+PASS home 390: no horizontal overflow
+PASS home 390: navigation
+PASS get-started 390: semantic page, local assets, no JS errors
+PASS get-started 390: no horizontal overflow
+PASS get-started 390: navigation
+PASS get-help 390: semantic page, local assets, no JS errors
+PASS get-help 390: no horizontal overflow
+PASS get-help 390: navigation
+PASS powered-by 390: semantic page, local assets, no JS errors
+PASS powered-by 390: no horizontal overflow
+PASS powered-by 390: navigation
+PASS brand-guide 390: semantic page, local assets, no JS errors
+PASS brand-guide 390: no horizontal overflow
+PASS brand-guide 390: navigation
+PASS press-mentions 390: semantic page, local assets, no JS errors
+PASS press-mentions 390: no horizontal overflow
+PASS press-mentions 390: navigation
+PASS home: all native tabs + keyboard
+PASS get-started: all native tabs + keyboard
+PASS brand: four logo variants and twelve palette choices
+PASS submission: dialog, all form types, native focus, no network mutation
+PASS native counter: static representative frame in reduced motion
+PASS redirects remain explicitly pending
+PASS home 320: intrinsic width and visible primary content
+PASS get-started 320: intrinsic width and visible primary content
+PASS get-help 320: intrinsic width and visible primary content
+PASS powered-by 320: intrinsic width and visible primary content
+PASS brand-guide 320: intrinsic width and visible primary content
+PASS press-mentions 320: intrinsic width and visible primary content
+PASS home 360: intrinsic width and visible primary content
+PASS get-started 360: intrinsic width and visible primary content
+PASS get-help 360: intrinsic width and visible primary content
+PASS powered-by 360: intrinsic width and visible primary content
+PASS brand-guide 360: intrinsic width and visible primary content
+PASS press-mentions 360: intrinsic width and visible primary content
+PASS home 390: intrinsic width and visible primary content
+PASS get-started 390: intrinsic width and visible primary content
+PASS get-help 390: intrinsic width and visible primary content
+PASS powered-by 390: intrinsic width and visible primary content
+PASS brand-guide 390: intrinsic width and visible primary content
+PASS press-mentions 390: intrinsic width and visible primary content
+PASS home 599: intrinsic width and visible primary content
+PASS get-started 599: intrinsic width and visible primary content
+PASS get-help 599: intrinsic width and visible primary content
+PASS powered-by 599: intrinsic width and visible primary content
+PASS brand-guide 599: intrinsic width and visible primary content
+PASS press-mentions 599: intrinsic width and visible primary content
+PASS home 600: intrinsic width and visible primary content
+PASS get-started 600: intrinsic width and visible primary content
+PASS get-help 600: intrinsic width and visible primary content
+PASS powered-by 600: intrinsic width and visible primary content
+PASS brand-guide 600: intrinsic width and visible primary content
+PASS press-mentions 600: intrinsic width and visible primary content
+PASS home 601: intrinsic width and visible primary content
+PASS get-started 601: intrinsic width and visible primary content
+PASS get-help 601: intrinsic width and visible primary content
+PASS powered-by 601: intrinsic width and visible primary content
+PASS brand-guide 601: intrinsic width and visible primary content
+PASS press-mentions 601: intrinsic width and visible primary content
+PASS home 767: intrinsic width and visible primary content
+PASS get-started 767: intrinsic width and visible primary content
+PASS get-help 767: intrinsic width and visible primary content
+PASS powered-by 767: intrinsic width and visible primary content
+PASS brand-guide 767: intrinsic width and visible primary content
+PASS press-mentions 767: intrinsic width and visible primary content
+PASS home 768: intrinsic width and visible primary content
+PASS get-started 768: intrinsic width and visible primary content
+PASS get-help 768: intrinsic width and visible primary content
+PASS powered-by 768: intrinsic width and visible primary content
+PASS brand-guide 768: intrinsic width and visible primary content
+PASS press-mentions 768: intrinsic width and visible primary content
+PASS home 990: intrinsic width and visible primary content
+PASS get-started 990: intrinsic width and visible primary content
+PASS get-help 990: intrinsic width and visible primary content
+PASS powered-by 990: intrinsic width and visible primary content
+PASS brand-guide 990: intrinsic width and visible primary content
+PASS press-mentions 990: intrinsic width and visible primary content
+PASS home 991: intrinsic width and visible primary content
+PASS get-started 991: intrinsic width and visible primary content
+PASS get-help 991: intrinsic width and visible primary content
+PASS powered-by 991: intrinsic width and visible primary content
+PASS brand-guide 991: intrinsic width and visible primary content
+PASS press-mentions 991: intrinsic width and visible primary content
+PASS home 992: intrinsic width and visible primary content
+PASS get-started 992: intrinsic width and visible primary content
+PASS get-help 992: intrinsic width and visible primary content
+PASS powered-by 992: intrinsic width and visible primary content
+PASS brand-guide 992: intrinsic width and visible primary content
+PASS press-mentions 992: intrinsic width and visible primary content
+PASS home 993: intrinsic width and visible primary content
+PASS get-started 993: intrinsic width and visible primary content
+PASS get-help 993: intrinsic width and visible primary content
+PASS powered-by 993: intrinsic width and visible primary content
+PASS brand-guide 993: intrinsic width and visible primary content
+PASS press-mentions 993: intrinsic width and visible primary content
+PASS home 1099: intrinsic width and visible primary content
+PASS get-started 1099: intrinsic width and visible primary content
+PASS get-help 1099: intrinsic width and visible primary content
+PASS powered-by 1099: intrinsic width and visible primary content
+PASS brand-guide 1099: intrinsic width and visible primary content
+PASS press-mentions 1099: intrinsic width and visible primary content
+PASS home 1100: intrinsic width and visible primary content
+PASS get-started 1100: intrinsic width and visible primary content
+PASS get-help 1100: intrinsic width and visible primary content
+PASS powered-by 1100: intrinsic width and visible primary content
+PASS brand-guide 1100: intrinsic width and visible primary content
+PASS press-mentions 1100: intrinsic width and visible primary content
+PASS home 1101: intrinsic width and visible primary content
+PASS get-started 1101: intrinsic width and visible primary content
+PASS get-help 1101: intrinsic width and visible primary content
+PASS powered-by 1101: intrinsic width and visible primary content
+PASS brand-guide 1101: intrinsic width and visible primary content
+PASS press-mentions 1101: intrinsic width and visible primary content
+PASS home 1440: intrinsic width and visible primary content
+PASS get-started 1440: intrinsic width and visible primary content
+PASS get-help 1440: intrinsic width and visible primary content
+PASS powered-by 1440: intrinsic width and visible primary content
+PASS brand-guide 1440: intrinsic width and visible primary content
+PASS press-mentions 1440: intrinsic width and visible primary content
+PASS home 1599: intrinsic width and visible primary content
+PASS get-started 1599: intrinsic width and visible primary content
+PASS get-help 1599: intrinsic width and visible primary content
+PASS powered-by 1599: intrinsic width and visible primary content
+PASS brand-guide 1599: intrinsic width and visible primary content
+PASS press-mentions 1599: intrinsic width and visible primary content
+PASS home 1600: intrinsic width and visible primary content
+PASS get-started 1600: intrinsic width and visible primary content
+PASS get-help 1600: intrinsic width and visible primary content
+PASS powered-by 1600: intrinsic width and visible primary content
+PASS brand-guide 1600: intrinsic width and visible primary content
+PASS press-mentions 1600: intrinsic width and visible primary content
+PASS home 1601: intrinsic width and visible primary content
+PASS get-started 1601: intrinsic width and visible primary content
+PASS get-help 1601: intrinsic width and visible primary content
+PASS powered-by 1601: intrinsic width and visible primary content
+PASS brand-guide 1601: intrinsic width and visible primary content
+PASS press-mentions 1601: intrinsic width and visible primary content
+PASS workload 0 1440: both visible action labels and destinations
+PASS workload 1 1440: both visible action labels and destinations
+PASS workload 2 1440: both visible action labels and destinations
+PASS workload 3 1440: both visible action labels and destinations
+PASS deployment 0 1440: both visible action labels and destinations
+PASS deployment 1 1440: both visible action labels and destinations
+PASS homepage inline and hero destinations 1440
+PASS brand palette order and native icons 1440
+PASS brand rail 1440: navigate to colors without returning to top
+PASS brand rail 1440: navigate to typography without returning to top
+PASS brand rail 1440: navigate to tone without returning to top
+PASS brand rail 1440: navigate to logos without returning to top
+PASS workload 0 390: both visible action labels and destinations
+PASS workload 1 390: both visible action labels and destinations
+PASS workload 2 390: both visible action labels and destinations
+PASS workload 3 390: both visible action labels and destinations
+PASS deployment 0 390: both visible action labels and destinations
+PASS deployment 1 390: both visible action labels and destinations
+PASS homepage inline and hero destinations 390
+PASS brand palette order and native icons 390
+PASS brand rail 390: navigate to colors without returning to top
+PASS brand rail 390: navigate to typography without returning to top
+PASS brand rail 390: navigate to tone without returning to top
+PASS brand rail 390: navigate to logos without returning to top
+PASS mobile press form layout, safe submit, focus and Escape
+PASS mobile event form layout, safe submit, focus and Escape
+PASS mobile newsletter form layout, safe submit, focus and Escape
+PASS independent-review regression suite (see evidence/round2/checks.json)
+brand-guide 320 {"clipped":[],"collisions":[{"text":"Inter","right":126.65625,"next":120.53125}],"overflow":0}
+72 full-page responsive geometry checks passed
+PASS round3-checks.mjs: production-preview regression
+28 motion assertions passed
+PASS round3-motion.mjs: production-preview regression
+12 loaded artwork bounds/text separation checks passed
+PASS round3-art-bounds.mjs: production-preview regression
+55 component/route/width checks passed
+PASS round4-checks.mjs: production-preview regression
+6 palette resize/geometry/all-color-copy cases passed
+PASS round5-checks.mjs: production-preview regression
+11 round6 responsive component groups plus 11 grid-role/continuity assertions passed
+PASS round6-checks.mjs: production-preview regression
+10 tone composition groups passed: both columns, all 90 paragraph bounds and exact rendered line text; accepted phone bounds unchanged.
+PASS round7-checks.mjs: production-preview regression
+10 surface/rail/phase groups passed; 90 exact paragraph line arrays preserved.
+PASS round8-checks.mjs: production-preview regression
+229 round9 groups passed, 0 failed; 370 copy arrays, max copy 0.25px, art 0.25px, performance 0.609375px; 1210 solid-paper pixels
+PASS round9-checks.mjs: production-preview regression
+193 round10 component groups passed; 0 failed. 363 specimen cells, 616 images, 99 press cards, 673 exact text arrays.
+PASS round10-checks.mjs: production-preview regression
+4 phone normal-motion cycles and 2 reduced-motion states passed: intrinsic widths, rewrapping, intact tokens/newlines, unclipped ink and no document overflow.
+PASS round10-motion.mjs: production-preview regression
+72 passed; 0 failed

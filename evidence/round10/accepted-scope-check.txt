@@ -1,0 +1,7 @@
+223 round9 groups passed, 6 failed; 370 copy arrays, max copy 0.25px, art 0.25px, performance 0.609375px; 1210 solid-paper pixels
+480 powered-by: all explicit sheets and footer separators AssertionError [ERR_ASSERTION]: max paint bound error 40.54509999999982
+480 brand-guide: all explicit sheets and footer separators AssertionError [ERR_ASSERTION]: max paint bound error 2.000374999999991
+601 powered-by: all explicit sheets and footer separators AssertionError [ERR_ASSERTION]: max paint bound error 50.765625
+767 powered-by: all explicit sheets and footer separators AssertionError [ERR_ASSERTION]: max paint bound error 64.79104999999981
+992 brand-guide: all explicit sheets and footer separators AssertionError [ERR_ASSERTION]: max paint bound error 22.406499999999994
+1440 brand-guide: all explicit sheets and footer separators AssertionError [ERR_ASSERTION]: max paint bound error 15.1875

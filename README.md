@@ -156,3 +156,50 @@ node scripts/round9-gallery.mjs
 The runner has70 outer groups (nested focused counts are not additive). Current evidence/report: `evidence/REVIEW.md`, `evidence/round9/checks.json`, `evidence/round9/surfaces.json`, `evidence/round9/gallery.html` and the original-left/native-right component pairs. The original390px human-copy track changes329.42→350.94→329.42px during typing; `reference-human-phases.json` records that real layout change. Static comparison explicitly selects the observed quiet phase rather than passing off a changing frame as a static defect.
 
 This remains a review candidate, not an exact-equivalence certification. Native dashboard/gauge/counter/rail contours and unsynchronized animation still differ. Real backends, unresolved redirects and browser/device limits remain as documented above. Main obtains the same independent tester's verdict for the new exact signed local SHA before integration.
+
+## Current round10 — actual specimens, organization banks, press and typing states
+
+Round9's six repairs remain covered. This iteration adds component-owned
+`specimens.css`, `organizations.css`, and `closing.css`, removing their older
+scattered overrides. Specimens use their **actual rendered** font matrix rather
+than the nominal printed labels. Organization artwork has separate media/card
+frames and intrinsic rows. Press cards use separate media, separator, and
+shrink-wrapped copy tracks. Desktop navigation is fixed16px/24px with70×42px
+Docs controls; only the logo remains fluid.
+
+The normal-motion phone human row now derives its width from the currently
+rendered native code line plus its real frame insets. It changes copy wrapping
+through pandas/Dask states. The performance section provides the same decorative
+viewport boundary observed on the original, without clipping copy ink or hiding
+document-wide overflow. Reduced motion remains stable. At320px, the original's
+fixed40px first specimen reaches6.11px into its next cell; the regression compares
+that observed exception explicitly rather than shrinking the font to pass a
+false no-collision assertion.
+
+```sh
+npm ci
+npm run build
+npm run preview -- --port 4321
+# in another terminal:
+node scripts/round10-probe.mjs             # GET/HEAD-only fresh reference geometry
+node scripts/round10-press-lines.mjs       # original dividers/window controls
+node scripts/round10-checks.mjs            # all eleven responsive widths
+node scripts/round10-motion.mjs            # real native cycles + reduced motion
+npm test                                  # includes both new regression groups
+npm run format:check
+npm audit
+EVIDENCE_DIR=evidence/round10 WIDTHS=390,768,1440 node scripts/round6-capture.mjs
+EVIDENCE_DIR=evidence/round10 node scripts/round6-compare.mjs
+node scripts/round10-gallery.mjs
+```
+
+Current response/evidence inventory: `evidence/REVIEW.md` and
+`evidence/round10/`. `gallery.html` has18 canonical full-page pairs;
+`details.html` aligns the changed components. Full-page differences mix static
+paint with unsynchronized motion and are not an acceptance score. This remains a
+local review candidate, not an exact-equivalence or cross-browser certification.
+Main retains integration/completion ownership and sends the exact signed SHA to
+the same independent tester before integration. Forms remain truthful local
+“Not sent” flows; unresolved redirects remain pending, not guessed.
+
+Round10 frozen verification: **72 outer groups, 193 focused groups, 673 exact text-line arrays; zero failures**. See the review report for bounded geometry errors and remaining differences.

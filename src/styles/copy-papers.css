@@ -88,14 +88,14 @@
 }
 .org-section:not(.projects) .org-intro {
   --copy-paper-left: -2.5rem;
-  --copy-paper-top: -4.1835938rem;
+  --copy-paper-top: -4.2656238rem;
   --copy-paper-width: 39.4375rem;
   --copy-paper-height: 19.78125rem;
   --copy-paper-color: #ffffff;
 }
 .projects .org-intro {
   --copy-paper-left: -2.5rem;
-  --copy-paper-top: -5.21875rem;
+  --copy-paper-top: -5.2041rem;
   --copy-paper-width: 79.375rem;
   --copy-paper-height: 19.78125rem;
   --copy-paper-color: #ffffff;
@@ -172,15 +172,15 @@
     --copy-paper-color: #080815;
   }
   .org-section:not(.projects) .org-intro {
-    --copy-paper-left: -1.3867188rem;
-    --copy-paper-top: -2.4257812rem;
+    --copy-paper-left: -1.33344rem;
+    --copy-paper-top: -2.4042969rem;
     --copy-paper-width: 20.25rem;
     --copy-paper-height: 13.5302734rem;
     --copy-paper-color: #ffffff;
   }
   .projects .org-intro {
-    --copy-paper-left: -1.3867188rem;
-    --copy-paper-top: -4.3007812rem;
+    --copy-paper-left: -1.33344rem;
+    --copy-paper-top: -4.3486312rem;
     --copy-paper-width: 40.765625rem;
     --copy-paper-height: 13.5302734rem;
     --copy-paper-color: #ffffff;
@@ -259,14 +259,14 @@
   }
   .org-section:not(.projects) .org-intro {
     --copy-paper-left: -0.6816406rem;
-    --copy-paper-top: -4.3945312rem;
+    --copy-paper-top: -4.3798812rem;
     --copy-paper-width: 20.4746094rem;
     --copy-paper-height: 20.4746094rem;
     --copy-paper-color: #ffffff;
   }
   .projects .org-intro {
     --copy-paper-left: -0.6816406rem;
-    --copy-paper-top: -4.1894531rem;
+    --copy-paper-top: -4.2451131rem;
     --copy-paper-width: 20.4746094rem;
     --copy-paper-height: 20.4746094rem;
     --copy-paper-color: #ffffff;
@@ -344,15 +344,15 @@
     --copy-paper-color: #080815;
   }
   .org-section:not(.projects) .org-intro {
-    --copy-paper-left: 0.3467658rem;
-    --copy-paper-top: -1.177787rem;
+    --copy-paper-left: -1.3rem;
+    --copy-paper-top: -4.3508rem;
     --copy-paper-width: 39.3110753rem;
     --copy-paper-height: 15.7237001rem;
     --copy-paper-color: #ffffff;
   }
   .projects .org-intro {
-    --copy-paper-left: 0.3467658rem;
-    --copy-paper-top: -1.177787rem;
+    --copy-paper-left: -1.3rem;
+    --copy-paper-top: -5.1312rem;
     --copy-paper-width: 39.3110753rem;
     --copy-paper-height: 15.7237001rem;
     --copy-paper-color: #ffffff;

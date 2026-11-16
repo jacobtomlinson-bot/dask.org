@@ -1,0 +1,1967 @@
+[
+  {
+    "width": 390,
+    "press": [
+      {
+        "tag": "A",
+        "cls": "press-r-link w-inline-block",
+        "x": 30.703125,
+        "y": 581.34375,
+        "w": 330.75,
+        "h": 301.5625,
+        "css": {
+          "display": "flex",
+          "width": "330.75px",
+          "height": "301.562px",
+          "margin": "0px 1.0842px 19.5px",
+          "padding": "24.96px",
+          "flex": "0 1 auto",
+          "border": "",
+          "objectFit": "fill",
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-logo",
+        "x": 55.65625,
+        "y": 606.296875,
+        "w": 156,
+        "h": 70.1875,
+        "css": {
+          "display": "flex",
+          "width": "156px",
+          "height": "70.1875px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img posit-left-mob",
+        "x": 55.65625,
+        "y": 606.296875,
+        "w": 156,
+        "h": 70.1875,
+        "css": {
+          "display": "block",
+          "width": "156px",
+          "height": "70.1875px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-line",
+        "x": 55.65625,
+        "y": 703.78125,
+        "w": 280.84375,
+        "h": 2.078125,
+        "css": {
+          "display": "block",
+          "width": "280.844px",
+          "height": "2.07812px",
+          "margin": "27.3px 0px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "title-container",
+        "x": 55.65625,
+        "y": 733.15625,
+        "w": 280.84375,
+        "h": 124.796875,
+        "css": {
+          "display": "block",
+          "width": "280.844px",
+          "height": "124.797px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "16.6413px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "text-regular text-weight-normal blue",
+        "x": 55.65625,
+        "y": 733.15625,
+        "w": 280.84375,
+        "h": 24.953125,
+        "css": {
+          "display": "block",
+          "width": "280.844px",
+          "height": "24.9531px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(31, 90, 255)",
+          "objectFit": "fill",
+          "fontSize": "16.6413px",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-small",
+        "x": 55.65625,
+        "y": 758.109375,
+        "w": 280.84375,
+        "h": 99.84375,
+        "css": {
+          "display": "block",
+          "width": "280.844px",
+          "height": "99.8438px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "20.7987px",
+          "fontWeight": "700",
+          "lineHeight": "33.2787px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "descriptive-link",
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0,
+        "css": {
+          "display": "none",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "fontSize": "5px",
+          "fontWeight": "400",
+          "lineHeight": "5px",
+          "alignItems": "normal"
+        }
+      }
+    ],
+    "intro": [
+      {
+        "tag": "DIV",
+        "cls": "brg-text-l",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 30.546875,
+        "y": 2993.25,
+        "w": 329.4375,
+        "h": 354.984375,
+        "css": {
+          "display": "flex",
+          "width": "329.438px",
+          "height": "354.984px",
+          "margin": "2.1684px 0px 2.1684px 0.5421px",
+          "padding": "9.75px 12.9987px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "choose-text",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 43.53125,
+        "y": 3003,
+        "w": 303.46875,
+        "h": 335.484375,
+        "css": {
+          "display": "block",
+          "width": "303.469px",
+          "height": "335.484px",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-medium",
+        "text": "Typography",
+        "x": 43.53125,
+        "y": 3003,
+        "w": 303.46875,
+        "h": 33.28125,
+        "css": {
+          "display": "block",
+          "width": "303.469px",
+          "height": "33.2812px",
+          "margin": "0px 0px 8.3187px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "29.1213px",
+          "fontWeight": "600",
+          "lineHeight": "33.2787px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-medium",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 43.53125,
+        "y": 3055.78125,
+        "w": 303.46875,
+        "h": 201.625,
+        "css": {
+          "display": "block",
+          "width": "303.469px",
+          "height": "201.625px",
+          "margin": "19.5px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "flow-end"
+        }
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 43.53125,
+        "y": 3055.78125,
+        "w": 303.46875,
+        "h": 201.625,
+        "css": {
+          "display": "block",
+          "width": "303.469px",
+          "height": "201.625px",
+          "margin": "0px 0px 16.6413px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16.6413px",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 120.53125,
+        "y": 3059.78125,
+        "w": 99,
+        "h": 17,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "16.6413px",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 90.53125,
+        "y": 3135.640625,
+        "w": 99,
+        "h": 17,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "16.6413px",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "BR",
+        "cls": "",
+        "text": "",
+        "x": 147.53125,
+        "y": 3234.453125,
+        "w": 0,
+        "h": 20,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "16.6413px",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-large",
+        "text": "Download Typefaces",
+        "x": 43.53125,
+        "y": 3288.59375,
+        "w": 303.46875,
+        "h": 49.890625,
+        "css": {
+          "display": "block",
+          "width": "303.469px",
+          "height": "49.8906px",
+          "margin": "31.2px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "A",
+        "cls": "button w-button",
+        "text": "Download Typefaces",
+        "x": 43.53125,
+        "y": 3288.59375,
+        "w": 228.28125,
+        "h": 49.890625,
+        "css": {
+          "display": "inline-block",
+          "width": "228.281px",
+          "height": "49.8906px",
+          "margin": "0px",
+          "padding": "12.48px 16.6413px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18.72px",
+          "fontWeight": "600",
+          "lineHeight": "24.96px",
+          "alignItems": "center"
+        }
+      }
+    ]
+  },
+  {
+    "width": 601,
+    "press": [
+      {
+        "tag": "A",
+        "cls": "press-r-link w-inline-block",
+        "x": 45.28125,
+        "y": 378.84375,
+        "w": 510.84375,
+        "h": 113.5,
+        "css": {
+          "display": "flex",
+          "width": "510.844px",
+          "height": "113.5px",
+          "margin": "0px 1.67078px 12.02px",
+          "padding": "20.0313px",
+          "flex": "0 1 auto",
+          "border": "",
+          "objectFit": "fill",
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-logo",
+        "x": 65.3125,
+        "y": 405.546875,
+        "w": 120.1875,
+        "h": 60.09375,
+        "css": {
+          "display": "flex",
+          "width": "120.188px",
+          "height": "60.0938px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img posit-left-mob",
+        "x": 65.3125,
+        "y": 405.546875,
+        "w": 120.1875,
+        "h": 60.09375,
+        "css": {
+          "display": "block",
+          "width": "120.188px",
+          "height": "60.0938px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-line",
+        "x": 209.53125,
+        "y": 411.546875,
+        "w": 1.65625,
+        "h": 48.078125,
+        "css": {
+          "display": "block",
+          "width": "1.65625px",
+          "height": "48.0781px",
+          "margin": "0px 24.04px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "title-container",
+        "x": 235.21875,
+        "y": 398.875,
+        "w": 300.875,
+        "h": 73.4375,
+        "css": {
+          "display": "block",
+          "width": "300.875px",
+          "height": "73.4375px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "13.3542px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "text-regular text-weight-normal blue",
+        "x": 235.21875,
+        "y": 398.875,
+        "w": 300.875,
+        "h": 20.03125,
+        "css": {
+          "display": "block",
+          "width": "300.875px",
+          "height": "20.0312px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(31, 90, 255)",
+          "objectFit": "fill",
+          "fontSize": "13.3542px",
+          "fontWeight": "400",
+          "lineHeight": "20.0313px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-small",
+        "x": 235.21875,
+        "y": 418.90625,
+        "w": 300.875,
+        "h": 53.40625,
+        "css": {
+          "display": "block",
+          "width": "300.875px",
+          "height": "53.4062px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "16.6958px",
+          "fontWeight": "700",
+          "lineHeight": "26.7084px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "descriptive-link",
+        "x": 65.3125,
+        "y": 433.09375,
+        "w": 47,
+        "h": 5,
+        "css": {
+          "display": "block",
+          "width": "47px",
+          "height": "5px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "fontSize": "5px",
+          "fontWeight": "400",
+          "lineHeight": "5px",
+          "alignItems": "normal"
+        }
+      }
+    ],
+    "intro": [
+      {
+        "tag": "DIV",
+        "cls": "brg-text-l",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 44.453125,
+        "y": 2084.546875,
+        "w": 512.921875,
+        "h": 217.296875,
+        "css": {
+          "display": "flex",
+          "width": "512.922px",
+          "height": "217.297px",
+          "margin": "3.34156px 0px 3.34156px 0.83539px",
+          "padding": "15.025px 20.0313px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "choose-text",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 64.484375,
+        "y": 2099.5625,
+        "w": 472.859375,
+        "h": 187.265625,
+        "css": {
+          "display": "block",
+          "width": "472.859px",
+          "height": "187.266px",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-medium",
+        "text": "Typography",
+        "x": 64.484375,
+        "y": 2099.5625,
+        "w": 472.859375,
+        "h": 26.703125,
+        "css": {
+          "display": "block",
+          "width": "472.859px",
+          "height": "26.7031px",
+          "margin": "0px 0px 6.67711px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "23.3729px",
+          "fontWeight": "600",
+          "lineHeight": "26.7084px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-medium",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 64.484375,
+        "y": 2141.28125,
+        "w": 472.859375,
+        "h": 82.125,
+        "css": {
+          "display": "block",
+          "width": "472.859px",
+          "height": "82.125px",
+          "margin": "15.025px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "flow-end"
+        }
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 64.484375,
+        "y": 2141.28125,
+        "w": 472.859375,
+        "h": 82.125,
+        "css": {
+          "display": "block",
+          "width": "472.859px",
+          "height": "82.125px",
+          "margin": "0px 0px 20.0313px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13.3542px",
+          "fontWeight": "400",
+          "lineHeight": "20.0313px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 124.484375,
+        "y": 2145.28125,
+        "w": 77,
+        "h": 14,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "13.3542px",
+          "fontWeight": "400",
+          "lineHeight": "20.0313px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 308.484375,
+        "y": 2166.3125,
+        "w": 77,
+        "h": 14,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "13.3542px",
+          "fontWeight": "400",
+          "lineHeight": "20.0313px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "BR",
+        "cls": "",
+        "text": "",
+        "x": 335.484375,
+        "y": 2205.375,
+        "w": 0,
+        "h": 16,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13.3542px",
+          "fontWeight": "400",
+          "lineHeight": "20.0313px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-large",
+        "text": "Download Typefaces",
+        "x": 64.484375,
+        "y": 2246.765625,
+        "w": 472.859375,
+        "h": 40.0625,
+        "css": {
+          "display": "block",
+          "width": "472.859px",
+          "height": "40.0625px",
+          "margin": "23.3729px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "A",
+        "cls": "button w-button",
+        "text": "Download Typefaces",
+        "x": 64.484375,
+        "y": 2246.765625,
+        "w": 180.6875,
+        "h": 40.0625,
+        "css": {
+          "display": "inline-block",
+          "width": "180.688px",
+          "height": "40.0625px",
+          "margin": "0px",
+          "padding": "10.0187px 13.3542px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "15.025px",
+          "fontWeight": "600",
+          "lineHeight": "20.0313px",
+          "alignItems": "center"
+        }
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "press": [
+      {
+        "tag": "A",
+        "cls": "press-r-link w-inline-block",
+        "x": 221.34375,
+        "y": 297.5625,
+        "w": 488.78125,
+        "h": 141.484375,
+        "css": {
+          "display": "flex",
+          "width": "488.781px",
+          "height": "141.484px",
+          "margin": "0px 2.13504px 11.52px 1.06752px",
+          "padding": "20.2138px 33.6845px",
+          "flex": "0 1 auto",
+          "border": "",
+          "objectFit": "fill",
+          "fontSize": "13.4707px",
+          "fontWeight": "600",
+          "lineHeight": "20.2138px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-logo",
+        "x": 255.015625,
+        "y": 337.578125,
+        "w": 122.875,
+        "h": 61.4375,
+        "css": {
+          "display": "flex",
+          "width": "122.875px",
+          "height": "61.4375px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "13.4707px",
+          "fontWeight": "600",
+          "lineHeight": "20.2138px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img posit-left-mob",
+        "x": 255.015625,
+        "y": 337.578125,
+        "w": 122.875,
+        "h": 61.4375,
+        "css": {
+          "display": "block",
+          "width": "122.875px",
+          "height": "61.4375px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "13.4707px",
+          "fontWeight": "600",
+          "lineHeight": "20.2138px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-line",
+        "x": 400.921875,
+        "y": 337.578125,
+        "w": 1.671875,
+        "h": 61.4375,
+        "css": {
+          "display": "block",
+          "width": "1.67188px",
+          "height": "61.4375px",
+          "margin": "0px 23.04px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "13.4707px",
+          "fontWeight": "600",
+          "lineHeight": "20.2138px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "title-container",
+        "x": 425.625,
+        "y": 317.765625,
+        "w": 250.828125,
+        "h": 101.078125,
+        "css": {
+          "display": "block",
+          "width": "250.828px",
+          "height": "101.078px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "13.4707px",
+          "fontWeight": "600",
+          "lineHeight": "20.2138px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "text-regular text-weight-normal blue",
+        "x": 425.625,
+        "y": 317.765625,
+        "w": 250.828125,
+        "h": 20.21875,
+        "css": {
+          "display": "block",
+          "width": "250.828px",
+          "height": "20.2188px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(31, 90, 255)",
+          "objectFit": "fill",
+          "fontSize": "13.4707px",
+          "fontWeight": "400",
+          "lineHeight": "20.2138px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-small",
+        "x": 425.625,
+        "y": 337.984375,
+        "w": 250.828125,
+        "h": 80.859375,
+        "css": {
+          "display": "block",
+          "width": "250.828px",
+          "height": "80.8594px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "16.8422px",
+          "fontWeight": "700",
+          "lineHeight": "26.9491px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "descriptive-link",
+        "x": 255.015625,
+        "y": 365.796875,
+        "w": 47,
+        "h": 5,
+        "css": {
+          "display": "block",
+          "width": "47px",
+          "height": "5px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "fontSize": "5px",
+          "fontWeight": "400",
+          "lineHeight": "5px",
+          "alignItems": "normal"
+        }
+      }
+    ],
+    "intro": [
+      {
+        "tag": "DIV",
+        "cls": "brg-text-l",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 56.8125,
+        "y": 1726.84375,
+        "w": 325.0625,
+        "h": 384.859375,
+        "css": {
+          "display": "flex",
+          "width": "325.062px",
+          "height": "384.859px",
+          "margin": "1.68192px 2.13504px 0px 1.06752px",
+          "padding": "19.2px 46.9325px 19.2px 30.72px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "choose-text",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 87.53125,
+        "y": 1746.03125,
+        "w": 247.421875,
+        "h": 263.296875,
+        "css": {
+          "display": "block",
+          "width": "247.422px",
+          "height": "263.297px",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-medium",
+        "text": "Typography",
+        "x": 87.53125,
+        "y": 1746.03125,
+        "w": 247.421875,
+        "h": 30.3125,
+        "css": {
+          "display": "block",
+          "width": "247.422px",
+          "height": "30.3125px",
+          "margin": "0px 0px 6.73536px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "26.9491px",
+          "fontWeight": "600",
+          "lineHeight": "30.313px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-medium",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 87.53125,
+        "y": 1795.53125,
+        "w": 247.421875,
+        "h": 143.53125,
+        "css": {
+          "display": "block",
+          "width": "247.422px",
+          "height": "143.531px",
+          "margin": "19.2px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "flow-end"
+        }
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 87.53125,
+        "y": 1795.53125,
+        "w": 247.421875,
+        "h": 143.53125,
+        "css": {
+          "display": "block",
+          "width": "247.422px",
+          "height": "143.531px",
+          "margin": "0px 0px 15.36px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13.4707px",
+          "fontWeight": "400",
+          "lineHeight": "20.2138px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 147.53125,
+        "y": 1798.53125,
+        "w": 77,
+        "h": 15,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "13.4707px",
+          "fontWeight": "400",
+          "lineHeight": "20.2138px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 87.53125,
+        "y": 1860.1875,
+        "w": 77,
+        "h": 15,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "13.4707px",
+          "fontWeight": "400",
+          "lineHeight": "20.2138px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "BR",
+        "cls": "",
+        "text": "",
+        "x": 297.53125,
+        "y": 1920.84375,
+        "w": 0,
+        "h": 16,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "13.4707px",
+          "fontWeight": "400",
+          "lineHeight": "20.2138px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-large",
+        "text": "Download Typefaces",
+        "x": 87.53125,
+        "y": 1968.921875,
+        "w": 247.421875,
+        "h": 40.40625,
+        "css": {
+          "display": "block",
+          "width": "247.422px",
+          "height": "40.4062px",
+          "margin": "29.8675px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "A",
+        "cls": "button w-button",
+        "text": "Download Typefaces",
+        "x": 87.53125,
+        "y": 1968.921875,
+        "w": 180.9375,
+        "h": 40.40625,
+        "css": {
+          "display": "inline-block",
+          "width": "180.938px",
+          "height": "40.4062px",
+          "margin": "0px",
+          "padding": "10.1069px 13.4707px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "15.1603px",
+          "fontWeight": "600",
+          "lineHeight": "20.2138px",
+          "alignItems": "center"
+        }
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "press": [
+      {
+        "tag": "A",
+        "cls": "press-r-link w-inline-block",
+        "x": 277.609375,
+        "y": 305.3125,
+        "w": 655.84375,
+        "h": 104.6875,
+        "css": {
+          "display": "flex",
+          "width": "655.844px",
+          "height": "104.688px",
+          "margin": "0px 2.75776px 9.92px 1.37888px",
+          "padding": "22.0422px 27.5578px",
+          "flex": "0 1 auto",
+          "border": "",
+          "objectFit": "fill",
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-logo",
+        "x": 305.15625,
+        "y": 335.34375,
+        "w": 110.21875,
+        "h": 44.625,
+        "css": {
+          "display": "flex",
+          "width": "110.219px",
+          "height": "44.625px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img posit-left-mob",
+        "x": 305.15625,
+        "y": 335.34375,
+        "w": 110.21875,
+        "h": 44.625,
+        "css": {
+          "display": "block",
+          "width": "110.219px",
+          "height": "44.625px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-line",
+        "x": 448.4375,
+        "y": 337.8125,
+        "w": 1.375,
+        "h": 39.671875,
+        "css": {
+          "display": "block",
+          "width": "1.375px",
+          "height": "39.6719px",
+          "margin": "0px 33.0634px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "title-container",
+        "x": 482.875,
+        "y": 327.34375,
+        "w": 423.03125,
+        "h": 60.625,
+        "css": {
+          "display": "block",
+          "width": "423.031px",
+          "height": "60.625px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "11.0211px",
+          "fontWeight": "600",
+          "lineHeight": "16.5366px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "text-regular text-weight-normal blue",
+        "x": 482.875,
+        "y": 327.34375,
+        "w": 423.03125,
+        "h": 16.53125,
+        "css": {
+          "display": "block",
+          "width": "423.031px",
+          "height": "16.5312px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(31, 90, 255)",
+          "objectFit": "fill",
+          "fontSize": "11.0211px",
+          "fontWeight": "400",
+          "lineHeight": "16.5366px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-small",
+        "x": 482.875,
+        "y": 343.875,
+        "w": 423.03125,
+        "h": 44.09375,
+        "css": {
+          "display": "block",
+          "width": "423.031px",
+          "height": "44.0938px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "13.7789px",
+          "fontWeight": "700",
+          "lineHeight": "22.0422px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "descriptive-link",
+        "x": 305.15625,
+        "y": 355.15625,
+        "w": 47,
+        "h": 5,
+        "css": {
+          "display": "block",
+          "width": "47px",
+          "height": "5px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "fontSize": "5px",
+          "fontWeight": "400",
+          "lineHeight": "5px",
+          "alignItems": "normal"
+        }
+      }
+    ],
+    "intro": [
+      {
+        "tag": "DIV",
+        "cls": "brg-text-l",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 57.171875,
+        "y": 1831.75,
+        "w": 436.078125,
+        "h": 255.4375,
+        "css": {
+          "display": "flex",
+          "width": "436.078px",
+          "height": "255.438px",
+          "margin": "1.37888px 2.75776px 2.75776px 1.37888px",
+          "padding": "49.6px 60.6211px 0px 38.5789px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "choose-text",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 95.75,
+        "y": 1881.34375,
+        "w": 336.890625,
+        "h": 228.21875,
+        "css": {
+          "display": "block",
+          "width": "336.891px",
+          "height": "228.219px",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-medium",
+        "text": "Typography",
+        "x": 95.75,
+        "y": 1881.34375,
+        "w": 336.890625,
+        "h": 31.6875,
+        "css": {
+          "display": "block",
+          "width": "336.891px",
+          "height": "31.6875px",
+          "margin": "0px 0px 5.51552px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "24.8px",
+          "fontWeight": "600",
+          "lineHeight": "31.6845px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-medium",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 95.75,
+        "y": 1937.828125,
+        "w": 336.890625,
+        "h": 84.65625,
+        "css": {
+          "display": "block",
+          "width": "336.891px",
+          "height": "84.6562px",
+          "margin": "24.8px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "flow-end"
+        }
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 95.75,
+        "y": 1937.828125,
+        "w": 336.890625,
+        "h": 84.65625,
+        "css": {
+          "display": "block",
+          "width": "336.891px",
+          "height": "84.6562px",
+          "margin": "0px 0px 16.5366px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "11.0211px",
+          "fontWeight": "400",
+          "lineHeight": "16.5366px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 143.75,
+        "y": 1940.828125,
+        "w": 66,
+        "h": 11,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "11.0211px",
+          "fontWeight": "400",
+          "lineHeight": "16.5366px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 361.75,
+        "y": 1958.359375,
+        "w": 66,
+        "h": 11,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "11.0211px",
+          "fontWeight": "400",
+          "lineHeight": "16.5366px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "BR",
+        "cls": "",
+        "text": "",
+        "x": 163.75,
+        "y": 2006.953125,
+        "w": 0,
+        "h": 14,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "11.0211px",
+          "fontWeight": "400",
+          "lineHeight": "16.5366px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-large",
+        "text": "Download Typefaces",
+        "x": 95.75,
+        "y": 2061.0625,
+        "w": 336.890625,
+        "h": 48.5,
+        "css": {
+          "display": "block",
+          "width": "336.891px",
+          "height": "48.5px",
+          "margin": "38.5789px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "A",
+        "cls": "button w-button",
+        "text": "Download Typefaces",
+        "x": 95.75,
+        "y": 2061.0625,
+        "w": 145.03125,
+        "h": 48.5,
+        "css": {
+          "display": "inline-block",
+          "width": "145.031px",
+          "height": "48.5px",
+          "margin": "0px",
+          "padding": "8.26336px 11.0211px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "12.4px",
+          "fontWeight": "600",
+          "lineHeight": "32px",
+          "alignItems": "center"
+        }
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "press": [
+      {
+        "tag": "A",
+        "cls": "press-r-link w-inline-block",
+        "x": 403,
+        "y": 412.96875,
+        "w": 952,
+        "h": 151.96875,
+        "css": {
+          "display": "flex",
+          "width": "952px",
+          "height": "151.969px",
+          "margin": "0px 4.0032px 14.4px 2.0016px",
+          "padding": "31.9968px 40.0032px",
+          "flex": "0 1 auto",
+          "border": "",
+          "objectFit": "fill",
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-logo",
+        "x": 443,
+        "y": 456.546875,
+        "w": 159.984375,
+        "h": 64.796875,
+        "css": {
+          "display": "flex",
+          "width": "159.984px",
+          "height": "64.7969px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img posit-left-mob",
+        "x": 443,
+        "y": 456.546875,
+        "w": 159.984375,
+        "h": 64.796875,
+        "css": {
+          "display": "block",
+          "width": "159.984px",
+          "height": "64.7969px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "contain",
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "pr-line",
+        "x": 650.96875,
+        "y": 460.15625,
+        "w": 2,
+        "h": 57.59375,
+        "css": {
+          "display": "block",
+          "width": "2px",
+          "height": "57.5938px",
+          "margin": "0px 47.9952px",
+          "padding": "0px",
+          "flex": "0 0 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "title-container",
+        "x": 700.953125,
+        "y": 444.953125,
+        "w": 614.046875,
+        "h": 88,
+        "css": {
+          "display": "block",
+          "width": "614.047px",
+          "height": "88px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "15.9984px",
+          "fontWeight": "600",
+          "lineHeight": "24.0048px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "text-regular text-weight-normal blue",
+        "x": 700.953125,
+        "y": 444.953125,
+        "w": 614.046875,
+        "h": 24,
+        "css": {
+          "display": "block",
+          "width": "614.047px",
+          "height": "24px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(31, 90, 255)",
+          "objectFit": "fill",
+          "fontSize": "15.9984px",
+          "fontWeight": "400",
+          "lineHeight": "24.0048px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-small",
+        "x": 700.953125,
+        "y": 468.953125,
+        "w": 614.046875,
+        "h": 64,
+        "css": {
+          "display": "block",
+          "width": "614.047px",
+          "height": "64px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgb(8, 8, 21)",
+          "objectFit": "fill",
+          "fontSize": "20.0016px",
+          "fontWeight": "700",
+          "lineHeight": "31.9968px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "descriptive-link",
+        "x": 443,
+        "y": 486.453125,
+        "w": 47,
+        "h": 5,
+        "css": {
+          "display": "block",
+          "width": "47px",
+          "height": "5px",
+          "margin": "0px",
+          "padding": "0px",
+          "flex": "0 1 auto",
+          "border": "0px none rgba(0, 0, 0, 0)",
+          "objectFit": "fill",
+          "fontSize": "5px",
+          "fontWeight": "400",
+          "lineHeight": "5px",
+          "alignItems": "normal"
+        }
+      }
+    ],
+    "intro": [
+      {
+        "tag": "DIV",
+        "cls": "brg-text-l",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 83,
+        "y": 2610.71875,
+        "w": 633,
+        "h": 370.8125,
+        "css": {
+          "display": "flex",
+          "width": "633px",
+          "height": "370.812px",
+          "margin": "2.0016px 4.0032px 4.0032px 2.0016px",
+          "padding": "72px 87.9984px 0px 56.0016px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "center"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "choose-text",
+        "text": "TypographyInter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.Download Typefaces",
+        "x": 139,
+        "y": 2682.71875,
+        "w": 489.015625,
+        "h": 313.96875,
+        "css": {
+          "display": "block",
+          "width": "489.016px",
+          "height": "313.969px",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "H2",
+        "cls": "heading-medium",
+        "text": "Typography",
+        "x": 139,
+        "y": 2682.71875,
+        "w": 489.015625,
+        "h": 46,
+        "css": {
+          "display": "block",
+          "width": "489.016px",
+          "height": "46px",
+          "margin": "0px 0px 8.0064px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "36px",
+          "fontWeight": "600",
+          "lineHeight": "45.9936px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-medium",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 139,
+        "y": 2764.71875,
+        "w": 489.015625,
+        "h": 120,
+        "css": {
+          "display": "block",
+          "width": "489.016px",
+          "height": "120px",
+          "margin": "36px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "flow-end"
+        }
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter is best for for H-level titles and longform body copy. Inconsolata should be used when displaying syntax/code snippets or as a labeling device for charts, graphics, and specialty layout components.",
+        "x": 139,
+        "y": 2764.71875,
+        "w": 489.015625,
+        "h": 120,
+        "css": {
+          "display": "block",
+          "width": "489.016px",
+          "height": "120px",
+          "margin": "0px 0px 24.0048px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "15.9984px",
+          "fontWeight": "400",
+          "lineHeight": "24.0048px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 211,
+        "y": 2767.71875,
+        "w": 88,
+        "h": 17,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "15.9984px",
+          "fontWeight": "400",
+          "lineHeight": "24.0048px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "SPAN",
+        "cls": "text-code br-guide",
+        "text": "Inconsolata",
+        "x": 529,
+        "y": 2791.71875,
+        "w": 88,
+        "h": 17,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inconsolata, monospace",
+          "fontSize": "15.9984px",
+          "fontWeight": "400",
+          "lineHeight": "24.0048px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "BR",
+        "cls": "",
+        "text": "",
+        "x": 237,
+        "y": 2862.71875,
+        "w": 0,
+        "h": 19,
+        "css": {
+          "display": "inline",
+          "width": "auto",
+          "height": "auto",
+          "margin": "0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "15.9984px",
+          "fontWeight": "400",
+          "lineHeight": "24.0048px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "DIV",
+        "cls": "mar-top-large",
+        "text": "Download Typefaces",
+        "x": 139,
+        "y": 2940.71875,
+        "w": 489.015625,
+        "h": 55.96875,
+        "css": {
+          "display": "block",
+          "width": "489.016px",
+          "height": "55.9688px",
+          "margin": "56.0016px 0px 0px",
+          "padding": "0px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "300",
+          "lineHeight": "32px",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "tag": "A",
+        "cls": "button w-button",
+        "text": "Download Typefaces",
+        "x": 139,
+        "y": 2940.71875,
+        "w": 213.96875,
+        "h": 55.96875,
+        "css": {
+          "display": "inline-block",
+          "width": "213.969px",
+          "height": "55.9688px",
+          "margin": "0px",
+          "padding": "11.9952px 15.9984px",
+          "fontFamily": "Inter, sans-serif",
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "32px",
+          "alignItems": "center"
+        }
+      }
+    ]
+  }
+]

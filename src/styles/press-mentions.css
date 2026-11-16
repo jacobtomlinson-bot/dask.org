@@ -1,10 +1,9 @@
-/* press-mentions: component-owned base, desktop, tablet, mobile and reduced-motion rules. Keep each selector in its owning tier; do not append refinement layers. */
+/* Media and divider are separate flex tracks. The title supplies card height. */
 .press-section {
-  padding: 5.0625rem var(--gutter) 6.25rem;
+  padding: 5.0625rem var(--gutter);
   display: grid;
-  grid-template-columns: 25% 75%;
+  grid-template-columns: calc(25% + 0.03125rem) minmax(0, 1fr);
   gap: 0;
-  padding-bottom: 7.3125rem;
 }
 .press-aside {
   padding: 1.5rem 2.75rem;
@@ -21,83 +20,60 @@
   top: 1.875rem;
 }
 .press-list {
-  display: grid;
-  gap: 0.75rem;
+  /* Trailing reading gutter is distinct from the symmetric section inset. */
+  padding-bottom: 1.35rem;
   min-width: 0;
 }
 .press-card {
-  display: grid;
+  display: flex;
   align-items: center;
   background: #f5f7f5;
-  padding: 2rem 2.75rem 2.25rem;
-  min-height: 8.1875rem;
-  grid-template-columns: 9.875rem 1fr;
-  gap: 3.25rem;
-  padding-bottom: 2.125rem;
+  padding: 1.9998rem 2.5002rem;
+  margin: 0 0.2502rem 0.9rem 0.1251rem;
   min-width: 0;
 }
 .press-card img {
-  height: 4.0625rem;
+  width: 11.11vw;
+  height: 4.5vw;
   object-fit: contain;
-  padding-right: 0;
-  width: 10rem;
+  flex: 0 0 auto;
 }
-.press-card > div {
-  border-left: 0.125rem solid #33363d;
-  padding-left: 2.875rem;
+.press-divider {
+  width: 0.1251rem;
+  height: 4vw;
+  background: #33363d;
+  margin: 0 2.9997rem;
+  flex: 0 0 auto;
+}
+.press-copy {
+  flex: 0 1 auto;
   min-width: 0;
 }
 .press-card time {
-  font-size: 1rem;
+  display: block;
+  font-size: 0.9999rem;
+  line-height: 1.5003rem;
+  font-weight: 400;
   color: var(--blue);
 }
 .press-card h2 {
-  font-size: 1.25rem;
-  line-height: 2rem;
+  width: fit-content;
+  max-width: 100%;
+  font-size: 1.2501rem;
+  line-height: 1.9998rem;
   font-weight: 700;
 }
 .press-card:hover h2 {
   text-decoration: underline;
   text-decoration-color: var(--yellow);
 }
-@media (max-width: 1100px) {
-  .press-card {
-    grid-template-columns: 8.75rem 1fr;
-    gap: 1.5rem;
-    padding: 1.75rem;
-  }
-  .press-card img {
-    width: 8.75rem;
-  }
-  .press-card > div {
-    padding-left: 1.5rem;
-  }
-}
-@media (max-width: 991px) {
+@media (min-width: 768px) and (max-width: 991px) {
   .press-section {
-    grid-template-columns: 20% 80%;
+    padding: 3.465625rem 7.26vw;
+    grid-template-columns: calc(25% + 0.0254rem) minmax(0, 1fr);
   }
-  .press-aside {
-    padding: 1rem 1.25rem 1rem 0;
-  }
-  .press-card {
-    grid-template-columns: 6.875rem 1fr;
-    gap: 1.25rem;
-    padding: 1.5rem;
-  }
-  .press-card img {
-    width: 6.875rem;
-  }
-  .press-card h2 {
-    font-size: 1.125rem;
-    line-height: 1.625rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .press-section {
-    height: 85.0625rem;
-    padding: 3.465625rem var(--gutter);
-    grid-template-columns: 25% 75%;
+  .press-list {
+    padding-bottom: 0.48rem;
   }
   .press-aside {
     padding: 1.25rem 1.375rem 0;
@@ -105,86 +81,39 @@
   .press-aside button {
     font-size: 0.842187rem;
   }
-  .press-list {
-    gap: 0.5rem;
-  }
   .press-card {
-    padding: 1.625rem 1.8125rem;
-    grid-template-columns: 6.25rem 1fr;
-    gap: 3.125rem;
-    min-height: 7.375rem;
-    padding-top: 1.375rem;
-    padding-bottom: 1.375rem;
+    padding: 1.26336rem 2.10528rem;
+    margin: 0 0.13344rem 0.72rem 0.06672rem;
   }
   .press-card img {
-    width: 6.25rem;
-    height: 3.125rem;
+    width: 16vw;
+    height: 8vw;
   }
-  .press-card > div {
-    padding-left: 1.75rem;
-    border-left-width: 1px;
+  .press-divider {
+    width: 0.10512rem;
+    height: 8vw;
+    margin: 0 1.44rem;
   }
   .press-card time {
-    font-size: 0.842187rem;
-    line-height: 1.263125rem;
+    font-size: 0.84192rem;
+    line-height: 1.26336rem;
   }
   .press-card h2 {
-    font-size: 1.0525rem;
-    line-height: 1.684375rem;
+    font-size: 1.05264rem;
+    line-height: 1.68432rem;
   }
 }
 @media (max-width: 767px) {
   .press-section {
     display: block;
-    padding: 5.3625rem var(--gutter) 5.11875rem;
-    padding-bottom: 5.11875rem;
+    padding: 5.3625rem 7.6vw 5.11875rem;
   }
-  .press-card {
-    display: block;
-    min-height: 0;
-    padding: 1.56rem;
-    width: 100%;
-    margin-inline: 0.06776rem;
-  }
-  .press-card img {
-    display: block;
-    object-position: left;
-    width: auto;
-    max-width: 100%;
-    width: 9.75rem;
-    height: 4.3875rem;
-    margin: 0 0 1.70625rem;
-  }
-  .press-card > div {
-    border: 0;
-    padding: 0;
-    padding-left: 0;
-    border-top: 0.13rem solid #33363d;
-    padding-top: 1.70625rem;
+  .press-list {
+    padding-bottom: 0;
   }
   .press-aside {
     padding: 1.455rem 0 6.8025rem;
     text-align: center;
-  }
-  .press-card time {
-    font-size: 1.04rem;
-    line-height: 1.56rem;
-  }
-  .press-card h2 {
-    font-size: 1.3rem;
-    line-height: 2.08rem;
-    width: auto;
-    max-width: 100%;
-    overflow-wrap: break-word;
-  }
-  .press-list {
-    gap: 1.21875rem;
-  }
-  .press-card time {
-    display: block;
-  }
-  .press-card:last-child {
-    margin-bottom: 1.21875rem;
   }
   .press-aside button {
     display: inline-flex;
@@ -196,39 +125,73 @@
     border-bottom: 1px solid var(--yellow);
     line-height: 1.56rem;
   }
+  .press-card {
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    padding: 1.56rem;
+    margin: 0 0.06776rem 1.21875rem;
+  }
+  .press-card img {
+    width: 9.75rem;
+    height: 4.3875rem;
+    object-position: left;
+    max-width: 100%;
+  }
+  .press-divider {
+    width: 100%;
+    height: 0.13rem;
+    margin: 1.70625rem 0;
+  }
+  .press-copy {
+    width: 100%;
+  }
+  .press-card time {
+    font-size: 1.04008rem;
+    line-height: 1.56rem;
+  }
+  .press-card h2 {
+    font-size: 1.29992rem;
+    line-height: 2.07992rem;
+    overflow-wrap: break-word;
+  }
 }
-
 @media (min-width: 480px) and (max-width: 767px) {
   .press-section {
-    padding: 4.16rem 7.54vw 6rem;
+    padding: 4.16rem 7.26vw 6rem;
   }
   .press-aside {
     padding: 1.56rem 0 4.89rem;
-  }
-  .press-card:last-child {
-    margin-bottom: 0;
   }
   .press-aside button {
     padding: 0;
   }
   .press-card {
-    display: grid;
-    grid-template-columns: 9.36rem minmax(0, 1fr);
-    gap: 2.34rem;
+    width: 99.433%;
+    flex-direction: row;
+    align-items: center;
     padding: 1.56rem;
+    margin: 0 0.13rem 0.936rem;
   }
   .press-card img {
-    margin: 0;
-    width: 9.36rem;
-    height: 4.68rem;
-    max-width: 100%;
+    width: 20vw;
+    height: 10vw;
+    object-position: center;
   }
-  .press-card > div {
-    border-top: 0;
-    border-left: 1px solid #33363d;
-    padding: 0 0 0 1.56rem;
+  .press-divider {
+    width: 0.13rem;
+    height: 8vw;
+    margin: 0 1.872rem;
   }
-  .press-list {
-    gap: 0.936rem;
+  .press-card time {
+    font-size: 2.222vw;
+    line-height: 3.333vw;
+  }
+  .press-card h2 {
+    font-size: 2.778vw;
+    line-height: 4.444vw;
+  }
+  .press-card:last-child {
+    margin-bottom: 0;
   }
 }

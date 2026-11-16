@@ -1,0 +1,134 @@
+[
+  {
+    "width": 992,
+    "box": {
+      "x": 610.953125,
+      "y": 96.265625,
+      "w": 240,
+      "h": 198
+    },
+    "links": [
+      {
+        "x": 642.953125,
+        "y": 120.265625,
+        "w": 80,
+        "h": 34,
+        "font": "16px",
+        "line": "24px",
+        "weight": "400",
+        "text": "Demo Day",
+        "href": "https://github.com/dask/community/issues/307"
+      },
+      {
+        "x": 642.953125,
+        "y": 178.265625,
+        "w": 67,
+        "h": 34,
+        "font": "16px",
+        "line": "24px",
+        "weight": "400",
+        "text": "Get Help",
+        "href": "/get-help"
+      },
+      {
+        "x": 642.953125,
+        "y": 236.265625,
+        "w": 91,
+        "h": 34,
+        "font": "16px",
+        "line": "24px",
+        "weight": "400",
+        "text": "Powered By",
+        "href": "/powered-by"
+      }
+    ]
+  },
+  {
+    "width": 1100,
+    "box": {
+      "x": 712.953125,
+      "y": 97.15625,
+      "w": 240,
+      "h": 198
+    },
+    "links": [
+      {
+        "x": 744.953125,
+        "y": 121.15625,
+        "w": 80,
+        "h": 34,
+        "font": "16px",
+        "line": "24px",
+        "weight": "400",
+        "text": "Demo Day",
+        "href": "https://github.com/dask/community/issues/307"
+      },
+      {
+        "x": 744.953125,
+        "y": 179.15625,
+        "w": 67,
+        "h": 34,
+        "font": "16px",
+        "line": "24px",
+        "weight": "400",
+        "text": "Get Help",
+        "href": "/get-help"
+      },
+      {
+        "x": 744.953125,
+        "y": 237.15625,
+        "w": 91,
+        "h": 34,
+        "font": "16px",
+        "line": "24px",
+        "weight": "400",
+        "text": "Powered By",
+        "href": "/powered-by"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "box": {
+      "x": 1034.09375,
+      "y": 100,
+      "w": 240,
+      "h": 198
+    },
+    "links": [
+      {
+        "x": 1066.09375,
+        "y": 124,
+        "w": 80,
+        "h": 34,
+        "font": "16px",
+        "line": "24px",
+        "weight": "400",
+        "text": "Demo Day",
+        "href": "https://github.com/dask/community/issues/307"
+      },
+      {
+        "x": 1066.09375,
+        "y": 182,
+        "w": 67,
+        "h": 34,
+        "font": "16px",
+        "line": "24px",
+        "weight": "400",
+        "text": "Get Help",
+        "href": "/get-help"
+      },
+      {
+        "x": 1066.09375,
+        "y": 240,
+        "w": 91,
+        "h": 34,
+        "font": "16px",
+        "line": "24px",
+        "weight": "400",
+        "text": "Powered By",
+        "href": "/powered-by"
+      }
+    ]
+  }
+]

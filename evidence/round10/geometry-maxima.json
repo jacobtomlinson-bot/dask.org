@@ -1,0 +1,98 @@
+{
+  "specimenCells": 0.03125,
+  "organizationImages": 0.40625,
+  "organizationIntro": 0.109375,
+  "pressCardTracks": 0.265625,
+  "closing": 0.109375,
+  "nav": 0.015625,
+  "cases": {
+    "390": {
+      "heading": 0.078125,
+      "gridX": 0,
+      "gridWidth": 0,
+      "gridY": -0.078125,
+      "gridHeight": -0.1875,
+      "ctaY": -0.265625
+    },
+    "479": {
+      "heading": 0.125,
+      "gridX": 0,
+      "gridWidth": 0,
+      "gridY": -0.140625,
+      "gridHeight": -0.5625,
+      "ctaY": -0.703125
+    },
+    "480": {
+      "heading": 0.03125,
+      "gridX": 0,
+      "gridWidth": 0,
+      "gridY": 0,
+      "gridHeight": 0,
+      "ctaY": 0
+    },
+    "601": {
+      "heading": 0.03125,
+      "gridX": 0,
+      "gridWidth": 0,
+      "gridY": 0.015625,
+      "gridHeight": 0.015625,
+      "ctaY": 0.015625
+    },
+    "767": {
+      "heading": 0.046875,
+      "gridX": 2.125,
+      "gridWidth": -4.25,
+      "gridY": 0.015625,
+      "gridHeight": 0.015625,
+      "ctaY": 0.015625
+    },
+    "768": {
+      "heading": 0.015625,
+      "gridX": 0,
+      "gridWidth": 0,
+      "gridY": 0,
+      "gridHeight": 1.234375,
+      "ctaY": 0.90625
+    },
+    "769": {
+      "heading": 0,
+      "gridX": 0,
+      "gridWidth": 0,
+      "gridY": 0.015625,
+      "gridHeight": 1.21875,
+      "ctaY": 0.921875
+    },
+    "991": {
+      "heading": 0.015625,
+      "gridX": 0,
+      "gridWidth": 0,
+      "gridY": 0.03125,
+      "gridHeight": 1.625,
+      "ctaY": 1.234375
+    },
+    "992": {
+      "heading": 0,
+      "gridX": -0.015625,
+      "gridWidth": 0.03125,
+      "gridY": 0.015625,
+      "gridHeight": -0.015625,
+      "ctaY": 0
+    },
+    "1100": {
+      "heading": 0,
+      "gridX": -0.078125,
+      "gridWidth": 0.171875,
+      "gridY": -0.015625,
+      "gridHeight": -0.078125,
+      "ctaY": -0.09375
+    },
+    "1440": {
+      "heading": 0,
+      "gridX": 0,
+      "gridWidth": 0,
+      "gridY": 0.015625,
+      "gridHeight": 0,
+      "ctaY": 0.015625
+    }
+  }
+}
