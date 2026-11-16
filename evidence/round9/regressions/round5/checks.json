@@ -1,0 +1,1262 @@
+[
+  {
+    "width": 767,
+    "tablet": false,
+    "maxCellError": 0,
+    "maxCopyError": 0,
+    "section": {
+      "text": "ColorsSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).Salmon#FC6E6BAccessible Text Colors#33363D(AA18) #262326(AA) #080815(AA)Copy Hex Code#FFFFFF#F6F6F6#EBEAEE#FFC11E#FC6E6B#EF1561#61BA92#1F5AFF#183D72#33363D#262326#080815",
+      "tag": "SECTION",
+      "r": {
+        "x": 0,
+        "y": 0,
+        "width": 767,
+        "height": 742.71875
+      }
+    },
+    "copy": [
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "r": {
+          "x": 85.890625,
+          "y": 96.28125,
+          "width": 595.21875,
+          "height": 34.09375
+        }
+      },
+      {
+        "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+        "tag": "P",
+        "r": {
+          "x": 85.890625,
+          "y": 142.65625,
+          "width": 501.90625,
+          "height": 76.6875
+        }
+      },
+      {
+        "text": "Salmon",
+        "tag": "P",
+        "r": {
+          "x": 85.890625,
+          "y": 236.375,
+          "width": 501.90625,
+          "height": 25.5625
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "P",
+        "r": {
+          "x": 85.890625,
+          "y": 261.9375,
+          "width": 501.90625,
+          "height": 25.5625
+        }
+      },
+      {
+        "text": "Accessible Text Colors",
+        "tag": "P",
+        "r": {
+          "x": 85.890625,
+          "y": 307.46875,
+          "width": 501.90625,
+          "height": 25.5625
+        }
+      },
+      {
+        "text": "#33363D(AA18) #262326(AA) #080815(AA)",
+        "tag": "P",
+        "r": {
+          "x": 85.890625,
+          "y": 333.03125,
+          "width": 501.90625,
+          "height": 25.5625
+        }
+      },
+      {
+        "text": "Copy Hex Code",
+        "tag": "BUTTON",
+        "r": {
+          "x": 85.890625,
+          "y": 383.171875,
+          "width": 178.0625,
+          "height": 51.125
+        }
+      }
+    ],
+    "colors": [
+      {
+        "text": "#FFFFFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 58.28125,
+          "y": 486.53125,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#F6F6F6",
+        "tag": "BUTTON",
+        "r": {
+          "x": 275.09375,
+          "y": 486.53125,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#EBEAEE",
+        "tag": "BUTTON",
+        "r": {
+          "x": 491.90625,
+          "y": 486.53125,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#FFC11E",
+        "tag": "BUTTON",
+        "r": {
+          "x": 58.28125,
+          "y": 530.09375,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "BUTTON",
+        "r": {
+          "x": 275.09375,
+          "y": 530.09375,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#EF1561",
+        "tag": "BUTTON",
+        "r": {
+          "x": 491.90625,
+          "y": 530.09375,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#61BA92",
+        "tag": "BUTTON",
+        "r": {
+          "x": 58.28125,
+          "y": 573.65625,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#1F5AFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 275.09375,
+          "y": 573.65625,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#183D72",
+        "tag": "BUTTON",
+        "r": {
+          "x": 491.90625,
+          "y": 573.65625,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#33363D",
+        "tag": "BUTTON",
+        "r": {
+          "x": 58.28125,
+          "y": 617.21875,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#262326",
+        "tag": "BUTTON",
+        "r": {
+          "x": 275.09375,
+          "y": 617.21875,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      },
+      {
+        "text": "#080815",
+        "tag": "BUTTON",
+        "r": {
+          "x": 491.90625,
+          "y": 617.21875,
+          "width": 216.8125,
+          "height": 43.5625
+        }
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "tablet": true,
+    "maxCellError": 0.03125,
+    "maxCopyError": 0.03125,
+    "section": {
+      "text": "ColorsSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).Salmon#FC6E6BAccessible Text Colors#33363D(AA18) #262326(AA) #080815(AA)Copy Hex Code#FFFFFF#F6F6F6#EBEAEE#FFC11E#FC6E6B#EF1561#61BA92#1F5AFF#183D72#33363D#262326#080815",
+      "tag": "SECTION",
+      "r": {
+        "x": 55,
+        "y": 0,
+        "width": 713,
+        "height": 544.421875
+      }
+    },
+    "copy": [
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "r": {
+          "x": 85.515625,
+          "y": 75.640625,
+          "width": 249.421875,
+          "height": 30.3125
+        }
+      },
+      {
+        "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 112.6875,
+          "width": 249.421875,
+          "height": 101.09375
+        }
+      },
+      {
+        "text": "Salmon",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 232.96875,
+          "width": 249.421875,
+          "height": 20.21875
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 253.1875,
+          "width": 249.421875,
+          "height": 25.59375
+        }
+      },
+      {
+        "text": "Accessible Text Colors",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 297.96875,
+          "width": 249.421875,
+          "height": 20.21875
+        }
+      },
+      {
+        "text": "#33363D(AA18) #262326(AA) #080815(AA)",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 318.1875,
+          "width": 249.421875,
+          "height": 51.1875
+        }
+      },
+      {
+        "text": "Copy Hex Code",
+        "tag": "BUTTON",
+        "r": {
+          "x": 85.515625,
+          "y": 384.734375,
+          "width": 138.9375,
+          "height": 40.40625
+        }
+      }
+    ],
+    "colors": [
+      {
+        "text": "#FFFFFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 54.796875,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#F6F6F6",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 127.40625,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#EBEAEE",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 200.015625,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#FFC11E",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 272.625,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 345.234375,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#EF1561",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 417.84375,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#61BA92",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 54.796875,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#1F5AFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 127.40625,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#183D72",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 200.015625,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#33363D",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 272.625,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#262326",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 345.234375,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#080815",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 417.84375,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "tablet": true,
+    "maxCellError": 0.046875,
+    "maxCopyError": 0.03125,
+    "section": {
+      "text": "ColorsSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).Salmon#FC6E6BAccessible Text Colors#33363D(AA18) #262326(AA) #080815(AA)Copy Hex Code#FFFFFF#F6F6F6#EBEAEE#FFC11E#FC6E6B#EF1561#61BA92#1F5AFF#183D72#33363D#262326#080815",
+      "tag": "SECTION",
+      "r": {
+        "x": 55.0625,
+        "y": 0,
+        "width": 713.9375,
+        "height": 545.140625
+      }
+    },
+    "copy": [
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "r": {
+          "x": 85.625,
+          "y": 75.75,
+          "width": 249.734375,
+          "height": 30.359375
+        }
+      },
+      {
+        "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+        "tag": "P",
+        "r": {
+          "x": 85.625,
+          "y": 112.84375,
+          "width": 249.734375,
+          "height": 101.171875
+        }
+      },
+      {
+        "text": "Salmon",
+        "tag": "P",
+        "r": {
+          "x": 85.625,
+          "y": 233.234375,
+          "width": 249.734375,
+          "height": 20.234375
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "P",
+        "r": {
+          "x": 85.625,
+          "y": 253.46875,
+          "width": 249.734375,
+          "height": 25.625
+        }
+      },
+      {
+        "text": "Accessible Text Colors",
+        "tag": "P",
+        "r": {
+          "x": 85.625,
+          "y": 298.3125,
+          "width": 249.734375,
+          "height": 20.234375
+        }
+      },
+      {
+        "text": "#33363D(AA18) #262326(AA) #080815(AA)",
+        "tag": "P",
+        "r": {
+          "x": 85.625,
+          "y": 318.546875,
+          "width": 249.734375,
+          "height": 51.25
+        }
+      },
+      {
+        "text": "Copy Hex Code",
+        "tag": "BUTTON",
+        "r": {
+          "x": 85.625,
+          "y": 385.171875,
+          "width": 138.96875,
+          "height": 40.453125
+        }
+      }
+    ],
+    "colors": [
+      {
+        "text": "#FFFFFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 384.46875,
+          "y": 54.875,
+          "width": 170.875,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#F6F6F6",
+        "tag": "BUTTON",
+        "r": {
+          "x": 384.46875,
+          "y": 127.578125,
+          "width": 170.875,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#EBEAEE",
+        "tag": "BUTTON",
+        "r": {
+          "x": 384.46875,
+          "y": 200.28125,
+          "width": 170.875,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#FFC11E",
+        "tag": "BUTTON",
+        "r": {
+          "x": 384.46875,
+          "y": 272.984375,
+          "width": 170.875,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "BUTTON",
+        "r": {
+          "x": 384.46875,
+          "y": 345.6875,
+          "width": 170.875,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#EF1561",
+        "tag": "BUTTON",
+        "r": {
+          "x": 384.46875,
+          "y": 418.390625,
+          "width": 170.875,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#61BA92",
+        "tag": "BUTTON",
+        "r": {
+          "x": 555.34375,
+          "y": 54.875,
+          "width": 159.84375,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#1F5AFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 555.34375,
+          "y": 127.578125,
+          "width": 159.84375,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#183D72",
+        "tag": "BUTTON",
+        "r": {
+          "x": 555.34375,
+          "y": 200.28125,
+          "width": 159.84375,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#33363D",
+        "tag": "BUTTON",
+        "r": {
+          "x": 555.34375,
+          "y": 272.984375,
+          "width": 159.84375,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#262326",
+        "tag": "BUTTON",
+        "r": {
+          "x": 555.34375,
+          "y": 345.6875,
+          "width": 159.84375,
+          "height": 72.703125
+        }
+      },
+      {
+        "text": "#080815",
+        "tag": "BUTTON",
+        "r": {
+          "x": 555.34375,
+          "y": 418.390625,
+          "width": 159.84375,
+          "height": 72.703125
+        }
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "tablet": true,
+    "maxCellError": 0.09375,
+    "maxCopyError": 0.03125,
+    "section": {
+      "text": "ColorsSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).Salmon#FC6E6BAccessible Text Colors#33363D(AA18) #262326(AA) #080815(AA)Copy Hex Code#FFFFFF#F6F6F6#EBEAEE#FFC11E#FC6E6B#EF1561#61BA92#1F5AFF#183D72#33363D#262326#080815",
+      "tag": "SECTION",
+      "r": {
+        "x": 70.96875,
+        "y": 0,
+        "width": 920.03125,
+        "height": 702.515625
+      }
+    },
+    "copy": [
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "r": {
+          "x": 110.359375,
+          "y": 97.625,
+          "width": 321.84375,
+          "height": 39.109375
+        }
+      },
+      {
+        "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+        "tag": "P",
+        "r": {
+          "x": 110.359375,
+          "y": 145.421875,
+          "width": 321.84375,
+          "height": 130.390625
+        }
+      },
+      {
+        "text": "Salmon",
+        "tag": "P",
+        "r": {
+          "x": 110.359375,
+          "y": 300.578125,
+          "width": 321.84375,
+          "height": 26.078125
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "P",
+        "r": {
+          "x": 110.359375,
+          "y": 326.65625,
+          "width": 321.84375,
+          "height": 33.03125
+        }
+      },
+      {
+        "text": "Accessible Text Colors",
+        "tag": "P",
+        "r": {
+          "x": 110.359375,
+          "y": 384.453125,
+          "width": 321.84375,
+          "height": 26.078125
+        }
+      },
+      {
+        "text": "#33363D(AA18) #262326(AA) #080815(AA)",
+        "tag": "P",
+        "r": {
+          "x": 110.359375,
+          "y": 410.53125,
+          "width": 321.84375,
+          "height": 66.0625
+        }
+      },
+      {
+        "text": "Copy Hex Code",
+        "tag": "BUTTON",
+        "r": {
+          "x": 110.359375,
+          "y": 496.40625,
+          "width": 186.75,
+          "height": 52.140625
+        }
+      }
+    ],
+    "colors": [
+      {
+        "text": "#FFFFFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 495.484375,
+          "y": 70.71875,
+          "width": 220.203125,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#F6F6F6",
+        "tag": "BUTTON",
+        "r": {
+          "x": 495.484375,
+          "y": 164.40625,
+          "width": 220.203125,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#EBEAEE",
+        "tag": "BUTTON",
+        "r": {
+          "x": 495.484375,
+          "y": 258.09375,
+          "width": 220.203125,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#FFC11E",
+        "tag": "BUTTON",
+        "r": {
+          "x": 495.484375,
+          "y": 351.78125,
+          "width": 220.203125,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "BUTTON",
+        "r": {
+          "x": 495.484375,
+          "y": 445.46875,
+          "width": 220.203125,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#EF1561",
+        "tag": "BUTTON",
+        "r": {
+          "x": 495.484375,
+          "y": 539.15625,
+          "width": 220.203125,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#61BA92",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.6875,
+          "y": 70.71875,
+          "width": 205.96875,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#1F5AFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.6875,
+          "y": 164.40625,
+          "width": 205.96875,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#183D72",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.6875,
+          "y": 258.09375,
+          "width": 205.96875,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#33363D",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.6875,
+          "y": 351.78125,
+          "width": 205.96875,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#262326",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.6875,
+          "y": 445.46875,
+          "width": 205.96875,
+          "height": 93.6875
+        }
+      },
+      {
+        "text": "#080815",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.6875,
+          "y": 539.15625,
+          "width": 205.96875,
+          "height": 93.6875
+        }
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "tablet": false,
+    "maxCellError": 0,
+    "maxCopyError": 0,
+    "section": {
+      "text": "ColorsSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).Salmon#FC6E6BAccessible Text Colors#33363D(AA18) #262326(AA) #080815(AA)Copy Hex Code#FFFFFF#F6F6F6#EBEAEE#FFC11E#FC6E6B#EF1561#61BA92#1F5AFF#183D72#33363D#262326#080815",
+      "tag": "SECTION",
+      "r": {
+        "x": 55.796875,
+        "y": 0,
+        "width": 936.203125,
+        "height": 442.953125
+      }
+    },
+    "copy": [
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "r": {
+          "x": 95.75,
+          "y": 79.90625,
+          "width": 336.578125,
+          "height": 31.6875
+        }
+      },
+      {
+        "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+        "tag": "P",
+        "r": {
+          "x": 95.75,
+          "y": 136.390625,
+          "width": 336.578125,
+          "height": 49.59375
+        }
+      },
+      {
+        "text": "Salmon",
+        "tag": "P",
+        "r": {
+          "x": 95.75,
+          "y": 202.515625,
+          "width": 336.578125,
+          "height": 16.53125
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "P",
+        "r": {
+          "x": 95.75,
+          "y": 219.046875,
+          "width": 336.578125,
+          "height": 16.53125
+        }
+      },
+      {
+        "text": "Accessible Text Colors",
+        "tag": "P",
+        "r": {
+          "x": 95.75,
+          "y": 252.109375,
+          "width": 336.578125,
+          "height": 16.53125
+        }
+      },
+      {
+        "text": "#33363D(AA18) #262326(AA) #080815(AA)",
+        "tag": "P",
+        "r": {
+          "x": 95.75,
+          "y": 268.640625,
+          "width": 336.578125,
+          "height": 16.53125
+        }
+      },
+      {
+        "text": "Copy Hex Code",
+        "tag": "BUTTON",
+        "r": {
+          "x": 95.75,
+          "y": 293.4375,
+          "width": 113.03125,
+          "height": 38.578125
+        }
+      }
+    ],
+    "colors": [
+      {
+        "text": "#FFFFFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 494.328125,
+          "y": 56.140625,
+          "width": 221.265625,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#F6F6F6",
+        "tag": "BUTTON",
+        "r": {
+          "x": 494.328125,
+          "y": 111.25,
+          "width": 221.265625,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#EBEAEE",
+        "tag": "BUTTON",
+        "r": {
+          "x": 494.328125,
+          "y": 166.359375,
+          "width": 221.265625,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#FFC11E",
+        "tag": "BUTTON",
+        "r": {
+          "x": 494.328125,
+          "y": 221.46875,
+          "width": 221.265625,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "BUTTON",
+        "r": {
+          "x": 494.328125,
+          "y": 276.578125,
+          "width": 221.265625,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#EF1561",
+        "tag": "BUTTON",
+        "r": {
+          "x": 494.328125,
+          "y": 331.6875,
+          "width": 221.265625,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#61BA92",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.59375,
+          "y": 56.140625,
+          "width": 221.28125,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#1F5AFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.59375,
+          "y": 111.25,
+          "width": 221.28125,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#183D72",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.59375,
+          "y": 166.359375,
+          "width": 221.28125,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#33363D",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.59375,
+          "y": 221.46875,
+          "width": 221.28125,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#262326",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.59375,
+          "y": 276.578125,
+          "width": 221.28125,
+          "height": 55.109375
+        }
+      },
+      {
+        "text": "#080815",
+        "tag": "BUTTON",
+        "r": {
+          "x": 715.59375,
+          "y": 331.6875,
+          "width": 221.28125,
+          "height": 55.109375
+        }
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "tablet": true,
+    "maxCellError": 0.03125,
+    "maxCopyError": 0.03125,
+    "section": {
+      "text": "ColorsSelect a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).Salmon#FC6E6BAccessible Text Colors#33363D(AA18) #262326(AA) #080815(AA)Copy Hex Code#FFFFFF#F6F6F6#EBEAEE#FFC11E#FC6E6B#EF1561#61BA92#1F5AFF#183D72#33363D#262326#080815",
+      "tag": "SECTION",
+      "r": {
+        "x": 55,
+        "y": 0,
+        "width": 713,
+        "height": 544.421875
+      }
+    },
+    "copy": [
+      {
+        "text": "Colors",
+        "tag": "H2",
+        "r": {
+          "x": 85.515625,
+          "y": 75.640625,
+          "width": 249.421875,
+          "height": 30.3125
+        }
+      },
+      {
+        "text": "Select a background color to view accessible brand color combinations for text or other elements. Note: colors marked AA18 should only be used for large type (18px or larger).",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 112.6875,
+          "width": 249.421875,
+          "height": 101.09375
+        }
+      },
+      {
+        "text": "Salmon",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 232.96875,
+          "width": 249.421875,
+          "height": 20.21875
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 253.1875,
+          "width": 249.421875,
+          "height": 25.59375
+        }
+      },
+      {
+        "text": "Accessible Text Colors",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 297.96875,
+          "width": 249.421875,
+          "height": 20.21875
+        }
+      },
+      {
+        "text": "#33363D(AA18) #262326(AA) #080815(AA)",
+        "tag": "P",
+        "r": {
+          "x": 85.515625,
+          "y": 318.1875,
+          "width": 249.421875,
+          "height": 51.1875
+        }
+      },
+      {
+        "text": "Copy Hex Code",
+        "tag": "BUTTON",
+        "r": {
+          "x": 85.515625,
+          "y": 384.734375,
+          "width": 138.9375,
+          "height": 40.40625
+        }
+      }
+    ],
+    "colors": [
+      {
+        "text": "#FFFFFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 54.796875,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#F6F6F6",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 127.40625,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#EBEAEE",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 200.015625,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#FFC11E",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 272.625,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#FC6E6B",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 345.234375,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#EF1561",
+        "tag": "BUTTON",
+        "r": {
+          "x": 383.984375,
+          "y": 417.84375,
+          "width": 170.640625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#61BA92",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 54.796875,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#1F5AFF",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 127.40625,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#183D72",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 200.015625,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#33363D",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 272.625,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#262326",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 345.234375,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      },
+      {
+        "text": "#080815",
+        "tag": "BUTTON",
+        "r": {
+          "x": 554.625,
+          "y": 417.84375,
+          "width": 159.625,
+          "height": 72.609375
+        }
+      }
+    ]
+  }
+]

@@ -1,6 +1,7 @@
 ---
 import Site from '../layouts/Site.astro';
 import '../styles/get-started.css';
+import '../styles/learn.css';
 import Icon from '../components/Icon.astro';
 import Hero from '../components/Hero.astro';
 import Support from '../components/Support.astro';
@@ -33,31 +34,37 @@ import { asset, learn, explore, deeper, docs } from '../data/site';
     </section>
   </div>
   <section class="learn-section light-grid">
-    <img
-      class="learn-art-top"
-      src={asset('illustration-get-started-top.svg')}
-      alt=""
-    />
-    <img
-      class="learn-art"
-      src={asset('illustration-get-started-middle.svg')}
-      alt=""
-    />
-    <img
-      class="learn-art-bottom"
-      src={asset('illustration-get-started-bottom.svg')}
-      alt=""
-    />
-    <h2>Learn Your Way Around</h2>
-    <p class="intro">
-      Do you have a few minutes – or a few hours? Either way, we’ve got you
-      covered.
-    </p>
+    <div class="learn-artwork">
+      <img
+        class="learn-art-top"
+        src={asset('illustration-get-started-top.svg')}
+        alt=""
+      />
+      <img
+        class="learn-art"
+        src={asset('illustration-get-started-middle.svg')}
+        alt=""
+      />
+      <img
+        class="learn-art-bottom"
+        src={asset('illustration-get-started-bottom.svg')}
+        alt=""
+      />
+    </div>
+    <div class="learn-intro">
+      <h2>Learn Your Way Around</h2>
+      <p class="intro">
+        Do you have a few minutes – or a few hours? Either way, we’ve got you
+        covered.
+      </p>
+    </div>
     <div class="learn-grid">
       {learn.map(([title, text, label, href]) => (
         <a href={href} class="learn-card">
-          <h3>{title}</h3>
-          <p>{text}</p>
+          <div class="learn-copy">
+            <h3>{title}</h3>
+            <p>{text}</p>
+          </div>
           <span class="text-link">{label}</span>
         </a>
       ))}

@@ -1,0 +1,929 @@
+{
+  "passed": 229,
+  "failed": 0,
+  "paragraphs": 370,
+  "maxHero": 1.265625,
+  "maxCopy": 0.25,
+  "maxArt": 0.25,
+  "maxPerformance": 0.609375,
+  "paperSamples": 60,
+  "pixelSamples": 1210,
+  "results": [
+    {
+      "name": "390 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "390 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "390 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "390 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "390 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "390 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "390 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "479 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "479 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "479 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "479 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "479 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "479 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "479 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "479 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "479 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "479 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "479 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "479 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "479 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "480 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "480 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "480 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "480 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "480 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "480 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "480 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "480 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "480 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "480 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "480 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "480 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "480 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "601 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "601 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "601 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "601 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "601 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "601 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "601 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "601 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "601 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "601 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "601 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "601 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "601 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "767 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "767 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "767 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "767 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "767 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "767 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "767 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "767 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "767 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "767 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "767 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "767 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "767 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "768 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "768 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "768 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "768 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "768 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "768 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "768 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "769 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "769 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "769 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "769 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "769 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "769 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "769 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "769 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "769 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "769 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "769 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "769 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "769 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "991 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "991 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "991 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "991 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "991 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "991 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "991 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "991 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "991 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "991 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "991 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "991 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "991 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "992 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "992 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "992 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "992 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "992 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "992 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "992 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "992 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "992 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "992 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "992 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "992 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "992 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "1440 performance: copy, two tracks and viewport-visible Rows/Cost",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-help .get-help-left: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-help .text-get-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-help .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-started .blog-title.get-st: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-started .container-help: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-started .container-text.get-started: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "1440 Learn: all three artwork rectangles",
+      "status": "passed"
+    },
+    {
+      "name": "1440 powered-by .card.logo-with-text: every copy line and ink track",
+      "status": "passed"
+    },
+    {
+      "name": "1440 powered-by .container-text.powered-by: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "1440 powered-by: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "1440 brand-guide .container-text.br-guide: hero heading/body line arrays and actual ink",
+      "status": "passed"
+    },
+    {
+      "name": "1440 brand-guide: original hero artwork rectangle",
+      "status": "passed"
+    },
+    {
+      "name": "390 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "390 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "390 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "390 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "479 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "479 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "479 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "479 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "479 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "479 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "480 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "480 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "480 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "480 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "480 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "480 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "601 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "601 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "601 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "601 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "601 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "601 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "767 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "767 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "767 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "767 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "767 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "767 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "768 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "768 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "768 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "768 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "769 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "769 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "769 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "769 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "769 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "769 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "991 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "991 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "991 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "991 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "991 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "991 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "992 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "992 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "992 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "992 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "992 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "992 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "1440 home: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-started: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-help: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "1440 powered-by: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "1440 brand-guide: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "1440 press-mentions: all explicit sheets and footer separators",
+      "status": "passed"
+    },
+    {
+      "name": "390 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "479 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "480 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "601 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "767 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "768 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "769 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "991 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "992 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "1440 Learn: every divider and actual SVG object-fit paint",
+      "status": "passed"
+    },
+    {
+      "name": "390 powered-by: real hero SVG fitting",
+      "status": "passed"
+    },
+    {
+      "name": "390 brand-guide: real hero SVG fitting",
+      "status": "passed"
+    },
+    {
+      "name": "601 powered-by: real hero SVG fitting",
+      "status": "passed"
+    },
+    {
+      "name": "601 brand-guide: real hero SVG fitting",
+      "status": "passed"
+    },
+    {
+      "name": "768 powered-by: real hero SVG fitting",
+      "status": "passed"
+    },
+    {
+      "name": "768 brand-guide: real hero SVG fitting",
+      "status": "passed"
+    },
+    {
+      "name": "1440 powered-by: real hero SVG fitting",
+      "status": "passed"
+    },
+    {
+      "name": "1440 brand-guide: real hero SVG fitting",
+      "status": "passed"
+    },
+    {
+      "name": "390 home: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-started: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "390 get-help: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "390 powered-by: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "390 brand-guide: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "390 selected palette paper follows the selected color",
+      "status": "passed"
+    },
+    {
+      "name": "390 press-mentions: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "768 home: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-started: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "768 get-help: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "768 powered-by: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "768 brand-guide: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "768 selected palette paper follows the selected color",
+      "status": "passed"
+    },
+    {
+      "name": "768 press-mentions: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "1440 home: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-started: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "1440 get-help: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "1440 powered-by: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "1440 brand-guide: solid source-colored paper pixels",
+      "status": "passed"
+    },
+    {
+      "name": "1440 selected palette paper follows the selected color",
+      "status": "passed"
+    },
+    {
+      "name": "1440 press-mentions: solid source-colored paper pixels",
+      "status": "passed"
+    }
+  ]
+}

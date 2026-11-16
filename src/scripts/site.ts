@@ -141,6 +141,7 @@ if (palette) {
       const hex = b.dataset.color!,
         lum = luminance(hex);
       palette.style.backgroundColor = hex;
+      palette.style.setProperty('--palette-paper', hex);
       palette.style.color = lum > 0.179 ? '#080815' : '#FFFFFF';
       palette.querySelector('.color-name')!.textContent = b.dataset.name!;
       palette.querySelector('.color-hex')!.textContent = hex;

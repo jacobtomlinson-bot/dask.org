@@ -23,7 +23,7 @@ npm audit
 npm run preview -- --port 4321
 ```
 
-The test runner makes **no live form submissions**. It starts a production preview, checks the original 60 behavior groups, then runs `scripts/round2-checks.mjs` against that same preview. Focused coverage includes every route at 320/360/390/599/600/601/767/768/990/991/992/993/1099/1100/1101/1440/1599/1600/1601 pixels; visible per-state action labels **and destinations**; persistent brand navigation/active sections/anchor offsets; palette ordering/icons; and all three stacked mobile forms with blocked mutations and truthful Not sent results. Local assets, JS errors, keyboard interactions, logo/palette variants and clipboard copying remain covered. `BASE_URL` can target an already running local server instead of launching preview.
+The test runner makes **no live form submissions**. It starts a production preview, checks the original60 behavior groups, then runs the round2–9 regression suites against that same preview. Focused coverage includes every route at 320/360/390/599/600/601/767/768/990/991/992/993/1099/1100/1101/1440/1599/1600/1601 pixels; visible per-state action labels **and destinations**; persistent brand navigation/active sections/anchor offsets; palette ordering/icons; and all three stacked mobile forms with blocked mutations and truthful Not sent results. Local assets, JS errors, keyboard interactions, logo/palette variants and clipboard copying remain covered. `BASE_URL` can target an already running local server instead of launching preview.
 
 ## Edit the site
 
@@ -32,9 +32,9 @@ The test runner makes **no live form submissions**. It starts a production previ
 - `src/data/site.ts`: shared destinations, learning resources, sponsor/company/project lists and palette.
 - `src/data/home.ts`, `quotes.json`, `cases.json`, `press.json`: editable home and press content.
 - `src/pages/`: native Astro page composition and page-specific editorial copy. No component framework or client hydration.
-- `src/styles/global.css`: shared tokens, resets, grid backgrounds, hero/support/terminal/tab primitives.
+- `src/styles/global.css`: shared tokens, resets, grid backgrounds, hero/terminal/tab primitives. Shared Support frames and copy belong to `support.css`.
 - `src/styles/chrome.css`: header/navigation, footer and native submission drawer.
-- `src/styles/{home,brand,get-started,get-help,powered-by,press-mentions}.css`: route-owned base and breakpoint rules, imported after `Site` by that route only. `illustrations.css` owns the three native homepage drawings. There is no refinement stylesheet or page-level style pile: edit the existing selector in its owning base/desktop/tablet/landscape-phone/phone tier rather than appending overrides. Some deliberately generous sections preserve reference whitespace.
+- `src/styles/{home,brand,get-started,get-help,powered-by,press-mentions}.css`: route-owned base and breakpoint rules, imported after `Site` by that route only. `illustrations.css` owns the native dashboard and animation keyframes; `performance.css` owns the gauge/code/counter frames and copy. `learn.css` owns Learn cards/artwork; `support.css` owns shared Support; `copy-papers.css` and `footer-papers.css` define explicit decorative sheets independently of text tracks. There is no refinement stylesheet or page-level style pile: edit the existing selector in its owning base/desktop/tablet/landscape-phone/phone tier rather than appending overrides. Some deliberately generous sections preserve reference whitespace.
 - `src/scripts/site.ts`: small native browser interactions; keyboard tab navigation, Escape dismissal, clipboard, form preview, and reduced-motion-aware terminal illustrations.
 
 Use `npm run format` after edits. Repeated structure/content is component- or data-driven. The homepage dashboard, MEMORY/CPU gauges and automatic rolling counter are independently authored HTML/CSS/SVG, not screenshots of the old site. Terminal examples are ordinary text and locally highlighted code. No animation JSON, Webflow generated CSS/JS, jQuery, Webflow library, or third-party client runtime is included.
@@ -80,7 +80,7 @@ node scripts/report.mjs # refresh the current round-6 review summary (saved fina
 `BASE_URL=http://127.0.0.1:<port>` overrides the local target. Reference inspection uses GET/HEAD only and blocks mutation methods. `scripts/inspect.mjs`, `details.mjs`, `states.mjs`, `inspect-states.mjs`, and `responsive-details.mjs` retain the bounded reference-capture workflow, including recovery from incomplete captures. They are development evidence tools only. The reference browser uses Node fetch to satisfy Chromium's requests in this environment; it never imports remote code into production.
 
 - `evidence/comparison-scrolled.json`: historical comparison after traversing every reference page to trigger lazy artwork. `comparison.json` retains the initial/unscrolled baseline. Both include per-page dimensions, pixel counts, first-viewport differences and geometry.
-- `evidence/local/`, `evidence/reference/`, `evidence/diff/`: historical local/reference/full-page diff screenshots; current evidence is in `evidence/round6/`.
+- `evidence/local/`, `evidence/reference/`, `evidence/diff/`: historical local/reference/full-page diff screenshots; current whole-page evidence is in `evidence/round9/`.
 - `evidence/states/`: screenshots and quantitative differences for workload/deployment/explore tabs, four logo states, twelve palette states, three dialog types, desktop community and tablet/mobile navigation.
 - `evidence/tests/results.json`: production-preview assertions and result counts.
 - `evidence/round2/checks.json`: focused production-preview regression results.
@@ -113,13 +113,13 @@ Astro allows only one preview per checkout. `npm test` starts/stops its own prev
 
 `evidence/round6/gallery.html` preserves the fully traversed18 route-width pairs and the round6 residual table is retained in Git history. The previously reported390px home/brand/press height gaps became−2/0/−1px. That round's67-group test run and prior independent acceptance are historical, not an exact-fidelity claim or approval of the latest SHA. Current targeted findings/results follow below.
 
-## Current round 8 — paper surfaces and rail fidelity
+## Historical round 8 — paper surfaces and rail fidelity
 
 `src/styles/tone.css` keeps the accepted text tracks and intrinsic paragraph flow. Decorative paper surfaces now extend through their observed padding; the desktop short sheet follows the observed40% row proportion. These are background paint layers, not content clipping or section-height masks. All90 paragraph line arrays remain equal to the fresh reference.
 
 The brand rail now uses measured control dimensions, spacing, icon boxes and settled active/hover colors. Narrow phones retain80px bars and52px controls, with viewport-relative internal padding; landscape has independent fluid controls. The native brush contour was refined from rendered artwork inspection, not copied SVG paths. Active-section observation and keyboard/anchor behavior are retained.
 
-The full runner has **69 outer groups**, including ten new paper/rail groups with actual foreground/paper pixel checks, all90 exact paragraph line arrays, all80 paper boundary coordinates and all320 rail control/icon coordinates at390/479/480/601/767/768/769/991/992/1440. Prior geometry, safe forms, all-state actions, palette, motion and overflow suites remain included.
+That historical runner had **69 outer groups**, including ten new paper/rail groups with actual foreground/paper pixel checks, all90 exact paragraph line arrays, all80 paper boundary coordinates and all320 rail control/icon coordinates at390/479/480/601/767/768/769/991/992/1440. Prior geometry, safe forms, all-state actions, palette, motion and overflow suites remain included.
 
 With a local production server on4321:
 
@@ -135,4 +135,24 @@ node scripts/round8-icon-metrics.mjs
 node scripts/report.mjs
 ```
 
-Current report: `evidence/REVIEW.md`. Fresh fully traversed18 page comparisons: `evidence/round8/gallery.html`. Focused ten-width paper/rail results: `evidence/round8/checks.json`; Tone pairs: `evidence/round8/tone-gallery.html`. Historical round6/7 evidence stays historical. Exact equivalence is still not certified: independently drawn icon contours, other paper boundaries, tiny upstream text/section offsets and unsynchronized native animation can differ. See the explicit residual inventory in the report. No backend, redirect destination, dependency, deployment or remote publication changed. Main obtains the same tester's verdict on the exact signed SHA before further local integration.
+That report remains in Git history. Historical fully traversed18 page comparisons: `evidence/round8/gallery.html`. Focused ten-width paper/rail results: `evidence/round8/checks.json`; Tone pairs: `evidence/round8/tone-gallery.html`. Historical round6/7 evidence stays historical. Exact equivalence is still not certified: independently drawn icon contours, other paper boundaries, tiny upstream text/section offsets and unsynchronized native animation can differ. See the explicit residual inventory in the report. No backend, redirect destination, dependency, deployment or remote publication changed. Main obtains the same tester's verdict on the exact signed SHA before further local integration.
+
+## Current round9 — six-route static composition
+
+The six independent round8 findings are addressed in the component owners, not by hiding overflow or compensating page heights. Help and Support now use their source-sized paper/copy frames; Learn owns all five cards, dividers and three artwork boxes **including real contain/cover paint**, not only image bounds. Sponsor logo/divider/copy flow is intrinsic. The homepage has source-sized copy/code tracks, fully stacked tablet Rows/Cost, correct shared label emphasis, real workload tab insets and contained landscape headline margins. The source's original off-viewport992px counter edge is matched as visible paint without native document overflow. Footer sheets and separators are shared by all six routes. Palette sheets follow selection. Accepted Tone/rail composition and safe form behavior are retained.
+
+With a built production preview on4321:
+
+```sh
+node scripts/round9-reference.mjs #60 fully traversed, read-only original page/width records
+node scripts/round9-quiet-human.mjs #observe an unaltered quiet original typing phase
+node scripts/round9-learn-paint-reference.mjs #actual source image-fit and every card divider
+node scripts/round9-checks.mjs #included in npm test
+EVIDENCE_DIR=evidence/round9 WIDTHS=390,768,1440 node scripts/round6-capture.mjs
+EVIDENCE_DIR=evidence/round9 node scripts/round6-compare.mjs
+node scripts/round9-gallery.mjs
+```
+
+The runner has70 outer groups (nested focused counts are not additive). Current evidence/report: `evidence/REVIEW.md`, `evidence/round9/checks.json`, `evidence/round9/surfaces.json`, `evidence/round9/gallery.html` and the original-left/native-right component pairs. The original390px human-copy track changes329.42→350.94→329.42px during typing; `reference-human-phases.json` records that real layout change. Static comparison explicitly selects the observed quiet phase rather than passing off a changing frame as a static defect.
+
+This remains a review candidate, not an exact-equivalence certification. Native dashboard/gauge/counter/rail contours and unsynchronized animation still differ. Real backends, unresolved redirects and browser/device limits remain as documented above. Main obtains the same independent tester's verdict for the new exact signed local SHA before integration.

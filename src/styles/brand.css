@@ -72,7 +72,7 @@
   padding: 0 5.125rem 0 3.625rem;
 }
 .brand-logo-copy {
-  background-color: white;
+  background-color: transparent;
   padding: 9.75rem 5.875rem 0 0;
 }
 .brand-body h2 {
@@ -199,6 +199,7 @@
   align-items: start;
 }
 .brand-type > div:first-child {
+  background: transparent;
   padding-top: 3.125rem;
 }
 .type-row {

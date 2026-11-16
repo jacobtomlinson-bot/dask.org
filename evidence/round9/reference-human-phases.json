@@ -1,0 +1,63 @@
+[
+  {
+    "time": 1344.8000000715256,
+    "width": 329.421875,
+    "grid": 330.75,
+    "columns": "1fr 1fr",
+    "paragraph": 309.921875,
+    "font": "Inter, sans-serif"
+  },
+  {
+    "time": 1854.6000000238419,
+    "width": 329.421875,
+    "grid": 330.75,
+    "columns": "1fr 1fr",
+    "paragraph": 309.921875,
+    "font": "Inter, sans-serif"
+  },
+  {
+    "time": 2862.4000000953674,
+    "width": 329.421875,
+    "grid": 330.75,
+    "columns": "1fr 1fr",
+    "paragraph": 309.921875,
+    "font": "Inter, sans-serif"
+  },
+  {
+    "time": 4873.900000095367,
+    "width": 329.421875,
+    "grid": 330.75,
+    "columns": "1fr 1fr",
+    "paragraph": 309.921875,
+    "font": "Inter, sans-serif"
+  },
+  {
+    "time": 7887.600000023842,
+    "width": 329.421875,
+    "grid": 330.75,
+    "columns": "1fr 1fr",
+    "paragraph": 309.921875,
+    "font": "Inter, sans-serif"
+  },
+  {
+    "time": 8423.700000047684,
+    "width": 329.421875,
+    "grid": 330.75,
+    "columns": "1fr 1fr",
+    "paragraph": 309.921875
+  },
+  {
+    "time": 9431.400000095367,
+    "width": 350.9375,
+    "grid": 352.359375,
+    "columns": "1fr 1fr",
+    "paragraph": 331.4375
+  },
+  {
+    "time": 11441.5,
+    "width": 329.421875,
+    "grid": 330.75,
+    "columns": "1fr 1fr",
+    "paragraph": 309.921875
+  }
+]

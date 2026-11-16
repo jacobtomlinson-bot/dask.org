@@ -1,0 +1,58 @@
+[
+  {
+    "width": 390,
+    "slug": "powered-by",
+    "fit": "cover",
+    "position": "0% 0%",
+    "display": "block"
+  },
+  {
+    "width": 390,
+    "slug": "brand-guide",
+    "fit": "cover",
+    "position": "0% 50%",
+    "display": "none"
+  },
+  {
+    "width": 601,
+    "slug": "powered-by",
+    "fit": "cover",
+    "position": "0% 0%",
+    "display": "block"
+  },
+  {
+    "width": 601,
+    "slug": "brand-guide",
+    "fit": "cover",
+    "position": "0% 50%",
+    "display": "none"
+  },
+  {
+    "width": 768,
+    "slug": "powered-by",
+    "fit": "cover",
+    "position": "0% 50%",
+    "display": "block"
+  },
+  {
+    "width": 768,
+    "slug": "brand-guide",
+    "fit": "cover",
+    "position": "0% 50%",
+    "display": "block"
+  },
+  {
+    "width": 1440,
+    "slug": "powered-by",
+    "fit": "cover",
+    "position": "0% 50%",
+    "display": "block"
+  },
+  {
+    "width": 1440,
+    "slug": "brand-guide",
+    "fit": "cover",
+    "position": "0% 50%",
+    "display": "block"
+  }
+]

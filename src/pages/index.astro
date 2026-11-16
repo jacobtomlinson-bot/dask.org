@@ -4,6 +4,7 @@ import '../styles/home.css';
 import '../styles/cases.css';
 import '../styles/testimonials.css';
 import '../styles/illustrations.css';
+import '../styles/performance.css';
 import Terminal from '../components/Terminal.astro';
 import Dashboard from '../components/Dashboard.astro';
 import Gauges from '../components/Gauges.astro';
@@ -66,7 +67,7 @@ import cases from '../data/cases.json';
         <h3>Fast on Machines</h3>
         <p>
           Dask is lightweight, and runs your raw code on your machines without
-          getting in the way. No virtualization or compilers.
+          getting in the way. &nbsp;No virtualization or compilers.
         </p>
         <p>
           As the Python stack matures your code matures. Today{' '}
@@ -79,7 +80,9 @@ import cases from '../data/cases.json';
           on standard benchmarks.
         </p>
       </div>
-      <Gauges />
+      <div class="gauge-sheet">
+        <Gauges />
+      </div>
     </div>
     <div class="performance-row humans">
       <div class="human-code">
@@ -96,7 +99,9 @@ import cases from '../data/cases.json';
       </div>
       <div class="performance-copy">
         <h3>Made for Humans</h3>
-        <p>Computers are cheap. Humans are expensive.</p>
+        <p>
+          <strong>Computers are cheap. Humans are expensive.</strong>
+        </p>
         <p>Fortunately, humans already know how to use Dask.</p>
         <p>It’s just Python. It’s just pandas. It’s just NumPy.</p>
         <p>
@@ -107,7 +112,9 @@ import cases from '../data/cases.json';
     </div>
     <div class="cheap">
       <h3>Cheap and Efficient</h3>
-      <p>Fast humans + Fast machines = Cheap Computing</p>
+      <p>
+        <strong>Fast humans + Fast machines = Cheap Computing</strong>
+      </p>
       <CostCounter />
       <p>
         Dask users often process cloud data at{' '}

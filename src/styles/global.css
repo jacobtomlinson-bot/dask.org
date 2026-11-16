@@ -220,58 +220,26 @@ textarea:focus-visible {
   z-index: 1;
 }
 .page-hero.with-art p {
-  font-size: 1rem;
-  line-height: 1.5rem;
+  font-size: 0.9999rem;
+  line-height: 1.5003rem;
   font-weight: 400;
-  margin: 1.5rem 1.5rem 0;
-  max-width: 36.25rem;
+  margin: 1.5rem 1.75rem 0;
+  max-width: 36.279375rem;
 }
 .hero-art {
   position: absolute;
-  right: 0;
-  top: 0;
+  right: 0.13379rem;
+  top: -0.001953rem;
+  object-fit: cover;
+  object-position: left center;
   width: 35rem;
   height: 35rem;
 }
 .hero-art.powered-art {
   width: 45rem;
-  height: 38.125rem;
-  top: -2.6875rem;
-  right: -1.0625rem;
-}
-.support {
-  padding: 5.0625rem calc(var(--gutter) + 0.25rem);
-  min-height: 25.0625rem;
-  display: grid;
-  grid-template-columns: 43.5% 56.5%;
-  align-items: center;
-}
-.support-copy {
-  padding: 1.5rem 2.5rem;
-}
-.support h2 {
-  font-size: 2.25rem;
-  line-height: 2.875rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-}
-.support p {
-  margin: 0 0 1.5rem;
-}
-.support-logos {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 0.5rem;
-}
-.support-logos a {
-  display: flex;
-  align-items: center;
-  padding: 2.5rem 0.875rem;
-}
-.support-logos img {
-  width: 100%;
-  height: 9.75rem;
-  object-fit: contain;
+  height: 38.124rem;
+  top: -2.70117rem;
+  right: -1.0791rem;
 }
 .terminal {
   background: #262326;
@@ -386,19 +354,20 @@ textarea:focus-visible {
 .tablist button:hover {
   color: var(--pink);
 }
+.page-hero.with-art .boxed {
+  border-width: 2px;
+  padding-bottom: 0.75rem;
+  margin-left: -0.05rem;
+}
 .page-hero.with-art .hero-copy p {
-  max-width: 36.25rem;
+  max-width: 36.279375rem;
 }
 @media (min-width: 1600px) {
   :root {
     --gutter: max(5.0625rem, calc((100vw - 90rem) / 2 + 5.0625rem));
   }
 }
-@media (max-width: 1100px) {
-  .hero-art {
-    right: -6.25rem;
-  }
-}
+
 @media (min-width: 992px) {
   .page-hero.with-art .hero-copy {
     width: 50%;
@@ -437,23 +406,6 @@ textarea:focus-visible {
     margin-left: 0;
     margin-right: 0;
   }
-  .support {
-    padding: 3.5rem var(--gutter);
-    grid-template-columns: 43% 57%;
-  }
-  .support-copy {
-    padding: 1.25rem 1.5rem 1.25rem 0;
-  }
-  .support h2 {
-    font-size: 1.75rem;
-    line-height: 2.25rem;
-  }
-  .support-logos a {
-    padding: 0.75rem 0.25rem;
-  }
-  .support-logos img {
-    height: 7.5rem;
-  }
   .terminal pre {
     font-size: 0.875rem;
     line-height: 1.375rem;
@@ -484,7 +436,7 @@ textarea:focus-visible {
   .page-hero.with-art {
     height: 23.625rem;
     min-height: 23.625rem;
-    padding-top: 3.4375rem;
+    padding-top: 3.4668rem;
   }
   .page-hero.with-art .boxed {
     white-space: nowrap;
@@ -492,6 +444,9 @@ textarea:focus-visible {
     line-height: 1.9rem;
     padding-left: 0.8rem;
     padding-right: 0.8rem;
+    border-width: max(2px, 0.3125vw);
+    margin-left: -0.047rem;
+    padding-bottom: 0.63168rem;
   }
   .page-hero.with-art .hero-copy {
     width: 50%;
@@ -523,22 +478,26 @@ textarea:focus-visible {
     margin-top: 0.75rem;
   }
   .page-hero.with-art .hero-copy p {
-    font-size: 0.842187rem;
-    line-height: 1.263125rem;
-    margin-top: 1rem;
-    max-width: 18.75rem;
-    padding-left: 0.75rem;
+    font-size: 0.84192rem;
+    line-height: 1.26336rem;
+    margin: 0.80016rem 0 0.96rem 0.9129rem;
+    width: 18.54395rem;
+    max-width: 18.54395rem;
+    padding: 0;
   }
   .hero-art {
-    width: 23.625rem;
-    height: 23.625rem;
-    right: -0.25rem;
+    width: 50vw;
+    height: 49vw;
+    left: 50.075vw;
+    right: auto;
+    top: 0.224vw;
   }
   .hero-art.powered-art {
-    width: 29.375rem;
-    height: 25rem;
-    top: -1.5625rem;
-    right: -3.75rem;
+    width: 50vw;
+    height: 45vw;
+    left: 50.474vw;
+    right: auto;
+    top: 4.423vw;
   }
   .terminal.hero pre {
     font-size: 0.842187rem;
@@ -548,47 +507,12 @@ textarea:focus-visible {
   .terminal.hero .window-bar {
     height: 1.74125rem;
   }
-  .support {
-    height: 23.625rem;
-    min-height: 23.625rem;
-    display: block;
-    padding: 5.625rem calc(var(--gutter) + 1.5rem) 2.5rem;
-  }
-  .support-copy {
-    padding: 0;
-    margin-bottom: 2.5rem;
-  }
-  .support h2 {
-    font-size: 1.684375rem;
-    line-height: 1.894375rem;
-  }
-  .support p {
-    margin: 0.5rem 0 0;
-    font-size: 0.842187rem;
-    line-height: 1.263125rem;
-  }
-  .support-logos {
-    margin: 0 calc(-1 * var(--gutter));
-    gap: 0;
-  }
-  .support-logos a {
-    padding: 0 1.25rem;
-  }
-  .support-logos img {
-    height: 8.125rem;
-  }
   .terminal pre {
     font-size: 0.842187rem;
     line-height: 1.263125rem;
   }
   .window-bar {
     height: 1.74125rem;
-  }
-  .support:not(:has(.support-copy a)) {
-    padding-top: 6.375rem;
-  }
-  .support:has(.support-copy a) {
-    padding-top: 5.6875rem;
   }
   :root {
     --grid-dark: url('/assets/vector-grid-tablet.svg');
@@ -640,7 +564,7 @@ textarea:focus-visible {
     min-height: 0;
     height: 51.375rem;
     padding: 5rem 9.3vw 0;
-    padding-top: 5.5rem;
+    padding-top: 5.52539rem;
   }
   .page-hero.with-art p {
     font-size: 1rem;
@@ -655,38 +579,21 @@ textarea:focus-visible {
     width: 100%;
     height: 20rem;
     object-fit: cover;
-    object-position: top;
+    object-position: left center;
     margin-top: 2.5rem;
   }
   .hero-art.powered-art {
     right: auto;
     display: block;
-    object-position: top;
-    object-fit: contain;
+    object-position: left top;
+    object-fit: cover;
     position: absolute;
-    bottom: 0;
-    left: 0;
+    bottom: -0.01171875rem;
+    left: 8.89423vw;
     top: auto;
-    width: 100%;
-    height: 18.75rem;
+    width: 83.9383vw;
+    height: 65.998vw;
     margin: 0;
-  }
-  .support {
-    display: block;
-    height: 46.0625rem;
-    min-height: 46.0625rem;
-    padding: 9rem 11.2vw 5rem;
-    padding-top: 9.5625rem;
-  }
-  .support-copy {
-    padding: 0;
-    margin: 0;
-  }
-  .support-logos {
-    grid-template-columns: 1fr;
-    display: grid;
-    gap: 0;
-    margin-top: 7rem;
   }
   .terminal-body {
     padding: 0;
@@ -759,14 +666,14 @@ textarea:focus-visible {
     line-height: 2.08rem;
   }
   .page-hero.with-art .hero-copy {
-    width: 18.125rem;
+    width: 18.155rem;
     max-width: 100%;
   }
   .page-hero.with-art .hero-copy p {
     font-size: 1.04rem;
     line-height: 1.56rem;
-    margin-left: 0.5rem;
-    width: 18.125rem;
+    margin-left: 0.46375rem;
+    width: 18.155rem;
     max-width: 100%;
     margin-top: 0;
     margin-bottom: 1.04rem;
@@ -777,38 +684,17 @@ textarea:focus-visible {
   .page-hero.with-art .hero-art:not(.powered-art) {
     display: none;
   }
-  .support h2 {
-    font-size: 1.82rem;
-    line-height: 2.08rem;
-  }
-  .support p {
-    margin: 0.5rem 0 2rem;
-  }
-  .support-logos a {
-    padding: 0 19.5vw;
-    height: 5.2rem;
-  }
-  .support-logos img {
-    height: 5.2rem;
-  }
   .page-hero:not(.with-art):not(.center) {
     padding-top: 6.0625rem;
   }
   .page-hero.with-art .boxed {
-    margin-bottom: 0;
-  }
-  .support-copy p {
-    width: 18.75rem;
-    max-width: 100%;
-  }
-  .support:not(:has(.support-copy a)) {
-    padding-top: 11.3125rem;
-  }
-  .support:has(.support-copy a) {
-    padding-top: 9rem;
+    border: 0;
+    padding: 0.4875rem 0.40633rem;
+    margin-left: -0.02344rem;
+    margin-bottom: 0.40633rem;
   }
   .page-hero.with-art:has(.powered-art) {
-    padding-top: 5.8125rem;
+    padding-top: 5.82227rem;
   }
 }
 @media (max-width: 479px) {
@@ -833,7 +719,7 @@ textarea:focus-visible {
   .page-hero .boxed {
     font-size: 2.463084rem;
     line-height: 1.85235rem;
-    border: 2px solid var(--pink);
+    border: max(2px, 0.4vw) solid var(--pink);
     padding: 0.936rem 1.23154rem;
     width: fit-content;
   }
@@ -848,9 +734,9 @@ textarea:focus-visible {
     padding: 4rem 7.26vw;
   }
   .page-hero.center p {
-    font-size: 1.56rem;
-    line-height: 2.08rem;
-    margin-top: 1rem;
+    font-size: 1.3001rem;
+    line-height: 1.56rem;
+    margin-top: 2.4456rem;
   }
   .page-hero.with-art {
     padding: 4.75rem 7.54vw 1rem;
@@ -861,17 +747,22 @@ textarea:focus-visible {
   }
   .page-hero.with-art .hero-copy {
     width: 100%;
-    padding: 0 5.5vw 0 3.333vw;
+    padding: 0 5.636vw 0 3.333vw;
   }
   .page-hero.with-art .hero-copy p {
     width: 100%;
     padding: 0;
     margin-left: 0;
-    margin-top: 0.8rem;
+    margin-top: 0;
+    margin-bottom: 3.333vw;
+    font-size: 2.222vw;
+    line-height: 3.333vw;
   }
   .page-hero.with-art .boxed {
     margin-left: -0.936rem;
-    padding-inline: 0.78rem;
+    margin-bottom: 0.78rem;
+    border: max(2px, 0.4vw) solid var(--pink);
+    padding: 0.936rem 0.78rem;
   }
   .page-hero.with-art:has(.powered-art) {
     height: 52.45rem;
@@ -880,33 +771,11 @@ textarea:focus-visible {
   .hero-art.powered-art {
     left: 7.26vw;
     width: 85.48vw;
-    height: auto;
+    height: 69.2vw;
+    bottom: 0;
   }
   .terminal-body {
     padding: 0.78rem 1.248rem;
-  }
-  .support {
-    height: auto;
-    min-height: 28.2rem;
-    padding: 4.21rem 7.26vw;
-  }
-  .support:not(:has(.support-copy a)),
-  .support:has(.support-copy a) {
-    padding-top: 4.21rem;
-  }
-  .support-copy p {
-    width: 100%;
-  }
-  .support-logos {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    margin-top: 4rem;
-  }
-  .support-logos a {
-    height: 8rem;
-    padding: 0 0.9rem;
-  }
-  .support-logos img {
-    height: 8rem;
   }
 }
 @media (prefers-reduced-motion: reduce) {
