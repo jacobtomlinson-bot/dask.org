@@ -113,19 +113,26 @@ Astro allows only one preview per checkout. `npm test` starts/stops its own prev
 
 `evidence/round6/gallery.html` preserves the fully traversed18 route-width pairs and the round6 residual table is retained in Git history. The previously reported390px home/brand/press height gaps became−2/0/−1px. That round's67-group test run and prior independent acceptance are historical, not an exact-fidelity claim or approval of the latest SHA. Current targeted findings/results follow below.
 
-## Current round 7 — Brand Tone composition
+## Current round 8 — paper surfaces and rail fidelity
 
-`src/styles/tone.css` is the single owner of the tone section. Effective text tracks, insets and paragraph/example rhythm have distinct desktop/tablet/landscape rules; accepted390/479 phone rules are isolated. There is no tone section height/min-height or overflow masking. The six original semantic example breaks are unchanged. Other production routes/components are unchanged this round.
+`src/styles/tone.css` keeps the accepted text tracks and intrinsic paragraph flow. Decorative paper surfaces now extend through their observed padding; the desktop short sheet follows the observed40% row proportion. These are background paint layers, not content clipping or section-height masks. All90 paragraph line arrays remain equal to the fresh reference.
 
-The full runner now has **68 outer groups**, including `scripts/round7-checks.mjs`. The new suite compares both text-content columns and every paragraph's viewport-x/section-relative-y/width/height, plus the exact rendered line text, at390/479/480/601/767/768/769/991/992/1440. At480 and above the largest measured coordinate/size error is0.0625px, all paragraph heights and line text match;390/479 bounds remain unchanged from the accepted local baseline. These are composition measurements, not a whole-site pixel-equivalence claim.
+The brand rail now uses measured control dimensions, spacing, icon boxes and settled active/hover colors. Narrow phones retain80px bars and52px controls, with viewport-relative internal padding; landscape has independent fluid controls. The native brush contour was refined from rendered artwork inspection, not copied SVG paths. Active-section observation and keyboard/anchor behavior are retained.
+
+The full runner has **69 outer groups**, including ten new paper/rail groups with actual foreground/paper pixel checks, all90 exact paragraph line arrays, all80 paper boundary coordinates and all320 rail control/icon coordinates at390/479/480/601/767/768/769/991/992/1440. Prior geometry, safe forms, all-state actions, palette, motion and overflow suites remain included.
 
 With a local production server on4321:
 
 ```sh
-node scripts/round7-reference.mjs # fresh GET/HEAD-only original measurements/crops
-node scripts/round7-checks.mjs    # included in npm test; no original network dependency
-node scripts/round7-gallery.mjs   # viewport-aligned pairs and diagnostic pixel differences
-node scripts/report.mjs          # current review summary from saved final results
+node scripts/round8-reference.mjs      # fresh read-only original paper/text evidence
+node scripts/round8-rail-reference.mjs # fresh original rail dimensions/crops
+node scripts/round8-checks.mjs         # fixture-backed, included in npm test
+node scripts/round8-gallery.mjs        # ten viewport-aligned Tone pairs
+WIDTHS=390,768,1440 node scripts/round8-capture.mjs # all18 original/native pairs
+node scripts/round8-compare.mjs
+node scripts/round8-icons.mjs          # 8x rendered contour diagnostics
+node scripts/round8-icon-metrics.mjs
+node scripts/report.mjs
 ```
 
-Current report: `evidence/REVIEW.md`; ten inspected original-left/native-right pairs: `evidence/round7/gallery.html`; fresh source geometry: `evidence/round7/reference.json`; per-paragraph/column results: `evidence/round7/checks.json`. Earlier round6 evidence stays historical. Native paper-panel paint extents/dot phase and rasterization may still differ; original normal-motion and native reduced-motion captures are not synchronized. No forms, redirects, dependencies, deployment or remote publication changed. Main must obtain the same tester's verdict on the exact new signed SHA before local integration.
+Current report: `evidence/REVIEW.md`. Fresh fully traversed18 page comparisons: `evidence/round8/gallery.html`. Focused ten-width paper/rail results: `evidence/round8/checks.json`; Tone pairs: `evidence/round8/tone-gallery.html`. Historical round6/7 evidence stays historical. Exact equivalence is still not certified: independently drawn icon contours, other paper boundaries, tiny upstream text/section offsets and unsynchronized native animation can differ. See the explicit residual inventory in the report. No backend, redirect destination, dependency, deployment or remote publication changed. Main obtains the same tester's verdict on the exact signed SHA before further local integration.

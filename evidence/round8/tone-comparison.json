@@ -1,0 +1,62 @@
+[
+  {
+    "width": 390,
+    "maxParagraphError": 0.21875,
+    "maxPaintError": 0.125,
+    "pixelDifferencePercent": 0.8533343912405283
+  },
+  {
+    "width": 479,
+    "maxParagraphError": 0.21875,
+    "maxPaintError": 0.125,
+    "pixelDifferencePercent": 4.382357616223363
+  },
+  {
+    "width": 480,
+    "maxParagraphError": 0.0625,
+    "maxPaintError": 0.06200000000001182,
+    "pixelDifferencePercent": 6.7327929465301475
+  },
+  {
+    "width": 601,
+    "maxParagraphError": 0.015625,
+    "maxPaintError": 0.016000000000019554,
+    "pixelDifferencePercent": 0.4467397105453176
+  },
+  {
+    "width": 767,
+    "maxParagraphError": 0.015625,
+    "maxPaintError": 0.015625,
+    "pixelDifferencePercent": 1.3553082037982667
+  },
+  {
+    "width": 768,
+    "maxParagraphError": 0.015625,
+    "maxPaintError": 0.01587499999999409,
+    "pixelDifferencePercent": 1.921403932652565
+  },
+  {
+    "width": 769,
+    "maxParagraphError": 0.015625,
+    "maxPaintError": 0.015750000000025466,
+    "pixelDifferencePercent": 1.9819575610292417
+  },
+  {
+    "width": 991,
+    "maxParagraphError": 0.03125,
+    "maxPaintError": 0.031375000000025466,
+    "pixelDifferencePercent": 0.8904233120710832
+  },
+  {
+    "width": 992,
+    "maxParagraphError": 0,
+    "maxPaintError": 0.04737499999998818,
+    "pixelDifferencePercent": 1.1882803632236096
+  },
+  {
+    "width": 1440,
+    "maxParagraphError": 0,
+    "maxPaintError": 0.07437499999991815,
+    "pixelDifferencePercent": 2.286124152321335
+  }
+]

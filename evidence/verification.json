@@ -1,15 +1,18 @@
 {
-  "round": 7,
+  "round": 8,
   "card": "549aad55-ef02-4222-a004-0df05ae01ca1",
+  "parent": "139c646ca9a239ee6546e3ff0b9a799ee43ec574",
+  "outcome": "ready_for_review",
   "tests": {
-    "passed": 68,
+    "passed": 69,
     "failed": 0,
     "countsAreNested": true
   },
-  "toneViewports": 10,
-  "toneParagraphs": 90,
-  "allRenderedLinesMatch": true,
-  "maxTargetGeometryError": 0.0625,
+  "surfaceViewports": 10,
+  "exactParagraphLineArrays": 90,
+  "maxPaperBoundError": 0.125,
+  "maxRailBoundError": 0.046875,
+  "canonicalPairs": 18,
   "vulnerabilities": {
     "info": 0,
     "low": 0,
@@ -18,7 +21,6 @@
     "critical": 0,
     "total": 0
   },
-  "publication": "local only; main/card unchanged; no remote, push, PR or deployment",
   "runtime": [
     {
       "file": "Site.astro_astro_type_script_index_0_lang.D-xN2kwc.js",
@@ -31,9 +33,9 @@
       "gzipBytes": 5146
     },
     {
-      "file": "brand-guide.Bk38jeQ2.css",
-      "bytes": 13134,
-      "gzipBytes": 2840
+      "file": "brand-guide.DGPoGv0L.css",
+      "bytes": 14269,
+      "gzipBytes": 3193
     },
     {
       "file": "get-started.CBjDD-K6.css",
@@ -50,5 +52,7 @@
       "bytes": 6115,
       "gzipBytes": 1409
     }
-  ]
+  ],
+  "exactEquivalenceCertified": false,
+  "publication": "local only; same tester must review new signed SHA; main/card not mutated"
 }

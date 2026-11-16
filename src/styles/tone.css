@@ -1,9 +1,22 @@
 /* Tone owns its actual text tracks and flow; no fixed or minimum section heights. */
 .brand-tone {
+  position: relative;
+  isolation: isolate;
   background-color: #f6f6f6;
 }
 .brand-tone > div {
+  position: relative;
+  isolation: isolate;
   background-color: #f6f6f6;
+}
+/* Paper is a paint layer, independent of the accepted text flow. It does not
+   clip content or impose section heights. Insets follow the observed gutters. */
+.brand-tone > div::before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  pointer-events: none;
+  background: #f6f6f6;
 }
 /* Effective insets combine the observed outer gutter and paper-panel padding.
    At 1440: two 523px text columns separated by 116px. */
@@ -14,6 +27,26 @@
     align-items: start;
     gap: 7.25rem;
     padding: 12.3965rem 8.6875rem 6rem 3.625rem;
+  }
+  /* Desktop paper tracks: the short introductory sheet occupies 40% of
+     the content row; the long sheet follows the complete intrinsic section. */
+  .brand-tone::before,
+  .brand-tone::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    top: 5.125rem;
+    width: calc(50vw - 5.3125rem);
+    background: #f6f6f6;
+    pointer-events: none;
+  }
+  .brand-tone::before {
+    left: 0.125rem;
+    height: calc(40% - 4rem);
+  }
+  .brand-tone::after {
+    right: 5.1875rem;
+    bottom: 5.125rem;
   }
   .brand-tone > div {
     display: flow-root;
@@ -39,6 +72,7 @@
     line-height: 1.5003rem;
   }
 }
+
 /* At 768: two approximately 264.7px text tracks; the reserved rail is separate. */
 @media (min-width: 768px) and (max-width: 991px) {
   .brand-tone {
@@ -51,6 +85,9 @@
   }
   .brand-tone > div {
     display: flow-root;
+  }
+  .brand-tone > div::before {
+    inset: -3.8784rem -1.86672rem -3.8784rem -1.92rem;
   }
   .brand-tone > div:nth-child(2) {
     padding-top: 1.2rem;
@@ -83,6 +120,12 @@
   .brand-tone > div {
     display: flow-root;
   }
+  .brand-tone > div::before {
+    inset: 0 -1.820052rem 0 -1.559844rem;
+  }
+  .brand-tone > div:first-child::before {
+    top: -3.276rem;
+  }
   .brand-tone > div:nth-child(2) {
     padding-top: 1.17rem;
   }
@@ -110,6 +153,9 @@
   .brand-tone > div {
     margin-inline: 0.0339rem;
     padding-inline: 0.81242rem 0.94794rem;
+  }
+  .brand-tone > div::before {
+    inset: 0 0 -1.04rem;
   }
   .brand-tone > div:first-child {
     padding: 1.7rem 0.94794rem 0 0.81242rem;

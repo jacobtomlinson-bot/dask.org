@@ -1,0 +1,6 @@
+
+> format:check
+> prettier --check src scripts astro.config.mjs package.json README.md
+
+Checking formatting...
+All matched files use Prettier code style!

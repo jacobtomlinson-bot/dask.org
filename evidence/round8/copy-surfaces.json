@@ -1,0 +1,4928 @@
+[
+  {
+    "width": 390,
+    "slug": "brand-guide",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box powered",
+          "text": "Brand Guide",
+          "r": {
+            "x": 35.890625,
+            "y": 173.40625,
+            "width": 290.484375,
+            "height": 59.28125,
+            "top": 173.40625,
+            "right": 326.375,
+            "bottom": 232.6875,
+            "left": 35.890625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "7.8px 6.5013px",
+            "margin": "0px 0px 6.5013px -7.8px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "43.68px",
+            "fontSize": "37.44px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-text powered",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 30.703125,
+            "y": 173.40625,
+            "width": 324.90625,
+            "height": 381.859375,
+            "top": 173.40625,
+            "right": 355.609375,
+            "bottom": 555.265625,
+            "left": 30.703125
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 21.45px 0px 12.9987px",
+            "margin": "0px 0.5421px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container-text br-guide",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 30.703125,
+            "y": 173.40625,
+            "width": 325.4375,
+            "height": 401.6875,
+            "top": 173.40625,
+            "right": 356.140625,
+            "bottom": 575.09375,
+            "left": 30.703125
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "6.24px 1.0842px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container brand-g",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 29.625,
+            "y": 85.28125,
+            "width": 327.59375,
+            "height": 489.8125,
+            "top": 85.28125,
+            "right": 357.21875,
+            "bottom": 575.09375,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "81.9px 0px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-columns br-guide",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 29.625,
+            "y": 85.28125,
+            "width": 327.59375,
+            "height": 491.890625,
+            "top": 85.28125,
+            "right": 357.21875,
+            "bottom": 577.171875,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "grid",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 390,
+    "slug": "brand-guide",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Brand Guide",
+          "r": {
+            "x": 36.265625,
+            "y": 173,
+            "width": 290,
+            "height": 59.28125,
+            "top": 173,
+            "right": 326.265625,
+            "bottom": 232.28125,
+            "left": 36.265625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "7.8px 0px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "43.68px",
+            "fontSize": "37.44px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 36.265625,
+            "y": 173,
+            "width": 290,
+            "height": 375.34375,
+            "top": 173,
+            "right": 326.265625,
+            "bottom": 548.34375,
+            "left": 36.265625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 491,
+            "top": 85,
+            "right": 390,
+            "bottom": 576,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "88px 36.27px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 5712.90625,
+            "top": 85,
+            "right": 390,
+            "bottom": 5797.90625,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 6944.90625,
+            "top": 0,
+            "right": 390,
+            "bottom": 6944.90625,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "This site includes both resources and guidelines for presenting and co",
+          "r": {
+            "x": 44.265625,
+            "y": 232.28125,
+            "width": 290,
+            "height": 199.625,
+            "top": 232.28125,
+            "right": 334.265625,
+            "bottom": 431.90625,
+            "left": 44.265625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px 0px 16.64px 8px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 36.265625,
+            "y": 173,
+            "width": 290,
+            "height": 375.34375,
+            "top": 173,
+            "right": 326.265625,
+            "bottom": 548.34375,
+            "left": 36.265625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 491,
+            "top": 85,
+            "right": 390,
+            "bottom": 576,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "88px 36.27px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 5712.90625,
+            "top": 85,
+            "right": 390,
+            "bottom": 5797.90625,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 6944.90625,
+            "top": 0,
+            "right": 390,
+            "bottom": 6944.90625,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 390,
+    "slug": "powered-by",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box powered",
+          "text": "Powered by",
+          "r": {
+            "x": 35.890625,
+            "y": 178.15625,
+            "width": 290.484375,
+            "height": 59.28125,
+            "top": 178.15625,
+            "right": 326.375,
+            "bottom": 237.4375,
+            "left": 35.890625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "7.8px 6.5013px",
+            "margin": "0px 0px 6.5013px -7.8px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "43.68px",
+            "fontSize": "37.44px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-text powered",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 30.703125,
+            "y": 178.15625,
+            "width": 324.90625,
+            "height": 340.265625,
+            "top": 178.15625,
+            "right": 355.609375,
+            "bottom": 518.421875,
+            "left": 30.703125
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 21.45px 0px 12.9987px",
+            "margin": "0px 0.5421px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container-text powered-by",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 30.703125,
+            "y": 171.921875,
+            "width": 325.4375,
+            "height": 401.6875,
+            "top": 171.921875,
+            "right": 356.140625,
+            "bottom": 573.609375,
+            "left": 30.703125
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "6.24px 0px 0px",
+            "margin": "0.8541px 1.0842px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 29.625,
+            "y": 85.28125,
+            "width": 327.59375,
+            "height": 574.125,
+            "top": 85.28125,
+            "right": 357.21875,
+            "bottom": 659.40625,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "85.8px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-columns powered",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 29.625,
+            "y": 85.28125,
+            "width": 327.59375,
+            "height": 821.90625,
+            "top": 85.28125,
+            "right": 357.21875,
+            "bottom": 907.1875,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "grid",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 390,
+    "slug": "powered-by",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Powered by",
+          "r": {
+            "x": 36.265625,
+            "y": 178,
+            "width": 290,
+            "height": 59.28125,
+            "top": 178,
+            "right": 326.265625,
+            "bottom": 237.28125,
+            "left": 36.265625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "7.8px 0px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "43.68px",
+            "fontSize": "37.44px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 36.265625,
+            "y": 178,
+            "width": 290,
+            "height": 333.765625,
+            "top": 178,
+            "right": 326.265625,
+            "bottom": 511.765625,
+            "left": 36.265625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 822,
+            "top": 85,
+            "right": 390,
+            "bottom": 907,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "93px 36.27px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 12473,
+            "top": 85,
+            "right": 390,
+            "bottom": 12558,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 13705,
+            "top": 0,
+            "right": 390,
+            "bottom": 13705,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "Dask is an open-source project, which means there are a lot of people ",
+          "r": {
+            "x": 44.265625,
+            "y": 237.28125,
+            "width": 290,
+            "height": 274.484375,
+            "top": 237.28125,
+            "right": 334.265625,
+            "bottom": 511.765625,
+            "left": 44.265625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px 0px 16.64px 8px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 36.265625,
+            "y": 178,
+            "width": 290,
+            "height": 333.765625,
+            "top": 178,
+            "right": 326.265625,
+            "bottom": 511.765625,
+            "left": 36.265625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 822,
+            "top": 85,
+            "right": 390,
+            "bottom": 907,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "93px 36.27px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 12473,
+            "top": 85,
+            "right": 390,
+            "bottom": 12558,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 13705,
+            "top": 0,
+            "right": 390,
+            "bottom": 13705,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 390,
+    "slug": "get-help",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box",
+          "text": "Get Help",
+          "r": {
+            "x": 29.625,
+            "y": 182.375,
+            "width": 330.75,
+            "height": 59.28125,
+            "top": 182.375,
+            "right": 360.375,
+            "bottom": 241.65625,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "7.8px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "43.68px",
+            "fontSize": "37.44px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container heading-only",
+          "text": "Get Help",
+          "r": {
+            "x": 29.625,
+            "y": 85.28125,
+            "width": 330.75,
+            "height": 245.6875,
+            "top": 85.28125,
+            "right": 360.375,
+            "bottom": 330.96875,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "85.8px 0px 78px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "section-responsive bg-black get-started",
+          "text": "Get Help",
+          "r": {
+            "x": 0,
+            "y": 85.28125,
+            "width": 390,
+            "height": 245.6875,
+            "top": 85.28125,
+            "right": 390,
+            "bottom": 330.96875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px 29.64px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Get Started.cls-1{fill:#ebeaee;}Community.cls-1{fill:#ebeaee;}Communit",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 3765.875,
+            "top": 0,
+            "right": 390,
+            "bottom": 3765.875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "HTML",
+          "cls": "w-mod-js w-mod-ix wf-inconsolata-n7-active wf-inconsolata-n4-active wf-active",
+          "text": ".wf-force-outline-none[tabindex=\"-1\"]:focus{outline:none;}Dask Help | ",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 1000,
+            "top": 0,
+            "right": 390,
+            "bottom": 1000,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "normal",
+            "fontSize": "16px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "We welcome usage questions and bug reports from all users, even those ",
+          "r": {
+            "x": 44.078125,
+            "y": 516.109375,
+            "width": 298.46875,
+            "height": 149.71875,
+            "top": 516.109375,
+            "right": 342.546875,
+            "bottom": 665.828125,
+            "left": 44.078125
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px 0px 16.6413px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.6413px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "mar-top-medium",
+          "text": "We welcome usage questions and bug reports from all users, even those ",
+          "r": {
+            "x": 44.078125,
+            "y": 516.109375,
+            "width": 298.46875,
+            "height": 149.71875,
+            "top": 516.109375,
+            "right": 342.546875,
+            "bottom": 665.828125,
+            "left": 44.078125
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "19.5px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "gh-text",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 44.078125,
+            "y": 459.171875,
+            "width": 298.46875,
+            "height": 223.296875,
+            "top": 459.171875,
+            "right": 342.546875,
+            "bottom": 682.46875,
+            "left": 44.078125
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "get-help-left",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 31.09375,
+            "y": 416.28125,
+            "width": 324.4375,
+            "height": 404.03125,
+            "top": 416.28125,
+            "right": 355.53125,
+            "bottom": 820.3125,
+            "left": 31.09375
+          },
+          "style": {
+            "backgroundColor": "rgb(246, 246, 246)",
+            "padding": "42.9px 12.9987px 0px",
+            "margin": "1.0842px 2.0787px 2.1684px 1.0842px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "grid get-help-p",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 30.015625,
+            "y": 415.203125,
+            "width": 327.59375,
+            "height": 1384.609375,
+            "top": 415.203125,
+            "right": 357.609375,
+            "bottom": 1799.8125,
+            "left": 30.015625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "84.24px 0px 81.9px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 390,
+    "slug": "get-help",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Get Help",
+          "r": {
+            "x": 29.625,
+            "y": 182,
+            "width": 330.75,
+            "height": 59.28125,
+            "top": 182,
+            "right": 360.375,
+            "bottom": 241.28125,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "7.8px 0px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "43.68px",
+            "fontSize": "37.44px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Get Help",
+          "r": {
+            "x": 29.625,
+            "y": 182,
+            "width": 330.75,
+            "height": 59.28125,
+            "top": 182,
+            "right": 360.375,
+            "bottom": 241.28125,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid",
+          "text": "Get Help",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 246,
+            "top": 85,
+            "right": 390,
+            "bottom": 331,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "97px 29.64px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get HelpAsking for helpWe welcome usage questions and bug reports from",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 2534,
+            "top": 85,
+            "right": 390,
+            "bottom": 2619,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 3766,
+            "top": 0,
+            "right": 390,
+            "bottom": 3766,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "We welcome usage questions and bug reports from all users, even those ",
+          "r": {
+            "x": 43.671875,
+            "y": 520.4375,
+            "width": 298,
+            "height": 149.71875,
+            "top": 520.4375,
+            "right": 341.671875,
+            "bottom": 670.15625,
+            "left": 43.671875
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "20px 0px 50px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "help-intro",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 43.671875,
+            "y": 459,
+            "width": 302.65625,
+            "height": 325.15625,
+            "top": 459,
+            "right": 346.328125,
+            "bottom": 784.15625,
+            "left": 43.671875
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "help-content light-grid",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 0,
+            "y": 331,
+            "width": 390,
+            "height": 1551,
+            "top": 331,
+            "right": 390,
+            "bottom": 1882,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(245, 247, 245)",
+            "padding": "128px 43.68px 72px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get HelpAsking for helpWe welcome usage questions and bug reports from",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 2534,
+            "top": 85,
+            "right": 390,
+            "bottom": 2619,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 3766,
+            "top": 0,
+            "right": 390,
+            "bottom": 3766,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 390,
+    "slug": "get-started",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box",
+          "text": "Get Started with Dask",
+          "r": {
+            "x": 29.625,
+            "y": 155.46875,
+            "width": 330.75,
+            "height": 102.96875,
+            "top": 155.46875,
+            "right": 360.375,
+            "bottom": 258.4375,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "7.8px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "43.68px",
+            "fontSize": "37.44px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container center",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 29.625,
+            "y": 85.28125,
+            "width": 330.75,
+            "height": 329.140625,
+            "top": 85.28125,
+            "right": 360.375,
+            "bottom": 414.421875,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "70.2px 0px 81.9px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "section-responsive bg-black get-started",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 85.28125,
+            "width": 390,
+            "height": 1063.171875,
+            "top": 85.28125,
+            "right": 390,
+            "bottom": 1148.453125,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px 29.64px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Get Started.cls-1{fill:#ebeaee;}Community.cls-1{fill:#ebeaee;}Communit",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 7137.203125,
+            "top": 0,
+            "right": 390,
+            "bottom": 7137.203125,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "HTML",
+          "cls": "w-mod-js w-mod-ix wf-inconsolata-n7-active wf-inconsolata-n4-active wf-active",
+          "text": ".wf-force-outline-none[tabindex=\"-1\"]:focus{outline:none;}Dask | Get S",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 1000,
+            "top": 0,
+            "right": 390,
+            "bottom": 1000,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "normal",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 390,
+    "slug": "get-started",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Get Started with Dask",
+          "r": {
+            "x": 29.625,
+            "y": 155,
+            "width": 330.75,
+            "height": 102.96875,
+            "top": 155,
+            "right": 360.375,
+            "bottom": 257.96875,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "7.8px 0px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "43.68px",
+            "fontSize": "37.44px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 29.625,
+            "y": 155,
+            "width": 330.75,
+            "height": 169.53125,
+            "top": 155,
+            "right": 360.375,
+            "bottom": 324.53125,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid center",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 316,
+            "top": 85,
+            "right": 390,
+            "bottom": 401,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "70px 29.64px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "get-started-intro dark-grid",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 1063,
+            "top": 85,
+            "right": 390,
+            "bottom": 1148,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 5904,
+            "top": 85,
+            "right": 390,
+            "bottom": 5989,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "Ready to dive in? We’re here to help.",
+          "r": {
+            "x": 29.625,
+            "y": 257.96875,
+            "width": 330.75,
+            "height": 66.5625,
+            "top": 257.96875,
+            "right": 360.375,
+            "bottom": 324.53125,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "33.28px",
+            "fontSize": "24.96px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 29.625,
+            "y": 155,
+            "width": 330.75,
+            "height": 169.53125,
+            "top": 155,
+            "right": 360.375,
+            "bottom": 324.53125,
+            "left": 29.625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid center",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 316,
+            "top": 85,
+            "right": 390,
+            "bottom": 401,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "70px 29.64px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "get-started-intro dark-grid",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 1063,
+            "top": 85,
+            "right": 390,
+            "bottom": 1148,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 85,
+            "width": 390,
+            "height": 5904,
+            "top": 85,
+            "right": 390,
+            "bottom": 5989,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.96px",
+            "fontSize": "16.64px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 768,
+    "slug": "brand-guide",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box powered",
+          "text": "Brand Guide",
+          "r": {
+            "x": 55.3125,
+            "y": 135.46875,
+            "width": 267.59375,
+            "height": 54.578125,
+            "top": 135.46875,
+            "right": 322.90625,
+            "bottom": 190.046875,
+            "left": 55.3125
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "10.1069px 12.8026px",
+            "margin": "-1.68192px 0px 12.8026px -15.36px",
+            "display": "inline-block",
+            "position": "static",
+            "lineHeight": "30.3974px",
+            "fontSize": "40.4198px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-text powered",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 57.875,
+            "y": 137.140625,
+            "width": 322.296875,
+            "height": 283.25,
+            "top": 137.140625,
+            "right": 380.171875,
+            "bottom": 420.390625,
+            "left": 57.875
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 12.8026px",
+            "margin": "0px 1.06752px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container-text br-guide",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 57.875,
+            "y": 137.140625,
+            "width": 323.359375,
+            "height": 319.21875,
+            "top": 137.140625,
+            "right": 381.234375,
+            "bottom": 456.359375,
+            "left": 57.875
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "1.68192px 1.68192px 1.68192px 2.13504px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container brand-g",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 55.75,
+            "y": 81.71875,
+            "width": 327.15625,
+            "height": 376.3125,
+            "top": 81.71875,
+            "right": 382.90625,
+            "bottom": 458.03125,
+            "left": 55.75
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "53.76px 0px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-columns br-guide",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 55.75,
+            "y": 81.71875,
+            "width": 656.5,
+            "height": 376.3125,
+            "top": 81.71875,
+            "right": 712.25,
+            "bottom": 458.03125,
+            "left": 55.75
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "1.68192px 0px 0px",
+            "display": "grid",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 768,
+    "slug": "brand-guide",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Brand Guide",
+          "r": {
+            "x": 56.0625,
+            "y": 135,
+            "width": 265.59375,
+            "height": 56.5,
+            "top": 135,
+            "right": 321.65625,
+            "bottom": 191.5,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "10.1px 12.8px 14px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "30.4px",
+            "fontSize": "40.42px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 56.0625,
+            "y": 135,
+            "width": 327.9375,
+            "height": 269,
+            "top": 135,
+            "right": 384,
+            "bottom": 404,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 378,
+            "top": 80,
+            "right": 768,
+            "bottom": 458,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "55px 56.064px 54px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 3489.296875,
+            "top": 80,
+            "right": 768,
+            "bottom": 3569.296875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 4217.296875,
+            "top": 0,
+            "right": 768,
+            "bottom": 4217.296875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "This site includes both resources and guidelines for presenting and co",
+          "r": {
+            "x": 56.0625,
+            "y": 207.5,
+            "width": 300,
+            "height": 141.421875,
+            "top": 207.5,
+            "right": 356.0625,
+            "bottom": 348.921875,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 0px 0px 12px",
+            "margin": "16px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 56.0625,
+            "y": 135,
+            "width": 327.9375,
+            "height": 269,
+            "top": 135,
+            "right": 384,
+            "bottom": 404,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 378,
+            "top": 80,
+            "right": 768,
+            "bottom": 458,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "55px 56.064px 54px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 3489.296875,
+            "top": 80,
+            "right": 768,
+            "bottom": 3569.296875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 4217.296875,
+            "top": 0,
+            "right": 768,
+            "bottom": 4217.296875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 768,
+    "slug": "powered-by",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box powered",
+          "text": "Powered by",
+          "r": {
+            "x": 55.3125,
+            "y": 135.46875,
+            "width": 256.59375,
+            "height": 54.578125,
+            "top": 135.46875,
+            "right": 311.90625,
+            "bottom": 190.046875,
+            "left": 55.3125
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "10.1069px 12.8026px",
+            "margin": "-1.68192px 0px 12.8026px -15.36px",
+            "display": "inline-block",
+            "position": "static",
+            "lineHeight": "30.3974px",
+            "fontSize": "40.4198px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-text powered",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 57.875,
+            "y": 137.140625,
+            "width": 322.296875,
+            "height": 227.453125,
+            "top": 137.140625,
+            "right": 380.171875,
+            "bottom": 364.59375,
+            "left": 57.875
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 12.8026px",
+            "margin": "0px 1.06752px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container-text powered-by",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 57.875,
+            "y": 137.140625,
+            "width": 323.359375,
+            "height": 265.46875,
+            "top": 137.140625,
+            "right": 381.234375,
+            "bottom": 402.609375,
+            "left": 57.875
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "1.68192px 1.68192px 1.68192px 2.13504px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 55.75,
+            "y": 81.71875,
+            "width": 327.15625,
+            "height": 376.3125,
+            "top": 81.71875,
+            "right": 382.90625,
+            "bottom": 458.03125,
+            "left": 55.75
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "53.76px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-columns powered",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 55.75,
+            "y": 81.71875,
+            "width": 656.5,
+            "height": 376.3125,
+            "top": 81.71875,
+            "right": 712.25,
+            "bottom": 458.03125,
+            "left": 55.75
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "1.68192px 0px 0px",
+            "display": "grid",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 768,
+    "slug": "powered-by",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Powered by",
+          "r": {
+            "x": 56.0625,
+            "y": 135,
+            "width": 254.59375,
+            "height": 56.5,
+            "top": 135,
+            "right": 310.65625,
+            "bottom": 191.5,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "10.1px 12.8px 14px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "30.4px",
+            "fontSize": "40.42px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 56.0625,
+            "y": 135,
+            "width": 327.9375,
+            "height": 269,
+            "top": 135,
+            "right": 384,
+            "bottom": 404,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 378,
+            "top": 80,
+            "right": 768,
+            "bottom": 458,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "55px 56.064px 54px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 3749,
+            "top": 80,
+            "right": 768,
+            "bottom": 3829,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 4477,
+            "top": 0,
+            "right": 768,
+            "bottom": 4477,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "Dask is an open-source project, which means there are a lot of people ",
+          "r": {
+            "x": 56.0625,
+            "y": 207.5,
+            "width": 300,
+            "height": 161.625,
+            "top": 207.5,
+            "right": 356.0625,
+            "bottom": 369.125,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 0px 0px 12px",
+            "margin": "16px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 56.0625,
+            "y": 135,
+            "width": 327.9375,
+            "height": 269,
+            "top": 135,
+            "right": 384,
+            "bottom": 404,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 378,
+            "top": 80,
+            "right": 768,
+            "bottom": 458,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "55px 56.064px 54px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 3749,
+            "top": 80,
+            "right": 768,
+            "bottom": 3829,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 4477,
+            "top": 0,
+            "right": 768,
+            "bottom": 4477,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 768,
+    "slug": "get-help",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box",
+          "text": "Get Help",
+          "r": {
+            "x": 55.75,
+            "y": 133.796875,
+            "width": 213.40625,
+            "height": 54.578125,
+            "top": 133.796875,
+            "right": 269.15625,
+            "bottom": 188.375,
+            "left": 55.75
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "10.1069px 20.2138px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "30.3974px",
+            "fontSize": "40.4198px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container heading-only",
+          "text": "Get Help",
+          "r": {
+            "x": 55.75,
+            "y": 80.046875,
+            "width": 656.5,
+            "height": 162.078125,
+            "top": 80.046875,
+            "right": 712.25,
+            "bottom": 242.125,
+            "left": 55.75
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "53.76px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "section-responsive bg-black get-started",
+          "text": "Get Help",
+          "r": {
+            "x": 0,
+            "y": 80.046875,
+            "width": 768,
+            "height": 162.078125,
+            "top": 80.046875,
+            "right": 768,
+            "bottom": 242.125,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px 55.7568px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Get Started.cls-1{fill:#ebeaee;}Community.cls-1{fill:#ebeaee;}Communit",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 2079.234375,
+            "top": 0,
+            "right": 768,
+            "bottom": 2079.234375,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "HTML",
+          "cls": "w-mod-js w-mod-ix wf-inconsolata-n7-active wf-inconsolata-n4-active wf-active",
+          "text": ".wf-force-outline-none[tabindex=\"-1\"]:focus{outline:none;}Dask Help | ",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 1000,
+            "top": 0,
+            "right": 768,
+            "bottom": 1000,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "normal",
+            "fontSize": "16px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "We welcome usage questions and bug reports from all users, even those ",
+          "r": {
+            "x": 88.59375,
+            "y": 431.796875,
+            "width": 191.15625,
+            "height": 161.75,
+            "top": 431.796875,
+            "right": 279.75,
+            "bottom": 593.546875,
+            "left": 88.59375
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px 0px 15.36px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2138px",
+            "fontSize": "13.4707px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "mar-top-medium",
+          "text": "We welcome usage questions and bug reports from all users, even those ",
+          "r": {
+            "x": 88.59375,
+            "y": 431.796875,
+            "width": 191.15625,
+            "height": 161.75,
+            "top": 431.796875,
+            "right": 279.75,
+            "bottom": 593.546875,
+            "left": 88.59375
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "19.2px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "gh-text",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 88.59375,
+            "y": 341.890625,
+            "width": 191.15625,
+            "height": 267.015625,
+            "top": 341.890625,
+            "right": 279.75,
+            "bottom": 608.90625,
+            "left": 88.59375
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "get-help-left",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 57.875,
+            "y": 299.234375,
+            "width": 268.796875,
+            "height": 698.890625,
+            "top": 299.234375,
+            "right": 326.671875,
+            "bottom": 998.125,
+            "left": 57.875
+          },
+          "style": {
+            "backgroundColor": "rgb(246, 246, 246)",
+            "padding": "42.6701px 46.9325px 0px 30.72px",
+            "margin": "1.68192px 1.06752px 0px 2.13504px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "grid get-help-p",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 55.75,
+            "y": 297.5625,
+            "width": 652.796875,
+            "height": 700.5625,
+            "top": 297.5625,
+            "right": 708.546875,
+            "bottom": 998.125,
+            "left": 55.75
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "55.4496px 0px 54.6816px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 768,
+    "slug": "get-help",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Get Help",
+          "r": {
+            "x": 56.0625,
+            "y": 134,
+            "width": 211.375,
+            "height": 56.5,
+            "top": 134,
+            "right": 267.4375,
+            "bottom": 190.5,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "10.1px 20.2px 14px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "30.4px",
+            "fontSize": "40.42px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Get Help",
+          "r": {
+            "x": 56.0625,
+            "y": 134,
+            "width": 655.875,
+            "height": 56.5,
+            "top": 134,
+            "right": 711.9375,
+            "bottom": 190.5,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid",
+          "text": "Get Help",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 162,
+            "top": 80,
+            "right": 768,
+            "bottom": 242,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "54px 56.064px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get HelpAsking for helpWe welcome usage questions and bug reports from",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 1351,
+            "top": 80,
+            "right": 768,
+            "bottom": 1431,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 2079,
+            "top": 0,
+            "right": 768,
+            "bottom": 2079,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "We welcome usage questions and bug reports from all users, even those ",
+          "r": {
+            "x": 89.0625,
+            "y": 436.75,
+            "width": 191,
+            "height": 161.625,
+            "top": 436.75,
+            "right": 280.0625,
+            "bottom": 598.375,
+            "left": 89.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px 0px 55px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "help-intro",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 89.0625,
+            "y": 342,
+            "width": 191,
+            "height": 631,
+            "top": 342,
+            "right": 280.0625,
+            "bottom": 973,
+            "left": 89.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "help-content light-grid",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 0,
+            "y": 242,
+            "width": 768,
+            "height": 811,
+            "top": 242,
+            "right": 768,
+            "bottom": 1053,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(245, 247, 245)",
+            "padding": "100px 89.064px 80px",
+            "margin": "0px",
+            "display": "grid",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get HelpAsking for helpWe welcome usage questions and bug reports from",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 1351,
+            "top": 80,
+            "right": 768,
+            "bottom": 1431,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 2079,
+            "top": 0,
+            "right": 768,
+            "bottom": 2079,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 768,
+    "slug": "get-started",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box",
+          "text": "Get Started with Dask",
+          "r": {
+            "x": 148.296875,
+            "y": 133.796875,
+            "width": 471.40625,
+            "height": 54.578125,
+            "top": 133.796875,
+            "right": 619.703125,
+            "bottom": 188.375,
+            "left": 148.296875
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "10.1069px 20.2138px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "30.3974px",
+            "fontSize": "40.4198px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container center",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 55.75,
+            "y": 80.046875,
+            "width": 656.5,
+            "height": 215.96875,
+            "top": 80.046875,
+            "right": 712.25,
+            "bottom": 296.015625,
+            "left": 55.75
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "53.76px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "section-responsive bg-black get-started",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 80.046875,
+            "width": 768,
+            "height": 540.1875,
+            "top": 80.046875,
+            "right": 768,
+            "bottom": 620.234375,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px 55.7568px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Get Started.cls-1{fill:#ebeaee;}Community.cls-1{fill:#ebeaee;}Communit",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 3771.21875,
+            "top": 0,
+            "right": 768,
+            "bottom": 3771.21875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "HTML",
+          "cls": "w-mod-js w-mod-ix wf-inconsolata-n7-active wf-inconsolata-n4-active wf-active",
+          "text": ".wf-force-outline-none[tabindex=\"-1\"]:focus{outline:none;}Dask | Get S",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 768,
+            "height": 1000,
+            "top": 0,
+            "right": 768,
+            "bottom": 1000,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "normal",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 768,
+    "slug": "get-started",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Get Started with Dask",
+          "r": {
+            "x": 149.3125,
+            "y": 134,
+            "width": 469.375,
+            "height": 56.5,
+            "top": 134,
+            "right": 618.6875,
+            "bottom": 190.5,
+            "left": 149.3125
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "10.1px 20.2px 14px",
+            "margin": "0px 93.25px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "30.4px",
+            "fontSize": "40.42px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 56.0625,
+            "y": 134,
+            "width": 655.875,
+            "height": 95.453125,
+            "top": 134,
+            "right": 711.9375,
+            "bottom": 229.453125,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid center",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 217,
+            "top": 80,
+            "right": 768,
+            "bottom": 297,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "54px 56.064px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "get-started-intro dark-grid",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 540,
+            "top": 80,
+            "right": 768,
+            "bottom": 620,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 3043,
+            "top": 80,
+            "right": 768,
+            "bottom": 3123,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "Ready to dive in? We’re here to help.",
+          "r": {
+            "x": 56.0625,
+            "y": 202.5,
+            "width": 655.875,
+            "height": 26.953125,
+            "top": 202.5,
+            "right": 711.9375,
+            "bottom": 229.453125,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "12px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "26.9501px",
+            "fontSize": "20.2101px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 56.0625,
+            "y": 134,
+            "width": 655.875,
+            "height": 95.453125,
+            "top": 134,
+            "right": 711.9375,
+            "bottom": 229.453125,
+            "left": 56.0625
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid center",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 217,
+            "top": 80,
+            "right": 768,
+            "bottom": 297,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "54px 56.064px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "get-started-intro dark-grid",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 540,
+            "top": 80,
+            "right": 768,
+            "bottom": 620,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 80,
+            "width": 768,
+            "height": 3043,
+            "top": 80,
+            "right": 768,
+            "bottom": 3123,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "20.2101px",
+            "fontSize": "13.475px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 1440,
+    "slug": "brand-guide",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box powered",
+          "text": "Brand Guide",
+          "r": {
+            "x": 80.203125,
+            "y": 198.96875,
+            "width": 390,
+            "height": 81,
+            "top": 198.96875,
+            "right": 470.203125,
+            "bottom": 279.96875,
+            "left": 80.203125
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "8.0064px 24.0048px",
+            "margin": "24.0048px 0px 24.0048px -28.8px",
+            "display": "inline-block",
+            "position": "static",
+            "lineHeight": "56.9952px",
+            "fontSize": "56.0016px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-text powered",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 85,
+            "y": 174.96875,
+            "width": 628.46875,
+            "height": 297,
+            "top": 174.96875,
+            "right": 713.46875,
+            "bottom": 471.96875,
+            "left": 85
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 24.0048px",
+            "margin": "0px 2.0016px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container-text br-guide",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 85,
+            "y": 174.96875,
+            "width": 630.46875,
+            "height": 391.015625,
+            "top": 174.96875,
+            "right": 715.46875,
+            "bottom": 565.984375,
+            "left": 85
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "4.0032px 2.0016px 6.0048px 4.0032px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container brand-g",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 81,
+            "y": 90.96875,
+            "width": 636.46875,
+            "height": 561.015625,
+            "top": 90.96875,
+            "right": 717.46875,
+            "bottom": 651.984375,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "80.0064px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-columns br-guide",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 81,
+            "y": 90.96875,
+            "width": 1278,
+            "height": 561.015625,
+            "top": 90.96875,
+            "right": 1359,
+            "bottom": 651.984375,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "grid",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 1440,
+    "slug": "brand-guide",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Brand Guide",
+          "r": {
+            "x": 81,
+            "y": 199,
+            "width": 388,
+            "height": 81,
+            "top": 199,
+            "right": 469,
+            "bottom": 280,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "8px 24px 14px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "57px",
+            "fontSize": "56px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 81,
+            "y": 199,
+            "width": 639,
+            "height": 373,
+            "top": 199,
+            "right": 720,
+            "bottom": 572,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 561,
+            "top": 91,
+            "right": 1440,
+            "bottom": 652,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "108px 81px 80px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 4560.34375,
+            "top": 91,
+            "right": 1440,
+            "bottom": 4651.34375,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 5133.34375,
+            "top": 0,
+            "right": 1440,
+            "bottom": 5133.34375,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "This site includes both resources and guidelines for presenting and co",
+          "r": {
+            "x": 105,
+            "y": 304,
+            "width": 580,
+            "height": 96,
+            "top": 304,
+            "right": 685,
+            "bottom": 400,
+            "left": 105
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "24px 24px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 81,
+            "y": 199,
+            "width": 639,
+            "height": 373,
+            "top": 199,
+            "right": 720,
+            "bottom": 572,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 561,
+            "top": 91,
+            "right": 1440,
+            "bottom": 652,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "108px 81px 80px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Brand GuideThis site includes both resources and guidelines for presen",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 4560.34375,
+            "top": 91,
+            "right": 1440,
+            "bottom": 4651.34375,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 5133.34375,
+            "top": 0,
+            "right": 1440,
+            "bottom": 5133.34375,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 1440,
+    "slug": "powered-by",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box powered",
+          "text": "Powered by",
+          "r": {
+            "x": 80.203125,
+            "y": 198.96875,
+            "width": 372,
+            "height": 81,
+            "top": 198.96875,
+            "right": 452.203125,
+            "bottom": 279.96875,
+            "left": 80.203125
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "8.0064px 24.0048px",
+            "margin": "24.0048px 0px 24.0048px -28.8px",
+            "display": "inline-block",
+            "position": "static",
+            "lineHeight": "56.9952px",
+            "fontSize": "56.0016px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-text powered",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 85,
+            "y": 174.96875,
+            "width": 628.46875,
+            "height": 249,
+            "top": 174.96875,
+            "right": 713.46875,
+            "bottom": 423.96875,
+            "left": 85
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px 24.0048px",
+            "margin": "0px 2.0016px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container-text powered-by",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 85,
+            "y": 174.96875,
+            "width": 630.46875,
+            "height": 391.015625,
+            "top": 174.96875,
+            "right": 715.46875,
+            "bottom": 565.984375,
+            "left": 85
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "4.0032px 2.0016px 6.0048px 4.0032px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 81,
+            "y": 90.96875,
+            "width": 636.46875,
+            "height": 561.015625,
+            "top": 90.96875,
+            "right": 717.46875,
+            "bottom": 651.984375,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "80.0064px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-columns powered",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 81,
+            "y": 90.96875,
+            "width": 1278,
+            "height": 561.015625,
+            "top": 90.96875,
+            "right": 1359,
+            "bottom": 651.984375,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "grid",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "18px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 1440,
+    "slug": "powered-by",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Powered by",
+          "r": {
+            "x": 81,
+            "y": 199,
+            "width": 370,
+            "height": 81,
+            "top": 199,
+            "right": 451,
+            "bottom": 280,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "8px 24px 14px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "57px",
+            "fontSize": "56px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 81,
+            "y": 199,
+            "width": 639,
+            "height": 373,
+            "top": 199,
+            "right": 720,
+            "bottom": 572,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 561,
+            "top": 91,
+            "right": 1440,
+            "bottom": 652,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "108px 81px 80px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 4960,
+            "top": 91,
+            "right": 1440,
+            "bottom": 5051,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 5533,
+            "top": 0,
+            "right": 1440,
+            "bottom": 5533,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "Dask is an open-source project, which means there are a lot of people ",
+          "r": {
+            "x": 105,
+            "y": 304,
+            "width": 580,
+            "height": 120,
+            "top": 304,
+            "right": 685,
+            "bottom": 424,
+            "left": 105
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "24px 24px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 81,
+            "y": 199,
+            "width": 639,
+            "height": 373,
+            "top": 199,
+            "right": 720,
+            "bottom": 572,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid with-art",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 561,
+            "top": 91,
+            "right": 1440,
+            "bottom": 652,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "108px 81px 80px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Powered byDask is an open-source project, which means there are a lot ",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 4960,
+            "top": 91,
+            "right": 1440,
+            "bottom": 5051,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 5533,
+            "top": 0,
+            "right": 1440,
+            "bottom": 5533,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 1440,
+    "slug": "get-help",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box",
+          "text": "Get Help",
+          "r": {
+            "x": 81,
+            "y": 170.96875,
+            "width": 288,
+            "height": 81,
+            "top": 170.96875,
+            "right": 369,
+            "bottom": 251.96875,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "8.0064px 24.0048px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "56.9952px",
+            "fontSize": "56.0016px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container heading-only",
+          "text": "Get Help",
+          "r": {
+            "x": 81,
+            "y": 90.96875,
+            "width": 1278,
+            "height": 241,
+            "top": 90.96875,
+            "right": 1359,
+            "bottom": 331.96875,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "80.0064px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "section-responsive bg-black get-started",
+          "text": "Get Help",
+          "r": {
+            "x": 0,
+            "y": 90.96875,
+            "width": 1440,
+            "height": 241,
+            "top": 90.96875,
+            "right": 1440,
+            "bottom": 331.96875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px 81px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Get Started.cls-1{fill:#ebeaee;}Community.cls-1{fill:#ebeaee;}Communit",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 2010.875,
+            "top": 0,
+            "right": 1440,
+            "bottom": 2010.875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "HTML",
+          "cls": "w-mod-js w-mod-ix wf-inconsolata-n4-active wf-inconsolata-n7-active wf-active",
+          "text": ".wf-force-outline-none[tabindex=\"-1\"]:focus{outline:none;}Dask Help | ",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1000,
+            "top": 0,
+            "right": 1440,
+            "bottom": 1000,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "normal",
+            "fontSize": "16px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "We welcome usage questions and bug reports from all users, even those ",
+          "r": {
+            "x": 121,
+            "y": 586.96875,
+            "width": 429,
+            "height": 96,
+            "top": 586.96875,
+            "right": 550,
+            "bottom": 682.96875,
+            "left": 121
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px 0px 24.0048px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24.0048px",
+            "fontSize": "15.9984px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "mar-top-medium",
+          "text": "We welcome usage questions and bug reports from all users, even those ",
+          "r": {
+            "x": 121,
+            "y": 586.96875,
+            "width": 429,
+            "height": 96,
+            "top": 586.96875,
+            "right": 550,
+            "bottom": 682.96875,
+            "left": 121
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "36px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "gh-text",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 121,
+            "y": 494.96875,
+            "width": 429,
+            "height": 212,
+            "top": 494.96875,
+            "right": 550,
+            "bottom": 706.96875,
+            "left": 121
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "get-help-left",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 81,
+            "y": 414.96875,
+            "width": 556.984375,
+            "height": 631.421875,
+            "top": 414.96875,
+            "right": 637.984375,
+            "bottom": 1046.390625,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgb(246, 246, 246)",
+            "padding": "80.0064px 87.9984px 0px 40.0032px",
+            "margin": "2.0016px 2.0016px 2.0016px 0px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "grid get-help-p",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 81,
+            "y": 412.96875,
+            "width": 1281.59375,
+            "height": 635.421875,
+            "top": 412.96875,
+            "right": 1362.59375,
+            "bottom": 1048.390625,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "81px 0px 80.0064px",
+            "display": "flex",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 1440,
+    "slug": "get-help",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Get Help",
+          "r": {
+            "x": 81,
+            "y": 171,
+            "width": 286,
+            "height": 81,
+            "top": 171,
+            "right": 367,
+            "bottom": 252,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "8px 24px 14px",
+            "margin": "0px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "57px",
+            "fontSize": "56px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Get Help",
+          "r": {
+            "x": 81,
+            "y": 171,
+            "width": 1278,
+            "height": 81,
+            "top": 171,
+            "right": 1359,
+            "bottom": 252,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid",
+          "text": "Get Help",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 241,
+            "top": 91,
+            "right": 1440,
+            "bottom": 332,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "80px 81px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get HelpAsking for helpWe welcome usage questions and bug reports from",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 1438,
+            "top": 91,
+            "right": 1440,
+            "bottom": 1529,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 2011,
+            "top": 0,
+            "right": 1440,
+            "bottom": 2011,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "We welcome usage questions and bug reports from all users, even those ",
+          "r": {
+            "x": 121,
+            "y": 587,
+            "width": 429,
+            "height": 96,
+            "top": 587,
+            "right": 550,
+            "bottom": 683,
+            "left": 121
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px 0px 64px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "help-intro",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 121,
+            "y": 437,
+            "width": 429,
+            "height": 581,
+            "top": 437,
+            "right": 550,
+            "bottom": 1018,
+            "left": 121
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "58px 0px 0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "help-content light-grid",
+          "text": "Asking for helpWe welcome usage questions and bug reports from all use",
+          "r": {
+            "x": 0,
+            "y": 332,
+            "width": 1440,
+            "height": 796,
+            "top": 332,
+            "right": 1440,
+            "bottom": 1128,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(245, 247, 245)",
+            "padding": "105px 121px 110px",
+            "margin": "0px",
+            "display": "grid",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get HelpAsking for helpWe welcome usage questions and bug reports from",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 1438,
+            "top": 91,
+            "right": 1440,
+            "bottom": 1529,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Skip to content≡Get StartedCommunity⌄Demo DayMailing ListGet HelpPower",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 2011,
+            "top": 0,
+            "right": 1440,
+            "bottom": 2011,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 1440,
+    "slug": "get-started",
+    "label": "reference",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "heading-xlarge-box",
+          "text": "Get Started with Dask",
+          "r": {
+            "x": 392,
+            "y": 170.96875,
+            "width": 656,
+            "height": 81,
+            "top": 170.96875,
+            "right": 1048,
+            "bottom": 251.96875,
+            "left": 392
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "8.0064px 24.0048px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "56.9952px",
+            "fontSize": "56.0016px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "container center",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 81,
+            "y": 90.96875,
+            "width": 1278,
+            "height": 321,
+            "top": 90.96875,
+            "right": 1359,
+            "bottom": 411.96875,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "80.0064px 0px",
+            "margin": "0px",
+            "display": "flex",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "section-responsive bg-black get-started",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 90.96875,
+            "width": 1440,
+            "height": 800.21875,
+            "top": 90.96875,
+            "right": 1440,
+            "bottom": 891.1875,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px 81px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "BODY",
+          "cls": "",
+          "text": "Get Started.cls-1{fill:#ebeaee;}Community.cls-1{fill:#ebeaee;}Communit",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 4251.8125,
+            "top": 0,
+            "right": 1440,
+            "bottom": 4251.8125,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(255, 255, 255)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "HTML",
+          "cls": "w-mod-js w-mod-ix wf-inconsolata-n4-active wf-inconsolata-n7-active wf-active",
+          "text": ".wf-force-outline-none[tabindex=\"-1\"]:focus{outline:none;}Dask | Get S",
+          "r": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1000,
+            "top": 0,
+            "right": 1440,
+            "bottom": 1000,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "normal",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "width": 1440,
+    "slug": "get-started",
+    "label": "local",
+    "data": [
+      [
+        {
+          "tag": "H1",
+          "cls": "boxed",
+          "text": "Get Started with Dask",
+          "r": {
+            "x": 393,
+            "y": 171,
+            "width": 654,
+            "height": 81,
+            "top": 171,
+            "right": 1047,
+            "bottom": 252,
+            "left": 393
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "8px 24px 14px",
+            "margin": "0px 312px",
+            "display": "table",
+            "position": "static",
+            "lineHeight": "57px",
+            "fontSize": "56px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 81,
+            "y": 171,
+            "width": 1278,
+            "height": 137,
+            "top": 171,
+            "right": 1359,
+            "bottom": 308,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid center",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 325,
+            "top": 91,
+            "right": 1440,
+            "bottom": 416,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "80px 81px 108px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "get-started-intro dark-grid",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 804,
+            "top": 91,
+            "right": 1440,
+            "bottom": 895,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 3683,
+            "top": 91,
+            "right": 1440,
+            "bottom": 3774,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "P",
+          "cls": "",
+          "text": "Ready to dive in? We’re here to help.",
+          "r": {
+            "x": 81,
+            "y": 276,
+            "width": 1278,
+            "height": 32,
+            "top": 276,
+            "right": 1359,
+            "bottom": 308,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "24px 0px 0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "32px",
+            "fontSize": "24px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "hero-copy",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 81,
+            "y": 171,
+            "width": 1278,
+            "height": 137,
+            "top": 171,
+            "right": 1359,
+            "bottom": 308,
+            "left": 81
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "SECTION",
+          "cls": "page-hero dark-grid center",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 325,
+            "top": 91,
+            "right": 1440,
+            "bottom": 416,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "80px 81px 108px",
+            "margin": "0px",
+            "display": "block",
+            "position": "relative",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "DIV",
+          "cls": "get-started-intro dark-grid",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 804,
+            "top": 91,
+            "right": 1440,
+            "bottom": 895,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgb(8, 8, 21)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        },
+        {
+          "tag": "MAIN",
+          "cls": "",
+          "text": "Get Started with DaskReady to dive in? We’re here to help.Install Dask",
+          "r": {
+            "x": 0,
+            "y": 91,
+            "width": 1440,
+            "height": 3683,
+            "top": 91,
+            "right": 1440,
+            "bottom": 3774,
+            "left": 0
+          },
+          "style": {
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "padding": "0px",
+            "margin": "0px",
+            "display": "block",
+            "position": "static",
+            "lineHeight": "24px",
+            "fontSize": "16px"
+          }
+        }
+      ]
+    ]
+  }
+]

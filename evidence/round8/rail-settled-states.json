@@ -1,0 +1,314 @@
+[
+  {
+    "width": 390,
+    "label": "reference",
+    "state": "colors",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#colors",
+        "cls": "nav-left w-inline-block w--current",
+        "current": null,
+        "background": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "radius": "100%"
+      },
+      {
+        "href": "#typography",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#tone",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "reference",
+    "state": "tone",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#colors",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#typography",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#tone",
+        "cls": "nav-left w-inline-block w--current",
+        "current": null,
+        "background": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "radius": "100%"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "local",
+    "state": "colors",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#colors",
+        "cls": "",
+        "current": "location",
+        "background": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "radius": "50%"
+      },
+      {
+        "href": "#typography",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#tone",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "label": "local",
+    "state": "tone",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#colors",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#typography",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#tone",
+        "cls": "",
+        "current": "location",
+        "background": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "radius": "50%"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "reference",
+    "state": "colors",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#colors",
+        "cls": "nav-left w-inline-block w--current",
+        "current": null,
+        "background": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "radius": "100%"
+      },
+      {
+        "href": "#typography",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#tone",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "reference",
+    "state": "tone",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#colors",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#typography",
+        "cls": "nav-left w-inline-block",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "100%"
+      },
+      {
+        "href": "#tone",
+        "cls": "nav-left w-inline-block w--current",
+        "current": null,
+        "background": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "radius": "100%"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "local",
+    "state": "colors",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#colors",
+        "cls": "",
+        "current": "location",
+        "background": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "radius": "50%"
+      },
+      {
+        "href": "#typography",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#tone",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "label": "local",
+    "state": "tone",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#colors",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#typography",
+        "cls": "",
+        "current": null,
+        "background": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "radius": "50%"
+      },
+      {
+        "href": "#tone",
+        "cls": "",
+        "current": "location",
+        "background": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "radius": "50%"
+      }
+    ]
+  }
+]

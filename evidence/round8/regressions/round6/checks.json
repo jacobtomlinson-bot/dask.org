@@ -1,0 +1,1201 @@
+[
+  {
+    "width": 320,
+    "home": {
+      "testimonials": 2593.046875,
+      "cases": 2316.25,
+      "quotes": [
+        {
+          "height": 217.578125,
+          "logo": 28.796875,
+          "author": 13.6533
+        },
+        {
+          "height": 217.578125,
+          "logo": 28.796875,
+          "author": 13.6533
+        },
+        {
+          "height": 279.03125,
+          "logo": 28.796875,
+          "author": 13.6533
+        },
+        {
+          "height": 236.15625,
+          "logo": 28.796875,
+          "author": 13.6533
+        },
+        {
+          "height": 299.515625,
+          "logo": 28.796875,
+          "author": 13.6533
+        },
+        {
+          "height": 238.0625,
+          "logo": 28.796875,
+          "author": 13.6533
+        },
+        {
+          "height": 238.0625,
+          "logo": 28.796875,
+          "author": 13.6533
+        },
+        {
+          "height": 217.578125,
+          "logo": 28.796875,
+          "author": 13.6533
+        },
+        {
+          "height": 197.09375,
+          "logo": 28.796875,
+          "author": 13.6533
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 15.36,
+      "bodyFont": 13.6533,
+      "breaks": 6,
+      "toneHeight": 1590.6875,
+      "iconSizes": [
+        26.40625,
+        26.40625,
+        26.40625
+      ],
+      "railTrack": "none",
+      "background": "409.6px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 34.234375,
+        "y": 814.046875,
+        "width": 231.171875,
+        "height": 40.96875
+      },
+      ".socials": {
+        "x": 34.234375,
+        "y": 725.125,
+        "width": 251.53125,
+        "height": 27.296875
+      },
+      ".footer-nav h2": {
+        "x": 32.265625,
+        "y": 168.9375,
+        "width": 262.359375,
+        "height": 31.328125
+      }
+    }
+  },
+  {
+    "width": 390,
+    "home": {
+      "testimonials": 3206.140625,
+      "cases": 2822.890625,
+      "quotes": [
+        {
+          "height": 265.125,
+          "logo": 35.09375,
+          "author": 16.64
+        },
+        {
+          "height": 265.125,
+          "logo": 35.09375,
+          "author": 16.64
+        },
+        {
+          "height": 364.9375,
+          "logo": 35.09375,
+          "author": 16.64
+        },
+        {
+          "height": 312.6875,
+          "logo": 35.09375,
+          "author": 16.64
+        },
+        {
+          "height": 364.9375,
+          "logo": 35.09375,
+          "author": 16.64
+        },
+        {
+          "height": 290.078125,
+          "logo": 35.09375,
+          "author": 16.64
+        },
+        {
+          "height": 290.078125,
+          "logo": 35.09375,
+          "author": 16.64
+        },
+        {
+          "height": 265.125,
+          "logo": 35.09375,
+          "author": 16.64
+        },
+        {
+          "height": 240.171875,
+          "logo": 35.09375,
+          "author": 16.64
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 18.72,
+      "bodyFont": 16.64,
+      "breaks": 6,
+      "toneHeight": 1937.90625,
+      "iconSizes": [
+        20.8125,
+        20.8125,
+        20.8125
+      ],
+      "railTrack": "none",
+      "background": "499.2px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 41.71875,
+        "y": 991.09375,
+        "width": 281.75,
+        "height": 49.90625
+      },
+      ".socials": {
+        "x": 41.71875,
+        "y": 882.71875,
+        "width": 306.5625,
+        "height": 33.265625
+      },
+      ".footer-nav h2": {
+        "x": 39.328125,
+        "y": 205.890625,
+        "width": 319.75,
+        "height": 37.953125
+      }
+    }
+  },
+  {
+    "width": 479,
+    "home": {
+      "testimonials": 3904.1875,
+      "cases": 3466.78125,
+      "quotes": [
+        {
+          "height": 325.6875,
+          "logo": 43.109375,
+          "author": 20.4373
+        },
+        {
+          "height": 325.6875,
+          "logo": 43.109375,
+          "author": 20.4373
+        },
+        {
+          "height": 448.3125,
+          "logo": 43.109375,
+          "author": 20.4373
+        },
+        {
+          "height": 353.484375,
+          "logo": 43.109375,
+          "author": 20.4373
+        },
+        {
+          "height": 448.3125,
+          "logo": 43.109375,
+          "author": 20.4373
+        },
+        {
+          "height": 356.34375,
+          "logo": 43.109375,
+          "author": 20.4373
+        },
+        {
+          "height": 356.34375,
+          "logo": 43.109375,
+          "author": 20.4373
+        },
+        {
+          "height": 325.6875,
+          "logo": 43.109375,
+          "author": 20.4373
+        },
+        {
+          "height": 295.03125,
+          "logo": 43.109375,
+          "author": 20.4373
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 22.992,
+      "bodyFont": 20.4373,
+      "breaks": 6,
+      "toneHeight": 2350.015625,
+      "iconSizes": [
+        13.6875,
+        13.6875,
+        13.6875
+      ],
+      "railTrack": "none",
+      "background": "613.12px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 51.25,
+        "y": 1216.46875,
+        "width": 346.046875,
+        "height": 61.3125
+      },
+      ".socials": {
+        "x": 51.25,
+        "y": 1083.359375,
+        "width": 376.5,
+        "height": 40.859375
+      },
+      ".footer-nav h2": {
+        "x": 48.3125,
+        "y": 252.875,
+        "width": 392.6875,
+        "height": 46.390625
+      }
+    }
+  },
+  {
+    "width": 480,
+    "home": {
+      "testimonials": 1300.0625,
+      "cases": 932.59375,
+      "quotes": [
+        {
+          "height": 175.8125,
+          "logo": 27.828125,
+          "author": 10.6667
+        },
+        {
+          "height": 175.8125,
+          "logo": 27.828125,
+          "author": 10.6667
+        },
+        {
+          "height": 239.8125,
+          "logo": 27.828125,
+          "author": 10.6667
+        },
+        {
+          "height": 207.015625,
+          "logo": 27.828125,
+          "author": 10.6667
+        },
+        {
+          "height": 239.8125,
+          "logo": 27.828125,
+          "author": 10.6667
+        },
+        {
+          "height": 223.015625,
+          "logo": 27.828125,
+          "author": 10.6667
+        },
+        {
+          "height": 191.8125,
+          "logo": 27.828125,
+          "author": 10.6667
+        },
+        {
+          "height": 175.8125,
+          "logo": 27.828125,
+          "author": 10.6667
+        },
+        {
+          "height": 159.8125,
+          "logo": 27.828125,
+          "author": 10.6667
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 12,
+      "bodyFont": 10.6656,
+      "breaks": 6,
+      "toneHeight": 878.734375,
+      "iconSizes": [
+        18.234375,
+        18.234375,
+        18.234375
+      ],
+      "railTrack": "none",
+      "background": "494.4px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 49.578125,
+        "y": 661.21875,
+        "width": 380.84375,
+        "height": 13.328125
+      },
+      ".socials": {
+        "x": 49.578125,
+        "y": 565.234375,
+        "width": 380.84375,
+        "height": 21.328125
+      },
+      ".footer-nav h2": {
+        "x": 46.921875,
+        "y": 174.046875,
+        "width": 189.65625,
+        "height": 33
+      }
+    }
+  },
+  {
+    "width": 601,
+    "home": {
+      "testimonials": 1604.703125,
+      "cases": 1167.59375,
+      "quotes": [
+        {
+          "height": 220.125,
+          "logo": 34.84375,
+          "author": 13.3556
+        },
+        {
+          "height": 220.125,
+          "logo": 34.84375,
+          "author": 13.3556
+        },
+        {
+          "height": 300.25,
+          "logo": 34.84375,
+          "author": 13.3556
+        },
+        {
+          "height": 259.1875,
+          "logo": 34.84375,
+          "author": 13.3556
+        },
+        {
+          "height": 300.25,
+          "logo": 34.84375,
+          "author": 13.3556
+        },
+        {
+          "height": 260.1875,
+          "logo": 34.84375,
+          "author": 13.3556
+        },
+        {
+          "height": 240.15625,
+          "logo": 34.84375,
+          "author": 13.3556
+        },
+        {
+          "height": 220.125,
+          "logo": 34.84375,
+          "author": 13.3556
+        },
+        {
+          "height": 200.09375,
+          "logo": 34.84375,
+          "author": 13.3556
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 15.025,
+      "bodyFont": 13.3543,
+      "breaks": 6,
+      "toneHeight": 1060.25,
+      "iconSizes": [
+        22.84375,
+        22.84375,
+        22.84375
+      ],
+      "railTrack": "none",
+      "background": "619.03px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 62.078125,
+        "y": 827.375,
+        "width": 476.84375,
+        "height": 16.6875
+      },
+      ".socials": {
+        "x": 62.078125,
+        "y": 707.1875,
+        "width": 476.84375,
+        "height": 26.703125
+      },
+      ".footer-nav h2": {
+        "x": 58.75,
+        "y": 217.9375,
+        "width": 237.46875,
+        "height": 41.0625
+      }
+    }
+  },
+  {
+    "width": 767,
+    "home": {
+      "testimonials": 2043.4375,
+      "cases": 1490.359375,
+      "quotes": [
+        {
+          "height": 280.921875,
+          "logo": 44.484375,
+          "author": 17.0444
+        },
+        {
+          "height": 280.921875,
+          "logo": 44.484375,
+          "author": 17.0444
+        },
+        {
+          "height": 383.171875,
+          "logo": 44.484375,
+          "author": 17.0444
+        },
+        {
+          "height": 330.765625,
+          "logo": 44.484375,
+          "author": 17.0444
+        },
+        {
+          "height": 383.171875,
+          "logo": 44.484375,
+          "author": 17.0444
+        },
+        {
+          "height": 332.046875,
+          "logo": 44.484375,
+          "author": 17.0444
+        },
+        {
+          "height": 306.484375,
+          "logo": 44.484375,
+          "author": 17.0444
+        },
+        {
+          "height": 280.921875,
+          "logo": 44.484375,
+          "author": 17.0444
+        },
+        {
+          "height": 255.359375,
+          "logo": 44.484375,
+          "author": 17.0444
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 19.175,
+      "bodyFont": 17.0428,
+      "breaks": 6,
+      "toneHeight": 1378.609375,
+      "iconSizes": [
+        29.140625,
+        29.140625,
+        29.140625
+      ],
+      "railTrack": "none",
+      "background": "790.01px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 79.21875,
+        "y": 1055.359375,
+        "width": 608.5625,
+        "height": 21.3125
+      },
+      ".socials": {
+        "x": 79.21875,
+        "y": 901.984375,
+        "width": 608.5625,
+        "height": 34.078125
+      },
+      ".footer-nav h2": {
+        "x": 74.96875,
+        "y": 278.125,
+        "width": 303.0625,
+        "height": 52.125
+      }
+    }
+  },
+  {
+    "width": 768,
+    "home": {
+      "testimonials": 2145.203125,
+      "cases": 1141.3125,
+      "quotes": [
+        {
+          "height": 185.96875,
+          "logo": 30.71875,
+          "author": 13.4707
+        },
+        {
+          "height": 185.96875,
+          "logo": 30.71875,
+          "author": 13.4707
+        },
+        {
+          "height": 262.75,
+          "logo": 30.71875,
+          "author": 13.4707
+        },
+        {
+          "height": 208.75,
+          "logo": 30.71875,
+          "author": 13.4707
+        },
+        {
+          "height": 262.75,
+          "logo": 30.71875,
+          "author": 13.4707
+        },
+        {
+          "height": 211.5625,
+          "logo": 30.71875,
+          "author": 13.4707
+        },
+        {
+          "height": 211.5625,
+          "logo": 30.71875,
+          "author": 13.4707
+        },
+        {
+          "height": 185.96875,
+          "logo": 30.71875,
+          "author": 13.4707
+        },
+        {
+          "height": 185.96875,
+          "logo": 30.71875,
+          "author": 13.4707
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 15.1603,
+      "bodyFont": 13.4707,
+      "breaks": 6,
+      "toneHeight": 1370.875,
+      "iconSizes": [
+        23.03125,
+        23.03125,
+        23.03125
+      ],
+      "railTrack": "linear-gradient(to right, rgb(239, 21, 97) 0px, rgb(239, 21, 97) 55px, rgba(0, 0, 0, 0) 55px)",
+      "background": "768px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 79.34375,
+        "y": 551.484375,
+        "width": 561.234375,
+        "height": 20.21875
+      },
+      ".socials": {
+        "x": 79.34375,
+        "y": 449.3125,
+        "width": 610.328125,
+        "height": 27
+      },
+      ".footer-nav h2": {
+        "x": 75.078125,
+        "y": 179.796875,
+        "width": 142.671875,
+        "height": 38.59375
+      }
+    }
+  },
+  {
+    "width": 769,
+    "home": {
+      "testimonials": 2147.71875,
+      "cases": 1142.609375,
+      "quotes": [
+        {
+          "height": 186.1875,
+          "logo": 30.75,
+          "author": 13.4883
+        },
+        {
+          "height": 186.1875,
+          "logo": 30.75,
+          "author": 13.4883
+        },
+        {
+          "height": 263.0625,
+          "logo": 30.75,
+          "author": 13.4883
+        },
+        {
+          "height": 208.984375,
+          "logo": 30.75,
+          "author": 13.4883
+        },
+        {
+          "height": 263.0625,
+          "logo": 30.75,
+          "author": 13.4883
+        },
+        {
+          "height": 211.8125,
+          "logo": 30.75,
+          "author": 13.4883
+        },
+        {
+          "height": 211.8125,
+          "logo": 30.75,
+          "author": 13.4883
+        },
+        {
+          "height": 186.1875,
+          "logo": 30.75,
+          "author": 13.4883
+        },
+        {
+          "height": 186.1875,
+          "logo": 30.75,
+          "author": 13.4883
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 15.1801,
+      "bodyFont": 13.4883,
+      "breaks": 6,
+      "toneHeight": 1372.15625,
+      "iconSizes": [
+        23.0625,
+        23.0625,
+        23.0625
+      ],
+      "railTrack": "linear-gradient(to right, rgb(239, 21, 97) 0px, rgb(239, 21, 97) 55.0716px, rgba(0, 0, 0, 0) 55.0716px)",
+      "background": "769px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 79.453125,
+        "y": 552.15625,
+        "width": 561.96875,
+        "height": 20.234375
+      },
+      ".socials": {
+        "x": 79.453125,
+        "y": 449.84375,
+        "width": 611.109375,
+        "height": 27.03125
+      },
+      ".footer-nav h2": {
+        "x": 75.1875,
+        "y": 179.96875,
+        "width": 142.859375,
+        "height": 38.640625
+      }
+    }
+  },
+  {
+    "width": 991,
+    "home": {
+      "testimonials": 2768.171875,
+      "cases": 1471.578125,
+      "quotes": [
+        {
+          "height": 239.96875,
+          "logo": 39.625,
+          "author": 17.3821
+        },
+        {
+          "height": 239.96875,
+          "logo": 39.625,
+          "author": 17.3821
+        },
+        {
+          "height": 339.0625,
+          "logo": 39.625,
+          "author": 17.3821
+        },
+        {
+          "height": 269.359375,
+          "logo": 39.625,
+          "author": 17.3821
+        },
+        {
+          "height": 339.0625,
+          "logo": 39.625,
+          "author": 17.3821
+        },
+        {
+          "height": 273,
+          "logo": 39.625,
+          "author": 17.3821
+        },
+        {
+          "height": 273,
+          "logo": 39.625,
+          "author": 17.3821
+        },
+        {
+          "height": 239.96875,
+          "logo": 39.625,
+          "author": 17.3821
+        },
+        {
+          "height": 239.96875,
+          "logo": 39.625,
+          "author": 17.3821
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 19.5623,
+      "bodyFont": 17.3821,
+      "breaks": 6,
+      "toneHeight": 1768.40625,
+      "iconSizes": [
+        29.71875,
+        29.71875,
+        29.71875
+      ],
+      "railTrack": "linear-gradient(to right, rgb(239, 21, 97) 0px, rgb(239, 21, 97) 70.9701px, rgba(0, 0, 0, 0) 70.9701px)",
+      "background": "991px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 102.375,
+        "y": 697.4375,
+        "width": 724.203125,
+        "height": 26.078125
+      },
+      ".socials": {
+        "x": 102.375,
+        "y": 565.59375,
+        "width": 787.546875,
+        "height": 34.828125
+      },
+      ".footer-nav h2": {
+        "x": 96.890625,
+        "y": 218.078125,
+        "width": 184.09375,
+        "height": 49.515625
+      }
+    }
+  },
+  {
+    "width": 992,
+    "home": {
+      "testimonials": 1241.203125,
+      "cases": 838.546875,
+      "quotes": [
+        {
+          "height": 185.09375,
+          "logo": 27.546875,
+          "author": 11.0222
+        },
+        {
+          "height": 185.09375,
+          "logo": 27.546875,
+          "author": 11.0222
+        },
+        {
+          "height": 234.6875,
+          "logo": 27.546875,
+          "author": 11.0222
+        },
+        {
+          "height": 198.328125,
+          "logo": 27.546875,
+          "author": 11.0222
+        },
+        {
+          "height": 234.6875,
+          "logo": 27.546875,
+          "author": 11.0222
+        },
+        {
+          "height": 201.625,
+          "logo": 27.546875,
+          "author": 11.0222
+        },
+        {
+          "height": 201.625,
+          "logo": 27.546875,
+          "author": 11.0222
+        },
+        {
+          "height": 185.09375,
+          "logo": 27.546875,
+          "author": 11.0222
+        },
+        {
+          "height": 168.5625,
+          "logo": 27.546875,
+          "author": 11.0222
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 12.4,
+      "bodyFont": 11.0211,
+      "breaks": 6,
+      "toneHeight": 880.53125,
+      "iconSizes": [
+        19.15625,
+        19.15625,
+        19.15625
+      ],
+      "railTrack": "linear-gradient(to right, rgb(239, 21, 97) 0px, rgb(239, 21, 97) 55.8px, rgba(0, 0, 0, 0) 55.8px)",
+      "background": "992px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 86.796875,
+        "y": 242.046875,
+        "width": 846.6875,
+        "height": 16.53125
+      },
+      ".socials": {
+        "x": 86.796875,
+        "y": 147.875,
+        "width": 412.703125,
+        "height": 32
+      },
+      ".footer-nav h2": {
+        "x": 521.53125,
+        "y": 81.96875,
+        "width": 92.65625,
+        "height": 28.546875
+      }
+    }
+  },
+  {
+    "width": 1440,
+    "home": {
+      "testimonials": 1826.359375,
+      "cases": 1215.578125,
+      "quotes": [
+        {
+          "height": 268.796875,
+          "logo": 40,
+          "author": 16
+        },
+        {
+          "height": 268.796875,
+          "logo": 40,
+          "author": 16
+        },
+        {
+          "height": 340.796875,
+          "logo": 40,
+          "author": 16
+        },
+        {
+          "height": 312,
+          "logo": 40,
+          "author": 16
+        },
+        {
+          "height": 340.796875,
+          "logo": 40,
+          "author": 16
+        },
+        {
+          "height": 292.796875,
+          "logo": 40,
+          "author": 16
+        },
+        {
+          "height": 292.796875,
+          "logo": 40,
+          "author": 16
+        },
+        {
+          "height": 292.796875,
+          "logo": 40,
+          "author": 16
+        },
+        {
+          "height": 244.796875,
+          "logo": 40,
+          "author": 16
+        }
+      ],
+      "grayscale": true,
+      "benefits": [
+        "It’s easy",
+        "It’s massive",
+        "It solved my problem"
+      ],
+      "overflow": false
+    },
+    "brand": {
+      "emphasis": [
+        {
+          "text": "#33363D",
+          "weight": "600"
+        },
+        {
+          "text": "#262326",
+          "weight": "600"
+        },
+        {
+          "text": "#080815",
+          "weight": "600"
+        }
+      ],
+      "weight": "400",
+      "emphasizedFont": 18,
+      "bodyFont": 15.9984,
+      "breaks": 6,
+      "toneHeight": 1278.34375,
+      "iconSizes": [
+        27.8125,
+        27.8125,
+        27.8125
+      ],
+      "railTrack": "linear-gradient(to right, rgb(239, 21, 97) 0px, rgb(239, 21, 97) 81px, rgba(0, 0, 0, 0) 81px)",
+      "background": "1440px auto"
+    },
+    "foot": {
+      ".copyright": {
+        "x": 126,
+        "y": 351.375,
+        "width": 1229.046875,
+        "height": 24
+      },
+      ".socials": {
+        "x": 126,
+        "y": 193,
+        "width": 567.046875,
+        "height": 32
+      },
+      ".footer-nav h2": {
+        "x": 757.046875,
+        "y": 119,
+        "width": 119.5,
+        "height": 41
+      }
+    }
+  }
+]

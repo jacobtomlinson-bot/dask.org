@@ -1,0 +1,282 @@
+{
+  "passed": 69,
+  "failed": 0,
+  "results": [
+    {
+      "name": "home 1440: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "home 1440: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "home 1440: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "get-started 1440: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "get-started 1440: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "get-started 1440: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "get-help 1440: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "get-help 1440: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "get-help 1440: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "powered-by 1440: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "powered-by 1440: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "powered-by 1440: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "brand-guide 1440: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "brand-guide 1440: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "brand-guide 1440: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "press-mentions 1440: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "press-mentions 1440: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "press-mentions 1440: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "home 768: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "home 768: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "home 768: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "get-started 768: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "get-started 768: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "get-started 768: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "get-help 768: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "get-help 768: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "get-help 768: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "powered-by 768: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "powered-by 768: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "powered-by 768: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "brand-guide 768: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "brand-guide 768: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "brand-guide 768: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "press-mentions 768: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "press-mentions 768: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "press-mentions 768: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "home 390: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "home 390: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "home 390: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "get-started 390: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "get-started 390: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "get-started 390: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "get-help 390: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "get-help 390: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "get-help 390: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "powered-by 390: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "powered-by 390: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "powered-by 390: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "brand-guide 390: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "brand-guide 390: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "brand-guide 390: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "press-mentions 390: semantic page, local assets, no JS errors",
+      "status": "passed"
+    },
+    {
+      "name": "press-mentions 390: no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "press-mentions 390: navigation",
+      "status": "passed"
+    },
+    {
+      "name": "home: all native tabs + keyboard",
+      "status": "passed"
+    },
+    {
+      "name": "get-started: all native tabs + keyboard",
+      "status": "passed"
+    },
+    {
+      "name": "brand: four logo variants and twelve palette choices",
+      "status": "passed"
+    },
+    {
+      "name": "submission: dialog, all form types, native focus, no network mutation",
+      "status": "passed"
+    },
+    {
+      "name": "native counter: static representative frame in reduced motion",
+      "status": "passed"
+    },
+    {
+      "name": "redirects remain explicitly pending",
+      "status": "passed"
+    },
+    {
+      "name": "independent-review regression suite (see evidence/round2/checks.json)",
+      "status": "passed"
+    },
+    {
+      "name": "round3-checks.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round3-motion.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round3-art-bounds.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round4-checks.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round5-checks.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round6-checks.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round7-checks.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round8-checks.mjs: production-preview regression",
+      "status": "passed"
+    }
+  ]
+}

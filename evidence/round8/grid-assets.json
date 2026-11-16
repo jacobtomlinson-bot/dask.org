@@ -1,0 +1,30 @@
+[
+  {
+    "width": 390,
+    "file": "vector-grid-v.mobile.svg",
+    "reference": "02f1003699d2a481d060e1717351bca1ad221b532cc3a70e4499119cb2715abe",
+    "local": "02f1003699d2a481d060e1717351bca1ad221b532cc3a70e4499119cb2715abe",
+    "equal": true
+  },
+  {
+    "width": 601,
+    "file": "vector-grid-h.mobile3.svg",
+    "reference": "906d6da814e6aef0dc618bfdb251b078ff13ba818475fbdd06fe336d098a040d",
+    "local": "906d6da814e6aef0dc618bfdb251b078ff13ba818475fbdd06fe336d098a040d",
+    "equal": true
+  },
+  {
+    "width": 768,
+    "file": "vector-grid-tablet.svg",
+    "reference": "aa004986da8ef205c027b72932071f0acc8d3260d16c0578eaf21081ad2f98c5",
+    "local": "aa004986da8ef205c027b72932071f0acc8d3260d16c0578eaf21081ad2f98c5",
+    "equal": true
+  },
+  {
+    "width": 1440,
+    "file": "vector-grid.svg",
+    "reference": "ce516d8684c8ba65ad55c650b2563af48b802eb794539a6564219288a5bdf2a3",
+    "local": "ce516d8684c8ba65ad55c650b2563af48b802eb794539a6564219288a5bdf2a3",
+    "equal": true
+  }
+]

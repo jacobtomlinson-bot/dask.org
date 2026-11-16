@@ -1,7 +1,7 @@
 import { chromium } from '@playwright/test';
-export async function referenceBrowser() {
+export async function referenceBrowser(options = {}) {
   const browser = await chromium.launch();
-  const context = await browser.newContext();
+  const context = await browser.newContext(options);
   await context.route('**/*', async (route) => {
     if (!['GET', 'HEAD'].includes(route.request().method()))
       return route.abort();

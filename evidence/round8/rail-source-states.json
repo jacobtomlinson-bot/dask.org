@@ -1,0 +1,101 @@
+[
+  {
+    "state": "initial",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "svg": "rgb(255, 255, 255)"
+      },
+      {
+        "href": "#colors",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "svg": "rgb(255, 255, 255)"
+      },
+      {
+        "href": "#typography",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "svg": "rgb(255, 255, 255)"
+      },
+      {
+        "href": "#tone",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "svg": "rgb(255, 255, 255)"
+      }
+    ]
+  },
+  {
+    "state": "colors",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "nav-left w-inline-block w--current",
+        "bg": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "svg": "rgb(8, 8, 21)"
+      },
+      {
+        "href": "#colors",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "svg": "rgb(255, 255, 255)"
+      },
+      {
+        "href": "#typography",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "svg": "rgb(255, 255, 255)"
+      },
+      {
+        "href": "#tone",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "svg": "rgb(255, 255, 255)"
+      }
+    ]
+  },
+  {
+    "state": "tone",
+    "items": [
+      {
+        "href": "#logos",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(252, 252, 252)",
+        "svg": "rgb(252, 252, 252)"
+      },
+      {
+        "href": "#colors",
+        "cls": "nav-left w-inline-block w--current",
+        "bg": "rgb(246, 246, 246)",
+        "color": "rgb(8, 8, 21)",
+        "svg": "rgb(8, 8, 21)"
+      },
+      {
+        "href": "#typography",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(0, 0, 0, 0)",
+        "color": "rgb(255, 255, 255)",
+        "svg": "rgb(255, 255, 255)"
+      },
+      {
+        "href": "#tone",
+        "cls": "nav-left w-inline-block",
+        "bg": "rgba(246, 246, 246, 0.15)",
+        "color": "rgb(255, 255, 255)",
+        "svg": "rgb(255, 255, 255)"
+      }
+    ]
+  }
+]

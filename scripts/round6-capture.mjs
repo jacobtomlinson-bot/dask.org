@@ -1,10 +1,11 @@
 import fs from 'node:fs/promises';
 import { chromium } from '@playwright/test';
 import { referenceBrowser } from './reference-browser.mjs';
+const dir = process.env.EVIDENCE_DIR || 'evidence/round6';
 const refs = await referenceBrowser(),
   browser = await chromium.launch(),
   rows = await fs
-    .readFile('evidence/round6/capture.json', 'utf8')
+    .readFile(`${dir}/capture.json`, 'utf8')
     .then(JSON.parse)
     .catch(() => []);
 try {
@@ -113,7 +114,7 @@ try {
         if (old >= 0) rows.splice(old, 1);
         rows.push({ label, width, slug, ...data });
         await p.screenshot({
-          path: `evidence/round6/${label}/${slug}-${width}.png`,
+          path: `${dir}/${label}/${slug}-${width}.png`,
           fullPage: true,
         });
         await p.close();
@@ -125,8 +126,5 @@ try {
 } finally {
   await refs.browser.close();
   await browser.close();
-  await fs.writeFile(
-    'evidence/round6/capture.json',
-    JSON.stringify(rows, null, 2),
-  );
+  await fs.writeFile(`${dir}/capture.json`, JSON.stringify(rows, null, 2));
 }

@@ -1,0 +1,10 @@
+390: paragraph 0.21875px / paper 0.125px / diff 0.853%
+479: paragraph 0.21875px / paper 0.125px / diff 4.382%
+480: paragraph 0.0625px / paper 0.06200000000001182px / diff 6.733%
+601: paragraph 0.015625px / paper 0.016000000000019554px / diff 0.447%
+767: paragraph 0.015625px / paper 0.015625px / diff 1.355%
+768: paragraph 0.015625px / paper 0.01587499999999409px / diff 1.921%
+769: paragraph 0.015625px / paper 0.015750000000025466px / diff 1.982%
+991: paragraph 0.03125px / paper 0.031375000000025466px / diff 0.890%
+992: paragraph 0px / paper 0.04737499999998818px / diff 1.188%
+1440: paragraph 0px / paper 0.07437499999991815px / diff 2.286%

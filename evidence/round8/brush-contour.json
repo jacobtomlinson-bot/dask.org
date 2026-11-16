@@ -1,0 +1,18 @@
+[
+  {
+    "state": "before",
+    "inkIoU": 0.6858485026423957,
+    "alignmentCSSpx": [
+      -0.125,
+      0.625
+    ]
+  },
+  {
+    "state": "after",
+    "inkIoU": 0.7613741162004304,
+    "alignmentCSSpx": [
+      -0.125,
+      0.125
+    ]
+  }
+]
