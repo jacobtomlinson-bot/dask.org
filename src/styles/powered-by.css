@@ -1,0 +1,320 @@
+/* powered-by: component-owned base, desktop, tablet, mobile and reduced-motion rules. Keep each selector in its owning tier; do not append refinement layers. */
+.sponsors {
+  padding: 190px calc(var(--gutter) + 44px) 80px;
+  min-height: 641px;
+  padding-top: 197px;
+  padding-bottom: 0;
+  height: 641px;
+}
+.sponsors h2 {
+  margin-bottom: 8px;
+}
+.sponsors .text-link {
+  font-size: 16px;
+}
+.sponsor-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin-top: 80px;
+  gap: 72px;
+}
+.sponsor-card img {
+  width: 100%;
+  height: 108px;
+  object-fit: contain;
+  margin-bottom: 44px;
+}
+.sponsor-card h3 {
+  border-top: 1px solid var(--slate);
+  margin-bottom: 16px;
+  padding-top: 32px;
+}
+.sponsor-card p {
+  font-size: 14px;
+  line-height: 24px;
+}
+.org-section {
+  padding: 220px calc(var(--gutter) + 44px) 0;
+}
+.org-intro {
+  max-width: 473px;
+  min-height: 345px;
+}
+.org-intro h2 {
+  margin-bottom: 16px;
+}
+.org-intro p {
+  font-size: 16px;
+  line-height: 24px;
+}
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 52px 80px;
+  padding-bottom: 28px;
+}
+.logo-grid img {
+  width: 100%;
+  height: 108px;
+  object-fit: contain;
+}
+.org-section.projects {
+  padding-bottom: 158px;
+  min-height: 1757px;
+  padding-top: 245px;
+}
+.projects .org-intro {
+  max-width: 650px;
+  min-height: 265px;
+}
+.metrics {
+  background-color: #f5f7f5;
+  padding: 94px calc(var(--gutter) + 24px) 80px;
+  margin-top: 0;
+  height: 721px;
+  min-height: 721px;
+}
+.metrics h2 {
+  margin-bottom: 124px;
+}
+.metric {
+  border-left: 2px solid var(--slate);
+  padding-left: 24px;
+  margin-bottom: 124px;
+  font-size: 16px;
+  line-height: 24px;
+}
+.metric strong {
+  font-weight: 300;
+  color: var(--blue);
+  font-size: 36px;
+  line-height: 46px;
+}
+.metric small {
+  display: block;
+  font-size: 12px;
+  line-height: 18px;
+}
+.metric .text-link {
+  font-size: 14px;
+}
+.org-section:not(.projects) {
+  height: 1280px;
+  padding-top: 228px;
+}
+.org-section:not(.projects) .org-intro {
+  min-height: 389px;
+}
+.org-section.projects .org-intro {
+  min-height: 236px;
+}
+.metrics .metric:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 992px) {
+  .sponsor-grid {
+    margin-top: 80px;
+  }
+  .org-section.projects {
+    height: 1757px;
+  }
+}
+@media (max-width: 991px) {
+  .sponsors {
+    padding: 120px var(--gutter) 40px;
+  }
+  .sponsor-grid {
+    gap: 32px;
+  }
+  .sponsor-card img {
+    margin-bottom: 24px;
+  }
+  .org-section {
+    padding: 120px var(--gutter) 60px;
+  }
+  .org-section.projects {
+    padding: 120px var(--gutter) 60px;
+  }
+  .org-intro {
+    min-height: 300px;
+  }
+  .logo-grid {
+    gap: 32px;
+  }
+  .metrics {
+    padding: 80px var(--gutter);
+    min-height: 650px;
+  }
+}
+@media (max-width: 991px) and (min-width: 601px) {
+  .sponsors {
+    height: 550px;
+    min-height: 550px;
+    padding: 130px calc(var(--gutter) + 24px) 0;
+  }
+  .org-section:not(.projects) {
+    height: 879px;
+    padding: 150px calc(var(--gutter) + 24px) 0;
+  }
+  .org-section:not(.projects) .org-intro {
+    min-height: 300px;
+    max-width: 242px;
+  }
+  .org-section.projects {
+    height: 1183px;
+    min-height: 1183px;
+    padding: 180px calc(var(--gutter) + 24px) 80px;
+  }
+  .sponsor-grid {
+    gap: 36px;
+    margin-top: 56px;
+  }
+  .sponsor-card img {
+    height: 80px;
+    margin-bottom: 28px;
+  }
+  .sponsor-card h3 {
+    padding-top: 20px;
+    font-size: 16.84px;
+    line-height: 26.95px;
+    margin-bottom: 12px;
+  }
+  .sponsor-card p {
+    font-size: 11.79px;
+    line-height: 20.21px;
+  }
+  .sponsors .text-link {
+    font-size: 13.475px;
+  }
+  .org-intro p {
+    font-size: 13.475px;
+    line-height: 20.21px;
+  }
+  .logo-grid {
+    gap: 28px 50px;
+    padding-bottom: 0;
+  }
+  .logo-grid img {
+    height: 58px;
+  }
+  .org-section.projects .org-intro {
+    min-height: 160px;
+    max-width: none;
+  }
+  .metrics {
+    height: 759px;
+    min-height: 759px;
+    padding: 92px calc(var(--gutter) + 13px) 80px;
+  }
+  .metrics h2 {
+    margin-bottom: 100px;
+  }
+  .metric {
+    margin-bottom: 140px;
+  }
+  .metric strong {
+    font-size: 30.31px;
+    line-height: 35.37px;
+  }
+}
+@media (max-width: 600px) {
+  .sponsor-grid {
+    display: block;
+    margin-top: 44px;
+  }
+  .sponsor-card {
+    display: block;
+    margin-bottom: 48px;
+  }
+  .sponsor-card img {
+    margin-bottom: 20px;
+    height: 130px;
+  }
+  .sponsor-card h3 {
+    font-size: 20.8px;
+    line-height: 33.28px;
+    padding-top: 24px;
+  }
+  .org-section {
+    padding: 80px var(--gutter);
+  }
+  .org-section.projects {
+    min-height: 5600px;
+    height: 5600px;
+    padding: 112px 10.8vw 80px;
+    padding-top: 112px;
+  }
+  .org-intro {
+    min-height: 0;
+    margin-bottom: 80px;
+  }
+  .projects .org-intro {
+    min-height: 0;
+    margin-bottom: 100px;
+  }
+  .logo-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 0 20px;
+    gap: 52px;
+  }
+  .metrics {
+    padding: 100px 10.8vw;
+    height: 986px;
+    min-height: 986px;
+  }
+  .metrics h2 {
+    margin-bottom: 80px;
+    font-size: 29.12px;
+    line-height: 33.28px;
+  }
+  .metric {
+    padding-left: 20px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+  }
+  .sponsors {
+    height: 1400px;
+    min-height: 1400px;
+    padding: 68px 10.8vw 0;
+    padding-top: 68px;
+  }
+  .sponsors h2 {
+    font-size: 29.12px;
+    line-height: 33.28px;
+  }
+  .sponsors .text-link {
+    font-size: 14.56px;
+  }
+  .sponsor-card p {
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .org-section:not(.projects) {
+    height: 3665px;
+    padding: 238px 10.8vw 80px;
+    padding-top: 238px;
+  }
+  .org-intro h2 {
+    font-size: 29.12px;
+    line-height: 33.28px;
+  }
+  .org-intro p {
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .org-section:not(.projects) .org-intro {
+    margin-bottom: 100px;
+    min-height: 0;
+  }
+  .logo-grid img {
+    height: 140px;
+  }
+  .metric strong {
+    font-size: 29.12px;
+    line-height: 33.28px;
+  }
+  .org-section.projects .org-intro {
+    min-height: 0;
+  }
+}

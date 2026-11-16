@@ -1,5 +1,6 @@
 import { chromium, expect } from '@playwright/test';
-import { spawn } from 'node:child_process';
+import { spawn, execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 import fs from 'node:fs/promises';
 const base = process.env.BASE_URL || 'http://127.0.0.1:4322';
 let server;
@@ -222,14 +223,13 @@ try {
   );
   await page.goto(base + '/');
   await check(
-    'cost slider: local calculation changes without requests',
+    'native counter: static representative frame in reduced motion',
     async () => {
-      await page.locator('#rows').evaluate((e) => {
-        e.value = '1000000000000';
-        e.dispatchEvent(new Event('input', { bubbles: true }));
-      });
-      await expect(page.locator('#rows-value')).toHaveText('1,000,000,000,000');
-      await expect(page.locator('#cost-value')).toHaveText('$　0.13');
+      await expect(page.locator('#rows-value')).toHaveText(
+        '1 0 0 0 0 0 0 0 0 0 0 0',
+      );
+      await expect(page.locator('#cost-value')).toHaveText('1.07');
+      expect(await page.locator('input[type=range]').count()).toBe(0);
     },
   );
   await check('redirects remain explicitly pending', async () => {
@@ -242,6 +242,20 @@ try {
     ).toBe(true);
   });
   await page.close();
+  await check(
+    'independent-review regression suite (see evidence/round2/checks.json)',
+    async () => {
+      const { stdout } = await promisify(execFile)(
+        process.execPath,
+        ['scripts/round2-checks.mjs'],
+        {
+          env: { ...process.env, BASE_URL: base },
+          maxBuffer: 1024 * 1024,
+        },
+      );
+      console.log(stdout.trim());
+    },
+  );
 } finally {
   await browser.close();
   server?.kill();

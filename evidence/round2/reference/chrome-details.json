@@ -1,0 +1,347 @@
+[
+  {
+    "tag": "NAV",
+    "cls": "dropdown-list w-dropdown-list w--open",
+    "text": "Demo Day.cls-1{fill:#ebeaee;}Get Help.cl",
+    "r": [
+      1034.09375,
+      99.984375,
+      240,
+      198
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "padding": "24px 24px 24px 16px",
+    "margin": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "dropdown-link plausible-event-name--top-nav plausible-event-position--dropdown-1 w-dropdown-link",
+    "text": "Demo Day",
+    "r": [
+      1066.09375,
+      123.984375,
+      80,
+      34
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "padding": "0px 0px 10px",
+    "margin": "0px 0px 0px 16px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "dropdown-link plausible-event-name--top-nav plausible-event-position--dropdown-2 w-dropdown-link",
+    "text": "Get Help",
+    "r": [
+      1066.09375,
+      181.984375,
+      67,
+      34
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "padding": "0px 0px 10px",
+    "margin": "0px 0px 0px 16px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "dropdown-link plausible-event-name--top-nav plausible-event-position--dropdown-3 w-dropdown-link",
+    "text": "Powered By",
+    "r": [
+      1066.09375,
+      239.984375,
+      91,
+      34
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "padding": "0px 0px 10px",
+    "margin": "0px 0px 0px 16px",
+    "gap": "normal"
+  },
+  {
+    "tag": "DIV",
+    "cls": "footer",
+    "text": "Get StartedLatestCommunityGet HelpPowere",
+    "r": [
+      0,
+      7785.046875,
+      1440,
+      481.765625
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "DIV",
+    "cls": "footer-container w-container",
+    "text": "Get StartedLatestCommunityGet HelpPowere",
+    "r": [
+      0,
+      7785.046875,
+      1440,
+      481.765625
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "padding": "81px 82.08px",
+    "margin": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "brand-logo footer-logo w-nav-brand w--current",
+    "text": "",
+    "r": [
+      126.078125,
+      7898.03125,
+      152,
+      47.984375
+    ],
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Latest",
+    "r": [
+      757.109375,
+      7971.84375,
+      119.546875,
+      24
+    ],
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 0px 15.9984px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav",
+    "text": "Community",
+    "r": [
+      916.640625,
+      7904.046875,
+      119.546875,
+      24
+    ],
+    "font": "600 18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Get Help",
+    "r": [
+      916.640625,
+      7971.84375,
+      119.546875,
+      24
+    ],
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 0px 15.9984px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Powered By",
+    "r": [
+      916.640625,
+      8011.828125,
+      119.546875,
+      24
+    ],
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 0px 15.9984px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Demo Day",
+    "r": [
+      916.640625,
+      8051.8125,
+      119.546875,
+      24
+    ],
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 0px 15.9984px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav",
+    "text": "Blog",
+    "r": [
+      1076.171875,
+      7904.046875,
+      119.546875,
+      24
+    ],
+    "font": "600 18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Dask Blog",
+    "r": [
+      1076.171875,
+      7971.84375,
+      119.546875,
+      24
+    ],
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 0px 15.9984px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Contribute",
+    "r": [
+      1076.171875,
+      8011.828125,
+      119.546875,
+      24
+    ],
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 0px 15.9984px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav",
+    "text": "Brand",
+    "r": [
+      1235.703125,
+      7904.046875,
+      119.546875,
+      24
+    ],
+    "font": "600 18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "text-medium footer-nav reg",
+    "text": "Brand Guidelines",
+    "r": [
+      1235.703125,
+      7971.84375,
+      119.546875,
+      48
+    ],
+    "font": "18px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 0px 15.9984px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "go to github page",
+    "r": [
+      126.078125,
+      7978.03125,
+      31.984375,
+      31.984375
+    ],
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 8.0064px 0px 0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "go to twitter page",
+    "r": [
+      166.0625,
+      7978.03125,
+      31.984375,
+      31.984375
+    ],
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 8.0064px 0px 0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "go to youtube page",
+    "r": [
+      206.046875,
+      7978.03125,
+      31.984375,
+      31.984375
+    ],
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 8.0064px 0px 0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "go to stackoverflow. page",
+    "r": [
+      246.03125,
+      7978.03125,
+      31.984375,
+      31.984375
+    ],
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 8.0064px 0px 0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "A",
+    "cls": "social-media-icon w-nav-brand",
+    "text": "go to dask discourse group page",
+    "r": [
+      286.015625,
+      7978.03125,
+      31.984375,
+      31.984375
+    ],
+    "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "0px 8.0064px 0px 0px",
+    "gap": "normal"
+  },
+  {
+    "tag": "P",
+    "cls": "text-tiny white copyright",
+    "text": "Copyright © 2026 Dask core developers. N",
+    "r": [
+      126.078125,
+      8136.4375,
+      461.453125,
+      24
+    ],
+    "font": "11.9952px / 24.0048px Inter, sans-serif",
+    "padding": "0px",
+    "margin": "24.0048px 0px 15.9984px",
+    "gap": "normal"
+  }
+]

@@ -221,8 +221,16 @@ if (!reduceMotion.matches) {
         const cycle = () => {
           if (!root.isConnected || reduceMotion.matches) return;
           index = (index + 1) % frames.length;
-          code.textContent = frames[index];
-          setTimeout(cycle, 4000);
+          const next = frames[index];
+          let cursor = 0;
+          code.textContent = '';
+          const type = () => {
+            if (!root.isConnected || reduceMotion.matches) return;
+            code.textContent = next.slice(0, ++cursor);
+            if (cursor < next.length) setTimeout(type, 24);
+            else setTimeout(cycle, 4000);
+          };
+          type();
         };
         setTimeout(cycle, 4000);
       }
@@ -233,3 +241,92 @@ if (!reduceMotion.matches) {
     .querySelectorAll<HTMLElement>('[data-loop-codes]')
     .forEach((e) => observer.observe(e));
 }
+
+// Persistent brand navigation follows the section nearest the sticky rail.
+const brandLinks = [
+  ...document.querySelectorAll<HTMLAnchorElement>('.brand-sidebar a'),
+];
+if (brandLinks.length) {
+  let pending = false;
+  const updateBrandSection = () => {
+    const offset = matchMedia('(max-width:600px)').matches ? 82 : 26;
+    let active: HTMLAnchorElement | undefined;
+    for (const link of brandLinks) {
+      if (
+        document.querySelector(link.hash)!.getBoundingClientRect().top <=
+        offset + 12
+      )
+        active = link;
+    }
+    for (const link of brandLinks) {
+      if (link === active) link.setAttribute('aria-current', 'location');
+      else link.removeAttribute('aria-current');
+    }
+    pending = false;
+  };
+  const observe = new IntersectionObserver(updateBrandSection, {
+    threshold: [0, 0.1, 0.5, 1],
+  });
+  brandLinks.forEach((link) =>
+    observe.observe(document.querySelector(link.hash)!),
+  );
+  addEventListener(
+    'scroll',
+    () => {
+      if (!pending) {
+        pending = true;
+        requestAnimationFrame(updateBrandSection);
+      }
+    },
+    { passive: true },
+  );
+  addEventListener('resize', updateBrandSection);
+  updateBrandSection();
+}
+// Locally drawn dashboard, resource gauges and rolling counters: no animation runtime.
+const illustrations = document.querySelectorAll<HTMLElement>(
+  '[data-illustration]',
+);
+const artObserver = new IntersectionObserver(
+  (entries) => {
+    for (const entry of entries) {
+      const root = entry.target as HTMLElement;
+      root.classList.toggle(
+        'is-playing',
+        entry.isIntersecting && !reduceMotion.matches,
+      );
+      if (!entry.isIntersecting) root.dataset.started = '';
+      if (
+        root.dataset.illustration !== 'counter' ||
+        !entry.isIntersecting ||
+        reduceMotion.matches ||
+        root.dataset.started
+      )
+        continue;
+      root.dataset.started = 'true';
+      const start = performance.now();
+      const tick = (now: number) => {
+        if (
+          !root.isConnected ||
+          reduceMotion.matches ||
+          !root.classList.contains('is-playing')
+        )
+          return;
+        const phase = ((now - start) % 12000) / 12000;
+        const progress = Math.min(1, phase * 1.6);
+        const rows = Math.round(progress * 1e11);
+        root.querySelector('#rows-value')!.textContent = String(rows)
+          .padStart(12, '0')
+          .split('')
+          .join(' ');
+        root.querySelector('#cost-value')!.textContent = (
+          progress * 1.07
+        ).toFixed(2);
+        requestAnimationFrame(tick);
+      };
+      requestAnimationFrame(tick);
+    }
+  },
+  { threshold: 0.1 },
+);
+illustrations.forEach((art) => artObserver.observe(art));

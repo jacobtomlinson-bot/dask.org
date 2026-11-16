@@ -1,0 +1,344 @@
+[
+  {
+    "name": "dashboard",
+    "width": 1440,
+    "afterScrollTargetMs": 0,
+    "actualAfterScrollMs": 129,
+    "referenceSize": [
+      577,
+      324
+    ],
+    "localSize": [
+      576,
+      322
+    ],
+    "pixelsDifferentPercent": 16.96995956094743,
+    "localText": "FILE.IPYNB　⊗# Arrays implement the NumPy APIimport dask.array as dax = da.random.random(size=(1000, 1000),PROGRESS STREAM　×TASK STREAM　×"
+  },
+  {
+    "name": "dashboard",
+    "width": 1440,
+    "afterScrollTargetMs": 1500,
+    "actualAfterScrollMs": 1609,
+    "referenceSize": [
+      577,
+      324
+    ],
+    "localSize": [
+      576,
+      322
+    ],
+    "pixelsDifferentPercent": 16.515287673577678,
+    "localText": "FILE.IPYNB　⊗# DataFrames implement the pandas API\nimport PROGRESS STREAM　×TASK STREAM　×"
+  },
+  {
+    "name": "dashboard",
+    "width": 1440,
+    "afterScrollTargetMs": 4000,
+    "actualAfterScrollMs": 4114,
+    "referenceSize": [
+      577,
+      324
+    ],
+    "localSize": [
+      576,
+      322
+    ],
+    "pixelsDifferentPercent": 23.378158632346963,
+    "localText": "FILE.IPYNB　⊗# DataFrames implement the pandas API\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data/*.parquet\")\ndf.value.mean().compute()PROGRESS STREAM　×TASK STREAM　×"
+  },
+  {
+    "name": "dashboard",
+    "width": 1440,
+    "assertion": "native normal-motion frame changes",
+    "pixelsChanged": 2.5976966873706004
+  },
+  {
+    "name": "gauges",
+    "width": 1440,
+    "afterScrollTargetMs": 0,
+    "actualAfterScrollMs": 152,
+    "referenceSize": [
+      586,
+      350
+    ],
+    "localSize": [
+      589,
+      350
+    ],
+    "pixelsDifferentPercent": 15.522192578219745,
+    "localText": "MEMORYUSAGE2TiB0TiB4TiBCPUUSAGE50,000%0%100,000%"
+  },
+  {
+    "name": "gauges",
+    "width": 1440,
+    "afterScrollTargetMs": 1500,
+    "actualAfterScrollMs": 1629,
+    "referenceSize": [
+      586,
+      350
+    ],
+    "localSize": [
+      589,
+      350
+    ],
+    "pixelsDifferentPercent": 15.730778559301479,
+    "localText": "MEMORYUSAGE2TiB0TiB4TiBCPUUSAGE50,000%0%100,000%"
+  },
+  {
+    "name": "gauges",
+    "width": 1440,
+    "afterScrollTargetMs": 4000,
+    "actualAfterScrollMs": 4124,
+    "referenceSize": [
+      586,
+      350
+    ],
+    "localSize": [
+      589,
+      350
+    ],
+    "pixelsDifferentPercent": 19.68421052631579,
+    "localText": "MEMORYUSAGE2TiB0TiB4TiBCPUUSAGE50,000%0%100,000%"
+  },
+  {
+    "name": "gauges",
+    "width": 1440,
+    "assertion": "native normal-motion frame changes",
+    "pixelsChanged": 6.742178025709435
+  },
+  {
+    "name": "counter",
+    "width": 1440,
+    "afterScrollTargetMs": 0,
+    "actualAfterScrollMs": 121,
+    "referenceSize": [
+      907,
+      232
+    ],
+    "localSize": [
+      906,
+      168
+    ],
+    "pixelsDifferentPercent": 5.066912519484469,
+    "localText": "Rows of Data Computed0 0 2 6 3 5 9 9 9 9 9 9Cost$0.03"
+  },
+  {
+    "name": "counter",
+    "width": 1440,
+    "afterScrollTargetMs": 1500,
+    "actualAfterScrollMs": 1611,
+    "referenceSize": [
+      907,
+      232
+    ],
+    "localSize": [
+      906,
+      168
+    ],
+    "pixelsDifferentPercent": 5.131068699387903,
+    "localText": "Rows of Data Computed0 2 2 6 3 4 6 6 6 6 6 6Cost$0.24"
+  },
+  {
+    "name": "counter",
+    "width": 1440,
+    "afterScrollTargetMs": 4000,
+    "actualAfterScrollMs": 4111,
+    "referenceSize": [
+      907,
+      232
+    ],
+    "localSize": [
+      906,
+      168
+    ],
+    "pixelsDifferentPercent": 5.187621183895374,
+    "localText": "Rows of Data Computed0 5 5 9 6 6 6 6 6 6 6 6Cost$0.60"
+  },
+  {
+    "name": "counter",
+    "width": 1440,
+    "assertion": "native normal-motion frame changes",
+    "pixelsChanged": 0.5144276253547777
+  },
+  {
+    "name": "dashboard",
+    "width": 390,
+    "afterScrollTargetMs": 0,
+    "actualAfterScrollMs": 68,
+    "referenceSize": [
+      360,
+      243
+    ],
+    "localSize": [
+      361,
+      247
+    ],
+    "pixelsDifferentPercent": 17.263113035091457,
+    "localText": "FILE.IPYNB　⊗# Arrays implement the NumPy APIimport dask.array as dax = da.random.random(size=(1000, 1000),PROGRESS STREAM　×TASK STREAM　×"
+  },
+  {
+    "name": "dashboard",
+    "width": 390,
+    "afterScrollTargetMs": 1500,
+    "actualAfterScrollMs": 1571,
+    "referenceSize": [
+      360,
+      243
+    ],
+    "localSize": [
+      361,
+      247
+    ],
+    "pixelsDifferentPercent": 16.42087319299741,
+    "localText": "FILE.IPYNB　⊗# DataFrames implement thPROGRESS STREAM　×TASK STREAM　×"
+  },
+  {
+    "name": "dashboard",
+    "width": 390,
+    "afterScrollTargetMs": 4000,
+    "actualAfterScrollMs": 4070,
+    "referenceSize": [
+      360,
+      243
+    ],
+    "localSize": [
+      361,
+      247
+    ],
+    "pixelsDifferentPercent": 20.999921495620576,
+    "localText": "FILE.IPYNB　⊗# DataFrames implement the pandas API\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data/*.parquet\")\ndf.value.mean().cPROGRESS STREAM　×TASK STREAM　×"
+  },
+  {
+    "name": "dashboard",
+    "width": 390,
+    "assertion": "native normal-motion frame changes",
+    "pixelsChanged": 3.200735698184306
+  },
+  {
+    "name": "gauges",
+    "width": 390,
+    "afterScrollTargetMs": 0,
+    "actualAfterScrollMs": 72,
+    "referenceSize": [
+      321,
+      156
+    ],
+    "localSize": [
+      324,
+      157
+    ],
+    "pixelsDifferentPercent": 11.651726036014784,
+    "localText": "MEMORYUSAGE2TiB0TiB4TiBCPUUSAGE50,000%0%100,000%"
+  },
+  {
+    "name": "gauges",
+    "width": 390,
+    "afterScrollTargetMs": 1500,
+    "actualAfterScrollMs": 1549,
+    "referenceSize": [
+      321,
+      156
+    ],
+    "localSize": [
+      324,
+      157
+    ],
+    "pixelsDifferentPercent": 12.318156797986946,
+    "localText": "MEMORYUSAGE2TiB0TiB4TiBCPUUSAGE50,000%0%100,000%"
+  },
+  {
+    "name": "gauges",
+    "width": 390,
+    "afterScrollTargetMs": 4000,
+    "actualAfterScrollMs": 4047,
+    "referenceSize": [
+      321,
+      156
+    ],
+    "localSize": [
+      324,
+      157
+    ],
+    "pixelsDifferentPercent": 19.068962805693168,
+    "localText": "MEMORYUSAGE2TiB0TiB4TiBCPUUSAGE50,000%0%100,000%"
+  },
+  {
+    "name": "gauges",
+    "width": 390,
+    "assertion": "native normal-motion frame changes",
+    "pixelsChanged": 9.290713218526383
+  },
+  {
+    "name": "counter",
+    "width": 390,
+    "afterScrollTargetMs": 0,
+    "actualAfterScrollMs": 43,
+    "referenceSize": [
+      310,
+      284
+    ],
+    "localSize": [
+      312,
+      200
+    ],
+    "pixelsDifferentPercent": 10.441495124593716,
+    "localText": "Rows of Data Computed0 0 1 5 3 6 0 0 0 0 0 0Cost$0.02"
+  },
+  {
+    "name": "counter",
+    "width": 390,
+    "afterScrollTargetMs": 1500,
+    "actualAfterScrollMs": 1574,
+    "referenceSize": [
+      310,
+      284
+    ],
+    "localSize": [
+      312,
+      200
+    ],
+    "pixelsDifferentPercent": 10.405381003972552,
+    "localText": "Rows of Data Computed0 2 1 9 7 8 6 6 6 6 6 7Cost$0.24"
+  },
+  {
+    "name": "counter",
+    "width": 390,
+    "afterScrollTargetMs": 4000,
+    "actualAfterScrollMs": 4054,
+    "referenceSize": [
+      310,
+      284
+    ],
+    "localSize": [
+      312,
+      200
+    ],
+    "pixelsDifferentPercent": 10.432466594438425,
+    "localText": "Rows of Data Computed0 5 4 8 6 6 6 6 6 6 6 7Cost$0.59"
+  },
+  {
+    "name": "counter",
+    "width": 390,
+    "assertion": "native normal-motion frame changes",
+    "pixelsChanged": 1.1442307692307692
+  },
+  {
+    "name": "dashboard",
+    "width": 390,
+    "assertion": "reduced-motion static frame",
+    "pixelsChanged": 0
+  },
+  {
+    "name": "gauges",
+    "width": 390,
+    "assertion": "reduced-motion static frame",
+    "pixelsChanged": 0
+  },
+  {
+    "name": "counter",
+    "width": 390,
+    "assertion": "reduced-motion static frame",
+    "pixelsChanged": 0
+  }
+]

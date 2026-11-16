@@ -4,6 +4,10 @@ export const workloads = [
     title: 'Big Pandas',
     text: 'Dask DataFrames use pandas under the hood, so your current code likely just works. It’s faster than Spark and easier too.',
     href: docs + 'dataframe.html',
+    secondary: {
+      label: 'Performance Benchmarks',
+      href: 'https://docs.coiled.io/blog/tpch.html?utm_source=dask.org&utm_medium=homepage',
+    },
     logos: ['Parquet_logo.svg', 'Apache-arrow-logo.svg', 'Pandas_logo.svg'],
     code: `import dask.dataframe as dd\n\ndf = dd.read_parquet("s3://data/uber/")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()`,
   },
@@ -11,6 +15,10 @@ export const workloads = [
     title: 'Parallel For Loops',
     text: 'Parallelize your Python code, no matter how complex. Dask is flexible and supports arbitrary dependencies and fine-grained task scheduling.',
     href: docs + 'futures.html',
+    secondary: {
+      label: 'Process 5,000 files in parallel',
+      href: 'https://docs.coiled.io/user_guide/arxiv-matplotlib.html?utm_source=dask.org&utm_medium=homepage',
+    },
     logos: [],
     code: `from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)`,
   },
@@ -18,6 +26,10 @@ export const workloads = [
     title: 'Big Arrays',
     text: 'Use Dask and NumPy/Xarray to churn through terabytes of multi-dimensional array data in formats like HDF, NetCDF, TIFF, or Zarr.',
     href: docs + 'array.html',
+    secondary: {
+      label: 'Aggregate 250 TB of Water Model Data',
+      href: 'https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage',
+    },
     logos: ['NumPy-logo.svg', 'Xarray-Logo.svg', 'zarr-logo.svg'],
     code: `import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset("data/*.nc")\n\n# Process across dimensions\nds.mean(dims=["lat", "lon"]).compute()`,
   },
@@ -25,6 +37,10 @@ export const workloads = [
     title: 'Machine Learning',
     text: 'Use Dask with common machine learning libraries to train or predict on large datasets, increasing model accuracy by using all of your data.',
     href: docs + 'ml.html',
+    secondary: {
+      label: 'Example: XGBoost Model Training',
+      href: 'https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage',
+    },
     logos: [
       'xGBoost-logo.svg',
       'PyTorch_logo_black-1.svg',

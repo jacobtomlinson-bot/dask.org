@@ -1,0 +1,183 @@
+/* press-mentions: component-owned base, desktop, tablet, mobile and reduced-motion rules. Keep each selector in its owning tier; do not append refinement layers. */
+.press-section {
+  padding: 81px var(--gutter) 100px;
+  display: grid;
+  grid-template-columns: 25% 75%;
+  gap: 0;
+  padding-bottom: 117px;
+}
+.press-aside {
+  padding: 24px 44px;
+}
+.press-aside button {
+  border: 0;
+  background: none;
+  padding: 0;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: var(--yellow);
+  text-underline-offset: 4px;
+  position: sticky;
+  top: 30px;
+}
+.press-list {
+  display: grid;
+  gap: 12px;
+  min-width: 0;
+}
+.press-card {
+  display: grid;
+  align-items: center;
+  background: #f5f7f5;
+  padding: 32px 44px 36px;
+  min-height: 131px;
+  grid-template-columns: 158px 1fr;
+  gap: 52px;
+  padding-bottom: 34px;
+  min-width: 0;
+}
+.press-card img {
+  height: 65px;
+  object-fit: contain;
+  padding-right: 0;
+  width: 160px;
+}
+.press-card > div {
+  border-left: 2px solid #33363d;
+  padding-left: 46px;
+  min-width: 0;
+}
+.press-card time {
+  font-size: 16px;
+  color: var(--blue);
+}
+.press-card h2 {
+  font-size: 20px;
+  line-height: 32px;
+  font-weight: 700;
+}
+.press-card:hover h2 {
+  text-decoration: underline;
+  text-decoration-color: var(--yellow);
+}
+@media (max-width: 1100px) {
+  .press-card {
+    grid-template-columns: 140px 1fr;
+    gap: 24px;
+    padding: 28px;
+  }
+  .press-card img {
+    width: 140px;
+  }
+  .press-card > div {
+    padding-left: 24px;
+  }
+}
+@media (max-width: 991px) {
+  .press-section {
+    grid-template-columns: 20% 80%;
+  }
+  .press-aside {
+    padding: 16px 20px 16px 0;
+  }
+  .press-card {
+    grid-template-columns: 110px 1fr;
+    gap: 20px;
+    padding: 24px;
+  }
+  .press-card img {
+    width: 110px;
+  }
+  .press-card h2 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+}
+@media (max-width: 991px) and (min-width: 601px) {
+  .press-section {
+    height: 1361px;
+    padding: 55.45px var(--gutter);
+    grid-template-columns: 25% 75%;
+  }
+  .press-aside {
+    padding: 20px 22px 0;
+  }
+  .press-aside button {
+    font-size: 13.475px;
+  }
+  .press-list {
+    gap: 8px;
+  }
+  .press-card {
+    padding: 26px 29px;
+    grid-template-columns: 100px 1fr;
+    gap: 50px;
+    min-height: 118px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+  }
+  .press-card img {
+    width: 100px;
+    height: 50px;
+  }
+  .press-card > div {
+    padding-left: 28px;
+    border-left-width: 1px;
+  }
+  .press-card time {
+    font-size: 13.475px;
+    line-height: 20.21px;
+  }
+  .press-card h2 {
+    font-size: 16.84px;
+    line-height: 26.95px;
+  }
+}
+@media (max-width: 600px) {
+  .press-section {
+    display: block;
+    padding: 85.8px var(--gutter) 81.9px;
+    padding-bottom: 121px;
+  }
+  .press-card {
+    display: block;
+    min-height: 0;
+    padding: 28px 25px 22px;
+  }
+  .press-card img {
+    display: block;
+    object-position: left;
+    width: auto;
+    max-width: 160px;
+    height: 70px;
+    margin: 0 0 26px;
+  }
+  .press-card > div {
+    border: 0;
+    padding: 0;
+    padding-left: 0;
+    border-top: 2px solid #33363d;
+    padding-top: 31px;
+  }
+  .press-aside {
+    padding: 27px 0 110px;
+    text-align: center;
+  }
+  .press-card time {
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .press-card h2 {
+    font-size: 20.8px;
+    line-height: 33.28px;
+    width: auto;
+    max-width: 100%;
+    overflow-wrap: break-word;
+  }
+  .press-list {
+    gap: 19.5px;
+  }
+  .press-aside button {
+    font-size: 16.64px;
+  }
+}

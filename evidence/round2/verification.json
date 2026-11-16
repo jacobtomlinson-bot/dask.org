@@ -1,0 +1,18 @@
+{
+  "verifiedAt": "2026-11-16T09:55:52.432Z",
+  "implementationBase": "acfc9b7f23076fd1dde46ff90b8e6869c3ed86b1",
+  "build": "passed: six requested routes plus 404",
+  "productionTestGroups": {
+    "passed": 61,
+    "failed": 0
+  },
+  "focusedRegressions": {
+    "passed": 141,
+    "failed": 0
+  },
+  "nativeMotionAssertions": 9,
+  "originalNativeMotionComparisons": 18,
+  "visualViews": 18,
+  "interactiveComparisons": 31,
+  "scope": "local only; no independent acceptance claimed; exact review SHA is supplied in handoff"
+}

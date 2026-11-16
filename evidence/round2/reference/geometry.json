@@ -1,0 +1,6106 @@
+[
+  {
+    "width": 1440,
+    "route": "/",
+    "elements": [
+      {
+        "tag": "A",
+        "text": "",
+        "href": "/",
+        "class": "brand w-nav-brand w--current",
+        "rect": {
+          "x": 79.90625,
+          "y": 24.421875,
+          "w": 134.265625,
+          "h": 42.125
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Blog",
+        "href": "/blog",
+        "class": "nav-link hide-mobile plausible-event-name--top-nav plausible-event-position--blog w-nav-link",
+        "rect": {
+          "x": 1215.09375,
+          "y": 32.984375,
+          "w": 35,
+          "h": 25
+        },
+        "font": "600 16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Docs",
+        "href": "https://docs.dask.org/en/stable/",
+        "class": "nav-button plausible-event-name--top-nav plausible-event-position--docs w-button",
+        "rect": {
+          "x": 1290.09375,
+          "y": 24.484375,
+          "w": 70,
+          "h": 42
+        },
+        "font": "600 16px / 24px Inter, sans-serif",
+        "padding": "9px 15px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H1",
+        "text": "Parallel Python",
+        "href": null,
+        "class": "heading-large-box hero-h",
+        "rect": {
+          "x": 81,
+          "y": 182.359375,
+          "w": 393,
+          "h": 81
+        },
+        "font": "700 45.9936px / 56.0016px Inter, sans-serif",
+        "padding": "8.0064px 24.0048px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Fast and Easy",
+        "href": null,
+        "class": "heading-large-box hero-h",
+        "rect": {
+          "x": 81,
+          "y": 271.359375,
+          "w": 365,
+          "h": 81
+        },
+        "font": "700 45.9936px / 56.0016px Inter, sans-serif",
+        "padding": "8.0064px 24.0048px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Easy Parallel Python that does what you need",
+        "href": null,
+        "class": "text-medium hero-p",
+        "rect": {
+          "x": 109,
+          "y": 372.359375,
+          "w": 393,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Get started",
+        "href": "https://docs.dask.org/en/stable/",
+        "class": "button plausible-event-name--hero-get-started w-button",
+        "rect": {
+          "x": 109,
+          "y": 425.390625,
+          "w": 131.96875,
+          "h": 50.96875
+        },
+        "font": "600 18px / 27px Inter, sans-serif",
+        "padding": "11.9952px 15.9984px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "DIV",
+        "text": "",
+        "href": null,
+        "class": "herohome-lottie",
+        "rect": {
+          "x": 721.015625,
+          "y": 172.984375,
+          "w": 576,
+          "h": 322.265625
+        },
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 721.015625,
+          "y": 172.984375,
+          "w": 576,
+          "h": 316.265625
+        },
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "What you can do with Dask",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 412.765625,
+          "y": 582.140625,
+          "w": 613,
+          "h": 56
+        },
+        "font": "700 45.9936px / 56.0016px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Big Pandas",
+        "href": "#w-tabs-1-data-w-pane-0",
+        "class": "home-tab-link plausible-event-name--hero-tab-pandas w-inline-block w-tab-link w--current",
+        "rect": {
+          "x": 352.765625,
+          "y": 684.46875,
+          "w": 96,
+          "h": 49.96875
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "11.9952px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Parallel For Loops",
+        "href": "#w-tabs-1-data-w-pane-1",
+        "class": "home-tab-link plausible-event-name--hero-tab-futures w-inline-block w-tab-link",
+        "rect": {
+          "x": 528.765625,
+          "y": 684.46875,
+          "w": 154,
+          "h": 49.96875
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "11.9952px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Big Arrays",
+        "href": "#w-tabs-1-data-w-pane-2",
+        "class": "home-tab-link plausible-event-name--hero-tab-array w-inline-block w-tab-link",
+        "rect": {
+          "x": 762.765625,
+          "y": 684.46875,
+          "w": 89,
+          "h": 49.96875
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "11.9952px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Machine Learning",
+        "href": "#w-tabs-1-data-w-pane-3",
+        "class": "home-tab-link plausible-event-name--hero-tab-ml w-inline-block w-tab-link",
+        "rect": {
+          "x": 931.765625,
+          "y": 684.46875,
+          "w": 154,
+          "h": 49.96875
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "11.9952px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Big Pandas",
+        "href": null,
+        "class": "heading-medium",
+        "rect": {
+          "x": 186,
+          "y": 775.953125,
+          "w": 195,
+          "h": 46
+        },
+        "font": "600 36px / 45.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Dask DataFrames use pandas under the hood, so your current code likely just works. It’s faster than Spark and ",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 186,
+          "y": 836.34375,
+          "w": 537.59375,
+          "h": 48
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Documentation",
+        "href": "https://docs.dask.org/en/stable/dataframe.html",
+        "class": "button plausible-event-name--hero-tab-pandas plausible-event-location--button w-button",
+        "rect": {
+          "x": 186,
+          "y": 920.328125,
+          "w": 165.96875,
+          "h": 50.96875
+        },
+        "font": "600 18px / 27px Inter, sans-serif",
+        "padding": "11.9952px 15.9984px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Performance Benchmarks",
+        "href": "https://docs.coiled.io/blog/tpch.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "link white no-pad plausible-event-name--hero-tab-pandas plausible-event-position--link",
+        "rect": {
+          "x": 375.96875,
+          "y": 933.3125,
+          "w": 198,
+          "h": 25
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Performance at Scale",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 476.5,
+          "y": 1381.34375,
+          "w": 487,
+          "h": 56
+        },
+        "font": "700 45.9936px / 56.0016px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Fast on Machines",
+        "href": null,
+        "class": "heading-small",
+        "rect": {
+          "x": 130.984375,
+          "y": 1562.953125,
+          "w": 171,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Dask is lightweight, and runs your raw code on your machines without getting in the way.  No virtualization or",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 130.984375,
+          "y": 1610.9375,
+          "w": 537.625,
+          "h": 48
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "As the Python stack matures your code matures. Today Dask is 50% faster than Spark on standard benchmarks.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 130.984375,
+          "y": 1670.921875,
+          "w": 537.625,
+          "h": 48
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask is 50% faster than Spark",
+        "href": "https://docs.coiled.io/blog/spark-vs-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "",
+        "rect": {
+          "x": 130.984375,
+          "y": 1672.921875,
+          "w": 522,
+          "h": 44
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "DIV",
+        "text": "",
+        "href": null,
+        "class": "performance-img1",
+        "rect": {
+          "x": 771.484375,
+          "y": 1482.5,
+          "w": 534.625,
+          "h": 331.1875
+        },
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 771.484375,
+          "y": 1482.5,
+          "w": 534.625,
+          "h": 331.1875
+        },
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Made for Humans",
+        "href": null,
+        "class": "heading-small",
+        "rect": {
+          "x": 768.578125,
+          "y": 1979.546875,
+          "w": 173,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Computers are cheap.  Humans are expensive.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 768.578125,
+          "y": 2027.53125,
+          "w": 537.625,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Fortunately, humans already know how to use Dask.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 768.578125,
+          "y": 2063.515625,
+          "w": 537.625,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "It’s just Python. It’s just pandas. It’s just NumPy.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 768.578125,
+          "y": 2099.5,
+          "w": 537.625,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Dask’s dashboard guides you towards efficiency, quickly teaching you to become a distributed computing expert.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 768.578125,
+          "y": 2135.484375,
+          "w": 537.625,
+          "h": 48
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Cheap and Efficient",
+        "href": null,
+        "class": "heading-small",
+        "rect": {
+          "x": 623.484375,
+          "y": 2362.578125,
+          "w": 193,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Fast humans + Fast machines = Cheap Computing",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 523.484375,
+          "y": 2410.5625,
+          "w": 393,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Dask users often process cloud data at $0.10 per TiB",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 266.984375,
+          "y": 2651.53125,
+          "w": 906,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "$0.10 per TiB",
+        "href": "https://docs.coiled.io/blog/ten-cents.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "",
+        "rect": {
+          "x": 820.484375,
+          "y": 2653.53125,
+          "w": 103,
+          "h": 20
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Open Source Deployment",
+        "href": "#w-tabs-2-data-w-pane-0",
+        "class": "run-dask-tab-link _1st w-inline-block w-tab-link w--current",
+        "rect": {
+          "x": 489,
+          "y": 2979.6875,
+          "w": 295,
+          "h": 48.96875
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "11.9952px 72px 11.9952px 0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/662985b52ef0037191c9c2aa_switch-black.svg\")",
+        "bgSize": "40.0032px auto"
+      },
+      {
+        "tag": "A",
+        "text": "Managed Cloud",
+        "href": "#w-tabs-2-data-w-pane-1",
+        "class": "run-dask-tab-link _2nd plausible-event-name--cloud-toggle w-inline-block w-tab-link",
+        "rect": {
+          "x": 744,
+          "y": 2979.6875,
+          "w": 207,
+          "h": 48.96875
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "11.9952px 0px 11.9952px 72px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Where you can run Dask",
+        "href": null,
+        "class": "heading-xlarge-box run-dask-tab",
+        "rect": {
+          "x": 361,
+          "y": 2883.3125,
+          "w": 718,
+          "h": 81
+        },
+        "font": "700 56.0016px / 56.9952px Inter, sans-serif",
+        "padding": "8.0064px 24.0048px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Open Source Deployment",
+        "href": null,
+        "class": "heading-medium",
+        "rect": {
+          "x": 186.71875,
+          "y": 3087.3125,
+          "w": 442,
+          "h": 46
+        },
+        "font": "600 36px / 45.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Run Dask on your laptop (it’s trivial) or deploy it on any resource manager like Kubernetes, an HPC job schedu",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 186.71875,
+          "y": 3147.703125,
+          "w": 537.59375,
+          "h": 72
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Documentation",
+        "href": "https://docs.dask.org/en/stable/deploying.html",
+        "class": "button plausible-event-name--os-deploy plausible-event-position--button w-button",
+        "rect": {
+          "x": 186.71875,
+          "y": 3255.6875,
+          "w": 165.96875,
+          "h": 50.96875
+        },
+        "font": "600 18px / 27px Inter, sans-serif",
+        "padding": "11.9952px 15.9984px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask deployment video",
+        "href": "https://www.youtube.com/watch?v=faFncNrXmIY",
+        "class": "link white no-pad plausible-event-name--os-deploy plausible-event-position--link",
+        "rect": {
+          "x": 376.6875,
+          "y": 3268.671875,
+          "w": 180,
+          "h": 25
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "What users say about Dask",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 105,
+          "y": 3707.21875,
+          "w": 429.984375,
+          "h": 112
+        },
+        "font": "700 45.9936px / 56.0016px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Organizations That Use Dask",
+        "href": null,
+        "class": "heading-medium",
+        "rect": {
+          "x": 467,
+          "y": 5402.25,
+          "w": 506,
+          "h": 46
+        },
+        "font": "600 36px / 45.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Use Cases",
+        "href": null,
+        "class": "heading-large-box with-white-bg",
+        "rect": {
+          "x": 573.5,
+          "y": 6066.65625,
+          "w": 293,
+          "h": 81
+        },
+        "font": "700 45.9936px / 56.0016px Inter, sans-serif",
+        "padding": "10.08px 24.0048px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "NYC Uber/LyftToolsDataFramesParquetData50 GB of Parquet data",
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--1 w-inline-block",
+        "rect": {
+          "x": 84.90625,
+          "y": 6229.953125,
+          "w": 313.046875,
+          "h": 370.40625
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "NYC Uber/Lyft",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 118.890625,
+          "y": 6405.984375,
+          "w": 245.078125,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Scalable ETL PipelineToolsDeltalakeStreamlitPrefectData2 TB of TPC-H JSON records",
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--2 w-inline-block",
+        "rect": {
+          "x": 403.953125,
+          "y": 6229.953125,
+          "w": 313.046875,
+          "h": 370.40625
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "Scalable ETL Pipeline",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 437.9375,
+          "y": 6405.984375,
+          "w": 245.078125,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "National Water ModelToolsXarrayZarrFloxData250 TB of Zarr data",
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--3 w-inline-block",
+        "rect": {
+          "x": 723,
+          "y": 6229.953125,
+          "w": 313.046875,
+          "h": 370.40625
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "National Water Model",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 756.984375,
+          "y": 6405.984375,
+          "w": 245.078125,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "TPC-H BenchmarkToolsSparkDuckDBPolarsDataStandard SQL benchmark results",
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--4 w-inline-block",
+        "rect": {
+          "x": 1042.046875,
+          "y": 6229.953125,
+          "w": 313.046875,
+          "h": 370.40625
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "TPC-H Benchmark",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 1076.03125,
+          "y": 6405.984375,
+          "w": 245.078125,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "NASA Satellite ImageryToolsGeotiffXarrayCoiledData1 TB of NetCDF files",
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--5 w-inline-block",
+        "rect": {
+          "x": 84.90625,
+          "y": 6606.359375,
+          "w": 313.046875,
+          "h": 386
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "NASA Satellite Imagery",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 118.890625,
+          "y": 6782.390625,
+          "w": 245.078125,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "XGBoost Model TuningToolsXGBoostParquetData75 GB of Parquet data",
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--6 w-inline-block",
+        "rect": {
+          "x": 403.953125,
+          "y": 6606.359375,
+          "w": 313.046875,
+          "h": 386
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "XGBoost Model Tuning",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 437.9375,
+          "y": 6782.390625,
+          "w": 245.078125,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "Want more examples?",
+        "href": null,
+        "class": "heading-medium",
+        "rect": {
+          "x": 847.546875,
+          "y": 6722.875,
+          "w": 383,
+          "h": 46
+        },
+        "font": "600 36px / 45.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask Demo Day",
+        "href": "https://www.youtube.com/playlist?list=PLJ0vO2F_f6OD0cwscL_yeG1aC3ESBquAT",
+        "class": "button w-button",
+        "rect": {
+          "x": 854.5625,
+          "y": 6824.875,
+          "w": 166.96875,
+          "h": 50.96875
+        },
+        "font": "600 18px / 27px Inter, sans-serif",
+        "padding": "11.9952px 15.9984px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask YouTube Channel",
+        "href": "https://www.youtube.com/c/dask-dev",
+        "class": "link no-pad",
+        "rect": {
+          "x": 1045.53125,
+          "y": 6837.859375,
+          "w": 178,
+          "h": 25
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Super easy to get started",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 85,
+          "y": 7222.640625,
+          "w": 584.390625,
+          "h": 56
+        },
+        "font": "700 45.9936px / 56.0016px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Install Now",
+        "href": "https://docs.dask.org/en/latest/install.html",
+        "class": "button w-button",
+        "rect": {
+          "x": 85,
+          "y": 7370.0625,
+          "w": 127.96875,
+          "h": 50.96875
+        },
+        "font": "600 18px / 27px Inter, sans-serif",
+        "padding": "11.9952px 15.9984px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Most people use Dask just on their laptops to scale out to 100 GiB datasets. Dask works great on a single mach",
+        "href": null,
+        "class": "text-large",
+        "rect": {
+          "x": 720,
+          "y": 7586.546875,
+          "w": 590.390625,
+          "h": 84
+        },
+        "font": "700 24.0048px / 27.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Proceed to documentation",
+        "href": "https://docs.dask.org/en/stable/",
+        "class": "link white no-pad",
+        "rect": {
+          "x": 720,
+          "y": 7694.546875,
+          "w": 204,
+          "h": 25
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "href": "/",
+        "class": "brand-logo footer-logo w-nav-brand w--current",
+        "rect": {
+          "x": 126.078125,
+          "y": 7898.03125,
+          "w": 152,
+          "h": 47.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Latest",
+        "href": "https://docs.dask.org/en/stable/",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 757.109375,
+          "y": 7971.84375,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Community",
+        "href": "#",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 916.640625,
+          "y": 7904.046875,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Get Help",
+        "href": "/get-help",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 916.640625,
+          "y": 7971.84375,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Powered By",
+        "href": "/powered-by",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 916.640625,
+          "y": 8011.828125,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Demo Day",
+        "href": "https://github.com/dask/community/issues/307",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 916.640625,
+          "y": 8051.8125,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Blog",
+        "href": "#",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 1076.171875,
+          "y": 7904.046875,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask Blog",
+        "href": "/blog",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 1076.171875,
+          "y": 7971.84375,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Contribute",
+        "href": "https://github.com/dask/dask-blog/blob/gh-pages/README.md",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 1076.171875,
+          "y": 8011.828125,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Brand",
+        "href": "#",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 1235.703125,
+          "y": 7904.046875,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Brand Guidelines",
+        "href": "/brand-guide",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 1235.703125,
+          "y": 7971.84375,
+          "w": 119.546875,
+          "h": 48
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to github page",
+        "href": "https://github.com/dask/dask",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 126.078125,
+          "y": 7978.03125,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to twitter page",
+        "href": "https://twitter.com/dask_dev",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 166.0625,
+          "y": 7978.03125,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to youtube page",
+        "href": "https://www.youtube.com/c/Dask-dev",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 206.046875,
+          "y": 7978.03125,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to stackoverflow. page",
+        "href": "https://stackoverflow.com/questions/tagged/dask",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 246.03125,
+          "y": 7978.03125,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to dask discourse group page",
+        "href": "https://dask.discourse.group",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 286.015625,
+          "y": 7978.03125,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Copyright © 2026 Dask core developers. New-BSD Licensed.",
+        "href": null,
+        "class": "text-tiny white copyright",
+        "rect": {
+          "x": 126.078125,
+          "y": 8136.4375,
+          "w": 461.453125,
+          "h": 24
+        },
+        "font": "11.9952px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "brand-guide",
+    "elements": [
+      {
+        "tag": "A",
+        "text": "",
+        "class": "brand w-nav-brand",
+        "rect": {
+          "x": 79.90625,
+          "y": 24.421875,
+          "w": 134.265625,
+          "h": 42.125
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 79.90625,
+          "y": 24.421875,
+          "w": 134.265625,
+          "h": 42.125
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "NAV",
+        "text": "Get Started.cls-1{fill:#ebeaee;}Community.cls-1{fill:#ebeaee",
+        "class": "nav-menu w-nav-menu",
+        "rect": {
+          "x": 214.171875,
+          "y": 11.984375,
+          "w": 1145.921875,
+          "h": 67
+        },
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "Blog",
+        "class": "nav-link hide-mobile plausible-event-name--top-nav plausible-event-position--blog w-nav-link",
+        "rect": {
+          "x": 1215.09375,
+          "y": 32.984375,
+          "w": 35,
+          "h": 25
+        },
+        "font": "600 16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "Docs",
+        "class": "nav-button plausible-event-name--top-nav plausible-event-position--docs w-button",
+        "rect": {
+          "x": 1290.09375,
+          "y": 24.484375,
+          "w": 70,
+          "h": 42
+        },
+        "font": "600 16px / 24px Inter, sans-serif",
+        "padding": "9px 15px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H1",
+        "text": "Brand Guide",
+        "class": "heading-xlarge-box powered",
+        "rect": {
+          "x": 80.203125,
+          "y": 198.96875,
+          "w": 390,
+          "h": 81
+        },
+        "font": "700 56.0016px / 56.9952px Inter, sans-serif",
+        "padding": "8.0064px 24.0048px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "This site includes both resources and guidelines for present",
+        "class": "",
+        "rect": {
+          "x": 109,
+          "y": 303.96875,
+          "w": 580.46875,
+          "h": 96
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We hope that these resources make your job easier, and we th",
+        "class": "",
+        "rect": {
+          "x": 109,
+          "y": 423.96875,
+          "w": 580.46875,
+          "h": 48
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "bg-hero",
+        "rect": {
+          "x": 877.859375,
+          "y": 90.96875,
+          "w": 560,
+          "h": 560
+        },
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "go to info section",
+        "class": "nav-left w-inline-block",
+        "rect": {
+          "x": 16.5,
+          "y": 689.109375,
+          "w": 47.984375,
+          "h": 47.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "10.08px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to advantages section",
+        "class": "nav-left w-inline-block",
+        "rect": {
+          "x": 16.5,
+          "y": 753.078125,
+          "w": 47.984375,
+          "h": 47.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "10.08px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to ecosystem section",
+        "class": "nav-left w-inline-block",
+        "rect": {
+          "x": 16.5,
+          "y": 817.046875,
+          "w": 47.984375,
+          "h": 47.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "10.08px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to events section",
+        "class": "nav-left w-inline-block",
+        "rect": {
+          "x": 16.5,
+          "y": 881.015625,
+          "w": 47.984375,
+          "h": 47.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "10.08px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "white color tab",
+        "class": "tab-link-tab-1 w-inline-block w-tab-link w--current",
+        "rect": {
+          "x": 868.328125,
+          "y": 1192.46875,
+          "w": 63.984375,
+          "h": 36
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "pink color tab",
+        "class": "tab-link-tab-2 w-inline-block w-tab-link",
+        "rect": {
+          "x": 961.109375,
+          "y": 1192.46875,
+          "w": 63.984375,
+          "h": 36
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "blue color tab",
+        "class": "tab-link-tab-3 w-inline-block w-tab-link",
+        "rect": {
+          "x": 1053.890625,
+          "y": 1192.46875,
+          "w": 63.984375,
+          "h": 36
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "black color tab",
+        "class": "tab-link-tab-4 w-inline-block w-tab-link",
+        "rect": {
+          "x": 1146.671875,
+          "y": 1192.46875,
+          "w": 63.984375,
+          "h": 36
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "H2",
+        "text": "Logos",
+        "class": "heading-medium",
+        "rect": {
+          "x": 139,
+          "y": 806.109375,
+          "w": 487.546875,
+          "h": 46
+        },
+        "font": "600 36px / 45.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "The Dask logo is made up of two components: The Logo Mark an",
+        "class": "",
+        "rect": {
+          "x": 139,
+          "y": 888.109375,
+          "w": 487.546875,
+          "h": 144
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Dask logos are available below.",
+        "class": "",
+        "rect": {
+          "x": 139,
+          "y": 1056.109375,
+          "w": 487.546875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Download Logos",
+        "class": "button w-button",
+        "rect": {
+          "x": 139,
+          "y": 1136.109375,
+          "w": 175.96875,
+          "h": 55.96875
+        },
+        "font": "600 18px / 32px Inter, sans-serif",
+        "padding": "11.9952px 15.9984px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Word Mark",
+        "class": "text-medium text-weight-semibold",
+        "rect": {
+          "x": 991.265625,
+          "y": 775.296875,
+          "w": 93,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 845.765625,
+          "y": 879.296875,
+          "w": 384,
+          "h": 119.984375
+        },
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Color Alternatives",
+        "class": "",
+        "rect": {
+          "x": 969.265625,
+          "y": 1148.21875,
+          "w": 137,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Logo Mark",
+        "class": "text-medium text-weight-semibold",
+        "rect": {
+          "x": 992.765625,
+          "y": 1337.6875,
+          "w": 90,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 845.765625,
+          "y": 1441.6875,
+          "w": 384,
+          "h": 119.984375
+        },
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "#FFFFFF",
+        "class": "tab-link-tab-1 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 720.21875,
+          "y": 1850.421875,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#61BA92",
+        "class": "tab-link-tab-2 colors current w-inline-block w-tab-link",
+        "rect": {
+          "x": 1040.203125,
+          "y": 1850.421875,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#F6F6F6",
+        "class": "tab-link-tab-3 colors current w-inline-block w-tab-link",
+        "rect": {
+          "x": 720.21875,
+          "y": 1930.1875,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#1F5AFF",
+        "class": "tab-link-tab-4 colors current w-inline-block w-tab-link",
+        "rect": {
+          "x": 1040.203125,
+          "y": 1930.1875,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#EBEAEE",
+        "class": "tab-link-tab-5 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 720.21875,
+          "y": 2009.953125,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#183D72",
+        "class": "tab-link-tab-6 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 1040.203125,
+          "y": 2009.953125,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#FFC11E",
+        "class": "tab-link-tab-7 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 720.21875,
+          "y": 2089.71875,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#33363D",
+        "class": "tab-link-tab-8 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 1040.203125,
+          "y": 2089.71875,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#FC6E6B",
+        "class": "tab-link-tab-9 colors w-inline-block w-tab-link w--current",
+        "rect": {
+          "x": 720.21875,
+          "y": 2169.484375,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#262326",
+        "class": "tab-link-tab-10 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 1040.203125,
+          "y": 2169.484375,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#EF1561",
+        "class": "tab-link-tab-11 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 720.21875,
+          "y": 2249.25,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#080815",
+        "class": "tab-link-tab-12 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 1040.203125,
+          "y": 2249.25,
+          "w": 319.984375,
+          "h": 80
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "H2",
+        "text": "Colors",
+        "class": "heading-medium",
+        "rect": {
+          "x": 139,
+          "y": 1888.53125,
+          "w": 489.015625,
+          "h": 46
+        },
+        "font": "600 36px / 45.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Select a background color to view accessible brand color com",
+        "class": "",
+        "rect": {
+          "x": 139,
+          "y": 1942.53125,
+          "w": 489.015625,
+          "h": 72
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Salmon",
+        "class": "text-small no-pad",
+        "rect": {
+          "x": 139,
+          "y": 2050.53125,
+          "w": 489.015625,
+          "h": 24
+        },
+        "font": "13.9968px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "#FC6E6B",
+        "class": "text-medium text-weight-semibold",
+        "rect": {
+          "x": 139,
+          "y": 2074.53125,
+          "w": 489.015625,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Accessible Text Colors",
+        "class": "text-small no-pad",
+        "rect": {
+          "x": 139,
+          "y": 2134.53125,
+          "w": 489.015625,
+          "h": 24
+        },
+        "font": "13.9968px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "#33363D(AA18) #262326(AA) #080815(AA)",
+        "class": "text-medium",
+        "rect": {
+          "x": 139,
+          "y": 2158.53125,
+          "w": 489.015625,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Copy Hex Code",
+        "class": "button w-button",
+        "rect": {
+          "x": 139,
+          "y": 2206.53125,
+          "w": 164.96875,
+          "h": 55.96875
+        },
+        "font": "600 18px / 32px Inter, sans-serif",
+        "padding": "11.9952px 15.9984px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Typography",
+        "class": "heading-medium",
+        "rect": {
+          "x": 139,
+          "y": 2682.71875,
+          "w": 489.015625,
+          "h": 46
+        },
+        "font": "600 36px / 45.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter ",
+        "class": "",
+        "rect": {
+          "x": 139,
+          "y": 2764.71875,
+          "w": 489.015625,
+          "h": 120
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Download Typefaces",
+        "class": "button w-button",
+        "rect": {
+          "x": 139,
+          "y": 2940.71875,
+          "w": 213.96875,
+          "h": 55.96875
+        },
+        "font": "600 18px / 32px Inter, sans-serif",
+        "padding": "11.9952px 15.9984px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H1",
+        "text": "Inter",
+        "class": "",
+        "rect": {
+          "x": 765.1875,
+          "y": 2630.3125,
+          "w": 195.296875,
+          "h": 57
+        },
+        "font": "700 56.0016px / 56.9952px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Heading 1",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 2660.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Bold, 56px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 2660.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Inter",
+        "class": "",
+        "rect": {
+          "x": 765.1875,
+          "y": 2695.3125,
+          "w": 195.296875,
+          "h": 56
+        },
+        "font": "700 45.9936px / 56.0016px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Heading 2",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 2724.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Bold, 46px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 2724.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "Inter",
+        "class": "no-pad",
+        "rect": {
+          "x": 765.1875,
+          "y": 2759.3125,
+          "w": 195.296875,
+          "h": 32
+        },
+        "font": "700 20.0016px / 31.9968px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Heading 2-small",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 2764.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "SemiBold, 36px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 2764.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Heading 3",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 2804.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Bold, 20px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 2804.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-xlarge no-pad",
+        "rect": {
+          "x": 765.1875,
+          "y": 2839.3125,
+          "w": 195.296875,
+          "h": 46
+        },
+        "font": "36px / 45.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-xlarge",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 2858.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 36px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 2858.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-large no-pad",
+        "rect": {
+          "x": 765.1875,
+          "y": 2893.3125,
+          "w": 195.296875,
+          "h": 28
+        },
+        "font": "24.0048px / 27.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-large",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 2894.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 24px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 2894.4375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-medium no-pad",
+        "rect": {
+          "x": 765.1875,
+          "y": 2932.1875,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-medium",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 2929.3125,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Regular, 18px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 2929.3125,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-regular no-pad",
+        "rect": {
+          "x": 765.1875,
+          "y": 2967.0625,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-regular",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 2964.1875,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 16px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 2964.1875,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-small no-pad",
+        "rect": {
+          "x": 765.1875,
+          "y": 3001.9375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "13.9968px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-small",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 2999.0625,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 14px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 2999.0625,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-tiny",
+        "rect": {
+          "x": 765.1875,
+          "y": 3036.8125,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "11.9952px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-tiny",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 3033.9375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 12px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 3033.9375,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inconsolata",
+        "class": "text-code br-guide no-pad",
+        "rect": {
+          "x": 765.1875,
+          "y": 3071.6875,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inconsolata, monospace",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "syntax/code",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 960.484375,
+          "y": 3068.8125,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Regular, 16px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 1155.78125,
+          "y": 3068.8125,
+          "w": 195.296875,
+          "h": 24
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Tone",
+        "class": "heading-medium",
+        "rect": {
+          "x": 139,
+          "y": 3566.65625,
+          "w": 523,
+          "h": 46
+        },
+        "font": "600 36px / 45.9936px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "The Dask community is broad and diverse, mixing a volunteer ",
+        "class": "",
+        "rect": {
+          "x": 139,
+          "y": 3648.65625,
+          "w": 523,
+          "h": 120
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "For non-official Dask communications, either by individuals ",
+        "class": "",
+        "rect": {
+          "x": 778,
+          "y": 3602.65625,
+          "w": 523,
+          "h": 144
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "For official Dask communications we try to strike a balance ",
+        "class": "",
+        "rect": {
+          "x": 778,
+          "y": 3770.65625,
+          "w": 523,
+          "h": 72
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We strive to promote positive news about Dask, either its te",
+        "class": "text-medium",
+        "rect": {
+          "x": 778,
+          "y": 3878.65625,
+          "w": 523,
+          "h": 48
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Did you know that Dask can integrate well with Scikit-Learn?",
+        "class": "",
+        "rect": {
+          "x": 778,
+          "y": 3950.65625,
+          "w": 523,
+          "h": 96
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We avoid overt self-praise, especially if it is not very wel",
+        "class": "",
+        "rect": {
+          "x": 778,
+          "y": 4070.65625,
+          "w": 523,
+          "h": 48
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We temper positive results with ways in which we can improve",
+        "class": "",
+        "rect": {
+          "x": 778,
+          "y": 4142.65625,
+          "w": 523,
+          "h": 120
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We don’t linger long on negative results, but we do make sur",
+        "class": "",
+        "rect": {
+          "x": 778,
+          "y": 4286.65625,
+          "w": 523,
+          "h": 120
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We endeavor to highlight the work of others, both among our ",
+        "class": "",
+        "rect": {
+          "x": 778,
+          "y": 4430.65625,
+          "w": 523,
+          "h": 96
+        },
+        "font": "15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "class": "brand-logo footer-logo w-nav-brand",
+        "rect": {
+          "x": 126.078125,
+          "y": 4759.5625,
+          "w": 152,
+          "h": 47.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 126.078125,
+          "y": 4759.5625,
+          "w": 152,
+          "h": 47.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Latest",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 757.109375,
+          "y": 4833.375,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Community",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 916.640625,
+          "y": 4765.578125,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Get Help",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 916.640625,
+          "y": 4833.375,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Powered By",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 916.640625,
+          "y": 4873.359375,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Demo Day",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 916.640625,
+          "y": 4913.34375,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Blog",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 1076.171875,
+          "y": 4765.578125,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Dask Blog",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 1076.171875,
+          "y": 4833.375,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Contribute",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 1076.171875,
+          "y": 4873.359375,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Brand",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 1235.703125,
+          "y": 4765.578125,
+          "w": 119.546875,
+          "h": 24
+        },
+        "font": "600 18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Brand Guidelines",
+        "class": "text-medium footer-nav reg w--current",
+        "rect": {
+          "x": 1235.703125,
+          "y": 4833.375,
+          "w": 119.546875,
+          "h": 48
+        },
+        "font": "18px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to github page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 126.078125,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 126.078125,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to twitter page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 166.0625,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 166.0625,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to youtube page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 206.046875,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 206.046875,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to stackoverflow. page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 246.03125,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 246.03125,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to dask discourse group page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 286.015625,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 286.015625,
+          "y": 4839.5625,
+          "w": 31.984375,
+          "h": 31.984375
+        },
+        "font": "600 15.9984px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Copyright © 2026 Dask core developers. New-BSD Licensed.",
+        "class": "text-tiny white copyright",
+        "rect": {
+          "x": 126.078125,
+          "y": 4997.96875,
+          "w": 461.453125,
+          "h": 24
+        },
+        "font": "11.9952px / 24.0048px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "elements": [
+      {
+        "tag": "A",
+        "text": "",
+        "href": "/",
+        "class": "brand w-nav-brand w--current",
+        "rect": {
+          "x": 28.3125,
+          "y": 24.953125,
+          "w": 122.71875,
+          "h": 35.375
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px 0px 0px 10px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H1",
+        "text": "Parallel Python",
+        "href": null,
+        "class": "heading-large-box hero-h",
+        "rect": {
+          "x": 42.609375,
+          "y": 218.234375,
+          "w": 241,
+          "h": 37.4375
+        },
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Fast and Easy",
+        "href": null,
+        "class": "heading-large-box hero-h",
+        "rect": {
+          "x": 42.609375,
+          "y": 267.359375,
+          "w": 224,
+          "h": 37.4375
+        },
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Easy Parallel Python that does what you need",
+        "href": null,
+        "class": "text-medium hero-p",
+        "rect": {
+          "x": 42.609375,
+          "y": 319.734375,
+          "w": 301.09375,
+          "h": 49.90625
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Get started",
+        "href": "https://docs.dask.org/en/stable/",
+        "class": "button plausible-event-name--hero-get-started w-button",
+        "rect": {
+          "x": 42.609375,
+          "y": 393.84375,
+          "w": 137.28125,
+          "h": 49.890625
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "12.48px 16.6413px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "DIV",
+        "text": "",
+        "href": null,
+        "class": "herohome-lottie",
+        "rect": {
+          "x": 30.15625,
+          "y": 579.265625,
+          "w": 440.6875,
+          "h": 241.796875
+        },
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 30.15625,
+          "y": 579.265625,
+          "w": 440.6875,
+          "h": 241.796875
+        },
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "What you can do with Dask",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 29.625,
+          "y": 908.015625,
+          "w": 330.75,
+          "h": 74.875
+        },
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Big Pandas",
+        "href": "#w-tabs-1-data-w-pane-0",
+        "class": "home-tab-link plausible-event-name--hero-tab-pandas w-inline-block w-tab-link w--current",
+        "rect": {
+          "x": 42.609375,
+          "y": 1074.390625,
+          "w": 107,
+          "h": 33.421875
+        },
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "padding": "3.2487px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Parallel For Loops",
+        "href": "#w-tabs-1-data-w-pane-1",
+        "class": "home-tab-link plausible-event-name--hero-tab-futures w-inline-block w-tab-link",
+        "rect": {
+          "x": 42.609375,
+          "y": 1115.21875,
+          "w": 170,
+          "h": 33.421875
+        },
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "padding": "3.2487px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Big Arrays",
+        "href": "#w-tabs-1-data-w-pane-2",
+        "class": "home-tab-link plausible-event-name--hero-tab-array w-inline-block w-tab-link",
+        "rect": {
+          "x": 42.609375,
+          "y": 1156.046875,
+          "w": 100,
+          "h": 33.421875
+        },
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "padding": "3.2487px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Machine Learning",
+        "href": "#w-tabs-1-data-w-pane-3",
+        "class": "home-tab-link plausible-event-name--hero-tab-ml w-inline-block w-tab-link",
+        "rect": {
+          "x": 42.609375,
+          "y": 1196.875,
+          "w": 171,
+          "h": 33.421875
+        },
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "padding": "3.2487px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Big Pandas",
+        "href": null,
+        "class": "heading-medium",
+        "rect": {
+          "x": 42.609375,
+          "y": 1278.546875,
+          "w": 157,
+          "h": 33.28125
+        },
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Dask DataFrames use pandas under the hood, so your current code likely just works. It’s faster than Spark and ",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 42.609375,
+          "y": 1324.03125,
+          "w": 304.78125,
+          "h": 99.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Documentation",
+        "href": "https://docs.dask.org/en/stable/dataframe.html",
+        "class": "button plausible-event-name--hero-tab-pandas plausible-event-location--button w-button",
+        "rect": {
+          "x": 42.609375,
+          "y": 1451.125,
+          "w": 176.28125,
+          "h": 49.890625
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "12.48px 16.6413px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Performance Benchmarks",
+        "href": "https://docs.coiled.io/blog/tpch.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "link white no-pad plausible-event-name--hero-tab-pandas plausible-event-position--link",
+        "rect": {
+          "x": 42.609375,
+          "y": 1516.609375,
+          "w": 212,
+          "h": 25.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Performance at Scale",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 37.78125,
+          "y": 2036,
+          "w": 320.9375,
+          "h": 74.875
+        },
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Fast on Machines",
+        "href": null,
+        "class": "heading-small",
+        "rect": {
+          "x": 39.375,
+          "y": 2278.34375,
+          "w": 180,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Dask is lightweight, and runs your raw code on your machines without getting in the way.  No virtualization or",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 39.375,
+          "y": 2318.109375,
+          "w": 309.921875,
+          "h": 99.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "As the Python stack matures your code matures. Today Dask is 50% faster than Spark on standard benchmarks.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 39.375,
+          "y": 2429.609375,
+          "w": 309.921875,
+          "h": 100.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask is 50% faster than Spark",
+        "href": "https://docs.coiled.io/blog/spark-vs-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "",
+        "rect": {
+          "x": 39.375,
+          "y": 2479.515625,
+          "w": 243,
+          "h": 25.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "DIV",
+        "text": "",
+        "href": null,
+        "class": "performance-img1",
+        "rect": {
+          "x": 41.984375,
+          "y": 2120.015625,
+          "w": 302.84375,
+          "h": 148.1875
+        },
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "svg",
+        "text": "",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 41.984375,
+          "y": 2120.015625,
+          "w": 302.84375,
+          "h": 148.1875
+        },
+        "font": "16px / 24px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Made for Humans",
+        "href": null,
+        "class": "heading-small",
+        "rect": {
+          "x": 39.375,
+          "y": 2770.828125,
+          "w": 182,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Computers are cheap.  Humans are expensive.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 39.375,
+          "y": 2810.59375,
+          "w": 309.921875,
+          "h": 49.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Fortunately, humans already know how to use Dask.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 39.375,
+          "y": 2872.1875,
+          "w": 309.921875,
+          "h": 49.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "It’s just Python. It’s just pandas. It’s just NumPy.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 39.375,
+          "y": 2933.78125,
+          "w": 309.921875,
+          "h": 49.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Dask’s dashboard guides you towards efficiency, quickly teaching you to become a distributed computing expert.",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 39.375,
+          "y": 2995.375,
+          "w": 309.921875,
+          "h": 99.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Cheap and Efficient",
+        "href": null,
+        "class": "heading-small",
+        "rect": {
+          "x": 40.375,
+          "y": 3189.265625,
+          "w": 202,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Fast humans + Fast machines = Cheap Computing",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 40.375,
+          "y": 3230.328125,
+          "w": 309.25,
+          "h": 49.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Dask users often process cloud data at $0.10 per TiB",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 40.375,
+          "y": 3516.171875,
+          "w": 309.25,
+          "h": 50.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "$0.10 per TiB",
+        "href": "https://docs.coiled.io/blog/ten-cents.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "",
+        "rect": {
+          "x": 61.375,
+          "y": 3541.125,
+          "w": 107,
+          "h": 25.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Open Source Deployment",
+        "href": "#w-tabs-2-data-w-pane-0",
+        "class": "run-dask-tab-link _1st w-inline-block w-tab-link w--current",
+        "rect": {
+          "x": 29.625,
+          "y": 3870.96875,
+          "w": 250,
+          "h": 32.421875
+        },
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "padding": "3.2487px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Managed Cloud",
+        "href": "#w-tabs-2-data-w-pane-1",
+        "class": "run-dask-tab-link _2nd plausible-event-name--cloud-toggle w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 3922.890625,
+          "w": 152,
+          "h": 32.421875
+        },
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "padding": "3.2487px 0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Where you can run Dask",
+        "href": null,
+        "class": "heading-xlarge-box run-dask-tab",
+        "rect": {
+          "x": 29.625,
+          "y": 3746.171875,
+          "w": 330.75,
+          "h": 87.375
+        },
+        "font": "700 37.44px / 43.68px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Open Source Deployment",
+        "href": null,
+        "class": "heading-medium",
+        "rect": {
+          "x": 43.265625,
+          "y": 4044.984375,
+          "w": 303.453125,
+          "h": 66.5625
+        },
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Run Dask on your laptop (it’s trivial) or deploy it on any resource manager like Kubernetes, an HPC job schedu",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 43.265625,
+          "y": 4123.75,
+          "w": 303.453125,
+          "h": 124.765625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Documentation",
+        "href": "https://docs.dask.org/en/stable/deploying.html",
+        "class": "button plausible-event-name--os-deploy plausible-event-position--button w-button",
+        "rect": {
+          "x": 43.265625,
+          "y": 4275.796875,
+          "w": 176.28125,
+          "h": 49.890625
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "12.48px 16.6413px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask deployment video",
+        "href": "https://www.youtube.com/watch?v=faFncNrXmIY",
+        "class": "link white no-pad plausible-event-name--os-deploy plausible-event-position--link",
+        "rect": {
+          "x": 43.265625,
+          "y": 4341.28125,
+          "w": 191,
+          "h": 25.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "What users say about Dask",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 43,
+          "y": 4962.203125,
+          "w": 310.484375,
+          "h": 74.875
+        },
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Organizations That Use Dask",
+        "href": null,
+        "class": "heading-medium",
+        "rect": {
+          "x": 31.203125,
+          "y": 8073.953125,
+          "w": 327.59375,
+          "h": 66.5625
+        },
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Use Cases",
+        "href": null,
+        "class": "heading-large-box with-white-bg",
+        "rect": {
+          "x": 95.515625,
+          "y": 8876.1875,
+          "w": 198.96875,
+          "h": 55.359375
+        },
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "6.24px 12.9987px 11.7px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "NYC Uber/LyftToolsDataFramesParquetData50 GB of Parquet data",
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--1 w-inline-block",
+        "rect": {
+          "x": 30.859375,
+          "y": 9000.09375,
+          "w": 328.640625,
+          "h": 350.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "NYC Uber/Lyft",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 50.890625,
+          "y": 9182.875,
+          "w": 292.484375,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Scalable ETL PipelineToolsDeltalakeStreamlitPrefectData2 TB of TPC-H JSON records",
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--2 w-inline-block",
+        "rect": {
+          "x": 30.859375,
+          "y": 9364.453125,
+          "w": 328.640625,
+          "h": 350.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "Scalable ETL Pipeline",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 50.890625,
+          "y": 9547.234375,
+          "w": 292.484375,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "National Water ModelToolsXarrayZarrFloxData250 TB of Zarr data",
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--3 w-inline-block",
+        "rect": {
+          "x": 30.859375,
+          "y": 9728.8125,
+          "w": 328.640625,
+          "h": 350.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "National Water Model",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 50.890625,
+          "y": 9911.59375,
+          "w": 292.484375,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "TPC-H BenchmarkToolsSparkDuckDBPolarsDataStandard SQL benchmark results",
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--4 w-inline-block",
+        "rect": {
+          "x": 30.859375,
+          "y": 10093.171875,
+          "w": 328.640625,
+          "h": 350.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "TPC-H Benchmark",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 50.890625,
+          "y": 10275.953125,
+          "w": 292.484375,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "NASA Satellite ImageryToolsGeotiffXarrayCoiledData1 TB of NetCDF files",
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--5 w-inline-block",
+        "rect": {
+          "x": 30.859375,
+          "y": 10457.53125,
+          "w": 328.640625,
+          "h": 350.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "NASA Satellite Imagery",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 50.890625,
+          "y": 10640.3125,
+          "w": 292.484375,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "XGBoost Model TuningToolsXGBoostParquetData75 GB of Parquet data",
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "class": "card use-cases plausible-event-name--use-case plausible-event-position--6 w-inline-block",
+        "rect": {
+          "x": 30.859375,
+          "y": 10821.890625,
+          "w": 328.640625,
+          "h": 350.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "XGBoost Model Tuning",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 50.890625,
+          "y": 11004.671875,
+          "w": 292.484375,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H3",
+        "text": "Want more examples?",
+        "href": null,
+        "class": "heading-medium",
+        "rect": {
+          "x": 50.359375,
+          "y": 11225.25,
+          "w": 289.28125,
+          "h": 66.5625
+        },
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask Demo Day",
+        "href": "https://www.youtube.com/playlist?list=PLJ0vO2F_f6OD0cwscL_yeG1aC3ESBquAT",
+        "class": "button w-button",
+        "rect": {
+          "x": 50.359375,
+          "y": 11365.625,
+          "w": 179.28125,
+          "h": 49.890625
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "12.48px 16.6413px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask YouTube Channel",
+        "href": "https://www.youtube.com/c/dask-dev",
+        "class": "link no-pad",
+        "rect": {
+          "x": 50.359375,
+          "y": 11431.109375,
+          "w": 186,
+          "h": 25.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Super easy to get started",
+        "href": null,
+        "class": "",
+        "rect": {
+          "x": 30.015625,
+          "y": 11674.984375,
+          "w": 362.6875,
+          "h": 74.875
+        },
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Install Now",
+        "href": "https://docs.dask.org/en/latest/install.html",
+        "class": "button w-button",
+        "rect": {
+          "x": 30.015625,
+          "y": 11839.546875,
+          "w": 135.28125,
+          "h": 49.890625
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "12.48px 16.6413px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "H2",
+        "text": "Most people use Dask just on their laptops to scale out to 100 GiB datasets. Dask works great on a single mach",
+        "href": null,
+        "class": "text-large",
+        "rect": {
+          "x": 28.578125,
+          "y": 12111.703125,
+          "w": 332.84375,
+          "h": 166.40625
+        },
+        "font": "700 24.96px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Proceed to documentation",
+        "href": "https://docs.dask.org/en/stable/",
+        "class": "link white no-pad",
+        "rect": {
+          "x": 28.578125,
+          "y": 12313.703125,
+          "w": 215,
+          "h": 25.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "href": "/",
+        "class": "brand-logo footer-logo w-nav-brand w--current",
+        "rect": {
+          "x": 41.828125,
+          "y": 12615.296875,
+          "w": 159.890625,
+          "h": 49.90625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Latest",
+        "href": "https://docs.dask.org/en/stable/",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 12772.265625,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Community",
+        "href": "#",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 39.34375,
+          "y": 12866.640625,
+          "w": 318.9375,
+          "h": 24.953125
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Get Help",
+        "href": "/get-help",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 12917.484375,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Powered By",
+        "href": "/powered-by",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 12952.1875,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Demo Day",
+        "href": "https://github.com/dask/community/issues/307",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 12986.890625,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Blog",
+        "href": "#",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 39.34375,
+          "y": 13081.265625,
+          "w": 318.9375,
+          "h": 24.953125
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Dask Blog",
+        "href": "/blog",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 13132.109375,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Contribute",
+        "href": "https://github.com/dask/dask-blog/blob/gh-pages/README.md",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 13166.8125,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Brand",
+        "href": "#",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 39.34375,
+          "y": 13261.1875,
+          "w": 318.9375,
+          "h": 24.953125
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "Brand Guidelines",
+        "href": "/brand-guide",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 13312.03125,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to github page",
+        "href": "https://github.com/dask/dask",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 41.515625,
+          "y": 13398.34375,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to twitter page",
+        "href": "https://twitter.com/dask_dev",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 83.09375,
+          "y": 13398.34375,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to youtube page",
+        "href": "https://www.youtube.com/c/Dask-dev",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 124.671875,
+          "y": 13398.34375,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to stackoverflow. page",
+        "href": "https://stackoverflow.com/questions/tagged/dask",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 166.25,
+          "y": 13398.34375,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "A",
+        "text": "go to dask discourse group page",
+        "href": "https://dask.discourse.group",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 207.828125,
+          "y": 13398.34375,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      },
+      {
+        "tag": "P",
+        "text": "Copyright © 2026 Dask core developers. New-BSD Licensed.",
+        "href": null,
+        "class": "text-tiny white copyright",
+        "rect": {
+          "x": 41.515625,
+          "y": 13506.625,
+          "w": 281.75,
+          "h": 49.90625
+        },
+        "font": "12.48px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "brand-guide",
+    "elements": [
+      {
+        "tag": "A",
+        "text": "",
+        "class": "brand w-nav-brand",
+        "rect": {
+          "x": 28.3125,
+          "y": 24.953125,
+          "w": 122.71875,
+          "h": 35.375
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px 0px 0px 10px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 38.3125,
+          "y": 24.953125,
+          "w": 112.71875,
+          "h": 35.375
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H1",
+        "text": "Brand Guide",
+        "class": "heading-xlarge-box powered",
+        "rect": {
+          "x": 35.890625,
+          "y": 173.40625,
+          "w": 290.484375,
+          "h": 59.28125
+        },
+        "font": "700 37.44px / 43.68px Inter, sans-serif",
+        "padding": "7.8px 6.5013px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "This site includes both resources and guidelines for present",
+        "class": "",
+        "rect": {
+          "x": 43.6875,
+          "y": 239.1875,
+          "w": 290.484375,
+          "h": 199.625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We hope that these resources make your job easier, and we th",
+        "class": "",
+        "rect": {
+          "x": 43.6875,
+          "y": 455.453125,
+          "w": 290.484375,
+          "h": 99.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to info section",
+        "class": "nav-left w-inline-block",
+        "rect": {
+          "x": 39.140625,
+          "y": 591.171875,
+          "w": 52,
+          "h": 52
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "15.6px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to advantages section",
+        "class": "nav-left w-inline-block",
+        "rect": {
+          "x": 125.71875,
+          "y": 591.171875,
+          "w": 52,
+          "h": 52
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "15.6px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to ecosystem section",
+        "class": "nav-left w-inline-block",
+        "rect": {
+          "x": 212.28125,
+          "y": 591.171875,
+          "w": 52,
+          "h": 52
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "15.6px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to events section",
+        "class": "nav-left w-inline-block",
+        "rect": {
+          "x": 298.859375,
+          "y": 591.171875,
+          "w": 52,
+          "h": 52
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "15.6px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "white color tab",
+        "class": "tab-link-tab-1 w-inline-block w-tab-link w--current",
+        "rect": {
+          "x": 56.46875,
+          "y": 1489.8125,
+          "w": 62,
+          "h": 39
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "pink color tab",
+        "class": "tab-link-tab-2 w-inline-block w-tab-link",
+        "rect": {
+          "x": 130.15625,
+          "y": 1489.8125,
+          "w": 60,
+          "h": 39
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "blue color tab",
+        "class": "tab-link-tab-3 w-inline-block w-tab-link",
+        "rect": {
+          "x": 201.84375,
+          "y": 1489.8125,
+          "w": 60,
+          "h": 39
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "black color tab",
+        "class": "tab-link-tab-4 w-inline-block w-tab-link",
+        "rect": {
+          "x": 273.53125,
+          "y": 1489.8125,
+          "w": 60,
+          "h": 39
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "H2",
+        "text": "Logos",
+        "class": "heading-medium",
+        "rect": {
+          "x": 43.140625,
+          "y": 750.734375,
+          "w": 304.25,
+          "h": 33.28125
+        },
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "The Dask logo is made up of two components: The Logo Mark an",
+        "class": "",
+        "rect": {
+          "x": 43.140625,
+          "y": 803.515625,
+          "w": 304.25,
+          "h": 224.578125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Dask logos are available below.",
+        "class": "",
+        "rect": {
+          "x": 43.140625,
+          "y": 1044.734375,
+          "w": 304.25,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Download Logos",
+        "class": "button w-button",
+        "rect": {
+          "x": 43.140625,
+          "y": 1100.875,
+          "w": 189.28125,
+          "h": 49.890625
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "12.48px 16.6413px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Word Mark",
+        "class": "text-medium text-weight-semibold",
+        "rect": {
+          "x": 142.953125,
+          "y": 1252.578125,
+          "w": 102,
+          "h": 24.953125
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 115.953125,
+          "y": 1300.921875,
+          "w": 156,
+          "h": 58.5
+        },
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Color Alternatives",
+        "class": "",
+        "rect": {
+          "x": 122.453125,
+          "y": 1410.53125,
+          "w": 143,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Logo Mark",
+        "class": "text-medium text-weight-semibold",
+        "rect": {
+          "x": 144.453125,
+          "y": 1578.640625,
+          "w": 99,
+          "h": 24.953125
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 115.953125,
+          "y": 1626.984375,
+          "w": 156,
+          "h": 58.5
+        },
+        "font": "300 18px / 32px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "#FFFFFF",
+        "class": "tab-link-tab-1 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2342.203125,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#61BA92",
+        "class": "tab-link-tab-2 colors current w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2599.921875,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#F6F6F6",
+        "class": "tab-link-tab-3 colors current w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2385.15625,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#1F5AFF",
+        "class": "tab-link-tab-4 colors current w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2642.875,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#EBEAEE",
+        "class": "tab-link-tab-5 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2428.109375,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#183D72",
+        "class": "tab-link-tab-6 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2685.828125,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#FFC11E",
+        "class": "tab-link-tab-7 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2471.0625,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#33363D",
+        "class": "tab-link-tab-8 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2728.78125,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#FC6E6B",
+        "class": "tab-link-tab-9 colors w-inline-block w-tab-link w--current",
+        "rect": {
+          "x": 29.625,
+          "y": 2514.015625,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#262326",
+        "class": "tab-link-tab-10 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2771.734375,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#EF1561",
+        "class": "tab-link-tab-11 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2556.96875,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "A",
+        "text": "#080815",
+        "class": "tab-link-tab-12 colors w-inline-block w-tab-link",
+        "rect": {
+          "x": 29.625,
+          "y": 2814.6875,
+          "w": 330.75,
+          "h": 42.953125
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "9px 30px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "H2",
+        "text": "Colors",
+        "class": "heading-medium",
+        "rect": {
+          "x": 43.6875,
+          "y": 1894.4375,
+          "w": 301.625,
+          "h": 33.28125
+        },
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Select a background color to view accessible brand color com",
+        "class": "",
+        "rect": {
+          "x": 43.6875,
+          "y": 1936.03125,
+          "w": 301.625,
+          "h": 124.765625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Salmon",
+        "class": "text-small no-pad",
+        "rect": {
+          "x": 43.6875,
+          "y": 2080.296875,
+          "w": 301.625,
+          "h": 24.953125
+        },
+        "font": "14.5587px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "#FC6E6B",
+        "class": "text-medium text-weight-semibold",
+        "rect": {
+          "x": 43.6875,
+          "y": 2105.25,
+          "w": 301.625,
+          "h": 24.953125
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Accessible Text Colors",
+        "class": "text-small no-pad",
+        "rect": {
+          "x": 43.6875,
+          "y": 2149.703125,
+          "w": 301.625,
+          "h": 24.953125
+        },
+        "font": "14.5587px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "#33363D(AA18) #262326(AA) #080815(AA)",
+        "class": "text-medium",
+        "rect": {
+          "x": 43.6875,
+          "y": 2174.65625,
+          "w": 301.625,
+          "h": 49.90625
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Copy Hex Code",
+        "class": "button w-button",
+        "rect": {
+          "x": 43.6875,
+          "y": 2241.203125,
+          "w": 177.28125,
+          "h": 49.890625
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "12.48px 16.6413px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Typography",
+        "class": "heading-medium",
+        "rect": {
+          "x": 43.53125,
+          "y": 3003,
+          "w": 303.46875,
+          "h": 33.28125
+        },
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter and Inconsolata are the primary Dask typefaces. Inter ",
+        "class": "",
+        "rect": {
+          "x": 43.53125,
+          "y": 3055.78125,
+          "w": 303.46875,
+          "h": 201.625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Download Typefaces",
+        "class": "button w-button",
+        "rect": {
+          "x": 43.53125,
+          "y": 3288.59375,
+          "w": 228.28125,
+          "h": 49.890625
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "12.48px 16.6413px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H1",
+        "text": "Inter",
+        "class": "",
+        "rect": {
+          "x": 42.234375,
+          "y": 3392.796875,
+          "w": 104.671875,
+          "h": 15.4375
+        },
+        "font": "700 40px / 15.4362px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Heading 1",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3382.515625,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Bold, 56px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3382.515625,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Inter",
+        "class": "",
+        "rect": {
+          "x": 42.234375,
+          "y": 3410.390625,
+          "w": 104.671875,
+          "h": 37.4375
+        },
+        "font": "700 33.2787px / 37.44px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Heading 2",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3422.109375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Bold, 46px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3422.109375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H3",
+        "text": "Inter",
+        "class": "no-pad",
+        "rect": {
+          "x": 42.234375,
+          "y": 3467.375,
+          "w": 104.671875,
+          "h": 33.28125
+        },
+        "font": "700 20.7987px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Heading 2-small",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3449.984375,
+          "w": 104.671875,
+          "h": 49.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "SemiBold, 36px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3449.984375,
+          "w": 104.671875,
+          "h": 49.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Heading 3",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3510.375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Bold, 20px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3510.375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-xlarge no-pad",
+        "rect": {
+          "x": 42.234375,
+          "y": 3538.25,
+          "w": 104.671875,
+          "h": 39
+        },
+        "font": "29.1213px / 39px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-xlarge",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3551.53125,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 36px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3551.53125,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-large no-pad",
+        "rect": {
+          "x": 42.234375,
+          "y": 3579.40625,
+          "w": 104.671875,
+          "h": 33.28125
+        },
+        "font": "24.96px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-large",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3595.28125,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 24px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3595.28125,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-medium no-pad",
+        "rect": {
+          "x": 42.234375,
+          "y": 3648.875,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-medium",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3623.15625,
+          "w": 104.671875,
+          "h": 49.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Regular, 18px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3623.15625,
+          "w": 104.671875,
+          "h": 49.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-regular no-pad",
+        "rect": {
+          "x": 42.234375,
+          "y": 3676.75,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-regular",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3675.984375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 16px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3675.984375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-small no-pad",
+        "rect": {
+          "x": 42.234375,
+          "y": 3704.625,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "14.5587px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-small",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3703.859375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 14px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3703.859375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inter",
+        "class": "text-tiny",
+        "rect": {
+          "x": 42.234375,
+          "y": 3731.734375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "12.48px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Text-tiny",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3734.375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Light, 12px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3734.375,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Inconsolata",
+        "class": "text-code br-guide no-pad",
+        "rect": {
+          "x": 42.234375,
+          "y": 3787.96875,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inconsolata, monospace",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "syntax/code",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 146.90625,
+          "y": 3787.203125,
+          "w": 104.671875,
+          "h": 24.953125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Regular, 16px",
+        "class": "text-regular text-weight-light bg-type-text",
+        "rect": {
+          "x": 251.578125,
+          "y": 3762.25,
+          "w": 104.671875,
+          "h": 49.90625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "H2",
+        "text": "Tone",
+        "class": "heading-medium",
+        "rect": {
+          "x": 43.53125,
+          "y": 3972.03125,
+          "w": 300.765625,
+          "h": 33.28125
+        },
+        "font": "600 29.1213px / 33.2787px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "The Dask community is broad and diverse, mixing a volunteer ",
+        "class": "",
+        "rect": {
+          "x": 43.53125,
+          "y": 4024.8125,
+          "w": 300.765625,
+          "h": 224.578125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "For non-official Dask communications, either by individuals ",
+        "class": "",
+        "rect": {
+          "x": 43.53125,
+          "y": 4285.53125,
+          "w": 300.765625,
+          "h": 274.484375
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "For official Dask communications we try to strike a balance ",
+        "class": "",
+        "rect": {
+          "x": 43.53125,
+          "y": 4576.65625,
+          "w": 300.765625,
+          "h": 99.8125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We strive to promote positive news about Dask, either its te",
+        "class": "text-medium",
+        "rect": {
+          "x": 43.53125,
+          "y": 4695.96875,
+          "w": 300.765625,
+          "h": 74.859375
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Did you know that Dask can integrate well with Scikit-Learn?",
+        "class": "",
+        "rect": {
+          "x": 43.53125,
+          "y": 4787.46875,
+          "w": 300.765625,
+          "h": 174.671875
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We avoid overt self-praise, especially if it is not very wel",
+        "class": "",
+        "rect": {
+          "x": 43.53125,
+          "y": 4978.78125,
+          "w": 300.765625,
+          "h": 74.859375
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We temper positive results with ways in which we can improve",
+        "class": "",
+        "rect": {
+          "x": 43.53125,
+          "y": 5070.28125,
+          "w": 300.765625,
+          "h": 199.625
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We don’t linger long on negative results, but we do make sur",
+        "class": "",
+        "rect": {
+          "x": 43.53125,
+          "y": 5286.546875,
+          "w": 300.765625,
+          "h": 224.578125
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "We endeavor to highlight the work of others, both among our ",
+        "class": "",
+        "rect": {
+          "x": 43.53125,
+          "y": 5527.765625,
+          "w": 300.765625,
+          "h": 174.671875
+        },
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "class": "brand-logo footer-logo w-nav-brand",
+        "rect": {
+          "x": 41.828125,
+          "y": 5897.375,
+          "w": 159.890625,
+          "h": 49.90625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 41.828125,
+          "y": 5897.375,
+          "w": 159.890625,
+          "h": 49.90625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Latest",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 6054.34375,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Community",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 39.34375,
+          "y": 6148.71875,
+          "w": 318.9375,
+          "h": 24.953125
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Get Help",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 6199.5625,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Powered By",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 6234.265625,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Demo Day",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 6268.96875,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Blog",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 39.34375,
+          "y": 6363.34375,
+          "w": 318.9375,
+          "h": 24.953125
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Dask Blog",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 6414.1875,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Contribute",
+        "class": "text-medium footer-nav reg",
+        "rect": {
+          "x": 39.34375,
+          "y": 6448.890625,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Brand",
+        "class": "text-medium footer-nav",
+        "rect": {
+          "x": 39.34375,
+          "y": 6543.265625,
+          "w": 318.9375,
+          "h": 24.953125
+        },
+        "font": "600 18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "Brand Guidelines",
+        "class": "text-medium footer-nav reg w--current",
+        "rect": {
+          "x": 39.34375,
+          "y": 6594.109375,
+          "w": 319.015625,
+          "h": 24.953125
+        },
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to github page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 41.515625,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 41.515625,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to twitter page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 83.09375,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 83.09375,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to youtube page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 124.671875,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 124.671875,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to stackoverflow. page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 166.25,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 166.25,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "A",
+        "text": "go to dask discourse group page",
+        "class": "social-media-icon w-nav-brand",
+        "rect": {
+          "x": 207.828125,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "relative"
+      },
+      {
+        "tag": "IMG",
+        "text": "",
+        "class": "container-logo-img",
+        "rect": {
+          "x": 207.828125,
+          "y": 6680.421875,
+          "w": 33.265625,
+          "h": 33.265625
+        },
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      },
+      {
+        "tag": "P",
+        "text": "Copyright © 2026 Dask core developers. New-BSD Licensed.",
+        "class": "text-tiny white copyright",
+        "rect": {
+          "x": 41.515625,
+          "y": 6788.703125,
+          "w": 281.75,
+          "h": 49.90625
+        },
+        "font": "12.48px / 24.96px Inter, sans-serif",
+        "padding": "0px",
+        "bg": "none",
+        "bgSize": "auto",
+        "position": "static"
+      }
+    ]
+  }
+]

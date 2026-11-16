@@ -1,22 +1,32 @@
 [
   {
-    "file": "Site.CKdZ8cse.css",
-    "bytes": 56042,
-    "gzipBytes": 10936
+    "file": "Site.D9e-acD8.css",
+    "bytes": 18358,
+    "gzipBytes": 4438
   },
   {
-    "file": "Site.astro_astro_type_script_index_0_lang.CW2sagQU.js",
-    "bytes": 5064,
-    "gzipBytes": 1820
+    "file": "Site.astro_astro_type_script_index_0_lang.DMCFOuTK.js",
+    "bytes": 6496,
+    "gzipBytes": 2315
   },
   {
-    "file": "brand-guide.TLAiu9Gf.css",
-    "bytes": 4349,
-    "gzipBytes": 1243
+    "file": "brand-guide.7VntVwvL.css",
+    "bytes": 9274,
+    "gzipBytes": 2177
   },
   {
-    "file": "index.Dcg_fK9N.css",
-    "bytes": 13187,
-    "gzipBytes": 3050
+    "file": "get-started.CkaDoItO.css",
+    "bytes": 7735,
+    "gzipBytes": 1952
+  },
+  {
+    "file": "index.CCfdX8s4.css",
+    "bytes": 21701,
+    "gzipBytes": 4793
+  },
+  {
+    "file": "powered-by.Cex-QuiB.css",
+    "bytes": 4324,
+    "gzipBytes": 1052
   }
 ]

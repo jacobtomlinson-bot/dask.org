@@ -1,0 +1,321 @@
+/* Independently drawn homepage illustrations. Geometry is based on rendered references. */
+.dashboard-art {
+  height: 323px;
+  position: relative;
+  margin-left: 0;
+}
+.dashboard-frame {
+  width: 576px;
+  height: 322px;
+  background: #262326;
+  border: 1px solid #555;
+  overflow: hidden;
+}
+.dashboard-top {
+  height: 24px;
+  border-bottom: 1px solid #555;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding-left: 16px;
+}
+.dashboard-top i {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #080815;
+}
+.dashboard-panes {
+  display: grid;
+  gap: 4px;
+  padding: 10px 14px 0;
+  height: calc(100% - 24px);
+  grid-template-columns: 48.8% 51.2%;
+}
+.dashboard-left,
+.dashboard-right {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+.dashboard-tab {
+  font:
+    8px/17px Inter,
+    sans-serif;
+  letter-spacing: 0.5px;
+  background: #333137;
+  color: #999;
+  padding: 0 10px;
+  align-self: start;
+  height: 17px;
+}
+.dashboard-tab.selected {
+  background: #ebeaee;
+  color: #999;
+}
+.dashboard-code {
+  height: 133px;
+  background: #333137;
+  display: flex;
+  align-items: end;
+  color: #fff;
+  font:
+    8px/12px Inconsolata,
+    monospace;
+  padding: 8px 12px;
+}
+.dashboard-code code {
+  font: inherit;
+}
+.dashboard-code code span {
+  color: #1f5aff;
+}
+.dashboard-code code b {
+  color: #fc6e6b;
+  font-weight: 400;
+}
+.progress-stream {
+  height: 100px;
+  width: 100%;
+}
+.task-stream {
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+}
+.progress-task,
+.stream-task {
+  transform-box: fill-box;
+  transform-origin: bottom;
+}
+.benchmark-art {
+  height: 349px;
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  margin: 24px;
+  background: #f5f7f5;
+  border: 1px solid #ebeaee;
+  min-width: 0;
+}
+.benchmark-art svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.gauge-arc {
+  stroke-dasharray: 480 660;
+}
+.gauge-needle {
+  transform: rotate(var(--angle));
+}
+.cost-demo {
+  display: flex;
+  gap: 16px;
+  margin: 24px auto;
+  max-width: 906px;
+  text-align: left;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+}
+.rows-total {
+  background: #f5f7f5;
+  border: 1px solid #ebeaee;
+  padding: 38px 32px;
+  flex: 1;
+  min-width: 0;
+}
+.rows-total output {
+  display: block;
+  white-space: pre;
+  font-size: 29px;
+  line-height: 52px;
+  letter-spacing: 1px;
+  font-variant-numeric: tabular-nums;
+  background: #ebeaee;
+  border: 1px solid #ccc;
+  padding: 4px 12px;
+  margin-top: 4px;
+}
+.cost-total {
+  background: #262326;
+  color: white;
+  padding: 38px 32px;
+  width: 240px;
+}
+.cost-digits {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-top: 4px;
+  font-size: 29px;
+  line-height: 52px;
+  font-variant-numeric: tabular-nums;
+}
+.cost-digits output {
+  background: #33363d;
+  border: 1px solid #080815;
+  letter-spacing: 5px;
+  padding: 4px 10px;
+}
+.is-playing .progress-task {
+  animation: progress-fill 4s ease-in-out var(--delay) infinite;
+}
+.is-playing .stream-task {
+  animation: task-fill 5s ease-in-out var(--delay) infinite;
+}
+.is-playing .gauge-arc {
+  animation: gauge-fill 8s ease-in-out infinite;
+}
+.is-playing .gauge-needle {
+  animation: gauge-turn 8s ease-in-out infinite;
+  transform-origin: center;
+}
+.is-playing .gauge-1 {
+  animation-delay: -3s;
+}
+@keyframes progress-fill {
+  0%,
+  100% {
+    transform: scaleY(0.1);
+    opacity: 0.1;
+  }
+  40%,
+  80% {
+    transform: scaleY(1);
+    opacity: 1;
+  }
+}
+@keyframes task-fill {
+  0%,
+  10%,
+  100% {
+    opacity: 0;
+  }
+  30%,
+  85% {
+    opacity: 1;
+  }
+}
+@keyframes gauge-fill {
+  0%,
+  100% {
+    stroke-dasharray: 40 660;
+  }
+  50% {
+    stroke-dasharray: 480 660;
+  }
+}
+@keyframes gauge-turn {
+  0%,
+  100% {
+    transform: rotate(-25deg);
+  }
+  50% {
+    transform: rotate(var(--angle));
+  }
+}
+@media (min-width: 601px) and (max-width: 991px) {
+  .dashboard-art {
+    position: absolute;
+    left: 57.3vw;
+    top: -54px;
+    width: 584px;
+    height: 326px;
+  }
+  .dashboard-frame {
+    width: 584px;
+    height: 326px;
+    transform: none;
+  }
+  .benchmark-art {
+    height: 210px;
+    padding: 12px;
+    margin: 16px;
+  }
+  .cost-demo {
+    max-width: 610px;
+    font-size: 13.475px;
+  }
+  .rows-total,
+  .cost-total {
+    padding: 24px 20px;
+  }
+  .rows-total output,
+  .cost-digits {
+    font-size: 20px;
+    line-height: 36px;
+  }
+  .cost-total {
+    width: 160px;
+  }
+}
+@media (max-width: 600px) {
+  .dashboard-art {
+    position: absolute;
+    top: 361px;
+    left: 0;
+    width: 100%;
+    height: 245px;
+    margin: 0;
+  }
+  .dashboard-frame {
+    width: 576px;
+    height: 322px;
+    transform: scale(0.765);
+    transform-origin: top left;
+  }
+  .dashboard-top {
+    height: 24px;
+  }
+  .dashboard-panes {
+    padding-top: 10px;
+  }
+  .benchmark-art {
+    min-height: 0;
+    padding: 0;
+    order: -1;
+    height: 156px;
+    width: calc(100% - 8px);
+    margin: 4px 4px 3px;
+  }
+  .cost-demo {
+    flex-direction: column;
+    gap: 12px;
+    margin: 24px 0;
+    font-size: 9px;
+    line-height: 15px;
+  }
+  .rows-total {
+    height: 96px;
+    padding: 16px;
+  }
+  .rows-total output {
+    letter-spacing: 0;
+    padding: 0 4px;
+    font-size: 18px;
+    line-height: 34px;
+  }
+  .cost-total {
+    width: 100%;
+    height: 98px;
+    padding: 16px;
+  }
+  .cost-digits {
+    margin-top: 4px;
+    font-size: 18px;
+    line-height: 34px;
+  }
+  .cost-digits output {
+    padding: 0 10px;
+  }
+  .benchmark-art svg {
+    height: 156px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .is-playing * {
+    animation: none !important;
+  }
+}

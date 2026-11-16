@@ -9,7 +9,7 @@
       1116,
       627
     ],
-    "differentPercent": 10.907
+    "differentPercent": 10.913
   },
   {
     "name": "workload-1",
@@ -21,7 +21,7 @@
       1116,
       627
     ],
-    "differentPercent": 10.413
+    "differentPercent": 10.596
   },
   {
     "name": "workload-2",
@@ -33,7 +33,7 @@
       1116,
       627
     ],
-    "differentPercent": 10.419
+    "differentPercent": 10.668
   },
   {
     "name": "workload-3",
@@ -45,7 +45,7 @@
       1116,
       627
     ],
-    "differentPercent": 11.095
+    "differentPercent": 11.308
   },
   {
     "name": "deployment-0",
@@ -57,7 +57,7 @@
       1440,
       718
     ],
-    "differentPercent": 5.823
+    "differentPercent": 5.828
   },
   {
     "name": "deployment-1",
@@ -69,7 +69,7 @@
       1440,
       718
     ],
-    "differentPercent": 5.379
+    "differentPercent": 5.384
   },
   {
     "name": "explore-0",
@@ -81,7 +81,7 @@
       1440,
       1119
     ],
-    "differentPercent": 1.837
+    "differentPercent": 1.823
   },
   {
     "name": "explore-1",
@@ -93,7 +93,7 @@
       1440,
       1119
     ],
-    "differentPercent": 1.76
+    "differentPercent": 1.747
   },
   {
     "name": "explore-2",
@@ -105,7 +105,7 @@
       1440,
       1119
     ],
-    "differentPercent": 1.728
+    "differentPercent": 1.716
   },
   {
     "name": "logo-0",
@@ -117,7 +117,7 @@
       1359,
       1120
     ],
-    "differentPercent": 9.579
+    "differentPercent": 9.928
   },
   {
     "name": "logo-1",
@@ -129,7 +129,7 @@
       1359,
       1120
     ],
-    "differentPercent": 9.982
+    "differentPercent": 10.461
   },
   {
     "name": "logo-2",
@@ -141,7 +141,7 @@
       1359,
       1120
     ],
-    "differentPercent": 15.196
+    "differentPercent": 15.738
   },
   {
     "name": "logo-3",
@@ -153,7 +153,7 @@
       1359,
       1120
     ],
-    "differentPercent": 15.009
+    "differentPercent": 15.468
   },
   {
     "name": "palette-0",
@@ -165,7 +165,7 @@
       1359,
       643
     ],
-    "differentPercent": 15.83
+    "differentPercent": 19.55
   },
   {
     "name": "palette-1",
@@ -177,7 +177,7 @@
       1359,
       643
     ],
-    "differentPercent": 20.642
+    "differentPercent": 72.919
   },
   {
     "name": "palette-2",
@@ -189,7 +189,7 @@
       1359,
       643
     ],
-    "differentPercent": 15.856
+    "differentPercent": 19.555
   },
   {
     "name": "palette-3",
@@ -201,7 +201,7 @@
       1359,
       643
     ],
-    "differentPercent": 20.846
+    "differentPercent": 72.732
   },
   {
     "name": "palette-4",
@@ -213,7 +213,7 @@
       1359,
       643
     ],
-    "differentPercent": 15.845
+    "differentPercent": 65.544
   },
   {
     "name": "palette-5",
@@ -225,7 +225,7 @@
       1359,
       643
     ],
-    "differentPercent": 21.145
+    "differentPercent": 67.88
   },
   {
     "name": "palette-6",
@@ -237,7 +237,7 @@
       1359,
       643
     ],
-    "differentPercent": 21.517
+    "differentPercent": 71.612
   },
   {
     "name": "palette-7",
@@ -249,7 +249,7 @@
       1359,
       643
     ],
-    "differentPercent": 20.472
+    "differentPercent": 72.428
   },
   {
     "name": "palette-8",
@@ -261,7 +261,7 @@
       1359,
       643
     ],
-    "differentPercent": 21.31
+    "differentPercent": 71.798
   },
   {
     "name": "palette-9",
@@ -273,7 +273,7 @@
       1359,
       643
     ],
-    "differentPercent": 20.509
+    "differentPercent": 25.999
   },
   {
     "name": "palette-10",
@@ -285,7 +285,7 @@
       1359,
       643
     ],
-    "differentPercent": 16.366
+    "differentPercent": 71.066
   },
   {
     "name": "palette-11",
@@ -297,7 +297,7 @@
       1359,
       643
     ],
-    "differentPercent": 20.85
+    "differentPercent": 26.214
   },
   {
     "name": "dialog-0",
@@ -309,7 +309,7 @@
       1440,
       2379
     ],
-    "differentPercent": 2.303
+    "differentPercent": 2.226
   },
   {
     "name": "dialog-1",
@@ -321,7 +321,7 @@
       1440,
       2379
     ],
-    "differentPercent": 2.221
+    "differentPercent": 2.153
   },
   {
     "name": "dialog-2",
@@ -333,7 +333,7 @@
       1440,
       2379
     ],
-    "differentPercent": 2.057
+    "differentPercent": 1.996
   },
   {
     "name": "nav-1440",
@@ -345,7 +345,7 @@
       1440,
       1000
     ],
-    "differentPercent": 10.107
+    "differentPercent": 5.055
   },
   {
     "name": "nav-768",
@@ -357,7 +357,7 @@
       768,
       1000
     ],
-    "differentPercent": 10.312
+    "differentPercent": 8.865
   },
   {
     "name": "nav-390",
@@ -369,6 +369,6 @@
       390,
       1000
     ],
-    "differentPercent": 16.766
+    "differentPercent": 7.386
   }
 ]

@@ -1,0 +1,601 @@
+/* get-started: component-owned base, desktop, tablet, mobile and reduced-motion rules. Keep each selector in its owning tier; do not append refinement layers. */
+.install-section {
+  padding: 0 var(--gutter);
+  display: grid;
+  grid-template-columns: 44% 63%;
+  gap: 0;
+  background-color: var(--ink);
+  color: white;
+  overflow: hidden;
+  height: 479px;
+}
+.install-copy {
+  padding: 80px 8% 70px 28px;
+  max-width: 510px;
+}
+.install-copy h2 {
+  margin-bottom: 8px;
+}
+.install-copy p {
+  margin-bottom: 24px;
+}
+.learn-section {
+  position: relative;
+  padding: 112px var(--gutter) 100px 30.9%;
+  background-color: #f5f7f5;
+  min-height: 1037px;
+  overflow: hidden;
+  padding-top: 118px;
+}
+.learn-section .intro {
+  font-weight: 300;
+}
+.learn-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px 88px;
+  margin-top: 126px;
+}
+.learn-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 280px;
+  padding-top: 40px;
+  border-top: 1px solid var(--slate);
+}
+.learn-card h3 {
+  margin-bottom: 8px;
+}
+.learn-card p {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 300;
+}
+.learn-card .text-link {
+  font-size: 14px;
+  margin-top: auto;
+  padding-top: 24px;
+}
+.learn-art {
+  position: absolute;
+  left: -25px;
+  top: 161px;
+  width: 345px;
+}
+.learn-art-top {
+  position: absolute;
+  left: 2px;
+  top: 83px;
+  width: 122px;
+}
+.learn-art-bottom {
+  position: absolute;
+  left: 69px;
+  bottom: 80px;
+  width: 250px;
+}
+.explore-section {
+  padding: 168px var(--gutter) 160px;
+  text-align: center;
+  min-height: 1119px;
+}
+.explore-section > p {
+  max-width: 600px;
+  margin: 24px auto 0;
+}
+.explore-tabs {
+  margin-top: 134px;
+}
+.explore-tabs .tablist {
+  gap: 120px;
+  position: relative;
+}
+.explore-tabs .tablist button {
+  width: 190px;
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 24px;
+  border: 0;
+  position: relative;
+}
+.tab-icon {
+  height: 56px;
+  width: 56px;
+  border-radius: 50%;
+  font-size: 38px;
+  line-height: 56px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.explore-tabs button[aria-selected='true'] .tab-icon {
+  background: var(--pink);
+  color: #fff;
+  --icon-bg: #ef1561;
+}
+.explore-panel {
+  margin: 64px auto 0;
+  max-width: 635px;
+}
+.explore-card {
+  text-align: left;
+  background: #f5f7f5;
+  padding: 40px 64px;
+  position: relative;
+  min-height: 200px;
+}
+.explore-card h3 {
+  margin-bottom: 16px;
+}
+.explore-card .next-tab {
+  position: absolute;
+  top: 40px;
+  right: 32px;
+  border: 1px solid var(--yellow);
+  background: transparent;
+  border-radius: 50%;
+  height: 32px;
+  width: 32px;
+}
+.explore-panel > .button {
+  margin-top: 40px;
+}
+.deeper {
+  background-color: #30363a;
+  color: white;
+  padding: 72px var(--gutter) 0;
+  position: relative;
+  min-height: 322px;
+}
+.deeper h2 {
+  margin-bottom: 12px;
+}
+.deeper p {
+  font-weight: 300;
+}
+.deeper > img {
+  position: absolute;
+  right: 7.35%;
+  top: 24px;
+  width: 216px;
+}
+.deeper-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  margin-top: 80px;
+  padding-bottom: 32px;
+}
+.deeper-links a {
+  font-weight: 600;
+  font-size: 16px;
+  text-decoration: underline;
+  text-decoration-color: var(--yellow);
+  text-underline-offset: 4px;
+}
+.learn-section > h2 {
+  margin-left: 12px;
+}
+.learn-section > .intro {
+  margin-left: 12px;
+}
+.tab-icon svg {
+  width: 44px;
+  height: 44px;
+}
+.explore-tabs .tablist::before {
+  content: '';
+  position: absolute;
+  left: calc(50% - 280px);
+  right: calc(50% - 280px);
+  top: 52px;
+  height: 1px;
+  background: #33363d;
+  z-index: 0;
+}
+.explore-tabs .tab-icon {
+  background: #fff;
+  z-index: 1;
+}
+@media (max-width: 1100px) {
+  .learn-grid {
+    gap: 40px;
+  }
+}
+@media (min-width: 992px) {
+  .deeper {
+    min-height: 322px;
+  }
+  .learn-section {
+    min-height: 1037px;
+    padding-top: 114px;
+  }
+}
+@media (max-width: 991px) {
+  .learn-section {
+    padding: 80px var(--gutter) 80px 28%;
+    min-height: 950px;
+  }
+  .learn-section h2 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .learn-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
+    margin-top: 64px;
+  }
+  .learn-card {
+    min-height: 245px;
+  }
+  .learn-art {
+    width: 200px;
+    left: -40px;
+    top: 200px;
+  }
+  .learn-art-top {
+    width: 100px;
+    left: 0;
+  }
+  .learn-art-bottom {
+    width: 160px;
+    left: 0;
+    bottom: 150px;
+  }
+  .explore-section {
+    padding: 120px var(--gutter);
+    min-height: 950px;
+  }
+  .explore-tabs .tablist {
+    gap: 32px;
+  }
+  .explore-tabs .tablist button {
+    width: 150px;
+  }
+  .deeper {
+    padding-top: 64px;
+  }
+  .deeper > img {
+    width: 150px;
+    top: 40px;
+  }
+  .deeper p {
+    max-width: 70%;
+  }
+  .deeper-links {
+    gap: 24px;
+    margin-top: 64px;
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 991px) and (min-width: 601px) {
+  .install-section {
+    height: 323px;
+    grid-template-columns: 57% 70%;
+  }
+  .install-copy {
+    padding: 24px 54px 30px 15px;
+  }
+  .install-copy h2 {
+    font-size: 26.95px;
+    line-height: 30.31px;
+  }
+  .install-copy p {
+    margin-bottom: 20px;
+  }
+  .install-section > .terminal {
+    height: 323px;
+  }
+  .learn-section {
+    height: 921px;
+    min-height: 921px;
+    padding: 72px 8vw 50px 37.4vw;
+  }
+  .learn-section h2 {
+    font-size: 30.31px;
+    line-height: 35.37px;
+    margin-left: 3px;
+  }
+  .learn-section > .intro {
+    margin-left: 3px;
+  }
+  .learn-grid {
+    margin-top: 90px;
+    gap: 20px 60px;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 16px;
+  }
+  .learn-card {
+    padding-top: 32px;
+    min-height: 205px;
+  }
+  .learn-card h3 {
+    font-size: 16.84px;
+    line-height: 26.95px;
+    margin-bottom: 8px;
+  }
+  .learn-card p {
+    font-size: 15.16px;
+    line-height: 20.21px;
+  }
+  .learn-card .text-link {
+    font-size: 11.79px;
+    line-height: 18px;
+  }
+  .learn-art {
+    width: 270px;
+    left: -20px;
+    top: 110px;
+  }
+  .learn-art-top {
+    width: 90px;
+    left: 0;
+    top: 55px;
+  }
+  .learn-art-bottom {
+    width: 120px;
+    left: 55px;
+    bottom: 340px;
+  }
+  .explore-section {
+    height: 767px;
+    min-height: 767px;
+    padding: 119px var(--gutter) 60px;
+  }
+  .explore-tabs {
+    margin-top: 96px;
+  }
+  .explore-tabs .tablist {
+    gap: 48px;
+  }
+  .explore-tabs .tablist button {
+    font-size: 16.84px;
+    line-height: 26.95px;
+    width: 130px;
+    gap: 16px;
+    padding: 0;
+  }
+  .tab-icon {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 30px;
+  }
+  .explore-panel {
+    margin-top: 56px;
+    max-width: 656px;
+  }
+  .explore-card {
+    padding: 24px 40px;
+    min-height: 140px;
+  }
+  .explore-card h3 {
+    margin-bottom: 12px;
+  }
+  .explore-panel > .button {
+    margin-top: 28px;
+  }
+  .deeper {
+    height: 437px;
+    min-height: 437px;
+    padding-top: 84px;
+  }
+  .deeper h2 {
+    font-size: 26.95px;
+    line-height: 30.31px;
+  }
+  .deeper p {
+    font-size: 13.475px;
+    line-height: 20.21px;
+    max-width: 75%;
+  }
+  .deeper > img {
+    width: 160px;
+    top: 56px;
+    right: 6vw;
+  }
+  .deeper-links {
+    margin-top: 130px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    padding: 0;
+  }
+  .deeper-links a {
+    font-size: 13.475px;
+    line-height: 20.21px;
+  }
+  .explore-tabs .tablist::before {
+    left: 70px;
+    right: 70px;
+    top: 24px;
+  }
+  .explore-tabs .tab-icon svg {
+    height: 36px;
+    width: 36px;
+  }
+}
+@media (max-width: 600px) {
+  .install-section {
+    display: block;
+    overflow: hidden;
+    height: 747px;
+    position: relative;
+    padding: 0;
+  }
+  .install-copy {
+    max-width: none;
+    padding: 72px 11.2vw 0;
+  }
+  .install-section .terminal {
+    width: 100%;
+    height: 260px;
+    margin-left: 8vw;
+  }
+  .learn-grid {
+    grid-template-columns: 1fr;
+    margin-top: 160px;
+    gap: 0;
+  }
+  .learn-card {
+    height: 264px;
+    min-height: 264px;
+    padding: 32px 0 20px;
+  }
+  .learn-art {
+    top: auto;
+    width: 270px;
+    left: -30px;
+    bottom: 100px;
+  }
+  .learn-art-top {
+    top: auto;
+    bottom: 510px;
+    width: 110px;
+    left: 0;
+  }
+  .learn-art-bottom {
+    left: auto;
+    bottom: 64px;
+    right: 0;
+    width: 200px;
+  }
+  .explore-section > p {
+    margin-top: 24px;
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .explore-tabs .tablist {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+  .explore-tabs .tablist button {
+    padding: 8px;
+    font-size: 20.8px;
+    line-height: 33.28px;
+    gap: 8px;
+  }
+  .explore-tabs .tab-icon {
+    font-size: 32px;
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+  }
+  .explore-card .next-tab {
+    right: 16px;
+    top: 20px;
+  }
+  .explore-panel > .button {
+    margin-top: 32px;
+    font-size: 14px;
+  }
+  .deeper p {
+    max-width: none;
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .deeper > img {
+    position: static;
+    display: block;
+    width: 140px;
+    margin: 24px auto;
+  }
+  .deeper-links {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 0;
+    margin-top: 32px;
+    gap: 16px;
+  }
+  .install-copy h2 {
+    font-size: 29.12px;
+    line-height: 33.28px;
+  }
+  .install-copy p {
+    font-size: 16.64px;
+    line-height: 24.96px;
+    margin-top: 16px;
+  }
+  .install-section > .terminal {
+    position: absolute;
+    top: auto;
+    bottom: 0;
+    left: 8vw;
+    margin: 0;
+    width: calc(100% - 8vw);
+    height: 260px;
+  }
+  .learn-section {
+    padding: 121px 10.8vw 500px;
+    min-height: 2286px;
+    height: 2286px;
+  }
+  .learn-section h2 {
+    font-size: 33.28px;
+    line-height: 37.44px;
+    margin-left: -5px;
+  }
+  .learn-section .intro {
+    margin-left: -5px;
+  }
+  .learn-card h3 {
+    font-size: 20.8px;
+    line-height: 33.28px;
+  }
+  .learn-card p {
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .learn-card .text-link {
+    font-size: 14.56px;
+  }
+  .explore-section {
+    height: 1236px;
+    min-height: 1236px;
+    padding: 125px var(--gutter) 100px;
+  }
+  .explore-section h2 {
+    font-size: 33.28px;
+    line-height: 37.44px;
+  }
+  .explore-tabs {
+    margin-top: 68px;
+  }
+  .explore-panel {
+    margin-top: 58px;
+  }
+  .explore-card {
+    padding: 32px 18px;
+  }
+  .explore-card h3 {
+    font-size: 20.8px;
+    line-height: 33.28px;
+  }
+  .explore-card p {
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .deeper {
+    height: 582px;
+    padding: 31px 7.33vw 32px;
+  }
+  .deeper h2 {
+    font-size: 29.12px;
+    line-height: 33.28px;
+  }
+  .deeper-links a {
+    font-size: 14.56px;
+  }
+  .explore-tabs .tablist::before {
+    display: none;
+  }
+  .tab-icon svg {
+    height: 36px;
+    width: 36px;
+  }
+}

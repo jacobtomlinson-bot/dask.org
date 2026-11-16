@@ -1,0 +1,343 @@
+[
+  {
+    "text": "Inconsolata",
+    "r": [
+      120.53125,
+      3059.78125,
+      99,
+      17
+    ],
+    "font": "16.6413px / 24.96px Inconsolata, monospace",
+    "margin": "0px"
+  },
+  {
+    "text": "Inconsolata",
+    "r": [
+      90.53125,
+      3135.640625,
+      99,
+      17
+    ],
+    "font": "16.6413px / 24.96px Inconsolata, monospace",
+    "margin": "0px"
+  },
+  {
+    "text": "Heading 1",
+    "r": [
+      146.90625,
+      3382.515625,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Bold, 56px",
+    "r": [
+      251.578125,
+      3382.515625,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Heading 2",
+    "r": [
+      146.90625,
+      3422.109375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Bold, 46px",
+    "r": [
+      251.578125,
+      3422.109375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Heading 2-small",
+    "r": [
+      146.90625,
+      3449.984375,
+      104.671875,
+      49.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "SemiBold, 36px",
+    "r": [
+      251.578125,
+      3449.984375,
+      104.671875,
+      49.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Heading 3",
+    "r": [
+      146.90625,
+      3510.375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Bold, 20px",
+    "r": [
+      251.578125,
+      3510.375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Inter",
+    "r": [
+      42.234375,
+      3538.25,
+      104.671875,
+      39
+    ],
+    "font": "29.1213px / 39px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "text": "Text-xlarge",
+    "r": [
+      146.90625,
+      3551.53125,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Light, 36px",
+    "r": [
+      251.578125,
+      3551.53125,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Inter",
+    "r": [
+      42.234375,
+      3579.40625,
+      104.671875,
+      33.28125
+    ],
+    "font": "24.96px / 33.2787px Inter, sans-serif",
+    "margin": "0px 0px 8.32065px"
+  },
+  {
+    "text": "Text-large",
+    "r": [
+      146.90625,
+      3595.28125,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Light, 24px",
+    "r": [
+      251.578125,
+      3595.28125,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Inter",
+    "r": [
+      42.234375,
+      3648.875,
+      104.671875,
+      24.953125
+    ],
+    "font": "18.72px / 24.96px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "text": "Text-medium",
+    "r": [
+      146.90625,
+      3623.15625,
+      104.671875,
+      49.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Regular, 18px",
+    "r": [
+      251.578125,
+      3623.15625,
+      104.671875,
+      49.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Inter",
+    "r": [
+      42.234375,
+      3676.75,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "text": "Text-regular",
+    "r": [
+      146.90625,
+      3675.984375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Light, 16px",
+    "r": [
+      251.578125,
+      3675.984375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Inter",
+    "r": [
+      42.234375,
+      3704.625,
+      104.671875,
+      24.953125
+    ],
+    "font": "14.5587px / 24.96px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "text": "Text-small",
+    "r": [
+      146.90625,
+      3703.859375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Light, 14px",
+    "r": [
+      251.578125,
+      3703.859375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Inter",
+    "r": [
+      42.234375,
+      3731.734375,
+      104.671875,
+      24.953125
+    ],
+    "font": "12.48px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 3.4203px"
+  },
+  {
+    "text": "Text-tiny",
+    "r": [
+      146.90625,
+      3734.375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Light, 12px",
+    "r": [
+      251.578125,
+      3734.375,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Inconsolata",
+    "r": [
+      42.234375,
+      3787.96875,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inconsolata, monospace",
+    "margin": "0px"
+  },
+  {
+    "text": "syntax/code",
+    "r": [
+      146.90625,
+      3787.203125,
+      104.671875,
+      24.953125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  },
+  {
+    "text": "Regular, 16px",
+    "r": [
+      251.578125,
+      3762.25,
+      104.671875,
+      49.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 0.78px"
+  }
+]

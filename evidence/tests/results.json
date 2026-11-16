@@ -1,5 +1,5 @@
 {
-  "passed": 60,
+  "passed": 61,
   "failed": 0,
   "results": [
     {
@@ -235,11 +235,15 @@
       "status": "passed"
     },
     {
-      "name": "cost slider: local calculation changes without requests",
+      "name": "native counter: static representative frame in reduced motion",
       "status": "passed"
     },
     {
       "name": "redirects remain explicitly pending",
+      "status": "passed"
+    },
+    {
+      "name": "independent-review regression suite (see evidence/round2/checks.json)",
       "status": "passed"
     }
   ]

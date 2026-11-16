@@ -1,0 +1,1310 @@
+/* home: component-owned base, desktop, tablet, mobile and reduced-motion rules. Keep each selector in its owning tier; do not append refinement layers. */
+.workload-panel {
+  display: grid;
+  grid-template-columns: 57% 43%;
+  gap: 0;
+  min-height: 450px;
+}
+.workload-copy {
+  padding: 40px 76px 24px 24px;
+  display: flex;
+  flex-direction: column;
+}
+.workload-copy p {
+  margin: 16px 0 24px;
+}
+.workload-actions {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+.workload-actions .text-link {
+  font-size: 16px;
+}
+.workload-logos {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+  margin-top: auto;
+  padding-top: 80px;
+}
+.workload-logos img {
+  height: 32px;
+  width: auto;
+  max-width: 33%;
+  object-fit: contain;
+  filter: grayscale(1);
+  opacity: 0.7;
+}
+.workload-panel > .terminal {
+  margin: 24px 20px 24px 0;
+  width: calc(100% - 20px);
+  min-height: 425px;
+}
+.home-intro {
+  padding: 80px var(--gutter);
+  overflow: hidden;
+  min-height: 1210px;
+}
+.workload-tabs .tablist button {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.performance {
+  padding: 80px var(--gutter) 120px;
+  min-height: 1502px;
+}
+.performance-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 4px;
+  min-height: 480px;
+}
+.performance-row.humans {
+  min-height: 394px;
+}
+.cheap {
+  text-align: center;
+  padding-top: 36px;
+}
+.deployment > .boxed {
+  margin: auto;
+  font-size: 56px;
+  line-height: 57px;
+}
+.deployment .tablist {
+  gap: 32px;
+  margin: 0 auto 16px;
+  margin-bottom: 7px;
+}
+.deployment {
+  padding: 80px var(--gutter);
+  min-height: 718px;
+}
+.home-org-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 5px;
+  margin-top: 56px;
+}
+.home-org-grid img {
+  width: 100%;
+  height: 156px;
+  object-fit: contain;
+}
+.case-art {
+  height: 96px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.case-art img {
+  width: 100%;
+  height: 108px;
+  object-fit: contain;
+}
+.quote-logo {
+  height: 40px;
+  margin-bottom: 24px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+.laptop-note {
+  padding: 40px var(--gutter) 40px 50%;
+  background: #062959;
+  color: white;
+  position: relative;
+  min-height: 264px;
+}
+.closing-art {
+  position: absolute;
+  left: 11%;
+  top: 24px;
+  width: 216px;
+  height: 216px;
+}
+.home-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 0;
+  height: 395px;
+}
+.home-headline {
+  padding: 12px 28px;
+}
+.home-headline .boxed {
+  font-size: 46px;
+  line-height: 56px;
+  margin-left: -28px;
+  margin-bottom: 8px;
+  padding-bottom: 15px;
+}
+.home-headline p {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 20px 0 24px;
+}
+.workload-tabs {
+  max-width: 1116px;
+  margin: 16px auto 0;
+}
+.workload-tabs h2 {
+  margin-bottom: 16px;
+}
+.workload-tabs .tablist {
+  margin-bottom: 24px;
+}
+.performance > h2 {
+  margin-bottom: 16px;
+}
+.performance-copy {
+  padding: 60px 50px;
+}
+.performance-copy h3 {
+  margin-bottom: 16px;
+}
+.performance-copy p {
+  margin-bottom: 12px;
+}
+.human-code {
+  padding: 24px;
+}
+.human-code .terminal {
+  height: 266px;
+}
+.human-code .window-bar {
+  background: #ebeaee;
+}
+.human-code .window-bar i {
+  opacity: 0.4;
+}
+.cheap h3 {
+  margin-bottom: 16px;
+}
+.deployment .tablist button {
+  font-size: 18px;
+}
+.deployment .workload-panel {
+  max-width: 1116px;
+  margin: auto;
+  min-height: 395px;
+}
+.deployment .workload-panel > .terminal {
+  min-height: 347px;
+}
+.deployment .workload-copy {
+  padding-top: 40px;
+}
+.deployment .workload-logos {
+  gap: 32px;
+  padding-top: 48px;
+}
+.deployment .workload-logos img {
+  max-width: 31%;
+}
+.testimonials {
+  padding: 160px var(--gutter);
+  display: grid;
+  grid-template-columns: 37.5% 62.5%;
+  min-height: 1826px;
+  gap: 0;
+}
+.quote-intro {
+  padding: 24px;
+  align-self: start;
+  position: sticky;
+  top: 24px;
+}
+.quote-intro h2 {
+  margin-bottom: 16px;
+}
+.quote-intro p {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+.quote-intro small {
+  font-size: 14px;
+}
+.quote-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+.quote {
+  background: #f5f7f5;
+  margin: 0 0 10px;
+  padding: 32px;
+}
+.quote blockquote {
+  font-size: 18px;
+  line-height: 24px;
+  margin: 0 0 24px;
+}
+.quote figcaption {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 12px;
+  line-height: 20px;
+  gap: 8px;
+}
+.quote figcaption img {
+  width: 29px;
+  height: 29px;
+  border-radius: 50%;
+}
+.org-band {
+  text-align: center;
+  min-height: 559px;
+  padding: 56px var(--gutter);
+  background-color: #ebeaee;
+}
+.use-cases {
+  padding: 160px var(--gutter) 100px;
+  min-height: 1215px;
+  text-align: center;
+}
+.use-cases > .boxed {
+  margin: auto;
+  background: white;
+  color: var(--ink);
+  font-size: 46px;
+  line-height: 56px;
+}
+.use-cases > p {
+  font-weight: 300;
+  margin: 12px 0 24px;
+}
+.cases-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  text-align: left;
+}
+.case {
+  display: block;
+  background: #f5f7f5;
+  padding: 38px;
+  min-height: 368px;
+}
+.case h3 {
+  margin-bottom: 16px;
+  font-size: 20px;
+  line-height: 32px;
+}
+.case small {
+  font-size: 14px;
+  line-height: 22px;
+}
+.tags {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+  margin: 4px 0 16px;
+}
+.tags span {
+  background: #262326;
+  color: white;
+  padding: 1px 6px;
+  font-size: 12px;
+  line-height: 18px;
+}
+.case p {
+  font-size: 14px;
+  line-height: 24px;
+  margin: 4px 0 0;
+}
+.case:hover h3 {
+  text-decoration: underline;
+  text-decoration-color: var(--yellow);
+}
+.more-cases {
+  grid-column: span 2;
+  text-align: center;
+  background: #ebeaee;
+  padding: 70px 24px;
+  align-content: center;
+}
+.more-cases h3 {
+  font-size: 36px;
+  line-height: 46px;
+  margin-bottom: 12px;
+}
+.more-cases p {
+  font-size: 16px;
+  font-weight: 300;
+}
+.more-cases > div {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+}
+.more-cases .button {
+  font-size: 14px;
+}
+.more-cases .text-link {
+  font-size: 14px;
+}
+.home-install {
+  padding: 80px var(--gutter) 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  min-height: 400px;
+  overflow: hidden;
+  background-color: #f5f7f5;
+}
+.home-install > div:first-child {
+  padding: 24px 40px 24px 0;
+}
+.home-install h2 {
+  font-size: 36px;
+  line-height: 46px;
+  margin-bottom: 16px;
+}
+.home-install p {
+  margin-bottom: 24px;
+}
+.home-install > .terminal {
+  width: calc(100% + var(--gutter));
+}
+.home-install .window-bar {
+  background: #ebeaee;
+}
+.laptop-note p {
+  max-width: 540px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 28px;
+}
+.laptop-note .text-link {
+  font-size: 16px;
+}
+.humans .performance-copy > p:first-of-type {
+  font-weight: 600;
+}
+.cheap > p:first-of-type {
+  font-weight: 600;
+}
+@media (max-width: 1100px) {
+  .workload-copy {
+    padding-right: 32px;
+  }
+  .workload-actions {
+    gap: 16px;
+  }
+  .case {
+    padding: 28px;
+  }
+}
+@media (min-width: 992px) {
+  .deployment {
+    height: 718px;
+  }
+  .testimonials {
+    padding-top: 129px;
+    min-height: 1826px;
+  }
+  .org-band {
+    min-height: 559px;
+  }
+  .home-install h2 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+}
+@media (max-width: 991px) {
+  .workload-panel {
+    grid-template-columns: 55% 45%;
+  }
+  .workload-copy {
+    padding: 24px 20px 24px 14px;
+  }
+  .workload-copy .medium-title {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  .workload-logos {
+    gap: 12px;
+    padding-top: 48px;
+  }
+  .workload-panel > .terminal {
+    min-height: 350px;
+    margin-right: 0;
+    width: 100%;
+  }
+  .workload-actions {
+    gap: 16px;
+  }
+  .home-intro {
+    padding-top: 56px;
+    min-height: 1050px;
+  }
+  .home-headline {
+    padding-left: 14px;
+  }
+  .home-headline .boxed {
+    font-size: 32px;
+    line-height: 40px;
+    margin-left: -14px;
+    padding: 6px 14px;
+  }
+  .home-headline p {
+    font-size: 16px;
+    max-width: 280px;
+  }
+  .home-hero {
+    height: 350px;
+  }
+  .workload-tabs .section-title {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .workload-tabs .tablist {
+    gap: 12px;
+  }
+  .workload-tabs .tablist button {
+    font-size: 14px;
+    padding: 16px 8px;
+  }
+  .performance {
+    padding: 64px var(--gutter);
+    min-height: 1300px;
+  }
+  .performance > h2 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .performance-row {
+    gap: 16px;
+    min-height: 390px;
+  }
+  .performance-copy {
+    padding: 32px 14px;
+  }
+  .cheap {
+    padding-top: 32px;
+  }
+  .deployment .boxed {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .deployment .workload-copy {
+    padding-top: 24px;
+  }
+  .deployment .workload-logos {
+    gap: 16px;
+  }
+  .testimonials {
+    padding: 100px var(--gutter);
+    grid-template-columns: 35% 65%;
+    min-height: 1900px;
+  }
+  .quote-intro {
+    padding: 16px;
+  }
+  .quote-intro h2 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  .quote-intro p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .quote-intro small {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .quote {
+    padding: 20px;
+  }
+  .quote blockquote {
+    font-size: 16px;
+  }
+  .quote figcaption {
+    font-size: 10px;
+    gap: 4px;
+  }
+  .org-band {
+    min-height: 400px;
+  }
+  .org-band h2 {
+    font-size: 28px;
+  }
+  .use-cases {
+    padding: 100px var(--gutter);
+    min-height: 0;
+  }
+  .cases-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .case {
+    padding: 24px;
+    min-height: 330px;
+  }
+  .case-art {
+    height: 70px;
+  }
+  .more-cases {
+    padding: 64px 24px;
+  }
+  .home-install h2 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  .home-install {
+    min-height: 400px;
+  }
+  .laptop-note {
+    padding-left: 48%;
+  }
+  .laptop-note p {
+    font-size: 18px;
+    line-height: 26px;
+  }
+}
+@media (max-width: 991px) and (min-width: 601px) {
+  .home-intro {
+    height: 918px;
+    min-height: 918px;
+    padding-top: 110px;
+  }
+  .home-hero {
+    position: relative;
+    height: 313px;
+  }
+  .home-headline {
+    padding: 16px 14px;
+  }
+  .home-headline .boxed {
+    font-size: 30.31px;
+    line-height: 35.37px;
+    padding: 9px 13.47px 10px;
+    margin-bottom: 4px;
+  }
+  .home-headline p {
+    font-size: 15.16px;
+    line-height: 25.6px;
+    width: 335px;
+    max-width: none;
+    margin-top: 6.4px;
+    margin-bottom: 24px;
+  }
+  .workload-tabs {
+    margin-top: 20px;
+  }
+  .workload-tabs .section-title {
+    font-size: 30.31px;
+    line-height: 35.37px;
+    margin-bottom: 16px;
+  }
+  .workload-tabs .tablist {
+    margin-bottom: 16px;
+    gap: 20px;
+  }
+  .workload-tabs .tablist button {
+    font-size: 13.475px;
+    line-height: 20.21px;
+    padding: 10px 0;
+  }
+  .workload-copy {
+    padding: 24px 24px 20px 14px;
+  }
+  .workload-copy .medium-title {
+    font-size: 26.95px;
+    line-height: 30.31px;
+  }
+  .workload-copy p {
+    font-size: 13.475px;
+    line-height: 20.21px;
+    margin: 16px 0 20px;
+  }
+  .workload-actions {
+    gap: 12px;
+  }
+  .workload-actions .text-link {
+    font-size: 13.475px;
+  }
+  .workload-panel {
+    min-height: 350px;
+    grid-template-columns: 51% 49%;
+  }
+  .workload-panel > .terminal {
+    min-height: 330px;
+    margin: 16px 20px 16px 0;
+    width: calc(100% - 20px);
+  }
+  .workload-logos {
+    padding-top: 48px;
+    gap: 16px;
+  }
+  .workload-logos img {
+    height: 24px;
+  }
+  .performance {
+    height: 1241px;
+    min-height: 1241px;
+    padding: 65px var(--gutter) 56px;
+  }
+  .performance > h2 {
+    font-size: 30.31px;
+    line-height: 35.37px;
+    margin-bottom: 16px;
+  }
+  .performance-row {
+    height: 310px;
+    min-height: 310px;
+    gap: 4px;
+  }
+  .performance-copy {
+    padding: 24px 20px;
+  }
+  .performance-copy h3 {
+    font-size: 16.84px;
+    line-height: 26.95px;
+  }
+  .performance-row.humans {
+    height: 310px;
+    min-height: 310px;
+  }
+  .human-code {
+    padding: 16px;
+  }
+  .human-code .terminal {
+    height: 200px;
+  }
+  .cheap {
+    text-align: left;
+    padding: 36px 20px 0;
+  }
+  .cheap > p:last-child {
+    text-align: center;
+  }
+  .deployment {
+    height: 539px;
+    min-height: 539px;
+    padding: 54px var(--gutter);
+  }
+  .deployment > .boxed {
+    font-size: 40.42px;
+    line-height: 30.4px;
+    padding: 10px 20px 14px;
+  }
+  .deployment .tablist {
+    gap: 24px;
+    margin: 0 0 12px;
+  }
+  .deployment .tablist button {
+    font-size: 13.475px;
+    line-height: 20.21px;
+    padding: 10px 0;
+  }
+  .deployment .workload-copy {
+    padding: 24px 24px 20px 16px;
+    padding-top: 16px;
+  }
+  .deployment .workload-panel {
+    min-height: 300px;
+  }
+  .deployment .workload-panel > .terminal {
+    min-height: 265px;
+  }
+  .deployment .workload-logos {
+    padding-top: 30px;
+    gap: 16px;
+  }
+  .deployment .workload-logos img {
+    height: 20px;
+  }
+  .testimonials {
+    min-height: 2145px;
+    height: 2145px;
+    padding: 108px var(--gutter) 56px;
+    grid-template-columns: 37.5% 62.5%;
+  }
+  .quote-intro {
+    padding: 16px 13px;
+    padding-right: 4px;
+  }
+  .quote-intro h2 {
+    font-size: 30.31px;
+    line-height: 35.37px;
+  }
+  .quote-intro p {
+    font-size: 20.21px;
+    line-height: 23.58px;
+  }
+  .quote {
+    padding: 20px;
+  }
+  .quote blockquote {
+    font-size: 15.16px;
+    line-height: 20.21px;
+  }
+  .quote-logo {
+    height: 32px;
+  }
+  .quote figcaption {
+    font-size: 10.1px;
+    line-height: 16px;
+  }
+  .quote figcaption img {
+    height: 24px;
+    width: 24px;
+  }
+  .org-band {
+    height: 597px;
+    min-height: 597px;
+    padding-top: 39px;
+  }
+  .org-band h2 {
+    font-size: 26.95px;
+    line-height: 30.31px;
+  }
+  .use-cases {
+    height: 1140px;
+    min-height: 1140px;
+    padding: 110px var(--gutter) 56px;
+  }
+  .use-cases > .boxed {
+    font-size: 30.31px;
+    line-height: 35.37px;
+    padding: 8px 14px 12px;
+  }
+  .cases-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+  }
+  .case {
+    padding: 20px;
+    min-height: 300px;
+  }
+  .case-art {
+    height: 70px;
+  }
+  .case h3 {
+    font-size: 16.84px;
+    line-height: 26.95px;
+  }
+  .case small {
+    font-size: 11.79px;
+    line-height: 20.21px;
+  }
+  .case p {
+    font-size: 11.79px;
+    line-height: 20.21px;
+  }
+  .tags span {
+    font-size: 10px;
+    line-height: 16px;
+  }
+  .more-cases {
+    grid-column: span 3;
+    min-height: 180px;
+    padding: 24px;
+  }
+  .more-cases h3 {
+    font-size: 26.95px;
+    line-height: 30.31px;
+  }
+  .home-install {
+    height: 325px;
+    min-height: 325px;
+    padding-top: 65px;
+  }
+  .home-install > div:first-child {
+    padding: 0 16px 24px 0;
+  }
+  .home-install h2 {
+    font-size: 30.31px;
+    line-height: 35.37px;
+  }
+  .laptop-note {
+    height: 272px;
+    padding-top: 62px;
+    padding-left: 50%;
+    min-height: 272px;
+  }
+  .laptop-note p {
+    font-size: 20.21px;
+    line-height: 23.58px;
+  }
+  .laptop-note .text-link {
+    font-size: 13.475px;
+  }
+  .workload-tabs .workload-copy {
+    padding-top: 6px;
+  }
+  .home-org-grid {
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 40px;
+  }
+  .home-org-grid img {
+    height: 110px;
+  }
+  .case-art img {
+    height: 70px;
+  }
+  .closing-art {
+    width: 160px;
+    height: 160px;
+    top: 40px;
+  }
+}
+@media (max-width: 600px) {
+  .workload-panel {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+  }
+  .workload-copy {
+    padding: 0;
+  }
+  .workload-copy .medium-title {
+    font-size: 29.12px;
+    line-height: 33.28px;
+    margin-bottom: 0;
+  }
+  .workload-copy p {
+    font-size: 16.64px;
+    line-height: 24.96px;
+    margin: 12px 0 24px;
+    margin-bottom: 27px;
+  }
+  .workload-actions {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .workload-actions .text-link {
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .workload-logos {
+    display: flex;
+    align-items: center;
+    padding-top: 0;
+    flex-wrap: wrap;
+    gap: 17.55px;
+    margin-top: 36px;
+    margin-bottom: 0;
+    margin-left: -6.5px;
+  }
+  .workload-logos img {
+    max-width: 27%;
+    height: 19.5px;
+    filter: grayscale(1) brightness(2.2);
+    opacity: 0.6;
+  }
+  .workload-panel > .terminal {
+    width: 100%;
+    margin: 24px 0 0;
+    min-height: 233px;
+    height: 233px;
+    margin-top: 32px;
+  }
+  .home-intro {
+    padding: 64px var(--gutter) 80px;
+    padding-top: 133px;
+    padding-bottom: 80px;
+    height: auto;
+    min-height: 1863px;
+  }
+  .home-hero {
+    display: block;
+    height: 690px;
+    position: relative;
+  }
+  .home-headline {
+    padding: 0 13px;
+  }
+  .home-headline .boxed {
+    font-size: 33.28px;
+    line-height: 37.44px;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    margin: 0 0 12px;
+  }
+  .home-headline p {
+    font-size: 18.72px;
+    line-height: 24.96px;
+    max-width: 301px;
+    margin: 3px 0 27px;
+  }
+  .workload-tabs {
+    margin: 0;
+  }
+  .workload-tabs .section-title {
+    margin: 0 auto 24px;
+    font-size: 33.28px;
+    line-height: 37.44px;
+    max-width: none;
+    margin-bottom: 2px;
+  }
+  .workload-tabs .tablist {
+    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 246px;
+    gap: 8px;
+    padding: 89px 13px 0;
+    margin: 0;
+    border-bottom: 1px solid #33363d;
+  }
+  .workload-tabs .tablist button {
+    font-size: 19.5px;
+    line-height: 24.96px;
+    padding: 3.25px 0;
+    border: 0;
+    min-height: 33px;
+    color: #aaa;
+  }
+  .workload-tabs .tablist button[aria-selected='true'] {
+    text-decoration: underline;
+    text-decoration-color: var(--yellow);
+    text-underline-offset: 6px;
+    color: white;
+  }
+  .workload-tabs .workload-copy {
+    padding: 48px 13px 0;
+  }
+  .performance {
+    height: 1720px;
+    min-height: 1720px;
+    padding: 88px var(--gutter) 81px;
+  }
+  .performance > h2 {
+    font-size: 33.28px;
+    line-height: 37.44px;
+    width: 321px;
+    max-width: 100%;
+    margin-bottom: 0;
+    margin-left: 8px;
+    text-align: left;
+  }
+  .performance-row {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    height: auto;
+    gap: 0;
+    margin-bottom: 74px;
+  }
+  .performance-copy {
+    padding: 0 9px;
+  }
+  .performance-copy h3 {
+    font-size: 20.8px;
+    line-height: 33.28px;
+    margin-bottom: 7px;
+  }
+  .performance-copy p {
+    font-size: 16.64px;
+    line-height: 24.96px;
+    margin-bottom: 12px;
+    max-width: 310px;
+  }
+  .performance-row.humans {
+    min-height: 0;
+    height: auto;
+    gap: 0;
+    margin-bottom: 87px;
+  }
+  .human-code {
+    width: 100%;
+    padding: 4px;
+    height: 159px;
+  }
+  .human-code .terminal {
+    height: 151px;
+  }
+  .cheap {
+    text-align: left;
+    padding: 7.8px 10px 0;
+  }
+  .cheap h3 {
+    font-size: 20.8px;
+    line-height: 33.28px;
+    margin-bottom: 8px;
+  }
+  .cheap p {
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .deployment {
+    padding: 78px var(--gutter);
+    height: auto;
+    min-height: 1149px;
+  }
+  .deployment > .boxed {
+    font-size: 37.44px;
+    line-height: 43.68px;
+    border: 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+    background: transparent;
+  }
+  .deployment .tablist {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+    height: 84px;
+    margin: 38px 0 0;
+    padding: 0;
+  }
+  .deployment .tablist button {
+    font-size: 19.5px;
+    line-height: 24.96px;
+    border: 0;
+    padding: 3px 0;
+    min-height: 32px;
+    color: #aaa;
+  }
+  .deployment .tablist button[aria-selected='true'] {
+    text-decoration: underline;
+    text-decoration-color: var(--yellow);
+    text-underline-offset: 6px;
+    color: white;
+  }
+  .deployment .workload-copy {
+    padding: 90px 13px 0;
+  }
+  .deployment .workload-panel > .terminal {
+    margin: 24px 0 0;
+    min-height: 270px;
+    height: 270px;
+    margin-top: 32px;
+  }
+  .deployment .workload-actions {
+    gap: 16px;
+  }
+  .testimonials {
+    display: block;
+    min-height: 3206px;
+    padding: 144px var(--gutter) 40px;
+    background-image: url('/assets/vector-grid-v.mobile-white-bg.svg');
+    background-size: 499.2px auto;
+    background-position: center top;
+    background-repeat: repeat-y;
+  }
+  .quote-intro {
+    position: static;
+    padding: 0 13px 48px;
+  }
+  .quote-intro h2 {
+    font-size: 33.28px;
+    line-height: 37.44px;
+    max-width: 310px;
+  }
+  .quote-intro p {
+    font-size: 24.96px;
+    line-height: 29.12px;
+  }
+  .quote {
+    padding: 20px;
+    margin-bottom: 10px;
+    overflow-wrap: anywhere;
+  }
+  .quote blockquote {
+    font-size: 18.72px;
+    line-height: 24.96px;
+    margin-bottom: 24px;
+  }
+  .quote-logo {
+    max-width: 100%;
+    height: 40px;
+  }
+  .quote figcaption {
+    font-size: 12.48px;
+    line-height: 24.96px;
+  }
+  .org-band {
+    min-height: 739px;
+    height: 739px;
+    padding: 50px var(--gutter);
+  }
+  .org-band h2 {
+    font-size: 29.12px;
+    line-height: 33.28px;
+  }
+  .use-cases {
+    height: 2823px;
+    min-height: 2823px;
+    padding: 113px var(--gutter) 0;
+    background-image: url('/assets/vector-grid-v.mobile-white-bg.svg');
+  }
+  .use-cases > .boxed {
+    font-size: 33.28px;
+    line-height: 37.44px;
+    padding: 6px 13px 12px;
+  }
+  .use-cases > p {
+    margin: 20px 0 32px;
+    font-size: 16.64px;
+    line-height: 24.96px;
+  }
+  .case {
+    height: 364px;
+    min-height: 364px;
+    padding: 22px;
+  }
+  .case h3 {
+    font-size: 20.8px;
+    line-height: 33.28px;
+  }
+  .case p {
+    font-size: 14.56px;
+    line-height: 24.96px;
+  }
+  .case small {
+    font-size: 14.56px;
+    line-height: 24.96px;
+  }
+  .more-cases {
+    grid-column: auto;
+    padding: 32px 20px;
+    min-height: 300px;
+  }
+  .more-cases h3 {
+    font-size: 29.12px;
+    line-height: 33.28px;
+  }
+  .home-install {
+    display: block;
+    height: 494px;
+    min-height: 494px;
+    padding: 89px var(--gutter) 0;
+  }
+  .home-install h2 {
+    font-size: 33.28px;
+    line-height: 37.44px;
+  }
+  .home-install > div:first-child {
+    padding: 0 0 24px;
+  }
+  .laptop-note {
+    height: 435px;
+    padding: 31px var(--gutter);
+    min-height: 435px;
+    display: flex;
+    flex-direction: column;
+  }
+  .laptop-note p {
+    font-size: 24.96px;
+    line-height: 33.28px;
+    font-weight: 700;
+    order: 0;
+  }
+  .laptop-note .text-link {
+    font-size: 16.64px;
+    display: block;
+    margin-top: 28px;
+  }
+  .case-art {
+    height: 105px;
+  }
+  .home-install > .terminal {
+    width: calc(100% + var(--gutter));
+    height: 200px;
+  }
+  .home-org-grid {
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 40px;
+  }
+  .home-org-grid img {
+    height: 86px;
+  }
+  .case-art img {
+    height: 105px;
+  }
+  .quote-columns .quote-logo {
+    height: 40px;
+  }
+  .closing-art {
+    position: static;
+    display: block;
+    width: 140px;
+    height: 140px;
+    margin: 24px auto;
+  }
+  .laptop-note .closing-art {
+    order: 2;
+  }
+  .laptop-note a {
+    order: 1;
+  }
+  .home-headline .button {
+    font-size: 18.72px;
+    line-height: 24.96px;
+    padding: 12.48px 16.64px;
+  }
+  .cheap > p {
+    font-size: 16.64px;
+  }
+  .deployment .workload-logos {
+    gap: 20px;
+    padding-top: 0;
+    margin-top: 36px;
+  }
+  .deployment .workload-logos img {
+    height: 24px;
+    max-width: 17%;
+  }
+  .quote-intro small {
+    font-size: 12px;
+  }
+  .quote-columns {
+    display: block;
+  }
+  .cases-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  .more-cases > div {
+    flex-direction: column;
+    gap: 16px;
+  }
+  .workload-panel > .terminal pre {
+    font-size: 10.14px;
+    line-height: 19.5px;
+    padding: 10px 12px;
+    margin: 0;
+    white-space: pre;
+    overflow-wrap: normal;
+  }
+  .workload-panel > .terminal .window-bar {
+    height: 27.3px;
+    padding: 0 12px;
+    gap: 4px;
+    background-color: #333137;
+  }
+  .workload-panel > .terminal .window-bar i {
+    width: 7.8px;
+    height: 7.8px;
+  }
+  .human-code .terminal pre {
+    font-size: 10.14px;
+    line-height: 19.5px;
+    padding: 10px 12px;
+    white-space: pre;
+    overflow-wrap: normal;
+  }
+  .human-code .window-bar {
+    height: 27.3px;
+    padding: 0 12px;
+  }
+  .human-code .window-bar i {
+    width: 7.8px;
+    height: 7.8px;
+  }
+}

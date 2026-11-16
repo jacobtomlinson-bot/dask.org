@@ -678,5 +678,15 @@
     "path": "/assets/infoworld-white-logo.svg",
     "url": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38860_infoworld-white-logo.svg",
     "kind": "artwork"
+  },
+  {
+    "path": "/assets/vector-grid-v.mobile.svg",
+    "url": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg",
+    "kind": "artwork"
+  },
+  {
+    "path": "/assets/vector-grid-v.mobile-white-bg.svg",
+    "url": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38674_vector-grid-v.mobile-white-bg.svg",
+    "kind": "artwork"
   }
 ]

@@ -8,11 +8,11 @@
     ],
     "localSize": [
       1440,
-      8285
+      8289
     ],
-    "differentPixels": 757154,
-    "differencePercent": 6.346,
-    "topViewportDifferencePercent": 8.914,
+    "differentPixels": 734889,
+    "differencePercent": 6.157,
+    "topViewportDifferencePercent": 5.034,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -102,7 +102,7 @@
           0,
           1301,
           1440,
-          1502
+          1506
         ]
       },
       {
@@ -150,7 +150,7 @@
         "text": "Where you can run DaskOpen Source DeploymentManaged CloudOpe",
         "rect": [
           0,
-          2803,
+          2807,
           1440,
           718
         ]
@@ -160,7 +160,7 @@
         "text": "Where you can run Dask",
         "rect": [
           362,
-          2883,
+          2887,
           716,
           81
         ]
@@ -170,7 +170,7 @@
         "text": "Open Source Deployment",
         "rect": [
           186,
-          3087,
+          3091,
           536,
           46
         ]
@@ -190,7 +190,7 @@
         "text": "What users say about DaskPeople use Dask and like it!You won",
         "rect": [
           0,
-          3521,
+          3525,
           1440,
           1844
         ]
@@ -200,7 +200,7 @@
         "text": "What users say about Dask",
         "rect": [
           105,
-          3674,
+          3678,
           431,
           112
         ]
@@ -210,7 +210,7 @@
         "text": "Organizations That Use Dask",
         "rect": [
           0,
-          5365,
+          5369,
           1440,
           559
         ]
@@ -220,7 +220,7 @@
         "text": "Organizations That Use Dask",
         "rect": [
           81,
-          5421,
+          5425,
           1278,
           46
         ]
@@ -230,7 +230,7 @@
         "text": "Use CasesAnything you can do with Python, you can scale with",
         "rect": [
           0,
-          5924,
+          5928,
           1440,
           1215
         ]
@@ -240,7 +240,7 @@
         "text": "Use Cases",
         "rect": [
           575,
-          6084,
+          6088,
           291,
           80
         ]
@@ -250,7 +250,7 @@
         "text": "NYC Uber/Lyft",
         "rect": [
           119,
-          6358,
+          6362,
           238,
           32
         ]
@@ -260,7 +260,7 @@
         "text": "Scalable ETL Pipeline",
         "rect": [
           441,
-          6358,
+          6362,
           238,
           32
         ]
@@ -270,7 +270,7 @@
         "text": "National Water Model",
         "rect": [
           762,
-          6358,
+          6362,
           238,
           32
         ]
@@ -280,7 +280,7 @@
         "text": "TPC-H Benchmark",
         "rect": [
           1084,
-          6358,
+          6362,
           238,
           32
         ]
@@ -290,7 +290,7 @@
         "text": "NASA Satellite Imagery",
         "rect": [
           119,
-          6734,
+          6738,
           238,
           32
         ]
@@ -300,7 +300,7 @@
         "text": "XGBoost Model Tuning",
         "rect": [
           441,
-          6734,
+          6738,
           238,
           32
         ]
@@ -310,7 +310,7 @@
         "text": "Want more examples?",
         "rect": [
           748,
-          6711,
+          6716,
           587,
           46
         ]
@@ -320,7 +320,7 @@
         "text": "Super easy to get startedYou can run Dask right now on your ",
         "rect": [
           0,
-          7139,
+          7143,
           1440,
           400
         ]
@@ -330,7 +330,7 @@
         "text": "Super easy to get started",
         "rect": [
           81,
-          7243,
+          7247,
           599,
           46
         ]
@@ -340,7 +340,7 @@
         "text": "Most people use Dask just on their laptops to scale out to 1",
         "rect": [
           0,
-          7539,
+          7543,
           1440,
           264
         ]
@@ -350,7 +350,7 @@
         "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
         "rect": [
           0,
-          7803,
+          7807,
           1440,
           482
         ]
@@ -359,9 +359,9 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          752,
-          7916,
-          117,
+          757,
+          7926,
+          126,
           41
         ]
       },
@@ -369,9 +369,9 @@
         "tag": "H2",
         "text": "Community",
         "rect": [
-          901,
-          7916,
-          117,
+          915,
+          7926,
+          126,
           41
         ]
       },
@@ -379,9 +379,9 @@
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          1049,
-          7916,
-          117,
+          1072,
+          7926,
+          126,
           41
         ]
       },
@@ -389,9 +389,9 @@
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          1198,
-          7916,
-          117,
+          1230,
+          7926,
+          126,
           41
         ]
       },
@@ -418,9 +418,9 @@
       1440,
       4256
     ],
-    "differentPixels": 163967,
-    "differencePercent": 2.675,
-    "topViewportDifferencePercent": 1.901,
+    "differentPixels": 163606,
+    "differencePercent": 2.67,
+    "topViewportDifferencePercent": 1.926,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -637,9 +637,9 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          752,
-          3887,
-          117,
+          757,
+          3893,
+          126,
           41
         ]
       },
@@ -647,9 +647,9 @@
         "tag": "H2",
         "text": "Community",
         "rect": [
-          901,
-          3887,
-          117,
+          915,
+          3893,
+          126,
           41
         ]
       },
@@ -657,9 +657,9 @@
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          1049,
-          3887,
-          117,
+          1072,
+          3893,
+          126,
           41
         ]
       },
@@ -667,9 +667,9 @@
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          1198,
-          3887,
-          117,
+          1230,
+          3893,
+          126,
           41
         ]
       },
@@ -696,9 +696,9 @@
       1440,
       2011
     ],
-    "differentPixels": 59829,
-    "differencePercent": 2.066,
-    "topViewportDifferencePercent": 2.715,
+    "differentPixels": 58160,
+    "differencePercent": 2.008,
+    "topViewportDifferencePercent": 2.743,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -805,9 +805,9 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          752,
-          1642,
-          117,
+          757,
+          1648,
+          126,
           41
         ]
       },
@@ -815,9 +815,9 @@
         "tag": "H2",
         "text": "Community",
         "rect": [
-          901,
-          1642,
-          117,
+          915,
+          1648,
+          126,
           41
         ]
       },
@@ -825,9 +825,9 @@
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          1049,
-          1642,
-          117,
+          1072,
+          1648,
+          126,
           41
         ]
       },
@@ -835,9 +835,9 @@
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          1198,
-          1642,
-          117,
+          1230,
+          1648,
+          126,
           41
         ]
       },
@@ -864,9 +864,9 @@
       1440,
       5533
     ],
-    "differentPixels": 272477,
-    "differencePercent": 3.42,
-    "topViewportDifferencePercent": 4.596,
+    "differentPixels": 272441,
+    "differencePercent": 3.419,
+    "topViewportDifferencePercent": 4.625,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -1023,9 +1023,9 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          752,
-          5164,
-          117,
+          757,
+          5170,
+          126,
           41
         ]
       },
@@ -1033,9 +1033,9 @@
         "tag": "H2",
         "text": "Community",
         "rect": [
-          901,
-          5164,
-          117,
+          915,
+          5170,
+          126,
           41
         ]
       },
@@ -1043,9 +1043,9 @@
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          1049,
-          5164,
-          117,
+          1072,
+          5170,
+          126,
           41
         ]
       },
@@ -1053,9 +1053,9 @@
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          1198,
-          5164,
-          117,
+          1230,
+          5170,
+          126,
           41
         ]
       },
@@ -1080,11 +1080,11 @@
     ],
     "localSize": [
       1440,
-      5132
+      5133
     ],
-    "differentPixels": 341872,
-    "differencePercent": 4.626,
-    "topViewportDifferencePercent": 3.719,
+    "differentPixels": 491223,
+    "differencePercent": 6.646,
+    "topViewportDifferencePercent": 2.479,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -1113,7 +1113,7 @@
         "rect": [
           139,
           808,
-          445,
+          488,
           46
         ]
       },
@@ -1121,9 +1121,9 @@
         "tag": "H3",
         "text": "Word Mark",
         "rect": [
-          744,
-          772,
-          696,
+          721,
+          775,
+          638,
           24
         ]
       },
@@ -1131,9 +1131,9 @@
         "tag": "H3",
         "text": "Logo Mark",
         "rect": [
-          744,
-          1347,
-          696,
+          721,
+          1337,
+          638,
           24
         ]
       },
@@ -1142,8 +1142,8 @@
         "text": "Colors",
         "rect": [
           139,
-          1892,
-          566,
+          1888,
+          489,
           46
         ]
       },
@@ -1153,7 +1153,7 @@
         "rect": [
           139,
           2685,
-          513,
+          489,
           46
         ]
       },
@@ -1162,7 +1162,7 @@
         "text": "Tone",
         "rect": [
           139,
-          3572,
+          3573,
           488,
           46
         ]
@@ -1172,7 +1172,7 @@
         "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
         "rect": [
           0,
-          4650,
+          4651,
           1440,
           482
         ]
@@ -1181,9 +1181,9 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          752,
-          4763,
-          117,
+          757,
+          4770,
+          126,
           41
         ]
       },
@@ -1191,9 +1191,9 @@
         "tag": "H2",
         "text": "Community",
         "rect": [
-          901,
-          4763,
-          117,
+          915,
+          4770,
+          126,
           41
         ]
       },
@@ -1201,9 +1201,9 @@
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          1049,
-          4763,
-          117,
+          1072,
+          4770,
+          126,
           41
         ]
       },
@@ -1211,9 +1211,9 @@
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          1198,
-          4763,
-          117,
+          1230,
+          4770,
+          126,
           41
         ]
       },
@@ -1240,9 +1240,9 @@
       1440,
       2379
     ],
-    "differentPixels": 70787,
-    "differencePercent": 2.066,
-    "topViewportDifferencePercent": 1.977,
+    "differentPixels": 69113,
+    "differencePercent": 2.017,
+    "topViewportDifferencePercent": 2.006,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -1379,9 +1379,9 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          752,
-          2010,
-          117,
+          757,
+          2016,
+          126,
           41
         ]
       },
@@ -1389,9 +1389,9 @@
         "tag": "H2",
         "text": "Community",
         "rect": [
-          901,
-          2010,
-          117,
+          915,
+          2016,
+          126,
           41
         ]
       },
@@ -1399,9 +1399,9 @@
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          1049,
-          2010,
-          117,
+          1072,
+          2016,
+          126,
           41
         ]
       },
@@ -1409,9 +1409,9 @@
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          1198,
-          2010,
-          117,
+          1230,
+          2016,
+          126,
           41
         ]
       },
@@ -1438,9 +1438,9 @@
       768,
       7905
     ],
-    "differentPixels": 592210,
-    "differencePercent": 9.755,
-    "topViewportDifferencePercent": 18.077,
+    "differentPixels": 521944,
+    "differencePercent": 8.597,
+    "topViewportDifferencePercent": 7.492,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -1846,9 +1846,9 @@
       768,
       3771
     ],
-    "differentPixels": 193719,
-    "differencePercent": 6.689,
-    "topViewportDifferencePercent": 5.526,
+    "differentPixels": 194292,
+    "differencePercent": 6.709,
+    "topViewportDifferencePercent": 5.542,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2124,9 +2124,9 @@
       768,
       2079
     ],
-    "differentPixels": 75007,
-    "differencePercent": 4.698,
-    "topViewportDifferencePercent": 6.643,
+    "differentPixels": 75222,
+    "differencePercent": 4.711,
+    "topViewportDifferencePercent": 6.661,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2292,9 +2292,9 @@
       768,
       4477
     ],
-    "differentPixels": 163499,
-    "differencePercent": 4.755,
-    "topViewportDifferencePercent": 8.935,
+    "differentPixels": 163688,
+    "differencePercent": 4.761,
+    "topViewportDifferencePercent": 8.933,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2510,9 +2510,9 @@
       768,
       4216
     ],
-    "differentPixels": 217198,
-    "differencePercent": 6.708,
-    "topViewportDifferencePercent": 7.617,
+    "differentPixels": 345309,
+    "differencePercent": 10.665,
+    "topViewportDifferencePercent": 7.824,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2668,9 +2668,9 @@
       768,
       2251
     ],
-    "differentPixels": 92633,
-    "differencePercent": 5.358,
-    "topViewportDifferencePercent": 5.47,
+    "differentPixels": 92737,
+    "differencePercent": 5.364,
+    "topViewportDifferencePercent": 5.484,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2866,9 +2866,9 @@
       390,
       13803
     ],
-    "differentPixels": 723638,
-    "differencePercent": 13.443,
-    "topViewportDifferencePercent": 17.042,
+    "differentPixels": 602935,
+    "differencePercent": 11.2,
+    "topViewportDifferencePercent": 5.555,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2976,7 +2976,7 @@
         "text": "Fast on Machines",
         "rect": [
           40,
-          2277,
+          2274,
           310,
           33
         ]
@@ -2986,7 +2986,7 @@
         "text": "Made for Humans",
         "rect": [
           40,
-          2773,
+          2771,
           310,
           33
         ]
@@ -2996,7 +2996,7 @@
         "text": "Cheap and Efficient",
         "rect": [
           40,
-          3185,
+          3203,
           311,
           33
         ]
@@ -3215,40 +3215,40 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          44,
-          12877,
-          303,
-          41
+          39,
+          12861,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Community",
         "rect": [
-          44,
-          13001,
-          303,
-          41
+          39,
+          13007,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          44,
-          13199,
-          303,
-          41
+          39,
+          13221,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          44,
-          13360,
-          303,
-          41
+          39,
+          13401,
+          320,
+          38
         ]
       },
       {
@@ -3274,9 +3274,9 @@
       390,
       7136
     ],
-    "differentPixels": 233397,
-    "differencePercent": 8.385,
-    "topViewportDifferencePercent": 6.257,
+    "differentPixels": 217191,
+    "differencePercent": 7.803,
+    "topViewportDifferencePercent": 6.059,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -3493,40 +3493,40 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          44,
-          6211,
-          303,
-          41
+          39,
+          6195,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Community",
         "rect": [
-          44,
-          6335,
-          303,
-          41
+          39,
+          6340,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          44,
-          6533,
-          303,
-          41
+          39,
+          6555,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          44,
-          6694,
-          303,
-          41
+          39,
+          6735,
+          320,
+          38
         ]
       },
       {
@@ -3552,9 +3552,9 @@
       390,
       3766
     ],
-    "differentPixels": 97335,
-    "differencePercent": 6.627,
-    "topViewportDifferencePercent": 4.806,
+    "differentPixels": 74645,
+    "differencePercent": 5.082,
+    "topViewportDifferencePercent": 4.731,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -3661,40 +3661,40 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          44,
-          2841,
-          303,
-          41
+          39,
+          2825,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Community",
         "rect": [
-          44,
-          2965,
-          303,
-          41
+          39,
+          2970,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          44,
-          3163,
-          303,
-          41
+          39,
+          3185,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          44,
-          3324,
-          303,
-          41
+          39,
+          3365,
+          320,
+          38
         ]
       },
       {
@@ -3720,9 +3720,9 @@
       390,
       13705
     ],
-    "differentPixels": 281340,
-    "differencePercent": 5.264,
-    "topViewportDifferencePercent": 10.809,
+    "differentPixels": 269434,
+    "differencePercent": 5.041,
+    "topViewportDifferencePercent": 10.536,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -3879,40 +3879,40 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          44,
-          12780,
-          303,
-          41
+          39,
+          12764,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Community",
         "rect": [
-          44,
-          12904,
-          303,
-          41
+          39,
+          12909,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          44,
-          13102,
-          303,
-          41
+          39,
+          13124,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          44,
-          13263,
-          303,
-          41
+          39,
+          13304,
+          320,
+          38
         ]
       },
       {
@@ -3936,11 +3936,11 @@
     ],
     "localSize": [
       390,
-      6946
+      6981
     ],
-    "differentPixels": 401130,
-    "differencePercent": 14.808,
-    "topViewportDifferencePercent": 9.728,
+    "differentPixels": 261429,
+    "differencePercent": 9.602,
+    "topViewportDifferencePercent": 7.608,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -3967,9 +3967,9 @@
         "tag": "H2",
         "text": "Logos",
         "rect": [
-          44,
+          43,
           750,
-          303,
+          304,
           33
         ]
       },
@@ -3977,20 +3977,20 @@
         "tag": "H3",
         "text": "Word Mark",
         "rect": [
-          14,
-          1245,
-          362,
-          24
+          30,
+          1251,
+          331,
+          25
         ]
       },
       {
         "tag": "H3",
         "text": "Logo Mark",
         "rect": [
-          14,
-          1595,
-          362,
-          24
+          30,
+          1577,
+          331,
+          25
         ]
       },
       {
@@ -4028,7 +4028,7 @@
         "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
         "rect": [
           0,
-          5799,
+          5834,
           390,
           1147
         ]
@@ -4037,40 +4037,40 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          44,
-          6021,
-          303,
-          41
+          39,
+          6040,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Community",
         "rect": [
-          44,
-          6145,
-          303,
-          41
+          39,
+          6185,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          44,
-          6343,
-          303,
-          41
+          39,
+          6400,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          44,
-          6504,
-          303,
-          41
+          39,
+          6580,
+          320,
+          38
         ]
       },
       {
@@ -4094,11 +4094,11 @@
     ],
     "localSize": [
       390,
-      4667
+      4704
     ],
-    "differentPixels": 82270,
-    "differencePercent": 4.52,
-    "topViewportDifferencePercent": 4.321,
+    "differentPixels": 137459,
+    "differencePercent": 7.493,
+    "topViewportDifferencePercent": 3.291,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -4128,15 +4128,15 @@
           0,
           331,
           390,
-          3189
+          3226
         ]
       },
       {
         "tag": "H2",
         "text": "Using AI and machine learning to kickstart climate change fi",
         "rect": [
-          56,
-          758,
+          55,
+          761,
           281,
           100
         ]
@@ -4145,8 +4145,8 @@
         "tag": "H2",
         "text": "The New Dask: The Open Source Library for Scaling Python Rev",
         "rect": [
-          56,
-          1079,
+          55,
+          1084,
           281,
           133
         ]
@@ -4155,8 +4155,8 @@
         "tag": "H2",
         "text": "Distributed Computing for AI: A Status Report",
         "rect": [
-          56,
-          1433,
+          55,
+          1441,
           281,
           67
         ]
@@ -4165,8 +4165,8 @@
         "tag": "H2",
         "text": "IMD & IRD Awards 2022: Best market data newcomer",
         "rect": [
-          56,
-          1720,
+          55,
+          1731,
           281,
           100
         ]
@@ -4175,8 +4175,8 @@
         "tag": "H2",
         "text": "Python at Scale Summit, Presented by NumFOCUS Opens the Call",
         "rect": [
-          56,
-          2041,
+          55,
+          2054,
           281,
           133
         ]
@@ -4185,8 +4185,8 @@
         "tag": "H2",
         "text": "Forecasting Grubhub Order Volume At Scale",
         "rect": [
-          56,
-          2395,
+          55,
+          2410,
           281,
           67
         ]
@@ -4195,8 +4195,8 @@
         "tag": "H2",
         "text": "HPC-AI Advisory Council Announces 5th Annual APAC HPC-AI Com",
         "rect": [
-          56,
-          2682,
+          55,
+          2700,
           281,
           100
         ]
@@ -4205,8 +4205,8 @@
         "tag": "H2",
         "text": "Coiled Finds Traction in Deploying Dask at Scale",
         "rect": [
-          56,
-          3003,
+          55,
+          3024,
           281,
           67
         ]
@@ -4215,8 +4215,8 @@
         "tag": "H2",
         "text": "6 essential Python tools for data science—now improved",
         "rect": [
-          56,
-          3291,
+          55,
+          3314,
           281,
           100
         ]
@@ -4226,7 +4226,7 @@
         "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
         "rect": [
           0,
-          3520,
+          3557,
           390,
           1147
         ]
@@ -4235,40 +4235,40 @@
         "tag": "H2",
         "text": "Get Started",
         "rect": [
-          44,
-          3741,
-          303,
-          41
+          39,
+          3763,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Community",
         "rect": [
-          44,
-          3865,
-          303,
-          41
+          39,
+          3908,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Blog",
         "rect": [
-          44,
-          4063,
-          303,
-          41
+          39,
+          4122,
+          320,
+          38
         ]
       },
       {
         "tag": "H2",
         "text": "Brand",
         "rect": [
-          44,
-          4224,
-          303,
-          41
+          39,
+          4302,
+          320,
+          38
         ]
       },
       {

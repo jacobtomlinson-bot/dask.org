@@ -1,0 +1,2539 @@
+[
+  {
+    "route": "",
+    "data": [
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+        "r": [
+          38.3125,
+          24.953125,
+          112.71875,
+          35.375
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "section-responsive bg-black no-pad-bot",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          85.28125,
+          390,
+          1862.828125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 29.64px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-wr",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          906.859375,
+          330.75,
+          955.453125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-headline",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          907.625,
+          330.75,
+          75.65625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0.78px 0px 1.95px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs w-tabs",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          985.21875,
+          330.75,
+          876.71875
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px 0px 0.39px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-menu w-tab-menu",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          985.21875,
+          330.75,
+          245.6875
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 0px 0px 12.9987px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "A",
+        "cls": "home-tab-link plausible-event-name--hero-tab-pandas w-inline-block w-tab-link w--current",
+        "text": "",
+        "src": null,
+        "r": [
+          42.609375,
+          1074.390625,
+          107,
+          33.421875
+        ],
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "3.2487px 0px",
+        "margin": "0px 0px -0.4056px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "A",
+        "cls": "home-tab-link plausible-event-name--hero-tab-futures w-inline-block w-tab-link",
+        "text": "",
+        "src": null,
+        "r": [
+          42.609375,
+          1115.21875,
+          170,
+          33.421875
+        ],
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "3.2487px 0px",
+        "margin": "0px 0px -0.4056px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "A",
+        "cls": "home-tab-link plausible-event-name--hero-tab-array w-inline-block w-tab-link",
+        "text": "",
+        "src": null,
+        "r": [
+          42.609375,
+          1156.046875,
+          100,
+          33.421875
+        ],
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "3.2487px 0px",
+        "margin": "0px 0px -0.4056px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "A",
+        "cls": "home-tab-link plausible-event-name--hero-tab-ml w-inline-block w-tab-link",
+        "text": "",
+        "src": null,
+        "r": [
+          42.609375,
+          1196.875,
+          171,
+          33.421875
+        ],
+        "font": "600 19.5px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "3.2487px 0px",
+        "margin": "0px 0px -0.4056px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-content w-tab-content",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          1230.90625,
+          330.75,
+          631.03125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "grid home-tab",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          1230.90625,
+          330.75,
+          631.03125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tab-content",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          1231.75,
+          330.75,
+          377.875
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0.8541px 0px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-text",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          1231.75,
+          330.75,
+          315.484375
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "46.8px 12.9987px 4.68px",
+        "margin": "0px 0px 27.3px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "text": "Dask DataFrames use pandas under the hood, so your current code likely just work",
+        "src": null,
+        "r": [
+          42.609375,
+          1324.03125,
+          304.78125,
+          99.8125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px 0px 11.7px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-logo-wr",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          1574.53125,
+          330.75,
+          35.09375
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "3.9px 0px 3.9px 6.5013px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "home-tabs-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816565d46236166851240_Parquet_logo.svg",
+        "r": [
+          36.125,
+          1578.421875,
+          85.3125,
+          19.5
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "home-tabs-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628165698c9a123d5612caf_Apache-arrow-logo.svg",
+        "r": [
+          138.984375,
+          1578.421875,
+          54.84375,
+          19.5
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "home-tabs-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281656453c4b8c508022ec_Pandas_logo.svg",
+        "r": [
+          211.375,
+          1578.421875,
+          65.8125,
+          19.5
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "PRE",
+        "cls": "",
+        "text": "",
+        "src": null,
+        "r": [
+          42.3125,
+          1671.421875,
+          309.265625,
+          175.5
+        ],
+        "font": "10.14px / 19.5px monospace",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "10.14px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "CODE",
+        "cls": "dark-class hljs language-python",
+        "text": "",
+        "src": null,
+        "r": [
+          42.3125,
+          1675.421875,
+          237.765625,
+          167
+        ],
+        "font": "10.14px / 19.5px monospace",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "section-responsive bg-white",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          1948.109375,
+          390,
+          1720.0625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "85.8px 29.64px 81.9px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-text-content",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          2278.34375,
+          329.421875,
+          241.796875
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 9.75px",
+        "margin": "0.78px 0px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-img-wr white",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          2112.96875,
+          329.421875,
+          162.28125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "3.9px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-img-wr bg-grey",
+        "text": "",
+        "src": null,
+        "r": [
+          33.515625,
+          2116.859375,
+          319.796875,
+          154.5
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 3.9px",
+        "margin": "0px 1.84375px 0px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-img1",
+        "text": "",
+        "src": null,
+        "r": [
+          41.984375,
+          2120.015625,
+          302.84375,
+          148.1875
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "2.1684px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-img-wr",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          2608.640625,
+          329.421875,
+          159.09375
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "3.9px",
+        "margin": "1.95px 0px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-code-wr",
+        "text": "",
+        "src": null,
+        "r": [
+          33.515625,
+          2612.53125,
+          321.640625,
+          151.3125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-code-top",
+        "text": "",
+        "src": null,
+        "r": [
+          34.515625,
+          2613.53125,
+          319.640625,
+          27.28125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "11.7px 0px 7.8px 11.7px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "PRE",
+        "cls": "",
+        "text": "",
+        "src": null,
+        "r": [
+          46.203125,
+          2654.828125,
+          300.15625,
+          39
+        ],
+        "font": "10.14px / 19.5px monospace",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "10.14px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "CODE",
+        "cls": "hljs language-markdown",
+        "text": "",
+        "src": null,
+        "r": [
+          46.203125,
+          2678.328125,
+          48.78125,
+          11
+        ],
+        "font": "10.14px / 19.5px monospace",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-text-content middle",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          2770.828125,
+          329.421875,
+          323.6875
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 9.75px",
+        "margin": "0.78px 0px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-text-content full",
+        "text": "",
+        "src": null,
+        "r": [
+          30.625,
+          3181.46875,
+          328.75,
+          404.8125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 9.75px 1.95px",
+        "margin": "1.17px 1px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-menu run-dask-tab w-tab-menu",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          3870.96875,
+          390,
+          84.34375
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 0px 0px 29.64px",
+        "margin": "202.8px 0px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-content w-tab-content",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          3668.171875,
+          390,
+          1149.375
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "section-responsive bg-black no-pad-bot",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          3668.171875,
+          390,
+          1149.375
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 29.64px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "grid home-tab",
+        "text": "",
+        "src": null,
+        "r": [
+          30.28125,
+          3997.34375,
+          329.421875,
+          734.03125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tab-content run-dask",
+        "text": "",
+        "src": null,
+        "r": [
+          30.28125,
+          3998.1875,
+          329.421875,
+          413.390625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0.8541px 0px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-text",
+        "text": "",
+        "src": null,
+        "r": [
+          30.28125,
+          3998.1875,
+          329.421875,
+          373.71875
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "46.8px 12.9987px 4.68px",
+        "margin": "0px 0px 27.3px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-tabs-logo-wr",
+        "text": "",
+        "src": null,
+        "r": [
+          30.28125,
+          4399.203125,
+          329.421875,
+          27.28125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "3.9px 0px 3.9px 6.5013px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "PRE",
+        "cls": "",
+        "text": "",
+        "src": null,
+        "r": [
+          42.96875,
+          4473.375,
+          307.9375,
+          214.5
+        ],
+        "font": "10.14px / 19.5px monospace",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "10.14px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "CODE",
+        "cls": "language-python dark-class hljs",
+        "text": "",
+        "src": null,
+        "r": [
+          42.96875,
+          4477.375,
+          274.328125,
+          206
+        ],
+        "font": "10.14px / 19.5px monospace",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "SECTION",
+        "cls": "section-responsive bg-largegridbox overflow-visible",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          4817.546875,
+          390,
+          3206.15625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "42.9px 30.03px 0px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38674_vector-grid-v.mobile-white-bg.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "section-responsive bg-grey padding-bottom-1unit",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          8023.703125,
+          390,
+          739.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 29.64px 85.02px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "home-logos",
+        "text": "",
+        "src": null,
+        "r": [
+          31.203125,
+          8025.78125,
+          327.59375,
+          161.453125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "48.75px 0px 39px",
+        "margin": "2.0787px 1.57812px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          8189.3125,
+          164.828125,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          30.46875,
+          8189.3125,
+          163.140625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/662c3e3cf7b7a2501ab9f3bb_arm-logo.svg",
+        "r": [
+          42.15625,
+          8197.109375,
+          139.765625,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          195.53125,
+          8189.3125,
+          164.84375,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          196.375,
+          8189.3125,
+          163.15625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38664_capital-one.png",
+        "r": [
+          208.0625,
+          8197.109375,
+          139.78125,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          8271.46875,
+          164.828125,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          30.46875,
+          8271.46875,
+          163.140625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf386eb_deshaw-co.png",
+        "r": [
+          42.15625,
+          8279.265625,
+          139.765625,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          195.53125,
+          8271.46875,
+          164.84375,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          196.375,
+          8271.46875,
+          163.15625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38789_grubhub.png",
+        "r": [
+          208.0625,
+          8279.265625,
+          139.78125,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          8353.625,
+          164.828125,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          30.46875,
+          8353.625,
+          163.140625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878a_microsoft.png",
+        "r": [
+          42.15625,
+          8361.421875,
+          139.765625,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          195.53125,
+          8353.625,
+          164.84375,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          196.375,
+          8353.625,
+          163.15625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf3878c_nasa.png",
+        "r": [
+          208.0625,
+          8361.421875,
+          139.78125,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          8435.78125,
+          164.828125,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          30.46875,
+          8435.78125,
+          163.140625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38711_nvidia.png",
+        "r": [
+          42.15625,
+          8443.578125,
+          139.765625,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          195.53125,
+          8435.78125,
+          164.84375,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          196.375,
+          8435.78125,
+          163.15625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38790_shell.png",
+        "r": [
+          208.0625,
+          8443.578125,
+          139.78125,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          8517.9375,
+          164.828125,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          30.46875,
+          8517.9375,
+          163.140625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/662c3e17e0a164b57fb98db6_two-sigma-logo.svg",
+        "r": [
+          42.15625,
+          8525.734375,
+          139.765625,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          195.53125,
+          8517.9375,
+          164.84375,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          196.375,
+          8517.9375,
+          163.15625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38791_us-air-force.png",
+        "r": [
+          208.0625,
+          8525.734375,
+          139.78125,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          29.625,
+          8600.09375,
+          164.828125,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          30.46875,
+          8600.09375,
+          163.140625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/664f9d587d81d2dac45d96e6_defense-department.webp",
+        "r": [
+          42.15625,
+          8607.890625,
+          139.765625,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-item w-dyn-item",
+        "text": "",
+        "src": null,
+        "r": [
+          195.53125,
+          8600.09375,
+          164.84375,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-grid-container",
+        "text": "",
+        "src": null,
+        "r": [
+          196.375,
+          8600.09375,
+          163.15625,
+          78
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "7.8px 11.7px",
+        "margin": "0px 0.8541px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf3863f/655926fa24195711dbf38792_walmart.png",
+        "r": [
+          208.0625,
+          8607.890625,
+          139.78125,
+          62.40625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "SECTION",
+        "cls": "section-responsive bg-largegridbox",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          8763.109375,
+          390,
+          2823.15625
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "42.9px 30.03px 0px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38674_vector-grid-v.mobile-white-bg.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-card-img-with-text",
+        "text": "",
+        "src": null,
+        "r": [
+          30.859375,
+          9004.25,
+          328.640625,
+          152.359375
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "16.6413px",
+        "margin": "4.1613px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b1f8e7ea8ce6c88ccb_Pandas-logo.webp",
+        "r": [
+          47.5,
+          9020.890625,
+          295.359375,
+          119.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "bg-line-black logo-card",
+        "text": "",
+        "src": null,
+        "r": [
+          35.1875,
+          9160.765625,
+          319.984375,
+          2.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px 4.3329px 0.5421px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-card-img-with-text",
+        "text": "",
+        "src": null,
+        "r": [
+          30.859375,
+          9368.609375,
+          328.640625,
+          152.359375
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "16.6413px",
+        "margin": "4.1613px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b05075f11bdb83d6dc_prefect-logo.webp",
+        "r": [
+          47.5,
+          9385.25,
+          295.359375,
+          119.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "bg-line-black logo-card",
+        "text": "",
+        "src": null,
+        "r": [
+          35.1875,
+          9525.125,
+          319.984375,
+          2.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px 4.3329px 0.5421px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-card-img-with-text",
+        "text": "",
+        "src": null,
+        "r": [
+          30.859375,
+          9732.96875,
+          328.640625,
+          152.359375
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "16.6413px",
+        "margin": "4.1613px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b1be74ea174135b09b_Xarray-logo.webp",
+        "r": [
+          47.5,
+          9749.609375,
+          295.359375,
+          119.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "bg-line-black logo-card",
+        "text": "",
+        "src": null,
+        "r": [
+          35.1875,
+          9889.484375,
+          319.984375,
+          2.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px 4.3329px 0.5421px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-card-img-with-text",
+        "text": "",
+        "src": null,
+        "r": [
+          30.859375,
+          10097.328125,
+          328.640625,
+          152.359375
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "16.6413px",
+        "margin": "4.1613px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b48f7a7f0e6ea02537_TPC-logo.webp",
+        "r": [
+          47.5,
+          10113.96875,
+          295.359375,
+          119.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "bg-line-black logo-card",
+        "text": "",
+        "src": null,
+        "r": [
+          35.1875,
+          10253.84375,
+          319.984375,
+          2.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px 4.3329px 0.5421px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-card-img-with-text",
+        "text": "",
+        "src": null,
+        "r": [
+          30.859375,
+          10461.6875,
+          328.640625,
+          152.359375
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "16.6413px",
+        "margin": "4.1613px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b12c440cb7a494a103_nasa-logo.webp",
+        "r": [
+          47.5,
+          10478.328125,
+          295.359375,
+          119.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "bg-line-black logo-card",
+        "text": "",
+        "src": null,
+        "r": [
+          35.1875,
+          10618.203125,
+          319.984375,
+          2.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px 4.3329px 0.5421px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "logo-card-img-with-text",
+        "text": "",
+        "src": null,
+        "r": [
+          30.859375,
+          10826.046875,
+          328.640625,
+          152.359375
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "16.6413px",
+        "margin": "4.1613px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662815b19c8d6e226c9e1f48_xGBoost-logo.webp",
+        "r": [
+          47.5,
+          10842.6875,
+          295.359375,
+          119.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "bg-line-black logo-card",
+        "text": "",
+        "src": null,
+        "r": [
+          35.1875,
+          10982.5625,
+          319.984375,
+          2.078125
+        ],
+        "font": "16.6413px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px 4.3329px 0.5421px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "section-responsive bg-lightgrey",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          11586.265625,
+          390,
+          494.25
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 30.03px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "performance-code-top",
+        "text": "",
+        "src": null,
+        "r": [
+          31.015625,
+          11972.328125,
+          360.6875,
+          27.28125
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "11.7px 0px 7.8px 11.7px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "PRE",
+        "cls": "",
+        "text": "",
+        "src": null,
+        "r": [
+          42.703125,
+          12013.625,
+          327.34375,
+          39
+        ],
+        "font": "10.14px / 19.5px monospace",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "10.14px 0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "CODE",
+        "cls": "hljs language-markdown",
+        "text": "",
+        "src": null,
+        "r": [
+          42.703125,
+          12037.125,
+          48.78125,
+          11
+        ],
+        "font": "10.14px / 19.5px monospace",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "footer",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          12515.53125,
+          390,
+          1147.09375
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "f-bg-col logo",
+        "text": "",
+        "src": null,
+        "r": [
+          31,
+          12601.328125,
+          327.59375,
+          77.84375
+        ],
+        "font": "16px / 24px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px 0px 0px 10.8342px",
+        "margin": "0px 0.8541px 2.0787px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "A",
+        "cls": "brand-logo footer-logo w-nav-brand w--current",
+        "text": "",
+        "src": null,
+        "r": [
+          41.828125,
+          12615.296875,
+          159.890625,
+          49.90625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+        "r": [
+          41.828125,
+          12615.296875,
+          159.890625,
+          49.90625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+        "r": [
+          41.515625,
+          13398.34375,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38655_twitter.svg",
+        "r": [
+          83.09375,
+          13398.34375,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38656_youtube.svg",
+        "r": [
+          124.671875,
+          13398.34375,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38657_stack-x.svg",
+        "r": [
+          166.25,
+          13398.34375,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+        "r": [
+          207.828125,
+          13398.34375,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      }
+    ]
+  },
+  {
+    "route": "brand-guide",
+    "data": [
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+        "r": [
+          38.3125,
+          24.953125,
+          112.71875,
+          35.375
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "section-responsive bg-black powered-by",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          85.28125,
+          390,
+          491.890625
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "0px 29.64px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "br-g-logos-tabs w-tabs",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          656.40625,
+          390,
+          1144.859375
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "0px",
+        "margin": "-0.78px 0px -1.17px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "br-g-logos-tabs-menu w-tab-menu",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          1217.375,
+          390,
+          583.890625
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "tab-pane-tab-1 w-tab-pane w--tab-active",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          656.9375,
+          390,
+          1143.796875
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "81.9px 29.64px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3869b_Dask%20Logo-lockup-Primary.svg",
+        "r": [
+          115.953125,
+          1300.921875,
+          156,
+          58.5
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38694_Dask%20Logo-Icon-Primary.svg",
+        "r": [
+          115.953125,
+          1626.984375,
+          156,
+          58.5
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "text-medium",
+        "text": "#FFFFFF",
+        "src": null,
+        "r": [
+          59.625,
+          2351.203125,
+          78,
+          24.953125
+        ],
+        "font": "18.72px / 24.96px Inter, sans-serif",
+        "weight": "400",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "DIV",
+        "cls": "tab-pane-tab-9 w-tab-pane w--tab-active",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          1800.640625,
+          390,
+          1146.59375
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "81.9px 29.64px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "SECTION",
+        "cls": "section-responsive bg-largegridbox typography",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          2947.765625,
+          390,
+          911.171875
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "43.3368px 30.03px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38674_vector-grid-v.mobile-white-bg.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "SECTION",
+        "cls": "section-responsive bg-lightgrey tone",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          3858.9375,
+          390,
+          1938.671875
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "78px 30.03px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "footer",
+        "text": "",
+        "src": null,
+        "r": [
+          0,
+          5797.609375,
+          390,
+          1147.09375
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y"
+      },
+      {
+        "tag": "DIV",
+        "cls": "f-bg-col logo",
+        "text": "",
+        "src": null,
+        "r": [
+          31,
+          5883.40625,
+          327.59375,
+          77.84375
+        ],
+        "font": "300 18px / 32px Inter, sans-serif",
+        "weight": "300",
+        "padding": "0px 0px 0px 10.8342px",
+        "margin": "0px 0.8541px 2.0787px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "A",
+        "cls": "brand-logo footer-logo w-nav-brand",
+        "text": "",
+        "src": null,
+        "r": [
+          41.828125,
+          5897.375,
+          159.890625,
+          49.90625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38653_dask-header-logo.svg",
+        "r": [
+          41.828125,
+          5897.375,
+          159.890625,
+          49.90625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38654_git-hub.svg",
+        "r": [
+          41.515625,
+          6680.421875,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38655_twitter.svg",
+        "r": [
+          83.09375,
+          6680.421875,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38656_youtube.svg",
+        "r": [
+          124.671875,
+          6680.421875,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38657_stack-x.svg",
+        "r": [
+          166.25,
+          6680.421875,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      },
+      {
+        "tag": "IMG",
+        "cls": "container-logo-img",
+        "text": "",
+        "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38658_chat.svg",
+        "r": [
+          207.828125,
+          6680.421875,
+          33.265625,
+          33.265625
+        ],
+        "font": "600 16.6413px / 24.96px Inter, sans-serif",
+        "weight": "600",
+        "padding": "0px",
+        "margin": "0px",
+        "bg": "none",
+        "size": "auto",
+        "repeat": "repeat"
+      }
+    ]
+  }
+]

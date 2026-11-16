@@ -1,7 +1,23 @@
 ---
 import Site from '../layouts/Site.astro';
+import '../styles/brand.css';
 import Hero from '../components/Hero.astro';
+import BrandNav from '../components/BrandNav.astro';
 import { asset, colors } from '../data/site';
+const brandColorOrder = [
+  '#FFFFFF',
+  '#F6F6F6',
+  '#EBEAEE',
+  '#FFC11E',
+  '#FC6E6B',
+  '#EF1561',
+  '#61BA92',
+  '#1F5AFF',
+  '#183D72',
+  '#33363D',
+  '#262326',
+  '#080815',
+];
 const fonts = [
   ['Inter', 'Heading 1', 'Bold, 56px', 56, 700],
   ['Inter', 'Heading 2', 'Bold, 46px', 46, 700],
@@ -47,20 +63,7 @@ const tone = [
     </p>
   </Hero>
   <div class="brand-body">
-    <nav class="brand-sidebar" aria-label="Brand sections">
-      <a href="#logos" aria-label="Logos">
-        ◈
-      </a>
-      <a href="#colors" aria-label="Colors">
-        ♧
-      </a>
-      <a href="#typography" aria-label="Typography">
-        T
-      </a>
-      <a href="#tone" aria-label="Tone">
-        ♧
-      </a>
-    </nav>
+    <BrandNav />
     <section id="logos" class="brand-logos light-grid">
       <div class="brand-logo-copy">
         <h2 class="medium-title">Logos</h2>
@@ -135,17 +138,22 @@ const tone = [
         <button class="button copy-color">Copy Hex Code</button>
       </div>
       <div class="palette-grid">
-        {colors.map(([name, hex]) => (
-          <button
-            data-color={hex}
-            data-name={name}
-            aria-label={`Select ${name} ${hex}`}
-            aria-pressed={name === 'Salmon' ? 'true' : 'false'}
-            style={`background:${hex};color:${['#FFFFFF', '#F6F6F6', '#EBEAEE', '#FFC11E', '#FC6E6B', '#61BA92'].includes(hex) ? '#080815' : 'white'}`}
-          >
-            {hex}
-          </button>
-        ))}
+        {[...colors]
+          .sort(
+            (a, b) =>
+              brandColorOrder.indexOf(a[1]) - brandColorOrder.indexOf(b[1]),
+          )
+          .map(([name, hex]) => (
+            <button
+              data-color={hex}
+              data-name={name}
+              aria-label={`Select ${name} ${hex}`}
+              aria-pressed={name === 'Salmon' ? 'true' : 'false'}
+              style={`background:${hex};color:${['#FFFFFF', '#F6F6F6', '#EBEAEE', '#FFC11E', '#FC6E6B', '#61BA92'].includes(hex) ? '#080815' : 'white'}`}
+            >
+              {hex}
+            </button>
+          ))}
       </div>
     </section>
     <section id="typography" class="brand-type light-grid">
@@ -198,331 +206,3 @@ const tone = [
     </section>
   </div>
 </Site>
-<style is:global>
-  .brand-body {
-    position: relative;
-    padding-left: 81px;
-  }
-  .brand-sidebar {
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: 0;
-    background: var(--pink);
-    width: 81px;
-    z-index: 2;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    padding-top: 32px;
-    gap: 24px;
-    color: white;
-  }
-  .brand-sidebar a {
-    font-size: 26px;
-  }
-  .brand-logos {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    min-height: 1120px;
-    padding: 0 0 0 58px;
-  }
-  .brand-logo-copy {
-    padding-top: 156px;
-    padding-right: 90px;
-  }
-  .brand-body h2 {
-    margin-bottom: 24px;
-  }
-  .brand-body p {
-    font-size: 16px;
-    line-height: 24px;
-    margin-bottom: 24px;
-  }
-  .brand-body .button {
-    margin-top: 24px;
-  }
-  .logo-showcase {
-    text-align: center;
-  }
-  .logo-showcase h3 {
-    font-size: 18px;
-    font-weight: 600;
-    line-height: 24px;
-  }
-  .word-mark {
-    height: 480px;
-    padding-top: 120px;
-  }
-  .word-mark img {
-    width: 384px;
-    height: 120px;
-    object-fit: contain;
-    margin-top: 85px;
-  }
-  .logo-options {
-    height: 160px;
-    padding-top: 24px;
-  }
-  .logo-options p {
-    font-size: 14px !important;
-    margin-bottom: 24px !important;
-  }
-  .logo-options [role='tablist'] {
-    display: flex;
-    justify-content: center;
-    gap: 24px;
-  }
-  .logo-options button {
-    border: 1px solid #ddd;
-    width: 60px;
-    height: 35px;
-    padding: 0;
-  }
-  .logo-options button[aria-selected='true'] {
-    outline: 2px solid #aaa;
-    outline-offset: 4px;
-  }
-  .logo-mark {
-    height: 480px;
-    padding-top: 55px;
-  }
-  .logo-mark img {
-    width: 384px;
-    height: 120px;
-    object-fit: contain;
-    margin-top: 84px;
-  }
-  .palette-section {
-    min-height: 643px;
-    padding: 80px 80px 80px 58px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 90px;
-    background: #fc6e6b;
-  }
-  .palette-copy {
-    padding-top: 40px;
-  }
-  .palette-copy p {
-    max-width: 490px;
-  }
-  .palette-copy .color-name,
-  .palette-copy .color-label {
-    font-size: 14px;
-    margin-bottom: 12px;
-  }
-  .palette-copy .color-hex {
-    font-weight: 600;
-  }
-  .palette-copy .accessible-colors {
-    font-size: 16px;
-    margin-bottom: 0;
-  }
-  .palette-copy .button {
-    font-size: 14px;
-    margin-top: 12px;
-  }
-  .palette-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    align-content: center;
-  }
-  .palette-grid button {
-    height: 80px;
-    text-align: left;
-    padding: 0 28px;
-    border: 0;
-    font-size: 18px;
-    line-height: 24px;
-  }
-  .palette-grid button[aria-pressed='true'] {
-    box-shadow: inset 0 0 0 3px #ffffff80;
-  }
-  .brand-type {
-    min-height: 958px;
-    padding: 220px 82px 220px 58px;
-    display: grid;
-    grid-template-columns: 1fr 1.2fr;
-    gap: 90px;
-    align-items: center;
-  }
-  .type-row {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 20px;
-    align-items: center;
-    min-height: 32px;
-    margin-bottom: 8px;
-  }
-  .type-row > span:not(:first-child) {
-    font-size: 16px;
-    font-weight: 300;
-    color: #8d8f8e;
-    line-height: 24px;
-  }
-  .mono {
-    font-family: Inconsolata, monospace;
-  }
-  .brand-tone {
-    background-color: #f5f7f5;
-    padding: 200px 82px 120px 58px;
-    min-height: 1278px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 90px;
-  }
-  .brand-tone > div:nth-child(2) {
-    padding-top: 40px;
-  }
-  .brand-tone p {
-    margin-bottom: 24px;
-  }
-  @media (max-width: 991px) {
-    .brand-body {
-      padding-left: 50px;
-    }
-    .brand-sidebar {
-      width: 50px;
-    }
-    .brand-logos {
-      padding-left: 36px;
-      min-height: 1000px;
-    }
-    .brand-logo-copy {
-      padding-right: 40px;
-      padding-top: 120px;
-    }
-    .word-mark img,
-    .logo-mark img {
-      width: 85%;
-    }
-    .palette-section {
-      padding: 64px 40px 64px 36px;
-      gap: 40px;
-    }
-    .palette-grid button {
-      padding: 0 16px;
-      font-size: 14px;
-    }
-    .brand-type {
-      padding: 140px 40px 140px 36px;
-      gap: 40px;
-      grid-template-columns: 1fr 1fr;
-    }
-    .type-row {
-      gap: 10px;
-    }
-    .type-row > span:not(:first-child) {
-      font-size: 12px;
-      line-height: 18px;
-    }
-    .brand-tone {
-      padding: 140px 40px 100px 36px;
-      gap: 40px;
-    }
-  }
-  @media (max-width: 600px) {
-    .brand-body {
-      padding: 0;
-    }
-    .brand-sidebar {
-      position: relative;
-      height: 80px;
-      width: 100%;
-      flex-direction: row;
-      justify-content: space-around;
-      padding: 0;
-      gap: 0;
-    }
-    .brand-logos {
-      display: block;
-      padding: 80px var(--gutter) 64px;
-      min-height: 0;
-    }
-    .brand-logo-copy {
-      padding: 0;
-    }
-    .brand-body h2 {
-      font-size: 28px;
-      line-height: 36px;
-      margin-bottom: 24px;
-    }
-    .brand-body p {
-      font-size: 16px;
-      line-height: 24px;
-    }
-    .logo-showcase {
-      margin: 80px calc(-1 * var(--gutter)) 0;
-    }
-    .word-mark {
-      height: 240px;
-      padding-top: 0;
-    }
-    .word-mark img {
-      width: 270px;
-      height: 90px;
-      margin-top: 56px;
-    }
-    .logo-options {
-      height: 150px;
-      padding-top: 8px;
-    }
-    .logo-options button {
-      width: 50px;
-      height: 32px;
-    }
-    .logo-options [role='tablist'] {
-      gap: 16px;
-    }
-    .logo-mark {
-      height: 240px;
-      padding-top: 20px;
-    }
-    .logo-mark img {
-      width: 270px;
-      height: 90px;
-      margin-top: 56px;
-    }
-    .palette-section {
-      display: block;
-      padding: 80px var(--gutter);
-      min-height: 0;
-    }
-    .palette-copy {
-      padding: 0;
-    }
-    .palette-grid {
-      grid-template-columns: 1fr;
-      margin-top: 48px;
-    }
-    .palette-grid button {
-      height: 44px;
-      font-size: 16px;
-      padding: 0 20px;
-    }
-    .brand-type {
-      display: block;
-      padding: 80px var(--gutter);
-      min-height: 0;
-    }
-    .type-specimens {
-      margin-top: 64px;
-    }
-    .type-row {
-      grid-template-columns: 1.2fr 1fr 1fr;
-      gap: 12px;
-    }
-    .type-row > span:not(:first-child) {
-      font-size: 12px;
-    }
-    .brand-tone {
-      display: block;
-      min-height: 0;
-      padding: 80px var(--gutter);
-    }
-    .brand-tone > div:nth-child(2) {
-      padding-top: 40px;
-    }
-  }
-</style>

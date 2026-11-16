@@ -1,0 +1,254 @@
+[
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816565d46236166851240_Parquet_logo.svg",
+    "r": [
+      36.125,
+      1578.421875,
+      85.3125,
+      19.5
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628165698c9a123d5612caf_Apache-arrow-logo.svg",
+    "r": [
+      138.984375,
+      1578.421875,
+      54.84375,
+      19.5
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281656453c4b8c508022ec_Pandas_logo.svg",
+    "r": [
+      211.375,
+      1578.421875,
+      65.8125,
+      19.5
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281673860e80095d97c187_NumPy-logo.svg",
+    "r": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/662816564008ae32a73e28e9_Xarray-Logo.svg",
+    "r": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/66281656037c4fde07990884_zarr-logo.svg",
+    "r": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cfd3044723ca3a1bd_xGBoost-logo.svg",
+    "r": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c357532b9aa2ceee2_PyTorch_logo_black%201.svg",
+    "r": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511c79f5583a89c86af8_optuna-logo.svg",
+    "r": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "IMG",
+    "cls": "home-tabs-logo-img",
+    "text": "",
+    "src": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/6628511cef5d0f004c696317_scikit-learn-logo.svg",
+    "r": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "font": "16px / 24px Inter, sans-serif",
+    "margin": "0px"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "Dask is lightweight, and runs your raw code on you",
+    "src": null,
+    "r": [
+      39.375,
+      2318.109375,
+      309.921875,
+      99.8125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 11.7px"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "As the Python stack matures your code matures. Tod",
+    "src": null,
+    "r": [
+      39.375,
+      2429.609375,
+      309.921875,
+      100.8125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 11.7px"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "Computers are cheap.  Humans are expensive.",
+    "src": null,
+    "r": [
+      39.375,
+      2810.59375,
+      309.921875,
+      49.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 11.7px"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "Fortunately, humans already know how to use Dask.",
+    "src": null,
+    "r": [
+      39.375,
+      2872.1875,
+      309.921875,
+      49.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 11.7px"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "It’s just Python. It’s just pandas. It’s just NumP",
+    "src": null,
+    "r": [
+      39.375,
+      2933.78125,
+      309.921875,
+      49.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 11.7px"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "Dask’s dashboard guides you towards efficiency, qu",
+    "src": null,
+    "r": [
+      39.375,
+      2995.375,
+      309.921875,
+      99.8125
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 11.7px"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "Fast humans + Fast machines = Cheap Computing",
+    "src": null,
+    "r": [
+      40.375,
+      3230.328125,
+      309.25,
+      49.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 11.7px"
+  },
+  {
+    "tag": "P",
+    "cls": "",
+    "text": "Dask users often process cloud data at $0.10 per T",
+    "src": null,
+    "r": [
+      40.375,
+      3516.171875,
+      309.25,
+      50.90625
+    ],
+    "font": "16.6413px / 24.96px Inter, sans-serif",
+    "margin": "0px 0px 11.7px"
+  }
+]
