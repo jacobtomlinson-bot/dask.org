@@ -1,0 +1,1 @@
+Verification logs record the frozen successful build, complete test suite, formatting and whitespace checks. Only trailing terminal-padding spaces emitted by Astro were removed from build.log so the committed evidence also passes git diff --check; output text, route counts, timing and results are unchanged.
