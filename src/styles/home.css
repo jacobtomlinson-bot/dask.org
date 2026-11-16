@@ -1,3 +1,6 @@
+.workload-text {
+  display: contents;
+}
 /* home: component-owned base, desktop, tablet, mobile and reduced-motion rules. Keep each selector in its owning tier; do not append refinement layers. */
 .workload-panel {
   display: grid;
@@ -58,20 +61,6 @@
   font-weight: 600;
   flex: 0 0 auto;
 }
-.deployment > .boxed {
-  margin: auto;
-  font-size: 3.5rem;
-  line-height: 3.5625rem;
-}
-.deployment .tablist {
-  gap: 2rem;
-  margin: 0 auto 1rem;
-  margin-bottom: 0.4375rem;
-}
-.deployment {
-  padding: 5rem var(--gutter);
-  min-height: 44.875rem;
-}
 .home-hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
@@ -110,27 +99,6 @@
   padding: 1.85645rem 0 0;
   margin-bottom: -0.03027rem;
 }
-.deployment .tablist button {
-  font-size: 1.125rem;
-}
-.deployment .workload-panel {
-  max-width: 69.75rem;
-  margin: auto;
-  min-height: 24.6875rem;
-}
-.deployment .workload-panel > .terminal {
-  min-height: 21.6875rem;
-}
-.deployment .workload-copy {
-  padding-top: 2.5rem;
-}
-.deployment .workload-logos {
-  gap: 2rem;
-  padding-top: 3rem;
-}
-.deployment .workload-logos img {
-  max-width: 31%;
-}
 .use-cases {
   padding: 10.0008rem var(--gutter) 7.9925rem;
   text-align: center;
@@ -160,9 +128,6 @@
   }
 }
 @media (min-width: 992px) {
-  .deployment {
-    height: 44.875rem;
-  }
 }
 @media (max-width: 991px) {
   .workload-panel {
@@ -217,16 +182,6 @@
   .workload-tabs .tablist button {
     font-size: 0.875rem;
     padding: 1rem 0.5rem;
-  }
-  .deployment .boxed {
-    font-size: 2.5rem;
-    line-height: 3rem;
-  }
-  .deployment .workload-copy {
-    padding-top: 1.5rem;
-  }
-  .deployment .workload-logos {
-    gap: 1rem;
   }
   .use-cases {
     padding: 6.25rem var(--gutter);
@@ -313,42 +268,6 @@
   }
   .workload-logos img {
     height: 1.5rem;
-  }
-  .deployment {
-    height: 33.6875rem;
-    min-height: 33.6875rem;
-    padding: 3.375rem var(--gutter);
-  }
-  .deployment > .boxed {
-    font-size: 2.52625rem;
-    line-height: 1.9rem;
-    padding: 0.625rem 1.25rem 0.875rem;
-  }
-  .deployment .tablist {
-    gap: 1.5rem;
-    margin: 0 0 0.75rem;
-  }
-  .deployment .tablist button {
-    font-size: 0.842187rem;
-    line-height: 1.263125rem;
-    padding: 0.625rem 0;
-  }
-  .deployment .workload-copy {
-    padding: 1.5rem 1.5rem 1.25rem 1rem;
-    padding-top: 1rem;
-  }
-  .deployment .workload-panel {
-    min-height: 18.75rem;
-  }
-  .deployment .workload-panel > .terminal {
-    min-height: 16.5625rem;
-  }
-  .deployment .workload-logos {
-    padding-top: 1.875rem;
-    gap: 1rem;
-  }
-  .deployment .workload-logos img {
-    height: 1.25rem;
   }
   .use-cases {
     padding: 6.8448rem 7.26vw 5.7408rem;
@@ -487,55 +406,6 @@
   .workload-tabs .workload-copy {
     padding: 3rem 0.8125rem 0;
   }
-  .deployment {
-    padding: 4.875rem var(--gutter);
-    height: auto;
-    min-height: 71.8125rem;
-  }
-  .deployment > .boxed {
-    font-size: 2.34rem;
-    line-height: 2.73rem;
-    border: 0;
-    padding: 0;
-    text-align: left;
-    width: 100%;
-    background: transparent;
-  }
-  .deployment .tablist {
-    display: flex;
-    align-items: flex-start;
-    flex-direction: column;
-    gap: 1.25rem;
-    height: 5.25rem;
-    margin: 2.375rem 0 0;
-    padding: 0;
-  }
-  .deployment .tablist button {
-    font-size: 1.21875rem;
-    line-height: 1.56rem;
-    border: 0;
-    padding: 0.1875rem 0;
-    min-height: 2rem;
-    color: #aaa;
-  }
-  .deployment .tablist button[aria-selected='true'] {
-    text-decoration: underline;
-    text-decoration-color: var(--yellow);
-    text-underline-offset: 0.375rem;
-    color: white;
-  }
-  .deployment .workload-copy {
-    padding: 5.625rem 0.8125rem 0;
-  }
-  .deployment .workload-panel > .terminal {
-    margin: 1.5rem 0 0;
-    min-height: 16.875rem;
-    height: 16.875rem;
-    margin-top: 2rem;
-  }
-  .deployment .workload-actions {
-    gap: 1rem;
-  }
   .use-cases {
     padding: 7.0625rem 7.7vw 5.11875rem;
     background-image: var(--grid-light);
@@ -557,15 +427,6 @@
     font-size: 1.17rem;
     line-height: 1.56rem;
     padding: 0.78rem 1.04rem;
-  }
-  .deployment .workload-logos {
-    gap: 1.25rem;
-    padding-top: 0;
-    margin-top: 2.25rem;
-  }
-  .deployment .workload-logos img {
-    height: 1.5rem;
-    max-width: 17%;
   }
   .workload-panel > .terminal pre {
     font-size: 0.63375rem;
@@ -683,39 +544,5 @@
   .workload-actions {
     flex-direction: row;
     align-items: center;
-  }
-  .deployment {
-    min-height: 64.13rem;
-    padding-top: 4.21rem;
-    padding-bottom: 4.21rem;
-  }
-  .deployment > .boxed {
-    width: max-content;
-    max-width: 100%;
-    border: 1px solid var(--pink);
-    text-align: center;
-    font-size: 2.08rem;
-    line-height: 2.34rem;
-    padding: 0.6rem 1.2rem;
-  }
-  .deployment .tablist {
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    height: auto;
-    padding: 1rem 0;
-    margin: 0.8rem 0 0;
-    gap: 2rem;
-  }
-  .deployment .tablist button {
-    font-size: 1.04rem;
-    min-height: 0;
-  }
-  .deployment .workload-copy {
-    padding-top: 1.87rem;
-  }
-  .deployment .workload-panel > .terminal {
-    height: auto;
-    min-height: 23.2rem;
   }
 }

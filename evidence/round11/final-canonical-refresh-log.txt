@@ -1,0 +1,6 @@
+local 390 home 13662
+local 390 get-started 7138
+local 768 home 7906
+local 768 get-started 3770
+local 1440 home 8267
+local 1440 get-started 4256

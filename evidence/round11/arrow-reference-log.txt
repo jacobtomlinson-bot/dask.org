@@ -1,0 +1,1 @@
+12 fresh source previous/next transitions verified without endpoint wrapping

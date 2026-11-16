@@ -1,0 +1,119 @@
+[
+  {
+    "width": 390,
+    "state": "Ecosystem",
+    "arrows": [
+      {
+        "c": "right-arrow w-inline-block",
+        "x": 315.53125,
+        "y": 852.453125,
+        "w": 31.1875,
+        "h": 31.1875,
+        "left": "auto",
+        "right": "31.2px",
+        "top": "51.9987px",
+        "position": "static"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "state": "Case studies",
+    "arrows": [
+      {
+        "c": "right-arrow-middle w-inline-block",
+        "x": 315.53125,
+        "y": 852.453125,
+        "w": 31.1875,
+        "h": 31.1875,
+        "left": "auto",
+        "right": "31.2px",
+        "top": "51.9987px",
+        "position": "static"
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "state": "Examples",
+    "arrows": []
+  },
+  {
+    "width": 768,
+    "state": "Ecosystem",
+    "arrows": [
+      {
+        "c": "right-arrow w-inline-block",
+        "x": 657.5,
+        "y": 466.03125,
+        "w": 25.25,
+        "h": 25.25,
+        "left": "auto",
+        "right": "25.2595px",
+        "top": "42.1018px",
+        "position": "static"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "state": "Case studies",
+    "arrows": [
+      {
+        "c": "right-arrow-middle w-inline-block",
+        "x": 657.5,
+        "y": 466.03125,
+        "w": 25.25,
+        "h": 25.25,
+        "left": "auto",
+        "right": "25.2595px",
+        "top": "42.1018px",
+        "position": "static"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "state": "Examples",
+    "arrows": []
+  },
+  {
+    "width": 1440,
+    "state": "Ecosystem",
+    "arrows": [
+      {
+        "c": "right-arrow w-inline-block",
+        "x": 954.984375,
+        "y": 690.96875,
+        "w": 29.984375,
+        "h": 29.984375,
+        "left": "auto",
+        "right": "29.9952px",
+        "top": "49.9968px",
+        "position": "static"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "Case studies",
+    "arrows": [
+      {
+        "c": "right-arrow-middle w-inline-block",
+        "x": 954.984375,
+        "y": 690.96875,
+        "w": 29.984375,
+        "h": 29.984375,
+        "left": "auto",
+        "right": "29.9952px",
+        "top": "49.9968px",
+        "position": "static"
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "Examples",
+    "arrows": []
+  }
+]

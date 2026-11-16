@@ -1,0 +1,1340 @@
+[
+  {
+    "width": 390,
+    "route": "get-started",
+    "items": [
+      {
+        "target": "Ready to dive in?",
+        "element": {
+          "tag": "P",
+          "cls": "text-large",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 29.625,
+          "y": 257.65625,
+          "w": 330.75,
+          "h": 66.5625,
+          "css": {
+            "fontSize": "24.96px",
+            "fontWeight": "400",
+            "lineHeight": "33.2787px",
+            "padding": "0px",
+            "margin": "0px 0px 8.32065px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "_1-unit",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 29.625,
+          "y": 258.4375,
+          "w": 330.75,
+          "h": 74.09375,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "flex"
+          }
+        }
+      },
+      {
+        "target": "Dask has published extensive",
+        "element": {
+          "tag": "DIV",
+          "cls": "text-regular white",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 28.578125,
+          "y": 4750.5625,
+          "w": 332.84375,
+          "h": 74.859375,
+          "css": {
+            "fontSize": "16.6413px",
+            "fontWeight": "400",
+            "lineHeight": "24.96px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(235, 234, 238)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "mar-top-xxs",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 28.578125,
+          "y": 4750.5625,
+          "w": 332.84375,
+          "h": 74.859375,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "15.6px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        }
+      },
+      {
+        "target": "Dask YouTube Channel",
+        "element": {
+          "tag": "A",
+          "cls": "link white",
+          "text": "Dask YouTube Channel",
+          "x": 28.578125,
+          "y": 5194.984375,
+          "w": 186,
+          "h": 21,
+          "css": {
+            "fontSize": "16.6413px",
+            "fontWeight": "600",
+            "lineHeight": "24.96px",
+            "padding": "0px",
+            "margin": "0px 0px 7.6986px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "inline"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "",
+          "text": "Dask YouTube Channel",
+          "x": 28.578125,
+          "y": 5192.984375,
+          "w": 332.84375,
+          "h": 24.953125,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "powered-by",
+    "items": [
+      {
+        "target": "See Python Developers Survey",
+        "element": {
+          "tag": "A",
+          "cls": "link",
+          "text": "See Python Developers Survey",
+          "x": 43.0625,
+          "y": 12164.46875,
+          "w": 251,
+          "h": 25.953125,
+          "css": {
+            "fontSize": "16.6413px",
+            "fontWeight": "600",
+            "lineHeight": "24.96px",
+            "padding": "0px",
+            "margin": "0px 0px 7.6986px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "hero-text txt-with-bg",
+          "text": "Big Data Tools**Python 2021 Developers SurveySee Python Developers Survey",
+          "x": 30.078125,
+          "y": 12068.203125,
+          "w": 326.46875,
+          "h": 158.828125,
+          "css": {
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "lineHeight": "32px",
+            "padding": "0px 12.9987px",
+            "margin": "0.5421px 0.5421px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "flex"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "route": "press-mentions",
+    "items": [
+      {
+        "target": "Add a press mention",
+        "element": {
+          "tag": "SPAN",
+          "cls": "link no-pad",
+          "text": "Add a press mention",
+          "x": 111.296875,
+          "y": 443.3125,
+          "w": 167,
+          "h": 25.953125,
+          "css": {
+            "fontSize": "16.6413px",
+            "fontWeight": "600",
+            "lineHeight": "24.96px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "A",
+          "cls": "press-mention w-button",
+          "text": "Add a press mention",
+          "x": 106.96875,
+          "y": 440.078125,
+          "w": 175.65625,
+          "h": 32.421875,
+          "css": {
+            "fontSize": "4.3329px",
+            "fontWeight": "400",
+            "lineHeight": "6.49935px",
+            "padding": "3.2487px 4.3329px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 601,
+    "route": "get-started",
+    "items": [
+      {
+        "target": "Ready to dive in?",
+        "element": {
+          "tag": "P",
+          "cls": "text-large",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 153.5,
+          "y": 202.53125,
+          "w": 294,
+          "h": 20.03125,
+          "css": {
+            "fontSize": "16.6958px",
+            "fontWeight": "400",
+            "lineHeight": "20.0313px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "_1-unit",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 153.5,
+          "y": 171.125,
+          "w": 294,
+          "h": 51.4375,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "flex"
+          }
+        }
+      },
+      {
+        "target": "Dask has published extensive",
+        "element": {
+          "tag": "DIV",
+          "cls": "text-regular white",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 44.046875,
+          "y": 2873.859375,
+          "w": 512.90625,
+          "h": 40.0625,
+          "css": {
+            "fontSize": "13.3542px",
+            "fontWeight": "400",
+            "lineHeight": "20.0313px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(235, 234, 238)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "mar-top-xxs",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 44.046875,
+          "y": 2873.859375,
+          "w": 512.90625,
+          "h": 40.0625,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "6.67711px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        }
+      },
+      {
+        "target": "Dask YouTube Channel",
+        "element": {
+          "tag": "A",
+          "cls": "link white",
+          "text": "Dask YouTube Channel",
+          "x": 43.390625,
+          "y": 3243,
+          "w": 143,
+          "h": 17,
+          "css": {
+            "fontSize": "13.3542px",
+            "fontWeight": "600",
+            "lineHeight": "20.0313px",
+            "padding": "0px",
+            "margin": "0px 0px 11.8637px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "inline"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "",
+          "text": "Dask YouTube Channel",
+          "x": 43.390625,
+          "y": 3238,
+          "w": 247.09375,
+          "h": 24,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 601,
+    "route": "powered-by",
+    "items": [
+      {
+        "target": "See Python Developers Survey",
+        "element": {
+          "tag": "A",
+          "cls": "link",
+          "text": "See Python Developers Survey",
+          "x": 320.4375,
+          "y": 5112.8125,
+          "w": 191,
+          "h": 21.03125,
+          "css": {
+            "fontSize": "13.3542px",
+            "fontWeight": "600",
+            "lineHeight": "20.0313px",
+            "padding": "0px",
+            "margin": "0px 0px 11.8637px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "hero-text txt-with-bg",
+          "text": "Big Data Tools**Python 2021 Developers SurveySee Python Developers Survey",
+          "x": 300.40625,
+          "y": 5053,
+          "w": 254.453125,
+          "h": 94.5,
+          "css": {
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "lineHeight": "32px",
+            "padding": "0px 20.0313px",
+            "margin": "0.83539px 0.83539px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "flex"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 601,
+    "route": "press-mentions",
+    "items": [
+      {
+        "target": "Add a press mention",
+        "element": {
+          "tag": "SPAN",
+          "cls": "link no-pad",
+          "text": "Add a press mention",
+          "x": 236.390625,
+          "y": 290.953125,
+          "w": 128,
+          "h": 21.03125,
+          "css": {
+            "fontSize": "13.3542px",
+            "fontWeight": "600",
+            "lineHeight": "20.0313px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "A",
+          "cls": "press-mention w-button",
+          "text": "Add a press mention",
+          "x": 229.71875,
+          "y": 285.953125,
+          "w": 141.34375,
+          "h": 31.03125,
+          "css": {
+            "fontSize": "6.67711px",
+            "fontWeight": "400",
+            "lineHeight": "10.0157px",
+            "padding": "5.00633px 6.67711px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "get-started",
+    "items": [
+      {
+        "target": "Ready to dive in?",
+        "element": {
+          "tag": "P",
+          "cls": "text-large",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 209.5,
+          "y": 203.328125,
+          "w": 349,
+          "h": 23.578125,
+          "css": {
+            "fontSize": "20.2138px",
+            "fontWeight": "400",
+            "lineHeight": "23.5776px",
+            "padding": "0px",
+            "margin": "0px 0px 15.36px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "_1-unit",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 209.5,
+          "y": 188.375,
+          "w": 349,
+          "h": 53.890625,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "flex"
+          }
+        }
+      },
+      {
+        "target": "Dask has published extensive",
+        "element": {
+          "tag": "DIV",
+          "cls": "text-regular white",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 55.75,
+          "y": 2431.15625,
+          "w": 491.953125,
+          "h": 40.4375,
+          "css": {
+            "fontSize": "13.4707px",
+            "fontWeight": "400",
+            "lineHeight": "20.2138px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(235, 234, 238)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "mar-top-xxs",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 55.75,
+          "y": 2431.15625,
+          "w": 491.953125,
+          "h": 40.4375,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "8.53248px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        }
+      },
+      {
+        "target": "Dask YouTube Channel",
+        "element": {
+          "tag": "A",
+          "cls": "link white",
+          "text": "Dask YouTube Channel",
+          "x": 55.4375,
+          "y": 2685.390625,
+          "w": 167,
+          "h": 20,
+          "css": {
+            "fontSize": "15.1603px",
+            "fontWeight": "600",
+            "lineHeight": "15.1603px",
+            "padding": "0px",
+            "margin": "0px 0px 15.1603px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "inline"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "",
+          "text": "Dask YouTube Channel",
+          "x": 55.4375,
+          "y": 2682.390625,
+          "w": 318.453125,
+          "h": 24,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "powered-by",
+    "items": [
+      {
+        "target": "See Python Developers Survey",
+        "element": {
+          "tag": "A",
+          "cls": "link",
+          "text": "See Python Developers Survey",
+          "x": 396.5625,
+          "y": 3296.578125,
+          "w": 227,
+          "h": 16.15625,
+          "css": {
+            "fontSize": "15.1603px",
+            "fontWeight": "600",
+            "lineHeight": "15.1603px",
+            "padding": "0px",
+            "margin": "0px 0px 15.1603px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "hero-text txt-with-bg",
+          "text": "Big Data Tools**Python 2021 Developers SurveySee Python Developers Survey",
+          "x": 383.765625,
+          "y": 3230.703125,
+          "w": 322.65625,
+          "h": 105.390625,
+          "css": {
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "lineHeight": "32px",
+            "padding": "0px 12.8026px",
+            "margin": "1.06752px 1.06752px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "flex"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "route": "press-mentions",
+    "items": [
+      {
+        "target": "Add a press mention",
+        "element": {
+          "tag": "SPAN",
+          "cls": "link no-pad",
+          "text": "Add a press mention",
+          "x": 79.890625,
+          "y": 334.421875,
+          "w": 114.109375,
+          "h": 31.3125,
+          "css": {
+            "fontSize": "15.1603px",
+            "fontWeight": "600",
+            "lineHeight": "15.1603px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "A",
+          "cls": "press-mention w-button",
+          "text": "Add a press mention",
+          "x": 71.359375,
+          "y": 328.03125,
+          "w": 131.171875,
+          "h": 44.09375,
+          "css": {
+            "fontSize": "8.53248px",
+            "fontWeight": "400",
+            "lineHeight": "12.7987px",
+            "padding": "6.39744px 8.53248px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "route": "get-started",
+    "items": [
+      {
+        "target": "Ready to dive in?",
+        "element": {
+          "tag": "P",
+          "cls": "text-large",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 274.5,
+          "y": 263.25,
+          "w": 442,
+          "h": 30.421875,
+          "css": {
+            "fontSize": "26.0831px",
+            "fontWeight": "400",
+            "lineHeight": "30.4237px",
+            "padding": "0px",
+            "margin": "0px 0px 19.82px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "_1-unit",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 274.5,
+          "y": 243.9375,
+          "w": 442,
+          "h": 69.546875,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "flex"
+          }
+        }
+      },
+      {
+        "target": "Dask has published extensive",
+        "element": {
+          "tag": "DIV",
+          "cls": "text-regular white",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 71.9375,
+          "y": 3138.03125,
+          "w": 634.796875,
+          "h": 52.15625,
+          "css": {
+            "fontSize": "17.3821px",
+            "fontWeight": "400",
+            "lineHeight": "26.0831px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(235, 234, 238)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "mar-top-xxs",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 71.9375,
+          "y": 3138.03125,
+          "w": 634.796875,
+          "h": 52.15625,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "11.01px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        }
+      },
+      {
+        "target": "Dask YouTube Channel",
+        "element": {
+          "tag": "A",
+          "cls": "link white",
+          "text": "Dask YouTube Channel",
+          "x": 71.546875,
+          "y": 3447.296875,
+          "w": 220,
+          "h": 25,
+          "css": {
+            "fontSize": "19.5623px",
+            "fontWeight": "600",
+            "lineHeight": "19.5623px",
+            "padding": "0px",
+            "margin": "0px 0px 19.5623px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "inline"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "",
+          "text": "Dask YouTube Channel",
+          "x": 71.546875,
+          "y": 3448.296875,
+          "w": 410.90625,
+          "h": 24,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "route": "powered-by",
+    "items": [
+      {
+        "target": "See Python Developers Survey",
+        "element": {
+          "tag": "A",
+          "cls": "link",
+          "text": "See Python Developers Survey",
+          "x": 512.421875,
+          "y": 4254.15625,
+          "w": 301,
+          "h": 20.5625,
+          "css": {
+            "fontSize": "19.5623px",
+            "fontWeight": "600",
+            "lineHeight": "19.5623px",
+            "padding": "0px",
+            "margin": "0px 0px 19.5623px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "hero-text txt-with-bg",
+          "text": "Big Data Tools**Python 2021 Developers SurveySee Python Developers Survey",
+          "x": 495.90625,
+          "y": 4169.015625,
+          "w": 415.625,
+          "h": 135.984375,
+          "css": {
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "lineHeight": "32px",
+            "padding": "0px 16.52px",
+            "margin": "1.37749px 1.37749px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "flex"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "route": "press-mentions",
+    "items": [
+      {
+        "target": "Add a press mention",
+        "element": {
+          "tag": "SPAN",
+          "cls": "link no-pad",
+          "text": "Add a press mention",
+          "x": 103.078125,
+          "y": 432.546875,
+          "w": 147.25,
+          "h": 40.125,
+          "css": {
+            "fontSize": "19.5623px",
+            "fontWeight": "600",
+            "lineHeight": "19.5623px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "A",
+          "cls": "press-mention w-button",
+          "text": "Add a press mention",
+          "x": 92.078125,
+          "y": 424.296875,
+          "w": 169.25,
+          "h": 56.625,
+          "css": {
+            "fontSize": "11.01px",
+            "fontWeight": "400",
+            "lineHeight": "16.515px",
+            "padding": "8.25503px 11.01px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "route": "get-started",
+    "items": [
+      {
+        "target": "Ready to dive in?",
+        "element": {
+          "tag": "P",
+          "cls": "text-large",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 349,
+          "y": 213.703125,
+          "w": 294,
+          "h": 19.28125,
+          "css": {
+            "fontSize": "16.5366px",
+            "fontWeight": "400",
+            "lineHeight": "19.2845px",
+            "padding": "0px",
+            "margin": "0px 0px 16.5366px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "_1-unit",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 349,
+          "y": 194.40625,
+          "w": 294,
+          "h": 55.109375,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "flex"
+          }
+        }
+      },
+      {
+        "target": "Dask has published extensive",
+        "element": {
+          "tag": "DIV",
+          "cls": "text-regular white",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 55.796875,
+          "y": 2215.375,
+          "w": 659.953125,
+          "h": 16.53125,
+          "css": {
+            "fontSize": "11.0211px",
+            "fontWeight": "400",
+            "lineHeight": "16.5366px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(235, 234, 238)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "mar-top-xxs",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 55.796875,
+          "y": 2215.375,
+          "w": 659.953125,
+          "h": 16.53125,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "11.0211px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        }
+      },
+      {
+        "target": "Dask YouTube Channel",
+        "element": {
+          "tag": "A",
+          "cls": "link white",
+          "text": "Dask YouTube Channel",
+          "x": 812.203125,
+          "y": 2311.78125,
+          "w": 124,
+          "h": 15,
+          "css": {
+            "fontSize": "11.0211px",
+            "fontWeight": "600",
+            "lineHeight": "16.5366px",
+            "padding": "0px",
+            "margin": "0px 0px 16.5366px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "inline"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "",
+          "text": "Dask YouTube Channel",
+          "x": 812.203125,
+          "y": 2304.78125,
+          "w": 124,
+          "h": 24,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "route": "powered-by",
+    "items": [
+      {
+        "target": "See Python Developers Survey",
+        "element": {
+          "tag": "A",
+          "cls": "link",
+          "text": "See Python Developers Survey",
+          "x": 72.953125,
+          "y": 3396.390625,
+          "w": 167,
+          "h": 17.53125,
+          "css": {
+            "fontSize": "11.0211px",
+            "fontWeight": "600",
+            "lineHeight": "16.5366px",
+            "padding": "0px",
+            "margin": "0px 0px 16.5366px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "hero-text txt-with-bg",
+          "text": "Big Data Tools**Python 2021 Developers SurveySee Python Developers Survey",
+          "x": 56.421875,
+          "y": 3336.140625,
+          "w": 272,
+          "h": 106.359375,
+          "css": {
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "lineHeight": "32px",
+            "padding": "0px 16.5366px",
+            "margin": "1.37888px 1.37888px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "flex"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "route": "press-mentions",
+    "items": [
+      {
+        "target": "Add a press mention",
+        "element": {
+          "tag": "SPAN",
+          "cls": "link no-pad",
+          "text": "Add a press mention",
+          "x": 86.1875,
+          "y": 325.90625,
+          "w": 112,
+          "h": 15,
+          "css": {
+            "fontSize": "11.0211px",
+            "fontWeight": "600",
+            "lineHeight": "16.5317px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "inline"
+          }
+        },
+        "parent": {
+          "tag": "A",
+          "cls": "press-mention w-button",
+          "text": "Add a press mention",
+          "x": 75.171875,
+          "y": 316.65625,
+          "w": 134.03125,
+          "h": 33.015625,
+          "css": {
+            "fontSize": "11.0211px",
+            "fontWeight": "400",
+            "lineHeight": "16.5317px",
+            "padding": "8.26336px 11.0211px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "get-started",
+    "items": [
+      {
+        "target": "Ready to dive in?",
+        "element": {
+          "tag": "P",
+          "cls": "text-large",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 512.5,
+          "y": 279.96875,
+          "w": 415,
+          "h": 28,
+          "css": {
+            "fontSize": "24.0048px",
+            "fontWeight": "400",
+            "lineHeight": "27.9936px",
+            "padding": "0px",
+            "margin": "0px 0px 24.0048px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "_1-unit",
+          "text": "Ready to dive in? We’re here to help.",
+          "x": 512.5,
+          "y": 251.96875,
+          "w": 415,
+          "h": 80,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "flex"
+          }
+        }
+      },
+      {
+        "target": "Dask has published extensive",
+        "element": {
+          "tag": "DIV",
+          "cls": "text-regular white",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 81,
+          "y": 3185.71875,
+          "w": 958,
+          "h": 24,
+          "css": {
+            "fontSize": "15.9984px",
+            "fontWeight": "400",
+            "lineHeight": "24.0048px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(235, 234, 238)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "mar-top-xxs",
+          "text": "Dask has published extensive resources to help make sure you’re successful. Visit these sites to learn more:",
+          "x": 81,
+          "y": 3185.71875,
+          "w": 958,
+          "h": 24,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "15.9984px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(255, 255, 255)",
+            "display": "block"
+          }
+        }
+      },
+      {
+        "target": "Dask YouTube Channel",
+        "element": {
+          "tag": "A",
+          "cls": "link white",
+          "text": "Dask YouTube Channel",
+          "x": 1181,
+          "y": 3318.53125,
+          "w": 178,
+          "h": 20,
+          "css": {
+            "fontSize": "15.9984px",
+            "fontWeight": "600",
+            "lineHeight": "24.0048px",
+            "padding": "0px",
+            "margin": "0px 0px 24.0048px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "inline"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "",
+          "text": "Dask YouTube Channel",
+          "x": 1181,
+          "y": 3315.53125,
+          "w": 178,
+          "h": 25,
+          "css": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "powered-by",
+    "items": [
+      {
+        "target": "See Python Developers Survey",
+        "element": {
+          "tag": "A",
+          "cls": "link",
+          "text": "See Python Developers Survey",
+          "x": 105,
+          "y": 4900.40625,
+          "w": 235,
+          "h": 25,
+          "css": {
+            "fontSize": "15.9984px",
+            "fontWeight": "600",
+            "lineHeight": "24.0048px",
+            "padding": "0px",
+            "margin": "0px 0px 24.0048px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "block"
+          }
+        },
+        "parent": {
+          "tag": "DIV",
+          "cls": "hero-text txt-with-bg",
+          "text": "Big Data Tools**Python 2021 Developers SurveySee Python Developers Survey",
+          "x": 81,
+          "y": 4812.71875,
+          "w": 395.734375,
+          "h": 154.390625,
+          "css": {
+            "fontSize": "18px",
+            "fontWeight": "300",
+            "lineHeight": "32px",
+            "padding": "0px 24.0048px",
+            "margin": "2.0016px 2.0016px 0px 0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "flex"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "route": "press-mentions",
+    "items": [
+      {
+        "target": "Add a press mention",
+        "element": {
+          "tag": "SPAN",
+          "cls": "link no-pad",
+          "text": "Add a press mention",
+          "x": 125.125,
+          "y": 443.40625,
+          "w": 159,
+          "h": 20,
+          "css": {
+            "fontSize": "15.9984px",
+            "fontWeight": "600",
+            "lineHeight": "23.9976px",
+            "padding": "0px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "1px solid rgb(255, 193, 30)",
+            "display": "inline"
+          }
+        },
+        "parent": {
+          "tag": "A",
+          "cls": "press-mention w-button",
+          "text": "Add a press mention",
+          "x": 109.140625,
+          "y": 429.421875,
+          "w": 190.96875,
+          "h": 47.96875,
+          "css": {
+            "fontSize": "15.9984px",
+            "fontWeight": "400",
+            "lineHeight": "23.9976px",
+            "padding": "11.9952px 15.9984px",
+            "margin": "0px",
+            "textDecoration": "none",
+            "borderBottom": "0px none rgb(8, 8, 21)",
+            "display": "block"
+          }
+        }
+      }
+    ]
+  }
+]

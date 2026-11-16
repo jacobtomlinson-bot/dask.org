@@ -1,0 +1,1 @@
+229 round9 groups passed, 0 failed; 370 copy arrays, max copy 0.25px, art 0.25px, performance 0.609375px; 1210 solid-paper pixels

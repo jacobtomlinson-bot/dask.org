@@ -1,0 +1,74 @@
+[
+  {
+    "width": 390,
+    "from": "Ecosystem",
+    "selector": ".right-arrow",
+    "observed": "Case studies"
+  },
+  {
+    "width": 390,
+    "from": "Case studies",
+    "selector": ".left-arrow-middle",
+    "observed": "Ecosystem"
+  },
+  {
+    "width": 390,
+    "from": "Case studies",
+    "selector": ".right-arrow-middle",
+    "observed": "Examples"
+  },
+  {
+    "width": 390,
+    "from": "Examples",
+    "selector": ".left-arrow",
+    "observed": "Case studies"
+  },
+  {
+    "width": 768,
+    "from": "Ecosystem",
+    "selector": ".right-arrow",
+    "observed": "Case studies"
+  },
+  {
+    "width": 768,
+    "from": "Case studies",
+    "selector": ".left-arrow-middle",
+    "observed": "Ecosystem"
+  },
+  {
+    "width": 768,
+    "from": "Case studies",
+    "selector": ".right-arrow-middle",
+    "observed": "Examples"
+  },
+  {
+    "width": 768,
+    "from": "Examples",
+    "selector": ".left-arrow",
+    "observed": "Case studies"
+  },
+  {
+    "width": 1440,
+    "from": "Ecosystem",
+    "selector": ".right-arrow",
+    "observed": "Case studies"
+  },
+  {
+    "width": 1440,
+    "from": "Case studies",
+    "selector": ".left-arrow-middle",
+    "observed": "Ecosystem"
+  },
+  {
+    "width": 1440,
+    "from": "Case studies",
+    "selector": ".right-arrow-middle",
+    "observed": "Examples"
+  },
+  {
+    "width": 1440,
+    "from": "Examples",
+    "selector": ".left-arrow",
+    "observed": "Case studies"
+  }
+]

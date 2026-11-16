@@ -1,0 +1,1102 @@
+[
+  {
+    "width": 390,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.h Δ1.531 (1237.734375/1236.203125)",
+      "explore.panel.h Δ1.516 (326.765625/325.25)",
+      "learn.actions.0.y Δ-2.031 (599.5625/601.59375)",
+      "learn.actions.0.w Δ176.547 (307.546875/131)",
+      "learn.actions.0.h Δ3.953 (24.953125/21)",
+      "learn.actions.1.y Δ-2.031 (863.453125/865.484375)",
+      "learn.actions.1.w Δ156.547 (307.546875/151)",
+      "learn.actions.1.h Δ3.953 (24.953125/21)",
+      "learn.actions.2.y Δ-2.031 (1127.34375/1129.375)",
+      "learn.actions.2.w Δ176.547 (307.546875/131)",
+      "learn.actions.2.h Δ3.953 (24.953125/21)",
+      "learn.actions.3.y Δ-2.031 (1391.234375/1393.265625)",
+      "learn.actions.3.w Δ164.547 (307.546875/143)",
+      "learn.actions.3.h Δ3.953 (24.953125/21)",
+      "learn.actions.4.y Δ-2.031 (1655.125/1657.15625)",
+      "learn.actions.4.w Δ141.547 (307.546875/166)",
+      "learn.actions.4.h Δ3.953 (24.953125/21)"
+    ]
+  },
+  {
+    "width": 390,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.h Δ1.531 (1237.734375/1236.203125)",
+      "explore.panel.h Δ1.516 (326.765625/325.25)",
+      "learn.actions.0.y Δ-2.031 (599.5625/601.59375)",
+      "learn.actions.0.w Δ176.547 (307.546875/131)",
+      "learn.actions.0.h Δ3.953 (24.953125/21)",
+      "learn.actions.1.y Δ-2.031 (863.453125/865.484375)",
+      "learn.actions.1.w Δ156.547 (307.546875/151)",
+      "learn.actions.1.h Δ3.953 (24.953125/21)",
+      "learn.actions.2.y Δ-2.031 (1127.34375/1129.375)",
+      "learn.actions.2.w Δ176.547 (307.546875/131)",
+      "learn.actions.2.h Δ3.953 (24.953125/21)",
+      "learn.actions.3.y Δ-2.031 (1391.234375/1393.265625)",
+      "learn.actions.3.w Δ164.547 (307.546875/143)",
+      "learn.actions.3.h Δ3.953 (24.953125/21)",
+      "learn.actions.4.y Δ-2.031 (1655.125/1657.15625)",
+      "learn.actions.4.w Δ141.547 (307.546875/166)",
+      "learn.actions.4.h Δ3.953 (24.953125/21)"
+    ]
+  },
+  {
+    "width": 390,
+    "state": "Examples",
+    "issues": [
+      "explore.section.h Δ1.531 (1237.734375/1236.203125)",
+      "explore.panel.h Δ1.516 (326.765625/325.25)",
+      "explore.arrows.0.x Δ1.938 (315.53125/313.59375)",
+      "learn.actions.0.y Δ-2.031 (599.5625/601.59375)",
+      "learn.actions.0.w Δ176.547 (307.546875/131)",
+      "learn.actions.0.h Δ3.953 (24.953125/21)",
+      "learn.actions.1.y Δ-2.031 (863.453125/865.484375)",
+      "learn.actions.1.w Δ156.547 (307.546875/151)",
+      "learn.actions.1.h Δ3.953 (24.953125/21)",
+      "learn.actions.2.y Δ-2.031 (1127.34375/1129.375)",
+      "learn.actions.2.w Δ176.547 (307.546875/131)",
+      "learn.actions.2.h Δ3.953 (24.953125/21)",
+      "learn.actions.3.y Δ-2.031 (1391.234375/1393.265625)",
+      "learn.actions.3.w Δ164.547 (307.546875/143)",
+      "learn.actions.3.h Δ3.953 (24.953125/21)",
+      "learn.actions.4.y Δ-2.031 (1655.125/1657.15625)",
+      "learn.actions.4.w Δ141.547 (307.546875/166)",
+      "learn.actions.4.h Δ3.953 (24.953125/21)"
+    ]
+  },
+  {
+    "width": 390,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can\",\"run Dask\",\"Open Source Deployment\",\"Managed Cloud\",\"Open Source\",\"Deployment\",\"Run Dask on your laptop (it’s trivial) or\",\"deploy it on any resource manager\",\"like Kubernetes, an HPC job\",\"schedulers, cloud SaaS services, or\",\"even legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can\",\"run Dask\",\"Open Source\",\"Deployment\",\"Run Dask on your laptop (it’s trivial) or\",\"deploy it on any resource manager\",\"like Kubernetes, an HPC job\",\"schedulers, cloud SaaS services, or\",\"even legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ30.281 (30.28125/0)",
+      "deployment.panel.y Δ329.172 (329.171875/0)",
+      "deployment.panel.w Δ-60.578 (329.421875/390)",
+      "deployment.panel.h Δ-415.344 (734.03125/1149.375)",
+      "deployment.panel.lines lines [\"Open Source\",\"Deployment\",\"Run Dask on your laptop (it’s trivial) or\",\"deploy it on any resource manager\",\"like Kubernetes, an HPC job\",\"schedulers, cloud SaaS services, or\",\"even legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can\",\"run Dask\",\"Open Source\",\"Deployment\",\"Run Dask on your laptop (it’s trivial) or\",\"deploy it on any resource manager\",\"like Kubernetes, an HPC job\",\"schedulers, cloud SaaS services, or\",\"even legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 390,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can\",\"run Dask\",\"Open Source Deployment\",\"Managed Cloud\",\"Managed Cloud\",\"Run Dask in the cloud with open\",\"source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for\",\"individuals with modest use and\",\"easy for anyone with a cloud\",\"account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can\",\"run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open\",\"source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for\",\"individuals with modest use and\",\"easy for anyone with a cloud\",\"account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ30.281 (30.28125/0)",
+      "deployment.panel.y Δ329.172 (329.171875/0)",
+      "deployment.panel.w Δ-60.578 (329.421875/390)",
+      "deployment.panel.h Δ-415.375 (734/1149.375)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"Run Dask in the cloud with open\",\"source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for\",\"individuals with modest use and\",\"easy for anyone with a cloud\",\"account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can\",\"run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open\",\"source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for\",\"individuals with modest use and\",\"easy for anyone with a cloud\",\"account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 479,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.h Δ1.875 (1520.21875/1518.34375)",
+      "explore.panel.h Δ1.859 (401.34375/399.484375)",
+      "learn.actions.0.y Δ-2.016 (736.4375/738.453125)",
+      "learn.actions.0.w Δ219.719 (377.71875/158)",
+      "learn.actions.0.h Δ4.656 (30.65625/26)",
+      "learn.actions.1.y Δ-2.016 (1060.546875/1062.5625)",
+      "learn.actions.1.w Δ196.719 (377.71875/181)",
+      "learn.actions.1.h Δ4.656 (30.65625/26)",
+      "learn.actions.2.y Δ-2.016 (1384.65625/1386.671875)",
+      "learn.actions.2.w Δ217.719 (377.71875/160)",
+      "learn.actions.2.h Δ4.656 (30.65625/26)",
+      "learn.actions.3.y Δ-2.016 (1708.765625/1710.78125)",
+      "learn.actions.3.w Δ204.719 (377.71875/173)",
+      "learn.actions.3.h Δ4.656 (30.65625/26)",
+      "learn.actions.4.y Δ-2.016 (2032.875/2034.890625)",
+      "learn.actions.4.w Δ178.719 (377.71875/199)",
+      "learn.actions.4.h Δ4.656 (30.65625/26)"
+    ]
+  },
+  {
+    "width": 479,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.h Δ1.875 (1520.21875/1518.34375)",
+      "explore.panel.h Δ1.859 (401.34375/399.484375)",
+      "learn.actions.0.y Δ-2.016 (736.4375/738.453125)",
+      "learn.actions.0.w Δ219.719 (377.71875/158)",
+      "learn.actions.0.h Δ4.656 (30.65625/26)",
+      "learn.actions.1.y Δ-2.016 (1060.546875/1062.5625)",
+      "learn.actions.1.w Δ196.719 (377.71875/181)",
+      "learn.actions.1.h Δ4.656 (30.65625/26)",
+      "learn.actions.2.y Δ-2.016 (1384.65625/1386.671875)",
+      "learn.actions.2.w Δ217.719 (377.71875/160)",
+      "learn.actions.2.h Δ4.656 (30.65625/26)",
+      "learn.actions.3.y Δ-2.016 (1708.765625/1710.78125)",
+      "learn.actions.3.w Δ204.719 (377.71875/173)",
+      "learn.actions.3.h Δ4.656 (30.65625/26)",
+      "learn.actions.4.y Δ-2.016 (2032.875/2034.890625)",
+      "learn.actions.4.w Δ178.719 (377.71875/199)",
+      "learn.actions.4.h Δ4.656 (30.65625/26)"
+    ]
+  },
+  {
+    "width": 479,
+    "state": "Examples",
+    "issues": [
+      "explore.section.h Δ1.875 (1520.21875/1518.34375)",
+      "explore.panel.h Δ1.859 (401.34375/399.484375)",
+      "explore.arrows.0.x Δ2.375 (387.515625/385.140625)",
+      "learn.actions.0.y Δ-2.016 (736.4375/738.453125)",
+      "learn.actions.0.w Δ219.719 (377.71875/158)",
+      "learn.actions.0.h Δ4.656 (30.65625/26)",
+      "learn.actions.1.y Δ-2.016 (1060.546875/1062.5625)",
+      "learn.actions.1.w Δ196.719 (377.71875/181)",
+      "learn.actions.1.h Δ4.656 (30.65625/26)",
+      "learn.actions.2.y Δ-2.016 (1384.65625/1386.671875)",
+      "learn.actions.2.w Δ217.719 (377.71875/160)",
+      "learn.actions.2.h Δ4.656 (30.65625/26)",
+      "learn.actions.3.y Δ-2.016 (1708.765625/1710.78125)",
+      "learn.actions.3.w Δ204.719 (377.71875/173)",
+      "learn.actions.3.h Δ4.656 (30.65625/26)",
+      "learn.actions.4.y Δ-2.016 (2032.875/2034.890625)",
+      "learn.actions.4.w Δ178.719 (377.71875/199)",
+      "learn.actions.4.h Δ4.656 (30.65625/26)"
+    ]
+  },
+  {
+    "width": 479,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can\",\"run Dask\",\"Open Source Deployment\",\"Managed Cloud\",\"Open Source\",\"Deployment\",\"Run Dask on your laptop (it’s trivial) or\",\"deploy it on any resource manager like\",\"Kubernetes, an HPC job schedulers,\",\"cloud SaaS services, or even legacy\",\"Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can\",\"run Dask\",\"Open Source\",\"Deployment\",\"Run Dask on your laptop (it’s trivial) or\",\"deploy it on any resource manager like\",\"Kubernetes, an HPC job schedulers,\",\"cloud SaaS services, or even legacy\",\"Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ37.203 (37.203125/0)",
+      "deployment.panel.y Δ404.250 (404.25/0)",
+      "deployment.panel.w Δ-74.406 (404.59375/479)",
+      "deployment.panel.h Δ-510.125 (901.515625/1411.640625)",
+      "deployment.panel.lines lines [\"Open Source\",\"Deployment\",\"Run Dask on your laptop (it’s trivial) or\",\"deploy it on any resource manager like\",\"Kubernetes, an HPC job schedulers,\",\"cloud SaaS services, or even legacy\",\"Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can\",\"run Dask\",\"Open Source\",\"Deployment\",\"Run Dask on your laptop (it’s trivial) or\",\"deploy it on any resource manager like\",\"Kubernetes, an HPC job schedulers,\",\"cloud SaaS services, or even legacy\",\"Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 479,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can\",\"run Dask\",\"Open Source Deployment\",\"Managed Cloud\",\"Managed Cloud\",\"Run Dask in the cloud with open\",\"source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for\",\"individuals with modest use and easy\",\"for anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can\",\"run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open\",\"source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for\",\"individuals with modest use and easy\",\"for anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ37.203 (37.203125/0)",
+      "deployment.panel.y Δ404.250 (404.25/0)",
+      "deployment.panel.w Δ-74.406 (404.59375/479)",
+      "deployment.panel.h Δ-510.125 (901.515625/1411.640625)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"Run Dask in the cloud with open\",\"source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for\",\"individuals with modest use and easy\",\"for anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can\",\"run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open\",\"source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for\",\"individuals with modest use and easy\",\"for anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.logos.0.y Δ-13.141 (861.5625/874.703125)",
+      "deployment.logos.1.y Δ-13.141 (861.5625/874.703125)",
+      "deployment.logos.2.y Δ-13.141 (861.5625/874.703125)"
+    ]
+  },
+  {
+    "width": 480,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.h Δ1.391 (581.609375/580.21875)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of\",\"workloads. Here are some resources to help you explore\",\"your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of\",\"workloads. Here are some resources to help you explore\",\"your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.panel.h Δ1.766 (164.953125/163.1875)",
+      "explore.panel.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.card.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"]",
+      "explore.arrows.0.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-0.984 (276.515625/277.5)",
+      "learn.actions.0.w Δ91.344 (178.34375/87)",
+      "learn.actions.0.h Δ2.000 (16/14)",
+      "learn.actions.1.y Δ-0.984 (276.515625/277.5)",
+      "learn.actions.1.w Δ78.344 (178.34375/100)",
+      "learn.actions.1.h Δ2.000 (16/14)",
+      "learn.actions.2.y Δ-1.000 (452.4375/453.4375)",
+      "learn.actions.2.w Δ91.344 (178.34375/87)",
+      "learn.actions.2.h Δ2.000 (16/14)",
+      "learn.actions.3.y Δ-1.000 (440.6875/441.6875)",
+      "learn.actions.3.w Δ83.344 (178.34375/95)",
+      "learn.actions.3.h Δ2.000 (16/14)",
+      "learn.actions.4.y Δ-1.016 (604.859375/605.875)",
+      "learn.actions.4.w Δ69.344 (178.34375/109)",
+      "learn.actions.4.h Δ2.000 (16/14)"
+    ]
+  },
+  {
+    "width": 480,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.h Δ1.391 (581.609375/580.21875)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of\",\"workloads. Here are some resources to help you explore\",\"your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of\",\"workloads. Here are some resources to help you explore\",\"your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.panel.h Δ1.766 (164.953125/163.1875)",
+      "explore.panel.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.card.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"]",
+      "explore.arrows.0.x Δ1.203 (385.546875/384.34375)",
+      "explore.arrows.1.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-0.984 (276.515625/277.5)",
+      "learn.actions.0.w Δ91.344 (178.34375/87)",
+      "learn.actions.0.h Δ2.000 (16/14)",
+      "learn.actions.1.y Δ-0.984 (276.515625/277.5)",
+      "learn.actions.1.w Δ78.344 (178.34375/100)",
+      "learn.actions.1.h Δ2.000 (16/14)",
+      "learn.actions.2.y Δ-1.000 (452.4375/453.4375)",
+      "learn.actions.2.w Δ91.344 (178.34375/87)",
+      "learn.actions.2.h Δ2.000 (16/14)",
+      "learn.actions.3.y Δ-1.000 (440.6875/441.6875)",
+      "learn.actions.3.w Δ83.344 (178.34375/95)",
+      "learn.actions.3.h Δ2.000 (16/14)",
+      "learn.actions.4.y Δ-1.016 (604.859375/605.875)",
+      "learn.actions.4.w Δ69.344 (178.34375/109)",
+      "learn.actions.4.h Δ2.000 (16/14)"
+    ]
+  },
+  {
+    "width": 480,
+    "state": "Examples",
+    "issues": [
+      "explore.section.h Δ1.391 (581.609375/580.21875)",
+      "explore.panel.h Δ1.766 (164.953125/163.1875)",
+      "explore.arrows.0.x Δ2.406 (406.75/404.34375)",
+      "learn.actions.0.y Δ-0.984 (276.515625/277.5)",
+      "learn.actions.0.w Δ91.344 (178.34375/87)",
+      "learn.actions.0.h Δ2.000 (16/14)",
+      "learn.actions.1.y Δ-0.984 (276.515625/277.5)",
+      "learn.actions.1.w Δ78.344 (178.34375/100)",
+      "learn.actions.1.h Δ2.000 (16/14)",
+      "learn.actions.2.y Δ-1.000 (452.4375/453.4375)",
+      "learn.actions.2.w Δ91.344 (178.34375/87)",
+      "learn.actions.2.h Δ2.000 (16/14)",
+      "learn.actions.3.y Δ-1.000 (440.6875/441.6875)",
+      "learn.actions.3.w Δ83.344 (178.34375/95)",
+      "learn.actions.3.h Δ2.000 (16/14)",
+      "learn.actions.4.y Δ-1.016 (604.859375/605.875)",
+      "learn.actions.4.w Δ69.344 (178.34375/109)",
+      "learn.actions.4.h Δ2.000 (16/14)"
+    ]
+  },
+  {
+    "width": 480,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"or even legacy Hadoop/Spark clusters.\",\"DocumentationDask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"or even legacy Hadoop/Spark clusters.\",\"DocumentationDask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ35.672 (35.671875/0)",
+      "deployment.panel.y Δ126.406 (126.40625/0)",
+      "deployment.panel.w Δ-71.344 (408.65625/480)",
+      "deployment.panel.h Δ-167.906 (490.671875/658.578125)",
+      "deployment.panel.lines lines [\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"or even legacy Hadoop/Spark clusters.\",\"DocumentationDask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"or even legacy Hadoop/Spark clusters.\",\"DocumentationDask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 480,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"for anyone with a cloud account.\",\"DocumentationVideo: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"for anyone with a cloud account.\",\"DocumentationVideo: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ35.672 (35.671875/0)",
+      "deployment.panel.y Δ126.406 (126.40625/0)",
+      "deployment.panel.w Δ-71.344 (408.65625/480)",
+      "deployment.panel.h Δ-167.906 (490.671875/658.578125)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"for anyone with a cloud account.\",\"DocumentationVideo: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"for anyone with a cloud account.\",\"DocumentationVideo: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 601,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.h Δ1.688 (728.1875/726.5)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads.\",\"Here are some resources to help you explore your options\",\"and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads.\",\"Here are some resources to help you explore your options\",\"and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.panel.h Δ2.203 (206.53125/204.328125)",
+      "explore.panel.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.card.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"]",
+      "explore.arrows.0.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-2.016 (346.203125/348.21875)",
+      "learn.actions.0.w Δ122.313 (223.3125/101)",
+      "learn.actions.0.h Δ3.031 (20.03125/17)",
+      "learn.actions.1.y Δ-2.016 (346.203125/348.21875)",
+      "learn.actions.1.w Δ108.313 (223.3125/115)",
+      "learn.actions.1.h Δ3.031 (20.03125/17)",
+      "learn.actions.2.y Δ-2.031 (566.453125/568.484375)",
+      "learn.actions.2.w Δ122.313 (223.3125/101)",
+      "learn.actions.2.h Δ3.031 (20.03125/17)",
+      "learn.actions.3.y Δ-2.047 (551.75/553.796875)",
+      "learn.actions.3.w Δ112.313 (223.3125/111)",
+      "learn.actions.3.h Δ3.031 (20.03125/17)",
+      "learn.actions.4.y Δ-2.078 (757.296875/759.375)",
+      "learn.actions.4.w Δ95.313 (223.3125/128)",
+      "learn.actions.4.h Δ3.031 (20.03125/17)"
+    ]
+  },
+  {
+    "width": 601,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.h Δ1.688 (728.1875/726.5)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads.\",\"Here are some resources to help you explore your options\",\"and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads.\",\"Here are some resources to help you explore your options\",\"and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.panel.h Δ2.203 (206.53125/204.328125)",
+      "explore.panel.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.card.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"]",
+      "explore.arrows.0.x Δ1.469 (482.703125/481.234375)",
+      "explore.arrows.1.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-2.016 (346.203125/348.21875)",
+      "learn.actions.0.w Δ122.313 (223.3125/101)",
+      "learn.actions.0.h Δ3.031 (20.03125/17)",
+      "learn.actions.1.y Δ-2.016 (346.203125/348.21875)",
+      "learn.actions.1.w Δ108.313 (223.3125/115)",
+      "learn.actions.1.h Δ3.031 (20.03125/17)",
+      "learn.actions.2.y Δ-2.031 (566.453125/568.484375)",
+      "learn.actions.2.w Δ122.313 (223.3125/101)",
+      "learn.actions.2.h Δ3.031 (20.03125/17)",
+      "learn.actions.3.y Δ-2.047 (551.75/553.796875)",
+      "learn.actions.3.w Δ112.313 (223.3125/111)",
+      "learn.actions.3.h Δ3.031 (20.03125/17)",
+      "learn.actions.4.y Δ-2.078 (757.296875/759.375)",
+      "learn.actions.4.w Δ95.313 (223.3125/128)",
+      "learn.actions.4.h Δ3.031 (20.03125/17)"
+    ]
+  },
+  {
+    "width": 601,
+    "state": "Examples",
+    "issues": [
+      "explore.section.h Δ1.688 (728.1875/726.5)",
+      "explore.panel.h Δ2.203 (206.53125/204.328125)",
+      "explore.arrows.0.x Δ3.000 (509.265625/506.265625)",
+      "learn.actions.0.y Δ-2.016 (346.203125/348.21875)",
+      "learn.actions.0.w Δ122.313 (223.3125/101)",
+      "learn.actions.0.h Δ3.031 (20.03125/17)",
+      "learn.actions.1.y Δ-2.016 (346.203125/348.21875)",
+      "learn.actions.1.w Δ108.313 (223.3125/115)",
+      "learn.actions.1.h Δ3.031 (20.03125/17)",
+      "learn.actions.2.y Δ-2.031 (566.453125/568.484375)",
+      "learn.actions.2.w Δ122.313 (223.3125/101)",
+      "learn.actions.2.h Δ3.031 (20.03125/17)",
+      "learn.actions.3.y Δ-2.047 (551.75/553.796875)",
+      "learn.actions.3.w Δ112.313 (223.3125/111)",
+      "learn.actions.3.h Δ3.031 (20.03125/17)",
+      "learn.actions.4.y Δ-2.078 (757.296875/759.375)",
+      "learn.actions.4.w Δ95.313 (223.3125/128)",
+      "learn.actions.4.h Δ3.031 (20.03125/17)"
+    ]
+  },
+  {
+    "width": 601,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ44.656 (44.65625/0)",
+      "deployment.panel.y Δ157.266 (157.265625/0)",
+      "deployment.panel.w Δ-89.328 (511.671875/601)",
+      "deployment.panel.h Δ-209.203 (614.375/823.578125)",
+      "deployment.panel.lines lines [\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 601,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy SaaS\",\"solution. Coiled is free for individuals with modest use and easy for\",\"anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy SaaS\",\"solution. Coiled is free for individuals with modest use and easy for\",\"anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ44.656 (44.65625/0)",
+      "deployment.panel.y Δ157.266 (157.265625/0)",
+      "deployment.panel.w Δ-89.328 (511.671875/601)",
+      "deployment.panel.h Δ-209.203 (614.375/823.578125)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy SaaS\",\"solution. Coiled is free for individuals with modest use and easy for\",\"anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy SaaS\",\"solution. Coiled is free for individuals with modest use and easy for\",\"anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 767,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.h Δ2.156 (929.359375/927.203125)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads.\",\"Here are some resources to help you explore your options\",\"and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads.\",\"Here are some resources to help you explore your options\",\"and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"right arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.panel.h Δ2.813 (263.578125/260.765625)",
+      "explore.panel.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Ecosystem\",\"right arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.card.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"] != [\"Ecosystem\",\"right arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"]",
+      "explore.arrows.0.lines lines [] != [\"right arrow\"]",
+      "learn.actions.0.y Δ-2.094 (441.8125/443.90625)",
+      "learn.actions.0.w Δ153.984 (284.984375/131)",
+      "learn.actions.0.h Δ3.563 (25.5625/22)",
+      "learn.actions.1.y Δ-2.094 (441.8125/443.90625)",
+      "learn.actions.1.w Δ133.984 (284.984375/151)",
+      "learn.actions.1.h Δ3.563 (25.5625/22)",
+      "learn.actions.2.y Δ-2.141 (722.90625/725.046875)",
+      "learn.actions.2.w Δ152.984 (284.984375/132)",
+      "learn.actions.2.h Δ3.563 (25.5625/22)",
+      "learn.actions.3.y Δ-2.172 (704.140625/706.3125)",
+      "learn.actions.3.w Δ141.984 (284.984375/143)",
+      "learn.actions.3.h Δ3.563 (25.5625/22)",
+      "learn.actions.4.y Δ-2.250 (966.46875/968.71875)",
+      "learn.actions.4.w Δ118.984 (284.984375/166)",
+      "learn.actions.4.h Δ3.563 (25.5625/22)"
+    ]
+  },
+  {
+    "width": 767,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.h Δ2.156 (929.359375/927.203125)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads.\",\"Here are some resources to help you explore your options\",\"and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads.\",\"Here are some resources to help you explore your options\",\"and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"right arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.panel.h Δ2.813 (263.578125/260.765625)",
+      "explore.panel.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Case studies\",\"right arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.card.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"] != [\"Case studies\",\"right arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"]",
+      "explore.arrows.0.x Δ1.875 (616/614.125)",
+      "explore.arrows.1.lines lines [] != [\"right arrow\"]",
+      "learn.actions.0.y Δ-2.094 (441.8125/443.90625)",
+      "learn.actions.0.w Δ153.984 (284.984375/131)",
+      "learn.actions.0.h Δ3.563 (25.5625/22)",
+      "learn.actions.1.y Δ-2.094 (441.8125/443.90625)",
+      "learn.actions.1.w Δ133.984 (284.984375/151)",
+      "learn.actions.1.h Δ3.563 (25.5625/22)",
+      "learn.actions.2.y Δ-2.141 (722.90625/725.046875)",
+      "learn.actions.2.w Δ152.984 (284.984375/132)",
+      "learn.actions.2.h Δ3.563 (25.5625/22)",
+      "learn.actions.3.y Δ-2.172 (704.140625/706.3125)",
+      "learn.actions.3.w Δ141.984 (284.984375/143)",
+      "learn.actions.3.h Δ3.563 (25.5625/22)",
+      "learn.actions.4.y Δ-2.250 (966.46875/968.71875)",
+      "learn.actions.4.w Δ118.984 (284.984375/166)",
+      "learn.actions.4.h Δ3.563 (25.5625/22)"
+    ]
+  },
+  {
+    "width": 767,
+    "state": "Examples",
+    "issues": [
+      "explore.section.h Δ2.156 (929.359375/927.203125)",
+      "explore.panel.h Δ2.813 (263.578125/260.765625)",
+      "explore.arrows.0.x Δ3.828 (649.90625/646.078125)",
+      "learn.actions.0.y Δ-2.094 (441.8125/443.90625)",
+      "learn.actions.0.w Δ153.984 (284.984375/131)",
+      "learn.actions.0.h Δ3.563 (25.5625/22)",
+      "learn.actions.1.y Δ-2.094 (441.8125/443.90625)",
+      "learn.actions.1.w Δ133.984 (284.984375/151)",
+      "learn.actions.1.h Δ3.563 (25.5625/22)",
+      "learn.actions.2.y Δ-2.141 (722.90625/725.046875)",
+      "learn.actions.2.w Δ152.984 (284.984375/132)",
+      "learn.actions.2.h Δ3.563 (25.5625/22)",
+      "learn.actions.3.y Δ-2.172 (704.140625/706.3125)",
+      "learn.actions.3.w Δ141.984 (284.984375/143)",
+      "learn.actions.3.h Δ3.563 (25.5625/22)",
+      "learn.actions.4.y Δ-2.250 (966.46875/968.71875)",
+      "learn.actions.4.w Δ118.984 (284.984375/166)",
+      "learn.actions.4.h Δ3.563 (25.5625/22)"
+    ]
+  },
+  {
+    "width": 767,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ57.000 (57/0)",
+      "deployment.panel.y Δ201.609 (201.609375/0)",
+      "deployment.panel.w Δ-114.000 (653/767)",
+      "deployment.panel.h Δ-267.906 (784.0625/1051.96875)",
+      "deployment.panel.lines lines [\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"legacy Hadoop/Spark clusters.\",\"Documentation\",\"Dask deployment video\",\"from dask.distributed import LocalCluster\",\"cluster = LocalCluster(\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 767,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy SaaS\",\"solution. Coiled is free for individuals with modest use and easy for\",\"anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy SaaS\",\"solution. Coiled is free for individuals with modest use and easy for\",\"anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ57.000 (57/0)",
+      "deployment.panel.y Δ201.609 (201.609375/0)",
+      "deployment.panel.w Δ-114.000 (653/767)",
+      "deployment.panel.h Δ-267.906 (784.0625/1051.96875)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy SaaS\",\"solution. Coiled is free for individuals with modest use and easy for\",\"anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes, or with an easy SaaS\",\"solution. Coiled is free for individuals with modest use and easy for\",\"anyone with a cloud account.\",\"Documentation\",\"Video: Dask in the Cloud\",\"from coiled import Cluster\",\"cluster = Cluster(\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 768,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.h Δ-1.141 (765.84375/766.984375)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.panel.h Δ-1.078 (217.03125/218.109375)",
+      "explore.panel.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.card.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\"]",
+      "explore.arrows.0.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-2.000 (377.703125/379.703125)",
+      "learn.actions.0.w Δ76.828 (177.828125/101)",
+      "learn.actions.0.h Δ3.219 (20.21875/17)",
+      "learn.actions.1.y Δ-1.984 (382.046875/384.03125)",
+      "learn.actions.1.w Δ62.844 (177.84375/115)",
+      "learn.actions.1.h Δ3.219 (20.21875/17)",
+      "learn.actions.2.y Δ-2.000 (650.703125/652.703125)",
+      "learn.actions.2.w Δ76.828 (177.828125/101)",
+      "learn.actions.2.h Δ3.219 (20.21875/17)",
+      "learn.actions.3.y Δ-2.000 (595.1875/597.1875)",
+      "learn.actions.3.w Δ66.844 (177.84375/111)",
+      "learn.actions.3.h Δ3.219 (20.21875/17)",
+      "learn.actions.4.y Δ-2.016 (840.03125/842.046875)",
+      "learn.actions.4.w Δ49.828 (177.828125/128)",
+      "learn.actions.4.h Δ3.219 (20.21875/17)"
+    ]
+  },
+  {
+    "width": 768,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.h Δ-1.141 (765.84375/766.984375)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.panel.h Δ-1.078 (217.03125/218.109375)",
+      "explore.panel.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.card.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\"]",
+      "explore.arrows.0.x Δ1.922 (630.34375/628.421875)",
+      "explore.arrows.1.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-2.000 (377.703125/379.703125)",
+      "learn.actions.0.w Δ76.828 (177.828125/101)",
+      "learn.actions.0.h Δ3.219 (20.21875/17)",
+      "learn.actions.1.y Δ-1.984 (382.046875/384.03125)",
+      "learn.actions.1.w Δ62.844 (177.84375/115)",
+      "learn.actions.1.h Δ3.219 (20.21875/17)",
+      "learn.actions.2.y Δ-2.000 (650.703125/652.703125)",
+      "learn.actions.2.w Δ76.828 (177.828125/101)",
+      "learn.actions.2.h Δ3.219 (20.21875/17)",
+      "learn.actions.3.y Δ-2.000 (595.1875/597.1875)",
+      "learn.actions.3.w Δ66.844 (177.84375/111)",
+      "learn.actions.3.h Δ3.219 (20.21875/17)",
+      "learn.actions.4.y Δ-2.016 (840.03125/842.046875)",
+      "learn.actions.4.w Δ49.828 (177.828125/128)",
+      "learn.actions.4.h Δ3.219 (20.21875/17)"
+    ]
+  },
+  {
+    "width": 768,
+    "state": "Examples",
+    "issues": [
+      "explore.section.h Δ-1.141 (765.84375/766.984375)",
+      "explore.panel.h Δ-1.078 (217.03125/218.109375)",
+      "explore.arrows.0.x Δ3.828 (657.5/653.671875)",
+      "learn.actions.0.y Δ-2.000 (377.703125/379.703125)",
+      "learn.actions.0.w Δ76.828 (177.828125/101)",
+      "learn.actions.0.h Δ3.219 (20.21875/17)",
+      "learn.actions.1.y Δ-1.984 (382.046875/384.03125)",
+      "learn.actions.1.w Δ62.844 (177.84375/115)",
+      "learn.actions.1.h Δ3.219 (20.21875/17)",
+      "learn.actions.2.y Δ-2.000 (650.703125/652.703125)",
+      "learn.actions.2.w Δ76.828 (177.828125/101)",
+      "learn.actions.2.h Δ3.219 (20.21875/17)",
+      "learn.actions.3.y Δ-2.000 (595.1875/597.1875)",
+      "learn.actions.3.w Δ66.844 (177.84375/111)",
+      "learn.actions.3.h Δ3.219 (20.21875/17)",
+      "learn.actions.4.y Δ-2.016 (840.03125/842.046875)",
+      "learn.actions.4.w Δ49.828 (177.828125/128)",
+      "learn.actions.4.h Δ3.219 (20.21875/17)"
+    ]
+  },
+  {
+    "width": 768,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on\",\"cluster = LocalCluster(\",\"any resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"] != [\"Where you can run Dask\",\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on\",\"cluster = LocalCluster(\",\"any resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"]",
+      "deployment.panel.x Δ57.078 (57.078125/0)",
+      "deployment.panel.y Δ163.609 (163.609375/0)",
+      "deployment.panel.w Δ-114.156 (653.84375/768)",
+      "deployment.panel.h Δ-218.125 (320.40625/538.53125)",
+      "deployment.panel.lines lines [\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on\",\"cluster = LocalCluster(\",\"any resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"] != [\"Where you can run Dask\",\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on\",\"cluster = LocalCluster(\",\"any resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"]"
+    ]
+  },
+  {
+    "width": 768,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes,\",\"from coiled import Cluster\",\"or with an easy SaaS solution. Coiled is free for\",\"cluster = Cluster(\",\"individuals with modest use and easy for anyone with\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes,\",\"from coiled import Cluster\",\"or with an easy SaaS solution. Coiled is free for\",\"cluster = Cluster(\",\"individuals with modest use and easy for anyone with\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ57.078 (57.078125/0)",
+      "deployment.panel.y Δ163.609 (163.609375/0)",
+      "deployment.panel.w Δ-114.156 (653.84375/768)",
+      "deployment.panel.h Δ-218.125 (320.40625/538.53125)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes,\",\"from coiled import Cluster\",\"or with an easy SaaS solution. Coiled is free for\",\"cluster = Cluster(\",\"individuals with modest use and easy for anyone with\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes,\",\"from coiled import Cluster\",\"or with an easy SaaS solution. Coiled is free for\",\"cluster = Cluster(\",\"individuals with modest use and easy for anyone with\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 769,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.h Δ-1.188 (766.8125/768)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.panel.h Δ-1.078 (217.3125/218.390625)",
+      "explore.panel.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.card.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source projects that extend\",\"the Dask interface and provide different mechanisms for deploying Dask clusters.\"]",
+      "explore.arrows.0.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-2.063 (378.15625/380.21875)",
+      "learn.actions.0.w Δ77.047 (178.046875/101)",
+      "learn.actions.0.h Δ3.234 (20.234375/17)",
+      "learn.actions.1.y Δ-2.031 (382.453125/384.484375)",
+      "learn.actions.1.w Δ63.063 (178.0625/115)",
+      "learn.actions.1.h Δ3.234 (20.234375/17)",
+      "learn.actions.2.y Δ-2.047 (651.453125/653.5)",
+      "learn.actions.2.w Δ77.047 (178.046875/101)",
+      "learn.actions.2.h Δ3.234 (20.234375/17)",
+      "learn.actions.3.y Δ-2.063 (595.921875/597.984375)",
+      "learn.actions.3.w Δ67.063 (178.0625/111)",
+      "learn.actions.3.h Δ3.234 (20.234375/17)",
+      "learn.actions.4.y Δ-2.063 (841.015625/843.078125)",
+      "learn.actions.4.w Δ50.047 (178.046875/128)",
+      "learn.actions.4.h Δ3.234 (20.234375/17)"
+    ]
+  },
+  {
+    "width": 769,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.h Δ-1.188 (766.8125/768)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.panel.h Δ-1.078 (217.3125/218.390625)",
+      "explore.panel.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.card.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\"]",
+      "explore.arrows.0.x Δ1.922 (631.15625/629.234375)",
+      "explore.arrows.1.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-2.063 (378.15625/380.21875)",
+      "learn.actions.0.w Δ77.047 (178.046875/101)",
+      "learn.actions.0.h Δ3.234 (20.234375/17)",
+      "learn.actions.1.y Δ-2.031 (382.453125/384.484375)",
+      "learn.actions.1.w Δ63.063 (178.0625/115)",
+      "learn.actions.1.h Δ3.234 (20.234375/17)",
+      "learn.actions.2.y Δ-2.047 (651.453125/653.5)",
+      "learn.actions.2.w Δ77.047 (178.046875/101)",
+      "learn.actions.2.h Δ3.234 (20.234375/17)",
+      "learn.actions.3.y Δ-2.063 (595.921875/597.984375)",
+      "learn.actions.3.w Δ67.063 (178.0625/111)",
+      "learn.actions.3.h Δ3.234 (20.234375/17)",
+      "learn.actions.4.y Δ-2.063 (841.015625/843.078125)",
+      "learn.actions.4.w Δ50.047 (178.046875/128)",
+      "learn.actions.4.h Δ3.234 (20.234375/17)"
+    ]
+  },
+  {
+    "width": 769,
+    "state": "Examples",
+    "issues": [
+      "explore.section.h Δ-1.188 (766.8125/768)",
+      "explore.panel.h Δ-1.078 (217.3125/218.390625)",
+      "explore.arrows.0.x Δ3.844 (658.359375/654.515625)",
+      "learn.actions.0.y Δ-2.063 (378.15625/380.21875)",
+      "learn.actions.0.w Δ77.047 (178.046875/101)",
+      "learn.actions.0.h Δ3.234 (20.234375/17)",
+      "learn.actions.1.y Δ-2.031 (382.453125/384.484375)",
+      "learn.actions.1.w Δ63.063 (178.0625/115)",
+      "learn.actions.1.h Δ3.234 (20.234375/17)",
+      "learn.actions.2.y Δ-2.047 (651.453125/653.5)",
+      "learn.actions.2.w Δ77.047 (178.046875/101)",
+      "learn.actions.2.h Δ3.234 (20.234375/17)",
+      "learn.actions.3.y Δ-2.063 (595.921875/597.984375)",
+      "learn.actions.3.w Δ67.063 (178.0625/111)",
+      "learn.actions.3.h Δ3.234 (20.234375/17)",
+      "learn.actions.4.y Δ-2.063 (841.015625/843.078125)",
+      "learn.actions.4.w Δ50.047 (178.046875/128)",
+      "learn.actions.4.h Δ3.234 (20.234375/17)"
+    ]
+  },
+  {
+    "width": 769,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any\",\"cluster = LocalCluster(\",\"resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"] != [\"Where you can run Dask\",\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any\",\"cluster = LocalCluster(\",\"resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"]",
+      "deployment.panel.x Δ57.141 (57.140625/0)",
+      "deployment.panel.y Δ163.844 (163.84375/0)",
+      "deployment.panel.w Δ-114.297 (654.703125/769)",
+      "deployment.panel.h Δ-218.438 (320.8125/539.25)",
+      "deployment.panel.lines lines [\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any\",\"cluster = LocalCluster(\",\"resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"] != [\"Where you can run Dask\",\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any\",\"cluster = LocalCluster(\",\"resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"]"
+    ]
+  },
+  {
+    "width": 769,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes,\",\"from coiled import Cluster\",\"or with an easy SaaS solution. Coiled is free for\",\"cluster = Cluster(\",\"individuals with modest use and easy for anyone with\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes,\",\"from coiled import Cluster\",\"or with an easy SaaS solution. Coiled is free for\",\"cluster = Cluster(\",\"individuals with modest use and easy for anyone with\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ57.141 (57.140625/0)",
+      "deployment.panel.y Δ163.844 (163.84375/0)",
+      "deployment.panel.w Δ-114.297 (654.703125/769)",
+      "deployment.panel.h Δ-218.438 (320.8125/539.25)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes,\",\"from coiled import Cluster\",\"or with an easy SaaS solution. Coiled is free for\",\"cluster = Cluster(\",\"individuals with modest use and easy for anyone with\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source Kubernetes,\",\"from coiled import Cluster\",\"or with an easy SaaS solution. Coiled is free for\",\"cluster = Cluster(\",\"individuals with modest use and easy for anyone with\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 991,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.h Δ-1.469 (988.234375/989.703125)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects that extend the\",\"Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"right arrow\",\"Browse the ecosystem to learn more about the open source projects that extend the\",\"Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.panel.h Δ-1.391 (280.046875/281.4375)",
+      "explore.panel.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects that extend the\",\"Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Ecosystem\",\"right arrow\",\"Browse the ecosystem to learn more about the open source projects that extend the\",\"Dask interface and provide different mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.card.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects that extend the\",\"Dask interface and provide different mechanisms for deploying Dask clusters.\"] != [\"Ecosystem\",\"right arrow\",\"Browse the ecosystem to learn more about the open source projects that extend the\",\"Dask interface and provide different mechanisms for deploying Dask clusters.\"]",
+      "explore.arrows.0.lines lines [] != [\"right arrow\"]",
+      "learn.actions.0.y Δ-2.063 (487.359375/489.421875)",
+      "learn.actions.0.w Δ98.453 (229.453125/131)",
+      "learn.actions.0.h Δ4.078 (26.078125/22)",
+      "learn.actions.1.y Δ-2.031 (492.9375/494.96875)",
+      "learn.actions.1.w Δ78.469 (229.46875/151)",
+      "learn.actions.1.h Δ4.078 (26.078125/22)",
+      "learn.actions.2.y Δ-2.047 (839.625/841.671875)",
+      "learn.actions.2.w Δ97.453 (229.453125/132)",
+      "learn.actions.2.h Δ4.078 (26.078125/22)",
+      "learn.actions.3.y Δ-2.063 (768/770.0625)",
+      "learn.actions.3.w Δ86.469 (229.46875/143)",
+      "learn.actions.3.h Δ4.078 (26.078125/22)",
+      "learn.actions.4.y Δ-2.063 (1116.953125/1119.015625)",
+      "learn.actions.4.w Δ63.453 (229.453125/166)",
+      "learn.actions.4.h Δ4.078 (26.078125/22)"
+    ]
+  },
+  {
+    "width": 991,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.h Δ-1.469 (988.234375/989.703125)",
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"right arrow\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.panel.h Δ-1.391 (280.046875/281.4375)",
+      "explore.panel.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"] != [\"Case studies\",\"right arrow\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.card.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\"] != [\"Case studies\",\"right arrow\",\"Get inspired by learning how people are using Dask in the real world today, from\",\"biomedical research and earth science to financial services and urban engineering.\"]",
+      "explore.arrows.0.x Δ2.484 (813.34375/810.859375)",
+      "explore.arrows.1.lines lines [] != [\"right arrow\"]",
+      "learn.actions.0.y Δ-2.063 (487.359375/489.421875)",
+      "learn.actions.0.w Δ98.453 (229.453125/131)",
+      "learn.actions.0.h Δ4.078 (26.078125/22)",
+      "learn.actions.1.y Δ-2.031 (492.9375/494.96875)",
+      "learn.actions.1.w Δ78.469 (229.46875/151)",
+      "learn.actions.1.h Δ4.078 (26.078125/22)",
+      "learn.actions.2.y Δ-2.047 (839.625/841.671875)",
+      "learn.actions.2.w Δ97.453 (229.453125/132)",
+      "learn.actions.2.h Δ4.078 (26.078125/22)",
+      "learn.actions.3.y Δ-2.063 (768/770.0625)",
+      "learn.actions.3.w Δ86.469 (229.46875/143)",
+      "learn.actions.3.h Δ4.078 (26.078125/22)",
+      "learn.actions.4.y Δ-2.063 (1116.953125/1119.015625)",
+      "learn.actions.4.w Δ63.453 (229.453125/166)",
+      "learn.actions.4.h Δ4.078 (26.078125/22)"
+    ]
+  },
+  {
+    "width": 991,
+    "state": "Examples",
+    "issues": [
+      "explore.section.h Δ-1.469 (988.234375/989.703125)",
+      "explore.panel.h Δ-1.391 (280.046875/281.4375)",
+      "explore.arrows.0.x Δ4.953 (848.40625/843.453125)",
+      "learn.actions.0.y Δ-2.063 (487.359375/489.421875)",
+      "learn.actions.0.w Δ98.453 (229.453125/131)",
+      "learn.actions.0.h Δ4.078 (26.078125/22)",
+      "learn.actions.1.y Δ-2.031 (492.9375/494.96875)",
+      "learn.actions.1.w Δ78.469 (229.46875/151)",
+      "learn.actions.1.h Δ4.078 (26.078125/22)",
+      "learn.actions.2.y Δ-2.047 (839.625/841.671875)",
+      "learn.actions.2.w Δ97.453 (229.453125/132)",
+      "learn.actions.2.h Δ4.078 (26.078125/22)",
+      "learn.actions.3.y Δ-2.063 (768/770.0625)",
+      "learn.actions.3.w Δ86.469 (229.46875/143)",
+      "learn.actions.3.h Δ4.078 (26.078125/22)",
+      "learn.actions.4.y Δ-2.063 (1116.953125/1119.015625)",
+      "learn.actions.4.w Δ63.453 (229.453125/166)",
+      "learn.actions.4.h Δ4.078 (26.078125/22)"
+    ]
+  },
+  {
+    "width": 991,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on\",\"cluster = LocalCluster(\",\"any resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"] != [\"Where you can run Dask\",\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on\",\"cluster = LocalCluster(\",\"any resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"]",
+      "deployment.panel.x Δ73.641 (73.640625/0)",
+      "deployment.panel.y Δ211.984 (211.984375/0)",
+      "deployment.panel.w Δ-147.297 (843.703125/991)",
+      "deployment.panel.h Δ-282.328 (413.4375/695.765625)",
+      "deployment.panel.lines lines [\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on\",\"cluster = LocalCluster(\",\"any resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"] != [\"Where you can run Dask\",\"Open Source\",\"Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on\",\"cluster = LocalCluster(\",\"any resource manager like Kubernetes, an HPC job\",\"processes=False,\",\")\",\"schedulers, cloud SaaS services, or even legacy\",\"client = cluster.get_client()\",\"Hadoop/Spark clusters.\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"Documentation\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\",\"Dask deployment video\"]"
+    ]
+  },
+  {
+    "width": 991,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Managed Cloud\",\"Run Dask in the cloud with open source\",\"from coiled import Cluster\",\"Kubernetes, or with an easy SaaS solution. Coiled\",\"cluster = Cluster(\",\"is free for individuals with modest use and easy for\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"anyone with a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source\",\"from coiled import Cluster\",\"Kubernetes, or with an easy SaaS solution. Coiled\",\"cluster = Cluster(\",\"is free for individuals with modest use and easy for\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"anyone with a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ73.641 (73.640625/0)",
+      "deployment.panel.y Δ211.984 (211.984375/0)",
+      "deployment.panel.w Δ-147.297 (843.703125/991)",
+      "deployment.panel.h Δ-282.328 (413.4375/695.765625)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"Run Dask in the cloud with open source\",\"from coiled import Cluster\",\"Kubernetes, or with an easy SaaS solution. Coiled\",\"cluster = Cluster(\",\"is free for individuals with modest use and easy for\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"anyone with a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"Run Dask in the cloud with open source\",\"from coiled import Cluster\",\"Kubernetes, or with an easy SaaS solution. Coiled\",\"cluster = Cluster(\",\"is free for individuals with modest use and easy for\",\"n_workers=100, region=\\\"us-east-2\\\",\",\"anyone with a cloud account.\",\")\",\"client = cluster.get_client()\",\"Documentation\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"Video: Dask in the Cloud\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 992,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.panel.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.card.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"]",
+      "explore.arrows.0.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-1.016 (394.15625/395.171875)",
+      "learn.actions.0.w Δ84.172 (171.171875/87)",
+      "learn.actions.0.h Δ1.531 (16.53125/15)",
+      "learn.actions.1.y Δ-1.000 (394.171875/395.171875)",
+      "learn.actions.1.w Δ71.188 (171.1875/100)",
+      "learn.actions.1.h Δ1.531 (16.53125/15)",
+      "learn.actions.2.y Δ-1.000 (394.171875/395.171875)",
+      "learn.actions.2.w Δ84.188 (171.1875/87)",
+      "learn.actions.2.h Δ1.531 (16.53125/15)",
+      "learn.actions.3.y Δ-1.016 (614.65625/615.671875)",
+      "learn.actions.3.w Δ76.172 (171.171875/95)",
+      "learn.actions.3.h Δ1.531 (16.53125/15)",
+      "learn.actions.4.y Δ-1.000 (614.671875/615.671875)",
+      "learn.actions.4.w Δ62.188 (171.1875/109)",
+      "learn.actions.4.h Δ1.531 (16.53125/15)"
+    ]
+  },
+  {
+    "width": 992,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.panel.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.card.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"]",
+      "explore.arrows.0.x Δ3.625 (635.890625/632.265625)",
+      "explore.arrows.1.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-1.016 (394.15625/395.171875)",
+      "learn.actions.0.w Δ84.172 (171.171875/87)",
+      "learn.actions.0.h Δ1.531 (16.53125/15)",
+      "learn.actions.1.y Δ-1.000 (394.171875/395.171875)",
+      "learn.actions.1.w Δ71.188 (171.1875/100)",
+      "learn.actions.1.h Δ1.531 (16.53125/15)",
+      "learn.actions.2.y Δ-1.000 (394.171875/395.171875)",
+      "learn.actions.2.w Δ84.188 (171.1875/87)",
+      "learn.actions.2.h Δ1.531 (16.53125/15)",
+      "learn.actions.3.y Δ-1.016 (614.65625/615.671875)",
+      "learn.actions.3.w Δ76.172 (171.171875/95)",
+      "learn.actions.3.h Δ1.531 (16.53125/15)",
+      "learn.actions.4.y Δ-1.000 (614.671875/615.671875)",
+      "learn.actions.4.w Δ62.188 (171.1875/109)",
+      "learn.actions.4.h Δ1.531 (16.53125/15)"
+    ]
+  },
+  {
+    "width": 992,
+    "state": "Examples",
+    "issues": [
+      "explore.arrows.0.x Δ4.953 (657.875/652.921875)",
+      "learn.actions.0.y Δ-1.016 (394.15625/395.171875)",
+      "learn.actions.0.w Δ84.172 (171.171875/87)",
+      "learn.actions.0.h Δ1.531 (16.53125/15)",
+      "learn.actions.1.y Δ-1.000 (394.171875/395.171875)",
+      "learn.actions.1.w Δ71.188 (171.1875/100)",
+      "learn.actions.1.h Δ1.531 (16.53125/15)",
+      "learn.actions.2.y Δ-1.000 (394.171875/395.171875)",
+      "learn.actions.2.w Δ84.188 (171.1875/87)",
+      "learn.actions.2.h Δ1.531 (16.53125/15)",
+      "learn.actions.3.y Δ-1.016 (614.65625/615.671875)",
+      "learn.actions.3.w Δ76.172 (171.171875/95)",
+      "learn.actions.3.h Δ1.531 (16.53125/15)",
+      "learn.actions.4.y Δ-1.000 (614.671875/615.671875)",
+      "learn.actions.4.w Δ62.188 (171.1875/109)",
+      "learn.actions.4.h Δ1.531 (16.53125/15)"
+    ]
+  },
+  {
+    "width": 992,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"cluster = LocalCluster(\",\"or even legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"cluster = LocalCluster(\",\"or even legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ112.094 (112.09375/0)",
+      "deployment.panel.y Δ166.703 (166.703125/0)",
+      "deployment.panel.w Δ-224.203 (767.796875/992)",
+      "deployment.panel.h Δ-222.813 (272.109375/494.921875)",
+      "deployment.panel.lines lines [\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"cluster = LocalCluster(\",\"or even legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"cluster = LocalCluster(\",\"or even legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 992,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"cluster = Cluster(\",\"for anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"cluster = Cluster(\",\"for anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ112.094 (112.09375/0)",
+      "deployment.panel.y Δ166.703 (166.703125/0)",
+      "deployment.panel.w Δ-224.203 (767.796875/992)",
+      "deployment.panel.h Δ-222.813 (272.109375/494.921875)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"cluster = Cluster(\",\"for anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"cluster = Cluster(\",\"for anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 1100,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some resources\",\"to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects\",\"that extend the Dask interface and provide different mechanisms for\",\"deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some resources\",\"to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source projects\",\"that extend the Dask interface and provide different mechanisms for\",\"deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.panel.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects\",\"that extend the Dask interface and provide different mechanisms for\",\"deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source projects\",\"that extend the Dask interface and provide different mechanisms for\",\"deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.card.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source projects\",\"that extend the Dask interface and provide different mechanisms for\",\"deploying Dask clusters.\"] != [\"Ecosystem\",\"right\",\"arrow\",\"Browse the ecosystem to learn more about the open source projects\",\"that extend the Dask interface and provide different mechanisms for\",\"deploying Dask clusters.\"]",
+      "explore.arrows.0.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-0.984 (437.078125/438.0625)",
+      "learn.actions.0.w Δ95.813 (189.8125/94)",
+      "learn.actions.0.h Δ2.344 (18.34375/16)",
+      "learn.actions.1.y Δ-0.969 (437.09375/438.0625)",
+      "learn.actions.1.w Δ81.828 (189.828125/108)",
+      "learn.actions.1.h Δ2.344 (18.34375/16)",
+      "learn.actions.2.y Δ-0.969 (437.09375/438.0625)",
+      "learn.actions.2.w Δ92.828 (189.828125/97)",
+      "learn.actions.2.h Δ2.344 (18.34375/16)",
+      "learn.actions.3.y Δ-0.969 (681.59375/682.5625)",
+      "learn.actions.3.w Δ85.813 (189.8125/104)",
+      "learn.actions.3.h Δ2.344 (18.34375/16)",
+      "learn.actions.4.y Δ-0.953 (681.609375/682.5625)",
+      "learn.actions.4.w Δ70.828 (189.828125/119)",
+      "learn.actions.4.h Δ2.344 (18.34375/16)"
+    ]
+  },
+  {
+    "width": 1100,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some resources\",\"to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"Get inspired by learning how people are using Dask in the real world\",\"today, from biomedical research and earth science to financial\",\"services and urban engineering.\",\"Read real stories\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some resources\",\"to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real world\",\"today, from biomedical research and earth science to financial\",\"services and urban engineering.\",\"Read real stories\"]",
+      "explore.panel.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real world\",\"today, from biomedical research and earth science to financial\",\"services and urban engineering.\",\"Read real stories\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real world\",\"today, from biomedical research and earth science to financial\",\"services and urban engineering.\",\"Read real stories\"]",
+      "explore.card.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real world\",\"today, from biomedical research and earth science to financial\",\"services and urban engineering.\"] != [\"Case studies\",\"right\",\"arrow\",\"Get inspired by learning how people are using Dask in the real world\",\"today, from biomedical research and earth science to financial\",\"services and urban engineering.\"]",
+      "explore.arrows.0.x Δ4.016 (705.109375/701.09375)",
+      "explore.arrows.1.lines lines [] != [\"right\",\"arrow\"]",
+      "learn.actions.0.y Δ-0.984 (437.078125/438.0625)",
+      "learn.actions.0.w Δ95.813 (189.8125/94)",
+      "learn.actions.0.h Δ2.344 (18.34375/16)",
+      "learn.actions.1.y Δ-0.969 (437.09375/438.0625)",
+      "learn.actions.1.w Δ81.828 (189.828125/108)",
+      "learn.actions.1.h Δ2.344 (18.34375/16)",
+      "learn.actions.2.y Δ-0.969 (437.09375/438.0625)",
+      "learn.actions.2.w Δ92.828 (189.828125/97)",
+      "learn.actions.2.h Δ2.344 (18.34375/16)",
+      "learn.actions.3.y Δ-0.969 (681.59375/682.5625)",
+      "learn.actions.3.w Δ85.813 (189.8125/104)",
+      "learn.actions.3.h Δ2.344 (18.34375/16)",
+      "learn.actions.4.y Δ-0.953 (681.609375/682.5625)",
+      "learn.actions.4.w Δ70.828 (189.828125/119)",
+      "learn.actions.4.h Δ2.344 (18.34375/16)"
+    ]
+  },
+  {
+    "width": 1100,
+    "state": "Examples",
+    "issues": [
+      "explore.arrows.0.x Δ5.500 (729.5/724)",
+      "learn.actions.0.y Δ-0.984 (437.078125/438.0625)",
+      "learn.actions.0.w Δ95.813 (189.8125/94)",
+      "learn.actions.0.h Δ2.344 (18.34375/16)",
+      "learn.actions.1.y Δ-0.969 (437.09375/438.0625)",
+      "learn.actions.1.w Δ81.828 (189.828125/108)",
+      "learn.actions.1.h Δ2.344 (18.34375/16)",
+      "learn.actions.2.y Δ-0.969 (437.09375/438.0625)",
+      "learn.actions.2.w Δ92.828 (189.828125/97)",
+      "learn.actions.2.h Δ2.344 (18.34375/16)",
+      "learn.actions.3.y Δ-0.969 (681.59375/682.5625)",
+      "learn.actions.3.w Δ85.813 (189.8125/104)",
+      "learn.actions.3.h Δ2.344 (18.34375/16)",
+      "learn.actions.4.y Δ-0.953 (681.609375/682.5625)",
+      "learn.actions.4.w Δ70.828 (189.828125/119)",
+      "learn.actions.4.h Δ2.344 (18.34375/16)"
+    ]
+  },
+  {
+    "width": 1100,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"cluster = LocalCluster(\",\"legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"cluster = LocalCluster(\",\"legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ124.313 (124.3125/0)",
+      "deployment.panel.y Δ184.859 (184.859375/0)",
+      "deployment.panel.w Δ-248.625 (851.375/1100)",
+      "deployment.panel.h Δ-247.078 (301.734375/548.8125)",
+      "deployment.panel.lines lines [\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"cluster = LocalCluster(\",\"legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource manager\",\"like Kubernetes, an HPC job schedulers, cloud SaaS services, or even\",\"cluster = LocalCluster(\",\"legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 1100,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy for\",\"cluster = Cluster(\",\"anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy for\",\"cluster = Cluster(\",\"anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ124.313 (124.3125/0)",
+      "deployment.panel.y Δ184.859 (184.859375/0)",
+      "deployment.panel.w Δ-248.625 (851.375/1100)",
+      "deployment.panel.h Δ-247.078 (301.734375/548.8125)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy for\",\"cluster = Cluster(\",\"anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy for\",\"cluster = Cluster(\",\"anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "Ecosystem",
+    "issues": [
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Ecosystem\",\"right arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.panel.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"] != [\"Ecosystem\",\"right arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\",\"Browse the ecosystem\"]",
+      "explore.card.lines lines [\"Ecosystem\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"] != [\"Ecosystem\",\"right arrow\",\"Browse the ecosystem to learn more about the open source\",\"projects that extend the Dask interface and provide different\",\"mechanisms for deploying Dask clusters.\"]",
+      "explore.arrows.0.lines lines [] != [\"right arrow\"]",
+      "learn.actions.0.y Δ-2.000 (572.203125/574.203125)",
+      "learn.actions.0.w Δ124.484 (248.484375/124)",
+      "learn.actions.0.h Δ4.000 (24/20)",
+      "learn.actions.1.y Δ-2.000 (572.203125/574.203125)",
+      "learn.actions.1.w Δ108.484 (248.484375/140)",
+      "learn.actions.1.h Δ4.000 (24/20)",
+      "learn.actions.2.y Δ-2.000 (572.203125/574.203125)",
+      "learn.actions.2.w Δ123.484 (248.484375/125)",
+      "learn.actions.2.h Δ4.000 (24/20)",
+      "learn.actions.3.y Δ-1.984 (892.296875/894.28125)",
+      "learn.actions.3.w Δ111.484 (248.484375/137)",
+      "learn.actions.3.h Δ4.000 (24/20)",
+      "learn.actions.4.y Δ-1.984 (892.296875/894.28125)",
+      "learn.actions.4.w Δ92.484 (248.484375/156)",
+      "learn.actions.4.h Δ4.000 (24/20)"
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "Case studies",
+    "issues": [
+      "explore.section.lines lines [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Explore the Possibilities\",\"Dask is a versatile tool that supports a variety of workloads. Here are some\",\"resources to help you explore your options and see what’s possible.\",\"EcosystemCase studiesExamples\",\"Case studies\",\"right arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.panel.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"] != [\"Case studies\",\"right arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\",\"Read real stories\"]",
+      "explore.card.lines lines [\"Case studies\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"] != [\"Case studies\",\"right arrow\",\"Get inspired by learning how people are using Dask in the real\",\"world today, from biomedical research and earth science to\",\"financial services and urban engineering.\"]",
+      "explore.arrows.0.x Δ5.250 (923.0625/917.8125)",
+      "explore.arrows.1.lines lines [] != [\"right arrow\"]",
+      "learn.actions.0.y Δ-2.000 (572.203125/574.203125)",
+      "learn.actions.0.w Δ124.484 (248.484375/124)",
+      "learn.actions.0.h Δ4.000 (24/20)",
+      "learn.actions.1.y Δ-2.000 (572.203125/574.203125)",
+      "learn.actions.1.w Δ108.484 (248.484375/140)",
+      "learn.actions.1.h Δ4.000 (24/20)",
+      "learn.actions.2.y Δ-2.000 (572.203125/574.203125)",
+      "learn.actions.2.w Δ123.484 (248.484375/125)",
+      "learn.actions.2.h Δ4.000 (24/20)",
+      "learn.actions.3.y Δ-1.984 (892.296875/894.28125)",
+      "learn.actions.3.w Δ111.484 (248.484375/137)",
+      "learn.actions.3.h Δ4.000 (24/20)",
+      "learn.actions.4.y Δ-1.984 (892.296875/894.28125)",
+      "learn.actions.4.w Δ92.484 (248.484375/156)",
+      "learn.actions.4.h Δ4.000 (24/20)"
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "Examples",
+    "issues": [
+      "explore.arrows.0.x Δ7.188 (954.984375/947.796875)",
+      "learn.actions.0.y Δ-2.000 (572.203125/574.203125)",
+      "learn.actions.0.w Δ124.484 (248.484375/124)",
+      "learn.actions.0.h Δ4.000 (24/20)",
+      "learn.actions.1.y Δ-2.000 (572.203125/574.203125)",
+      "learn.actions.1.w Δ108.484 (248.484375/140)",
+      "learn.actions.1.h Δ4.000 (24/20)",
+      "learn.actions.2.y Δ-2.000 (572.203125/574.203125)",
+      "learn.actions.2.w Δ123.484 (248.484375/125)",
+      "learn.actions.2.h Δ4.000 (24/20)",
+      "learn.actions.3.y Δ-1.984 (892.296875/894.28125)",
+      "learn.actions.3.w Δ111.484 (248.484375/137)",
+      "learn.actions.3.h Δ4.000 (24/20)",
+      "learn.actions.4.y Δ-1.984 (892.296875/894.28125)",
+      "learn.actions.4.w Δ92.484 (248.484375/156)",
+      "learn.actions.4.h Δ4.000 (24/20)"
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "Open Source Deployment",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"cluster = LocalCluster(\",\"or even legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"cluster = LocalCluster(\",\"or even legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ162.719 (162.71875/0)",
+      "deployment.panel.y Δ242.000 (242/0)",
+      "deployment.panel.w Δ-325.453 (1114.546875/1440)",
+      "deployment.panel.h Δ-323.438 (395.03125/718.46875)",
+      "deployment.panel.lines lines [\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"cluster = LocalCluster(\",\"or even legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Open Source Deployment\",\"from dask.distributed import LocalCluster\",\"Run Dask on your laptop (it’s trivial) or deploy it on any resource\",\"manager like Kubernetes, an HPC job schedulers, cloud SaaS services,\",\"cluster = LocalCluster(\",\"or even legacy Hadoop/Spark clusters.\",\"processes=False,\",\")\",\"client = cluster.get_client()\",\"DocumentationDask deployment video\",\"# Use Dask locally\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"/path/to/data.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  },
+  {
+    "width": 1440,
+    "state": "Managed Cloud",
+    "issues": [
+      "deployment.section.lines lines [\"Where you can run Dask\",\"Open Source DeploymentManaged Cloud\",\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"cluster = Cluster(\",\"for anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"cluster = Cluster(\",\"for anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]",
+      "deployment.panel.x Δ162.719 (162.71875/0)",
+      "deployment.panel.y Δ242.000 (242/0)",
+      "deployment.panel.w Δ-325.453 (1114.546875/1440)",
+      "deployment.panel.h Δ-323.438 (395.03125/718.46875)",
+      "deployment.panel.lines lines [\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"cluster = Cluster(\",\"for anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"] != [\"Where you can run Dask\",\"Managed Cloud\",\"from coiled import Cluster\",\"Run Dask in the cloud with open source Kubernetes, or with an easy\",\"SaaS solution. Coiled is free for individuals with modest use and easy\",\"cluster = Cluster(\",\"for anyone with a cloud account.\",\"n_workers=100, region=\\\"us-east-2\\\",\",\")\",\"client = cluster.get_client()\",\"DocumentationVideo: Dask in the Cloud\",\"# Use Dask on the cloud\",\"import dask.dataframe as dd\",\"df = dd.read_parquet(\\\"s3://data.*.parquet\\\")\",\"df.value.mean().compute()\"]"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+
+> build
+> astro build
+
+20:16:23 [types] Generated 45ms
+20:16:23 [build] output: "static"
+20:16:23 [build] mode: "static"
+20:16:23 [build] directory: /home/jtomlinson-bot/.openclaw/worktrees/2ffba5b32dd7ecf7/dask-org-astro-developer/dist/
+20:16:23 [build] Collecting build info...
+20:16:23 [build] ✓ Completed in 81ms.
+20:16:23 [build] Building static entrypoints...
+20:16:23 [vite] ✓ built in 199ms
+20:16:23 [vite] ✓ built in 41ms
+20:16:24 [build] Rearranging server assets...
+
+ generating static routes
+20:16:24   ├─ /404.html (+9ms)
+20:16:24   ├─ /brand-guide/index.html (+4ms)
+20:16:24   ├─ /get-help/index.html (+2ms)
+20:16:24   ├─ /get-started/index.html (+3ms)
+20:16:24   ├─ /powered-by/index.html (+3ms)
+20:16:24   ├─ /press-mentions/index.html (+3ms)
+20:16:24   ├─ /index.html (+7ms)
+20:16:24 ✓ Completed in 43ms.
+
+20:16:24 [build] ✓ Completed in 372ms.
+20:16:24 [build] 7 page(s) built in 461ms
+20:16:24 [build] Complete!

@@ -1,6 +1,7 @@
 ---
 import Site from '../layouts/Site.astro';
 import '../styles/home.css';
+import '../styles/deployment.css';
 import '../styles/organizations.css';
 import '../styles/closing.css';
 import '../styles/cases.css';
@@ -131,7 +132,7 @@ import cases from '../data/cases.json';
   </section>
   <section class="deployment dark-grid">
     <h2 class="boxed">Where you can run Dask</h2>
-    <div data-tabs>
+    <div class="deployment-tabs" data-tabs>
       <div class="tablist" role="tablist" aria-label="Where to run Dask">
         {deployments.map((d, i) => (
           <button
@@ -141,7 +142,12 @@ import cases from '../data/cases.json';
             aria-controls={`deploy-${i}`}
             tabindex={i === 0 ? 0 : -1}
           >
-            {d.title}
+            <span>{d.title}</span>
+            {i === 0 && (
+              <span class="deployment-switch" aria-hidden="true">
+                <i />
+              </span>
+            )}
           </button>
         ))}
       </div>

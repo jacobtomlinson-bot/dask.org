@@ -9,9 +9,11 @@ import press from '../data/press.json';
   <Hero title="Press Mentions" />
   <section class="press-section light-grid">
     <aside class="press-aside">
-      <button data-dialog="press">
-        <span>Add a press mention</span>
-      </button>
+      <div class="press-action">
+        <button data-dialog="press">
+          <span>Add a press mention</span>
+        </button>
+      </div>
     </aside>
     <div class="press-list">
       {press.map((item) => (

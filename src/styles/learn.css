@@ -4,6 +4,9 @@
   background-color: #f6f6f6;
   padding: 5.125rem 5.1582rem 5.03027rem calc(5.625vw + 20.25rem);
 }
+.learn-content {
+  display: contents;
+}
 .learn-intro {
   position: relative;
   isolation: isolate;
@@ -261,7 +264,7 @@
 
 @media (min-width: 480px) and (max-width: 767px) {
   .learn-section {
-    display: block;
+    display: grid;
     padding: 4.2755rem 7.54vw 4.0716rem;
   }
   .learn-intro {
@@ -296,34 +299,43 @@
   .learn-card h3 {
     line-height: 1.82rem;
   }
+  .learn-content,
   .learn-artwork {
-    position: absolute;
-    inset: 0;
-    margin: 0;
+    grid-area: 1 / 1;
+  }
+  .learn-content {
     display: block;
+  }
+  /* The artwork is an in-flow overlapping media track, not an absolute
+     decoration outside the section. Its intrinsic images reserve the tail. */
+  .learn-artwork {
+    position: relative;
+    inset: auto;
+    left: auto;
+    margin: 0 0 0 -7.54vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     width: auto;
     height: auto;
     min-height: 0;
+    padding-top: calc(48.114rem - 4.2755rem);
   }
   .learn-artwork .learn-art-top {
-    position: absolute;
-    margin: 0;
-    left: -0.01095rem;
-    top: 48.114rem;
+    position: static;
+    margin: 0 0 0 -0.01095rem;
     width: 6.3988rem;
     height: 4.21rem;
   }
   .learn-artwork .learn-art {
-    position: absolute;
-    left: -0.4782rem;
-    top: 52.261rem;
-    margin: 0;
+    position: static;
+    margin: -0.063rem 0 0 -0.4782rem;
     width: 22.463rem;
     height: 35.754rem;
   }
   .learn-art-bottom {
     left: 28.101rem;
-    top: 79.92rem;
+    top: calc(79.92rem - 4.2755rem);
     width: 10.4626rem;
     height: 7.955rem;
   }

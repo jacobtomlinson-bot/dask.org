@@ -44,15 +44,15 @@ document.querySelectorAll<HTMLElement>('[data-tabs]').forEach((group) => {
     });
   }
   group
-    .querySelectorAll('.next-tab')
+    .querySelectorAll<HTMLButtonElement>('[data-select-tab]')
     .forEach((button) =>
-      button.addEventListener('click', () =>
-        select(
-          (tabs.findIndex((t) => t.getAttribute('aria-selected') === 'true') +
-            1) %
-            tabs.length,
-        ),
-      ),
+      button.addEventListener('click', () => {
+        const index = Number(button.dataset.selectTab);
+        if (Number.isInteger(index) && index >= 0 && index < tabs.length) {
+          select(index);
+          tabs[index].focus({ preventScroll: true });
+        }
+      }),
     );
   tabs.forEach((tab, index) => {
     tab.addEventListener('click', () => select(index));

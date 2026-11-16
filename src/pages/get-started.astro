@@ -2,6 +2,7 @@
 import Site from '../layouts/Site.astro';
 import '../styles/get-started.css';
 import '../styles/learn.css';
+import '../styles/explore.css';
 import Icon from '../components/Icon.astro';
 import Hero from '../components/Hero.astro';
 import Support from '../components/Support.astro';
@@ -51,31 +52,35 @@ import { asset, learn, explore, deeper, docs } from '../data/site';
         alt=""
       />
     </div>
-    <div class="learn-intro">
-      <h2>Learn Your Way Around</h2>
-      <p class="intro">
-        Do you have a few minutes – or a few hours? Either way, we’ve got you
-        covered.
-      </p>
-    </div>
-    <div class="learn-grid">
-      {learn.map(([title, text, label, href]) => (
-        <a href={href} class="learn-card">
-          <div class="learn-copy">
-            <h3>{title}</h3>
-            <p>{text}</p>
-          </div>
-          <span class="text-link">{label}</span>
-        </a>
-      ))}
+    <div class="learn-content">
+      <div class="learn-intro">
+        <h2>Learn Your Way Around</h2>
+        <p class="intro">
+          Do you have a few minutes – or a few hours? Either way, we’ve got you
+          covered.
+        </p>
+      </div>
+      <div class="learn-grid">
+        {learn.map(([title, text, label, href]) => (
+          <a href={href} class="learn-card">
+            <div class="learn-copy">
+              <h3>{title}</h3>
+              <p>{text}</p>
+            </div>
+            <span class="text-link">{label}</span>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
   <section class="explore-section light-grid large-grid">
-    <h2>Explore the Possibilities</h2>
-    <p>
-      Dask is a versatile tool that supports a variety of workloads. Here are
-      some resources to help you explore your options and see what’s possible.
-    </p>
+    <div class="explore-intro">
+      <h2>Explore the Possibilities</h2>
+      <p>
+        Dask is a versatile tool that supports a variety of workloads. Here are
+        some resources to help you explore your options and see what’s possible.
+      </p>
+    </div>
     <div class="explore-tabs" data-tabs>
       <div class="tablist" role="tablist" aria-label="Explore Dask">
         {explore.map(([title, text, label, href, icon], i) => (
@@ -89,7 +94,8 @@ import { asset, learn, explore, deeper, docs } from '../data/site';
             <span class="tab-icon" aria-hidden="true">
               <Icon name={['ecosystem', 'stories', 'examples'][i]} />
             </span>
-            {title}
+            <span class="explore-label">{title}</span>
+            {i < 2 && <span class="explore-connector" aria-hidden="true" />}
           </button>
         ))}
       </div>
@@ -104,9 +110,28 @@ import { asset, learn, explore, deeper, docs } from '../data/site';
           <div class="explore-card">
             <h3>{title}</h3>
             <p>{text}</p>
-            <button class="next-tab" aria-label="Next exploration">
-              ›
-            </button>
+            <div class="explore-arrows">
+              {i > 0 && (
+                <button
+                  data-select-tab={i - 1}
+                  aria-label={`Previous exploration: ${explore[i - 1][0]}`}
+                >
+                  <svg viewBox="0 0 30 16" aria-hidden="true">
+                    <path d="M20 2l-6 6 6 6" />
+                  </svg>
+                </button>
+              )}
+              {i < explore.length - 1 && (
+                <button
+                  data-select-tab={i + 1}
+                  aria-label={`Next exploration: ${explore[i + 1][0]}`}
+                >
+                  <svg viewBox="0 0 30 16" aria-hidden="true">
+                    <path d="M10 2l6 6-6 6" />
+                  </svg>
+                </button>
+              )}
+            </div>
           </div>
           <a class="button" href={href}>
             {label}
@@ -124,7 +149,9 @@ import { asset, learn, explore, deeper, docs } from '../data/site';
     <img src={asset('illustration-home-stay-connected.svg')} alt="" />
     <div class="deeper-links">
       {deeper.map(([label, href]) => (
-        <a href={href}>{label}</a>
+        <div>
+          <a href={href}>{label}</a>
+        </div>
       ))}
     </div>
   </section>

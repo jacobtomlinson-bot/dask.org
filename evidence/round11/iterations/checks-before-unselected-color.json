@@ -1,0 +1,746 @@
+{
+  "passed": 156,
+  "failed": 22,
+  "arrays": 572,
+  "maxima": {
+    "learn": 0.5625,
+    "explore": 0.09375,
+    "deployment": 0.140625
+  },
+  "results": [
+    {
+      "name": "390 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "390 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "390 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "390: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "390 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "390 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "390 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "390 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "390 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "390 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "390 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "390 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "390 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "390 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "479 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "479 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "479 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "479: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "479 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "479 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "479 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "479 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "479 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "479 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "479 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "479 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "479 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "479 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "480 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "480 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "480 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "480: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "480 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "480 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "480 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "480 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "480 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "480 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "480 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "480 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "480 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "480 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "601 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "601 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "601 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "601: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "601 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "601 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "601 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "601 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "601 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "601 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "601 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "601 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "601 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "601 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "767 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "767 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "767 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "767: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "767 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "767 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "767 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "767 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "767 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "767 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "767 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "767 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "767 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "767 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "768 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "768 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "768 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "768: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "768 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "768 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "768 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "768 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "768 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "768 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "768 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "768 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "768 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "768 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "769 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "769 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "769 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "769: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "769 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "769 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "769 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "769 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "769 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "769 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "769 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "769 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "769 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "769 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "991 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "991 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "991 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "991: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "991 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "991 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "991 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "991 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "991 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "991 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "991 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "991 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "991 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "991 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "992 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "992 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "992 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "992: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "992 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "992 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "992 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "992 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "992 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "992 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "992 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "992 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "992 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "992 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "1100 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "1100 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "1100 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "1100: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "1100 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "1100 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "1100 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "1100 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "1100 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "1100 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "1100 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "1100 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "1100 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "1100 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "1440 Ecosystem: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "1440 Ecosystem: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "1440 Ecosystem: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "1440: Learn contains all three illustrations and preserves all five tutorials",
+      "passed": true
+    },
+    {
+      "name": "1440 Case studies: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "1440 Case studies: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "1440 Case studies: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "1440 Examples: Explore intro/card lines, tracks and intrinsic actions",
+      "passed": true
+    },
+    {
+      "name": "1440 Examples: all disks, icons, labels, connector segments and both arrow slots",
+      "passed": true
+    },
+    {
+      "name": "1440 Examples: no section-height concealment",
+      "passed": true
+    },
+    {
+      "name": "1440 Open Source Deployment: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 1 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "1440 Open Source Deployment: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "1440 Managed Cloud: deployment type, action destinations and selector geometry",
+      "passed": false,
+      "error": "AssertionError [ERR_ASSERTION]: control label 0 actual color\n+ actual - expected\n\n+ 'rgb(170, 170, 170)'\n- 'rgb(173, 173, 173)'\n         ^\n"
+    },
+    {
+      "name": "1440 Managed Cloud: intrinsic logo art and terminal frame/bar/dots/code insets",
+      "passed": true
+    },
+    {
+      "name": "390 get-started: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "390 powered-by: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "390 press-mentions: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "601 get-started: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "601 powered-by: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "601 press-mentions: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "768 get-started: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "768 powered-by: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "768 press-mentions: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "991 get-started: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "991 powered-by: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "991 press-mentions: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "992 get-started: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "992 powered-by: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "992 press-mentions: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "1440 get-started: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "1440 powered-by: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "1440 press-mentions: ancillary type, weights and actual action underline",
+      "passed": true
+    },
+    {
+      "name": "390: four bounded arrows, no endpoint wrap, keyboard and retained focus",
+      "passed": true
+    },
+    {
+      "name": "390: deployment stateful switch/phone tabs and keyboard",
+      "passed": true
+    },
+    {
+      "name": "768: four bounded arrows, no endpoint wrap, keyboard and retained focus",
+      "passed": true
+    },
+    {
+      "name": "768: deployment stateful switch/phone tabs and keyboard",
+      "passed": true
+    },
+    {
+      "name": "1440: four bounded arrows, no endpoint wrap, keyboard and retained focus",
+      "passed": true
+    },
+    {
+      "name": "1440: deployment stateful switch/phone tabs and keyboard",
+      "passed": true
+    }
+  ]
+}

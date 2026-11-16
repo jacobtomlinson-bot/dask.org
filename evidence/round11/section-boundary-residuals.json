@@ -1,0 +1,266 @@
+[
+  {
+    "width": 390,
+    "state": "Ecosystem",
+    "learnSection": -0.046875,
+    "exploreIntrinsicBoundary": 1.53125,
+    "originalSliderPane": 325.25,
+    "nativeIntrinsicPane": 326.765625
+  },
+  {
+    "width": 390,
+    "state": "Case studies",
+    "learnSection": -0.046875,
+    "exploreIntrinsicBoundary": 1.53125,
+    "originalSliderPane": 325.25,
+    "nativeIntrinsicPane": 326.765625
+  },
+  {
+    "width": 390,
+    "state": "Examples",
+    "learnSection": -0.046875,
+    "exploreIntrinsicBoundary": 1.53125,
+    "originalSliderPane": 325.25,
+    "nativeIntrinsicPane": 326.765625
+  },
+  {
+    "width": 479,
+    "state": "Ecosystem",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 1.875,
+    "originalSliderPane": 399.484375,
+    "nativeIntrinsicPane": 401.34375
+  },
+  {
+    "width": 479,
+    "state": "Case studies",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 1.875,
+    "originalSliderPane": 399.484375,
+    "nativeIntrinsicPane": 401.34375
+  },
+  {
+    "width": 479,
+    "state": "Examples",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 1.875,
+    "originalSliderPane": 399.484375,
+    "nativeIntrinsicPane": 401.34375
+  },
+  {
+    "width": 480,
+    "state": "Ecosystem",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 1.390625,
+    "originalSliderPane": 163.1875,
+    "nativeIntrinsicPane": 164.953125
+  },
+  {
+    "width": 480,
+    "state": "Case studies",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 1.390625,
+    "originalSliderPane": 163.1875,
+    "nativeIntrinsicPane": 164.953125
+  },
+  {
+    "width": 480,
+    "state": "Examples",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 1.390625,
+    "originalSliderPane": 163.1875,
+    "nativeIntrinsicPane": 164.953125
+  },
+  {
+    "width": 601,
+    "state": "Ecosystem",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 1.6875,
+    "originalSliderPane": 204.328125,
+    "nativeIntrinsicPane": 206.53125
+  },
+  {
+    "width": 601,
+    "state": "Case studies",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 1.6875,
+    "originalSliderPane": 204.328125,
+    "nativeIntrinsicPane": 206.53125
+  },
+  {
+    "width": 601,
+    "state": "Examples",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 1.6875,
+    "originalSliderPane": 204.328125,
+    "nativeIntrinsicPane": 206.53125
+  },
+  {
+    "width": 767,
+    "state": "Ecosystem",
+    "learnSection": -0.21875,
+    "exploreIntrinsicBoundary": 2.15625,
+    "originalSliderPane": 260.765625,
+    "nativeIntrinsicPane": 263.578125
+  },
+  {
+    "width": 767,
+    "state": "Case studies",
+    "learnSection": -0.21875,
+    "exploreIntrinsicBoundary": 2.15625,
+    "originalSliderPane": 260.765625,
+    "nativeIntrinsicPane": 263.578125
+  },
+  {
+    "width": 767,
+    "state": "Examples",
+    "learnSection": -0.21875,
+    "exploreIntrinsicBoundary": 2.15625,
+    "originalSliderPane": 260.765625,
+    "nativeIntrinsicPane": 263.578125
+  },
+  {
+    "width": 768,
+    "state": "Ecosystem",
+    "learnSection": -0.046875,
+    "exploreIntrinsicBoundary": -1.140625,
+    "originalSliderPane": 218.109375,
+    "nativeIntrinsicPane": 217.03125
+  },
+  {
+    "width": 768,
+    "state": "Case studies",
+    "learnSection": -0.046875,
+    "exploreIntrinsicBoundary": -1.140625,
+    "originalSliderPane": 218.109375,
+    "nativeIntrinsicPane": 217.03125
+  },
+  {
+    "width": 768,
+    "state": "Examples",
+    "learnSection": -0.046875,
+    "exploreIntrinsicBoundary": -1.140625,
+    "originalSliderPane": 218.109375,
+    "nativeIntrinsicPane": 217.03125
+  },
+  {
+    "width": 769,
+    "state": "Ecosystem",
+    "learnSection": -0.125,
+    "exploreIntrinsicBoundary": -1.1875,
+    "originalSliderPane": 218.390625,
+    "nativeIntrinsicPane": 217.3125
+  },
+  {
+    "width": 769,
+    "state": "Case studies",
+    "learnSection": -0.125,
+    "exploreIntrinsicBoundary": -1.1875,
+    "originalSliderPane": 218.390625,
+    "nativeIntrinsicPane": 217.3125
+  },
+  {
+    "width": 769,
+    "state": "Examples",
+    "learnSection": -0.125,
+    "exploreIntrinsicBoundary": -1.1875,
+    "originalSliderPane": 218.390625,
+    "nativeIntrinsicPane": 217.3125
+  },
+  {
+    "width": 991,
+    "state": "Ecosystem",
+    "learnSection": -0.109375,
+    "exploreIntrinsicBoundary": -1.46875,
+    "originalSliderPane": 281.4375,
+    "nativeIntrinsicPane": 280.046875
+  },
+  {
+    "width": 991,
+    "state": "Case studies",
+    "learnSection": -0.109375,
+    "exploreIntrinsicBoundary": -1.46875,
+    "originalSliderPane": 281.4375,
+    "nativeIntrinsicPane": 280.046875
+  },
+  {
+    "width": 991,
+    "state": "Examples",
+    "learnSection": -0.109375,
+    "exploreIntrinsicBoundary": -1.46875,
+    "originalSliderPane": 281.4375,
+    "nativeIntrinsicPane": 280.046875
+  },
+  {
+    "width": 992,
+    "state": "Ecosystem",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 0.375,
+    "originalSliderPane": 218.234375,
+    "nativeIntrinsicPane": 218.609375
+  },
+  {
+    "width": 992,
+    "state": "Case studies",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 0.375,
+    "originalSliderPane": 218.234375,
+    "nativeIntrinsicPane": 218.609375
+  },
+  {
+    "width": 992,
+    "state": "Examples",
+    "learnSection": -0.015625,
+    "exploreIntrinsicBoundary": 0.375,
+    "originalSliderPane": 218.234375,
+    "nativeIntrinsicPane": 218.609375
+  },
+  {
+    "width": 1100,
+    "state": "Ecosystem",
+    "learnSection": 0.015625,
+    "exploreIntrinsicBoundary": 0.46875,
+    "originalSliderPane": 242,
+    "nativeIntrinsicPane": 242.4375
+  },
+  {
+    "width": 1100,
+    "state": "Case studies",
+    "learnSection": 0.015625,
+    "exploreIntrinsicBoundary": 0.46875,
+    "originalSliderPane": 242,
+    "nativeIntrinsicPane": 242.4375
+  },
+  {
+    "width": 1100,
+    "state": "Examples",
+    "learnSection": 0.015625,
+    "exploreIntrinsicBoundary": 0.46875,
+    "originalSliderPane": 242,
+    "nativeIntrinsicPane": 242.4375
+  },
+  {
+    "width": 1440,
+    "state": "Ecosystem",
+    "learnSection": 0,
+    "exploreIntrinsicBoundary": 0.5625,
+    "originalSliderPane": 316.796875,
+    "nativeIntrinsicPane": 317.359375
+  },
+  {
+    "width": 1440,
+    "state": "Case studies",
+    "learnSection": 0,
+    "exploreIntrinsicBoundary": 0.5625,
+    "originalSliderPane": 316.796875,
+    "nativeIntrinsicPane": 317.359375
+  },
+  {
+    "width": 1440,
+    "state": "Examples",
+    "learnSection": 0,
+    "exploreIntrinsicBoundary": 0.5625,
+    "originalSliderPane": 316.796875,
+    "nativeIntrinsicPane": 317.359375
+  }
+]

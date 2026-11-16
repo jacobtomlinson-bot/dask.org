@@ -203,3 +203,40 @@ the same independent tester before integration. Forms remain truthful local
 “Not sent” flows; unresolved redirects remain pending, not guessed.
 
 Round10 frozen verification: **72 outer groups, 193 focused groups, 673 exact text-line arrays; zero failures**. See the review report for bounded geometry errors and remaining differences.
+
+## Round11: Learn flow, Explore states and deployment
+
+Current review evidence is in `evidence/round11/` and `evidence/REVIEW.md`.
+Landscape Learn now has an in-flow overlapping illustration track: the images
+reserve their real extent before Explore. Explore owns its intro, intrinsic
+cards, circular tabs, segmented connectors and bounded previous/next actions in
+`explore.css`. Deployment has separate selector, logo and terminal ownership in
+`deployment.css`; the existing workload banks are not restyled. Its switch is
+native CSS, state-driven by the semantic tabs. Phone logo rows preserve artwork
+ratios and the original flex behavior rather than equal-width logo caps.
+
+```sh
+npm run build
+npm run preview -- --port 4321
+# In another terminal (references are GET/HEAD-only):
+REFERENCE=1 CAPTURES=1 node scripts/round11-probe.mjs
+REFERENCE=1 node scripts/round11-ancillary.mjs
+CAPTURES=1 node scripts/round11-probe.mjs
+node scripts/round11-checks.mjs
+npm test
+npm run format:check
+npm audit
+EVIDENCE_DIR=evidence/round11 WIDTHS=390,768,1440 node scripts/round6-capture.mjs
+EVIDENCE_DIR=evidence/round11 node scripts/round6-compare.mjs
+node scripts/round11-gallery.mjs
+```
+
+`states.html` contains all55 selected-state pairs across11 widths. `gallery.html`
+contains the18 canonical route pairs. Assertions compare actual copy lines,
+fonts, element/ink rectangles, Learn's section boundary, every logo, controls,
+arrows, action destinations and keyboard states. An original fixed slider-pane
+viewport is not recreated as a fixed native section height: intrinsic action
+flow can leave a small1–3px boundary difference, documented in the report.
+No exact-equivalence or cross-browser certification is implied.
+
+Round11 frozen verification: **73 outer groups, 178 focused groups, 627 exact text-line arrays; zero failures**. Build, formatting and audit passed (0 vulnerabilities).

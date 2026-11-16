@@ -6,18 +6,36 @@
   gap: 0;
 }
 .press-aside {
-  padding: 1.5rem 2.75rem;
+  padding: 0;
+}
+.press-action {
+  position: sticky;
+  top: 0;
+  width: 19.56543rem;
+  max-width: calc(100% - 0.25rem);
+  min-block-size: 4.805664rem;
+  margin: 0.1251rem 0 0 0.25rem;
+  padding: 0 1.5003rem 0 1.5093rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
 }
 .press-aside button {
+  display: block;
+  width: max-content;
+  max-width: 100%;
   border: 0;
   background: none;
-  padding: 0;
+  padding: 0.7497rem 0.9999rem;
+  font-size: 0.9999rem;
+  line-height: 1.49985rem;
+  font-weight: 400;
+  text-decoration: none;
+}
+.press-aside button span {
+  border-bottom: 1px solid var(--yellow);
   font-weight: 600;
-  text-decoration: underline;
-  text-decoration-color: var(--yellow);
-  text-underline-offset: 0.25rem;
-  position: sticky;
-  top: 1.875rem;
 }
 .press-list {
   /* Trailing reading gutter is distinct from the symmetric section inset. */
@@ -75,11 +93,21 @@
   .press-list {
     padding-bottom: 0.48rem;
   }
-  .press-aside {
-    padding: 1.25rem 1.375rem 0;
+  .press-action {
+    width: 9.80273rem;
+    min-block-size: 6.43164rem;
+    margin: 0.066406rem 0 0 0.1709rem;
+    padding: 0 0.80016rem 0 0.80496rem;
   }
   .press-aside button {
-    font-size: 0.842187rem;
+    font-size: 0.94752rem;
+    line-height: 0.94752rem;
+    width: 8.19824rem;
+    padding: 0.39984rem 0.53328rem;
+    text-align: center;
+  }
+  .press-aside button span {
+    display: block;
   }
   .press-card {
     padding: 1.26336rem 2.10528rem;
@@ -108,6 +136,9 @@
     display: block;
     padding: 5.3625rem 7.6vw 5.11875rem;
   }
+  .press-action {
+    display: contents;
+  }
   .press-list {
     padding-bottom: 0;
   }
@@ -118,7 +149,8 @@
   .press-aside button {
     display: inline-flex;
     padding: 0.20304rem 0.27081rem;
-    font-size: 1.04rem;
+    font-size: 1.04008rem;
+    line-height: 1.56rem;
     text-decoration: none;
   }
   .press-aside button span {
@@ -161,10 +193,11 @@
     padding: 4.16rem 7.26vw 6rem;
   }
   .press-aside {
-    padding: 1.56rem 0 4.89rem;
+    padding: 0.777rem 0 4.89rem;
   }
   .press-aside button {
-    padding: 0;
+    padding: 0.39rem 0.52rem;
+    font-size: 1.04rem;
   }
   .press-card {
     width: 99.433%;

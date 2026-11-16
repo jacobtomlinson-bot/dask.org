@@ -1,0 +1,730 @@
+[
+  {
+    "width": 320,
+    "state": "Open Source Deployment",
+    "nodes": [
+      {
+        "c": "grid home-tab",
+        "y": 590.140625,
+        "h": 602.265625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-end",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "0px",
+          "minHeight": "0px",
+          "height": "602.266px",
+          "gridTemplateRows": "auto",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "home-tab-content run-dask",
+        "y": 590.828125,
+        "h": 339.1875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "flex": "0 1 auto",
+          "margin": "0.7008px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "339.188px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-text",
+        "y": 590.828125,
+        "h": 306.890625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px 0px 22.4px",
+          "padding": "38.4px 10.6656px 3.84px",
+          "minHeight": "auto",
+          "height": "306.891px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-logo-wr",
+        "y": 920.109375,
+        "h": 22.375,
+        "css": {
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "3.2px 0px 3.2px 5.3344px",
+          "minHeight": "auto",
+          "height": "22.375px",
+          "gridTemplateRows": "none",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "tab-code-wr run-dask",
+        "y": 946.015625,
+        "h": 246.390625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-start",
+          "flex": "0 1 auto",
+          "margin": "16px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "246.391px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      }
+    ]
+  },
+  {
+    "width": 320,
+    "state": "Managed Cloud",
+    "nodes": [
+      {
+        "c": "grid home-tab",
+        "y": 590.140625,
+        "h": 602.265625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-end",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "0px",
+          "minHeight": "0px",
+          "height": "602.266px",
+          "gridTemplateRows": "auto",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "home-tab-content run-dask",
+        "y": 590.828125,
+        "h": 339.1875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "flex": "0 1 auto",
+          "margin": "0.7008px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "339.188px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-text",
+        "y": 590.828125,
+        "h": 279.578125,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px 0px 22.4px",
+          "padding": "38.4px 10.6656px 3.84px",
+          "minHeight": "auto",
+          "height": "279.578px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-logo-wr",
+        "y": 901.21875,
+        "h": 28.796875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "3.2px 0px 3.2px 5.3344px",
+          "minHeight": "auto",
+          "height": "28.7969px",
+          "gridTemplateRows": "none",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "tab-code-wr run-dask",
+        "y": 946.015625,
+        "h": 246.390625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-start",
+          "flex": "0 1 auto",
+          "margin": "16px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "246.391px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      }
+    ]
+  },
+  {
+    "width": 360,
+    "state": "Open Source Deployment",
+    "nodes": [
+      {
+        "c": "grid home-tab",
+        "y": 601.140625,
+        "h": 677.5625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-end",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "0px",
+          "minHeight": "0px",
+          "height": "677.562px",
+          "gridTemplateRows": "auto",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "home-tab-content run-dask",
+        "y": 601.921875,
+        "h": 381.59375,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "flex": "0 1 auto",
+          "margin": "0.7884px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "381.594px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-text",
+        "y": 601.921875,
+        "h": 345.140625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px 0px 25.2px",
+          "padding": "43.2px 11.9988px 4.32px",
+          "minHeight": "auto",
+          "height": "345.141px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-logo-wr",
+        "y": 972.25,
+        "h": 25.1875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "3.6px 0px 3.6px 6.0012px",
+          "minHeight": "auto",
+          "height": "25.1875px",
+          "gridTemplateRows": "none",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "tab-code-wr run-dask",
+        "y": 1001.515625,
+        "h": 277.1875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-start",
+          "flex": "0 1 auto",
+          "margin": "18px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "277.188px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      }
+    ]
+  },
+  {
+    "width": 360,
+    "state": "Managed Cloud",
+    "nodes": [
+      {
+        "c": "grid home-tab",
+        "y": 601.140625,
+        "h": 677.5625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-end",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "0px",
+          "minHeight": "0px",
+          "height": "677.562px",
+          "gridTemplateRows": "auto",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "home-tab-content run-dask",
+        "y": 601.921875,
+        "h": 381.59375,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "flex": "0 1 auto",
+          "margin": "0.7884px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "381.594px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-text",
+        "y": 601.921875,
+        "h": 314.421875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px 0px 25.2px",
+          "padding": "43.2px 11.9988px 4.32px",
+          "minHeight": "auto",
+          "height": "314.422px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-logo-wr",
+        "y": 951.125,
+        "h": 32.390625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "3.6px 0px 3.6px 6.0012px",
+          "minHeight": "auto",
+          "height": "32.3906px",
+          "gridTemplateRows": "none",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "tab-code-wr run-dask",
+        "y": 1001.515625,
+        "h": 277.1875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-start",
+          "flex": "0 1 auto",
+          "margin": "18px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "277.188px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "state": "Open Source Deployment",
+    "nodes": [
+      {
+        "c": "grid home-tab",
+        "y": 610.34375,
+        "h": 734.03125,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-end",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "0px",
+          "minHeight": "0px",
+          "height": "734.031px",
+          "gridTemplateRows": "auto",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "home-tab-content run-dask",
+        "y": 611.1875,
+        "h": 413.390625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "flex": "0 1 auto",
+          "margin": "0.8541px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "413.391px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-text",
+        "y": 611.1875,
+        "h": 373.71875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px 0px 27.3px",
+          "padding": "46.8px 12.9987px 4.68px",
+          "minHeight": "auto",
+          "height": "373.719px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-logo-wr",
+        "y": 1012.203125,
+        "h": 27.28125,
+        "css": {
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "3.9px 0px 3.9px 6.5013px",
+          "minHeight": "auto",
+          "height": "27.2812px",
+          "gridTemplateRows": "none",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "tab-code-wr run-dask",
+        "y": 1044.078125,
+        "h": 300.296875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-start",
+          "flex": "0 1 auto",
+          "margin": "19.5px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "300.297px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "state": "Managed Cloud",
+    "nodes": [
+      {
+        "c": "grid home-tab",
+        "y": 610.34375,
+        "h": 734.03125,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-end",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "0px",
+          "minHeight": "0px",
+          "height": "734.031px",
+          "gridTemplateRows": "auto",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "home-tab-content run-dask",
+        "y": 611.1875,
+        "h": 413.390625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "flex": "0 1 auto",
+          "margin": "0.8541px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "413.391px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-text",
+        "y": 611.1875,
+        "h": 365.390625,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px 0px 27.3px",
+          "padding": "46.8px 12.9987px 4.68px",
+          "minHeight": "auto",
+          "height": "365.391px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-logo-wr",
+        "y": 1003.875,
+        "h": 27.28125,
+        "css": {
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "3.9px 0px 3.9px 6.5013px",
+          "minHeight": "auto",
+          "height": "27.2812px",
+          "gridTemplateRows": "none",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "tab-code-wr run-dask",
+        "y": 1044.078125,
+        "h": 300.296875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-start",
+          "flex": "0 1 auto",
+          "margin": "19.5px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "300.297px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      }
+    ]
+  },
+  {
+    "width": 479,
+    "state": "Open Source Deployment",
+    "nodes": [
+      {
+        "c": "grid home-tab",
+        "y": 635.3125,
+        "h": 901.546875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-end",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "0px",
+          "minHeight": "0px",
+          "height": "901.547px",
+          "gridTemplateRows": "auto",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "home-tab-content run-dask",
+        "y": 636.359375,
+        "h": 507.734375,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "flex": "0 1 auto",
+          "margin": "1.04901px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "507.734px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-text",
+        "y": 636.359375,
+        "h": 458.828125,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px 0px 33.53px",
+          "padding": "57.48px 15.9651px 5.748px",
+          "minHeight": "auto",
+          "height": "458.828px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-logo-wr",
+        "y": 1128.703125,
+        "h": 33.5,
+        "css": {
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "4.79px 0px 4.79px 7.98493px",
+          "minHeight": "auto",
+          "height": "33.5px",
+          "gridTemplateRows": "none",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "tab-code-wr run-dask",
+        "y": 1168.03125,
+        "h": 368.828125,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-start",
+          "flex": "0 1 auto",
+          "margin": "23.95px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "368.828px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      }
+    ]
+  },
+  {
+    "width": 479,
+    "state": "Managed Cloud",
+    "nodes": [
+      {
+        "c": "grid home-tab",
+        "y": 635.3125,
+        "h": 901.546875,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-end",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "0px",
+          "minHeight": "0px",
+          "height": "901.547px",
+          "gridTemplateRows": "auto",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "home-tab-content run-dask",
+        "y": 636.359375,
+        "h": 507.734375,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "space-between",
+          "flex": "0 1 auto",
+          "margin": "1.04901px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "507.734px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-text",
+        "y": 636.359375,
+        "h": 417.953125,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px 0px 33.53px",
+          "padding": "57.48px 15.9651px 5.748px",
+          "minHeight": "auto",
+          "height": "417.953px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      },
+      {
+        "c": "home-tabs-logo-wr",
+        "y": 1100.984375,
+        "h": 43.109375,
+        "css": {
+          "display": "flex",
+          "flexDirection": "row",
+          "justifyContent": "normal",
+          "flex": "0 1 auto",
+          "margin": "0px",
+          "padding": "4.79px 0px 4.79px 7.98493px",
+          "minHeight": "auto",
+          "height": "43.1094px",
+          "gridTemplateRows": "none",
+          "alignItems": "normal"
+        }
+      },
+      {
+        "c": "tab-code-wr run-dask",
+        "y": 1168.03125,
+        "h": 368.828125,
+        "css": {
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "flow-start",
+          "flex": "0 1 auto",
+          "margin": "23.95px 0px 0px",
+          "padding": "0px",
+          "minHeight": "auto",
+          "height": "368.828px",
+          "gridTemplateRows": "none",
+          "alignItems": "flow-start"
+        }
+      }
+    ]
+  }
+]

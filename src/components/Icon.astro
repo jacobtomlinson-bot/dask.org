@@ -13,24 +13,26 @@ const { name = 'ecosystem' } = Astro.props;
 >
   {name === 'ecosystem' ? (
     <>
-      <path d="m24 9-13 26h26L24 9Z" />
-      <circle cx="24" cy="8" r="5" fill="var(--icon-bg,white)" />
-      <circle cx="10" cy="36" r="5" fill="var(--icon-bg,white)" />
-      <circle cx="38" cy="36" r="5" fill="var(--icon-bg,white)" />
-      <circle cx="24" cy="26" r="6" stroke-dasharray="2 2" />
-      <path d="m24 14 0 6m-10 12 5-3m10 0 5 3" />
+      <path d="M19 10C10 14 6 23 7 32M29 10c9 4 13 13 12 22M13 40c7 4 15 4 22 0" />
+      <circle cx="24" cy="6" r="6" fill="var(--icon-bg,white)" />
+      <circle cx="7" cy="38" r="6" fill="var(--icon-bg,white)" />
+      <circle cx="41" cy="38" r="6" fill="var(--icon-bg,white)" />
+      <circle cx="24" cy="27" r="10" stroke-dasharray="1.5 2" />
+      <path d="M24 12v5m-12 17 5-3m14 0 5 3" stroke-dasharray="1.5 2" />
     </>
   ) : name === 'stories' ? (
     <>
-      <path d="M12 8h18l8 8v26H12V8Z" />
-      <path d="M30 8v10h8M7 15v26h24M17 24h15m-15 6h15m-15 6h10" />
-      <path d="M5 20H2v7H0m2 0v7h3" />
+      <path d="M10 3h22l7 8v30H10V3Z M32 3v9h7 M14 12h10 M14 21h11 M14 29h13 M14 36h17" />
+      <path d="M5 9H3v36h30v-2" stroke-dasharray="1.5 2" />
+      <circle cx="38" cy="24" r="8" fill="var(--icon-bg,white)" />
+      <path d="m43 30 5 6" />
     </>
   ) : (
     <>
-      <rect x="9" y="5" width="34" height="29" rx="2" />
-      <rect x="15" y="10" width="23" height="16" rx="1" />
-      <path d="M3 11v30h34M20 35v5m-7 1h24M6 45h28" stroke-dasharray="2 1" />
+      <path d="M10 43V3h33 M4 9H2v36h31" stroke-dasharray="1.5 2" />
+      <path d="M10 43V3h33" />
+      <rect x="16" y="9" width="27" height="16" rx="1" />
+      <path d="M16 32h11m3 0h13M16 39h11m3 0h13" />
     </>
   )}
 </svg>

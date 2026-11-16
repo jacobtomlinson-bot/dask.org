@@ -93,7 +93,8 @@
   line-height: 1.125rem;
 }
 .metric .text-link {
-  font-size: 0.875rem;
+  font-size: 0.9999rem;
+  line-height: 1.5003rem;
 }
 .metrics .metric:last-child {
   margin-bottom: 0;
@@ -168,6 +169,10 @@
   .sponsor-card p {
     font-size: 0.7368rem;
     line-height: 1.26336rem;
+  }
+  .metric .text-link {
+    font-size: 0.94752rem;
+    line-height: 0.94752rem;
   }
   .metrics {
     display: grid;
@@ -254,6 +259,10 @@
     font-size: 0.90992rem;
     line-height: 1.56rem;
   }
+  .metric .text-link {
+    font-size: 1.04008rem;
+    line-height: 1.56rem;
+  }
   .metrics {
     padding: 6.25rem 10.8vw;
     height: 61.625rem;
@@ -318,6 +327,10 @@
   }
   .sponsor-card h3 {
     line-height: 1.82rem;
+  }
+  .metric .text-link {
+    font-size: 1.04rem;
+    line-height: 1.56rem;
   }
   .metrics {
     display: grid;
