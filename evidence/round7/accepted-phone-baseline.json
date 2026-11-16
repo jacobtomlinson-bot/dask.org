@@ -1,0 +1,3885 @@
+[
+  {
+    "width": 390,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 1937.90625,
+      "css": {
+        "padding": "85.8px 30.03px 78px",
+        "margin": "0px",
+        "gap": "90px",
+        "gridTemplateColumns": "1fr 1.1fr",
+        "display": "block",
+        "fontSize": "16.64px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24.96px",
+        "minHeight": "0px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 30.546875,
+        "y": 85.796875,
+        "width": 328.90625,
+        "height": 304.546875,
+        "css": {
+          "padding": "27.2px 15.167px 0px 12.9987px",
+          "margin": "0px 0.5424px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 30.546875,
+        "y": 406.96875,
+        "width": 328.90625,
+        "height": 1436.3125,
+        "css": {
+          "padding": "19.5px 15.167px 0px 12.9987px",
+          "margin": "0px 0.5424px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 43.53125,
+        "y": 165.765625,
+        "width": 300.765625,
+        "height": 224.578125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.64px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and",
+          "diverse, mixing a volunteer open",
+          "source community, academics and",
+          "government workers, and for-profit",
+          "corporations. These sub-",
+          "communities understandably have",
+          "different needs and expectations",
+          "around communication, which can",
+          "sometimes conflict with each other."
+        ]
+      },
+      {
+        "x": 43.53125,
+        "y": 426.46875,
+        "width": 300.765625,
+        "height": 274.484375,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.64px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask",
+          "communications, either by",
+          "individuals or associated",
+          "corporations we can make no",
+          "expectations of tone. So while",
+          "speaking about Dask with your own",
+          "voice, or the voice of your company,",
+          "please do not feel burdened by the",
+          "expectations of this document. We",
+          "trust that you know best how to",
+          "speak with your audience."
+        ]
+      },
+      {
+        "x": 43.53125,
+        "y": 717.578125,
+        "width": 300.765625,
+        "height": 99.8125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 19.5px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we",
+          "try to strike a balance that is exciting",
+          "while genuine, and informative while",
+          "light-hearted. In particular …"
+        ]
+      },
+      {
+        "x": 43.53125,
+        "y": 836.890625,
+        "width": 300.765625,
+        "height": 74.859375,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.64px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "18.72px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive",
+          "news about Dask, either its",
+          "technical features:"
+        ]
+      },
+      {
+        "x": 43.53125,
+        "y": 928.375,
+        "width": 300.765625,
+        "height": 174.671875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.64px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can",
+          "integrate well with Scikit-Learn?",
+          "Read more here! or interesting and",
+          "important ways in which the project",
+          "has been used. We’re excited to see",
+          "Dask used in the fight against",
+          "Malaria. Read more in this article."
+        ]
+      },
+      {
+        "x": 43.53125,
+        "y": 1119.671875,
+        "width": 300.765625,
+        "height": 74.859375,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.64px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise,",
+          "especially if it is not very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 43.53125,
+        "y": 1211.15625,
+        "width": 300.765625,
+        "height": 199.625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.64px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways",
+          "in which we can improve, and",
+          "highlight opportunities for others to",
+          "engage.",
+          "We’re excited to announce Dask",
+          "integration with Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 43.53125,
+        "y": 1427.40625,
+        "width": 300.765625,
+        "height": 224.578125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.64px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative",
+          "results, but we do make sure to",
+          "acknowledge them in order to",
+          "maintain an honest reputation.",
+          "While running this benchmark we",
+          "actually found that Dask performed",
+          "worse for one part of it. That led us",
+          "to fix a bug (see PR #1234) and now",
+          "things are running smoothly again."
+        ]
+      },
+      {
+        "x": 43.53125,
+        "y": 1668.609375,
+        "width": 300.765625,
+        "height": 174.671875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.64px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16.64px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.96px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of",
+          "others, both among our own",
+          "contributors, and among the project",
+          "that are adjacent to Dask.",
+          "Next, we apply the new",
+          "dask.dataframe.foo operation",
+          "(recently contributed by Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 30.546875,
+          "y": 85.796875,
+          "width": 328.90625,
+          "height": 304.546875,
+          "css": {
+            "padding": "27.2px 15.167px 0px 12.9987px",
+            "margin": "0px 0.5424px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "16.64px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "24.96px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 30.546875,
+          "y": 406.96875,
+          "width": 328.90625,
+          "height": 1436.3125,
+          "css": {
+            "padding": "19.5px 15.167px 0px 12.9987px",
+            "margin": "0px 0.5424px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "16.64px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "24.96px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 43.53125,
+      "y": 112.984375,
+      "width": 300.765625,
+      "height": 33.28125,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 19.5px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "29.12px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "33.28px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  },
+  {
+    "width": 479,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "width": 479,
+      "height": 2350.015625,
+      "css": {
+        "padding": "105.38px 36.883px 95.8px",
+        "margin": "0px",
+        "gap": "110.538px",
+        "gridTemplateColumns": "1fr 1.1fr",
+        "display": "block",
+        "fontSize": "20.4373px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "30.656px",
+        "minHeight": "0px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 37.53125,
+        "y": 105.375,
+        "width": 403.9375,
+        "height": 374.125,
+        "css": {
+          "padding": "33.4072px 18.6282px 0px 15.9651px",
+          "margin": "0px 0.666178px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 37.53125,
+        "y": 499.921875,
+        "width": 403.9375,
+        "height": 1733.875,
+        "css": {
+          "padding": "23.95px 18.6282px 0px 15.9651px",
+          "margin": "0px 0.666178px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 53.484375,
+        "y": 203.59375,
+        "width": 369.359375,
+        "height": 275.90625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.4373px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and",
+          "diverse, mixing a volunteer open",
+          "source community, academics and",
+          "government workers, and for-profit",
+          "corporations. These sub-communities",
+          "understandably have different needs",
+          "and expectations around",
+          "communication, which can sometimes",
+          "conflict with each other."
+        ]
+      },
+      {
+        "x": 53.484375,
+        "y": 523.859375,
+        "width": 369.359375,
+        "height": 306.5625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.4373px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask communications,",
+          "either by individuals or associated",
+          "corporations we can make no",
+          "expectations of tone. So while",
+          "speaking about Dask with your own",
+          "voice, or the voice of your company,",
+          "please do not feel burdened by the",
+          "expectations of this document. We",
+          "trust that you know best how to speak",
+          "with your audience."
+        ]
+      },
+      {
+        "x": 53.484375,
+        "y": 850.84375,
+        "width": 369.359375,
+        "height": 122.625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 23.95px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we",
+          "try to strike a balance that is exciting",
+          "while genuine, and informative while",
+          "light-hearted. In particular …"
+        ]
+      },
+      {
+        "x": 53.484375,
+        "y": 997.40625,
+        "width": 369.359375,
+        "height": 91.96875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.4373px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "22.992px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive",
+          "news about Dask, either its",
+          "technical features:"
+        ]
+      },
+      {
+        "x": 53.484375,
+        "y": 1109.796875,
+        "width": 369.359375,
+        "height": 214.59375,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.4373px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can integrate",
+          "well with Scikit-Learn? Read more",
+          "here! or interesting and important",
+          "ways in which the project has been",
+          "used. We’re excited to see Dask used",
+          "in the fight against Malaria. Read more",
+          "in this article."
+        ]
+      },
+      {
+        "x": 53.484375,
+        "y": 1344.8125,
+        "width": 369.359375,
+        "height": 91.96875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.4373px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise, especially",
+          "if it is not very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 53.484375,
+        "y": 1457.203125,
+        "width": 369.359375,
+        "height": 245.25,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.4373px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways",
+          "in which we can improve, and",
+          "highlight opportunities for others to",
+          "engage.",
+          "We’re excited to announce Dask",
+          "integration with Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 53.484375,
+        "y": 1722.875,
+        "width": 369.359375,
+        "height": 275.90625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.4373px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative",
+          "results, but we do make sure to",
+          "acknowledge them in order to",
+          "maintain an honest reputation.",
+          "While running this benchmark we",
+          "actually found that Dask performed",
+          "worse for one part of it. That led us to",
+          "fix a bug (see PR #1234) and now",
+          "things are running smoothly again."
+        ]
+      },
+      {
+        "x": 53.484375,
+        "y": 2019.203125,
+        "width": 369.359375,
+        "height": 214.59375,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.4373px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "20.4373px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "30.656px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of",
+          "others, both among our own",
+          "contributors, and among the project",
+          "that are adjacent to Dask.",
+          "Next, we apply the new",
+          "dask.dataframe.foo operation (recently",
+          "contributed by Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 37.53125,
+          "y": 105.375,
+          "width": 403.9375,
+          "height": 374.125,
+          "css": {
+            "padding": "33.4072px 18.6282px 0px 15.9651px",
+            "margin": "0px 0.666178px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "20.4373px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "30.656px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 37.53125,
+          "y": 499.921875,
+          "width": 403.9375,
+          "height": 1733.875,
+          "css": {
+            "padding": "23.95px 18.6282px 0px 15.9651px",
+            "margin": "0px 0.666178px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "20.4373px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "30.656px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 53.484375,
+      "y": 138.78125,
+      "width": 369.359375,
+      "height": 40.875,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 23.95px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "35.7653px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "40.8747px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  },
+  {
+    "width": 480,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "width": 480,
+      "height": 842.5,
+      "css": {
+        "padding": "72.4359px 56.256px 50px 53.592px",
+        "margin": "0px",
+        "gap": "57.6923px",
+        "gridTemplateColumns": "1fr 1.1fr",
+        "display": "block",
+        "fontSize": "10.6667px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "minHeight": "0px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 53.578125,
+        "y": 72.421875,
+        "width": 370.171875,
+        "height": 113.828125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 53.578125,
+        "y": 196.90625,
+        "width": 370.171875,
+        "height": 584.9375,
+        "css": {
+          "padding": "12.5px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 53.578125,
+        "y": 106.25,
+        "width": 370.171875,
+        "height": 80,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 10.6667px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and diverse, mixing a volunteer open",
+          "source community, academics and government workers, and for-profit",
+          "corporations. These sub-communities understandably have different",
+          "needs and expectations around communication, which can sometimes",
+          "conflict with each other."
+        ]
+      },
+      {
+        "x": 53.578125,
+        "y": 209.40625,
+        "width": 370.171875,
+        "height": 96,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 10.6667px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask communications, either by individuals or",
+          "associated corporations we can make no expectations of tone. So",
+          "while speaking about Dask with your own voice, or the voice of your",
+          "company, please do not feel burdened by the expectations of this",
+          "document. We trust that you know best how to speak with your",
+          "audience."
+        ]
+      },
+      {
+        "x": 53.578125,
+        "y": 316.0625,
+        "width": 370.171875,
+        "height": 48,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 12.5px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we try to strike a balance that is",
+          "exciting while genuine, and informative while light-hearted. In",
+          "particular …"
+        ]
+      },
+      {
+        "x": 53.578125,
+        "y": 376.5625,
+        "width": 370.171875,
+        "height": 32,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 10.6667px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "12px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive news about Dask, either its technical",
+          "features:"
+        ]
+      },
+      {
+        "x": 53.578125,
+        "y": 419.21875,
+        "width": 370.171875,
+        "height": 64,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 10.6667px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can integrate well with Scikit-Learn? Read",
+          "more here! or interesting and important ways in which the project has",
+          "been used. We’re excited to see Dask used in the fight against Malaria.",
+          "Read more in this article."
+        ]
+      },
+      {
+        "x": 53.578125,
+        "y": 493.875,
+        "width": 370.171875,
+        "height": 32,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 10.6667px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise, especially if it is not very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 53.578125,
+        "y": 536.53125,
+        "width": 370.171875,
+        "height": 80,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 10.6667px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways in which we can improve, and",
+          "highlight opportunities for others to engage.",
+          "We’re excited to announce Dask integration with Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 53.578125,
+        "y": 627.1875,
+        "width": 370.171875,
+        "height": 80,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 10.6667px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative results, but we do make sure to",
+          "acknowledge them in order to maintain an honest reputation.",
+          "While running this benchmark we actually found that Dask performed",
+          "worse for one part of it. That led us to fix a bug (see PR #1234) and",
+          "now things are running smoothly again."
+        ]
+      },
+      {
+        "x": 53.578125,
+        "y": 717.84375,
+        "width": 370.171875,
+        "height": 64,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 10.6667px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "10.6667px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of others, both among our own",
+          "contributors, and among the project that are adjacent to Dask.",
+          "Next, we apply the new dask.dataframe.foo operation (recently",
+          "contributed by Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 53.578125,
+          "y": 72.421875,
+          "width": 370.171875,
+          "height": 113.828125,
+          "css": {
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "10.6667px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "16px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 53.578125,
+          "y": 196.90625,
+          "width": 370.171875,
+          "height": 584.9375,
+          "css": {
+            "padding": "12.5px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "10.6667px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "16px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 53.578125,
+      "y": 72.421875,
+      "width": 370.171875,
+      "height": 21.328125,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 12.5px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "18.6667px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "21.3333px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  },
+  {
+    "width": 601,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "width": 601,
+      "height": 1014.734375,
+      "css": {
+        "padding": "90.6958px 70.4372px 62.6042px 67.1016px",
+        "margin": "0px",
+        "gap": "72.2356px",
+        "gridTemplateColumns": "1fr 1.1fr",
+        "display": "block",
+        "fontSize": "13.3556px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "20.0333px",
+        "minHeight": "0px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 67.09375,
+        "y": 90.6875,
+        "width": 463.484375,
+        "height": 142.515625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 67.09375,
+        "y": 246.546875,
+        "width": 463.484375,
+        "height": 692.25,
+        "css": {
+          "padding": "15.651px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 67.09375,
+        "y": 133.046875,
+        "width": 463.484375,
+        "height": 100.15625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 13.3556px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and diverse, mixing a volunteer open",
+          "source community, academics and government workers, and for-profit",
+          "corporations. These sub-communities understandably have different",
+          "needs and expectations around communication, which can sometimes",
+          "conflict with each other."
+        ]
+      },
+      {
+        "x": 67.09375,
+        "y": 262.1875,
+        "width": 463.484375,
+        "height": 100.15625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 13.3556px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask communications, either by individuals or associated",
+          "corporations we can make no expectations of tone. So while speaking",
+          "about Dask with your own voice, or the voice of your company, please do",
+          "not feel burdened by the expectations of this document. We trust that",
+          "you know best how to speak with your audience."
+        ]
+      },
+      {
+        "x": 67.09375,
+        "y": 375.6875,
+        "width": 463.484375,
+        "height": 40.0625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 15.651px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we try to strike a balance that is exciting",
+          "while genuine, and informative while light-hearted. In particular …"
+        ]
+      },
+      {
+        "x": 67.09375,
+        "y": 431.390625,
+        "width": 463.484375,
+        "height": 40.0625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 13.3556px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "15.025px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive news about Dask, either its",
+          "technical features:"
+        ]
+      },
+      {
+        "x": 67.09375,
+        "y": 484.796875,
+        "width": 463.484375,
+        "height": 80.125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 13.3556px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can integrate well with Scikit-Learn? Read more",
+          "here! or interesting and important ways in which the project has been",
+          "used. We’re excited to see Dask used in the fight against Malaria. Read",
+          "more in this article."
+        ]
+      },
+      {
+        "x": 67.09375,
+        "y": 578.265625,
+        "width": 463.484375,
+        "height": 40.0625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 13.3556px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise, especially if it is not very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 67.09375,
+        "y": 631.671875,
+        "width": 463.484375,
+        "height": 100.15625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 13.3556px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways in which we can improve, and",
+          "highlight opportunities for others to engage.",
+          "We’re excited to announce Dask integration with Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 67.09375,
+        "y": 745.171875,
+        "width": 463.484375,
+        "height": 100.15625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 13.3556px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative results, but we do make sure to",
+          "acknowledge them in order to maintain an honest reputation.",
+          "While running this benchmark we actually found that Dask performed",
+          "worse for one part of it. That led us to fix a bug (see PR #1234) and now",
+          "things are running smoothly again."
+        ]
+      },
+      {
+        "x": 67.09375,
+        "y": 858.671875,
+        "width": 463.484375,
+        "height": 80.125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 13.3556px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.3556px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.0333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of others, both among our own",
+          "contributors, and among the project that are adjacent to Dask.",
+          "Next, we apply the new dask.dataframe.foo operation (recently",
+          "contributed by Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 67.09375,
+          "y": 90.6875,
+          "width": 463.484375,
+          "height": 142.515625,
+          "css": {
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "13.3556px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "20.0333px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 67.09375,
+          "y": 246.546875,
+          "width": 463.484375,
+          "height": 692.25,
+          "css": {
+            "padding": "15.651px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "13.3556px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "20.0333px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 67.09375,
+      "y": 90.6875,
+      "width": 463.484375,
+      "height": 26.71875,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 15.651px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "23.3722px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "26.7111px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  },
+  {
+    "width": 767,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "width": 767,
+      "height": 1320.5625,
+      "css": {
+        "padding": "115.747px 89.8924px 79.8958px 85.6356px",
+        "margin": "0px",
+        "gap": "92.1875px",
+        "gridTemplateColumns": "1fr 1.1fr",
+        "display": "block",
+        "fontSize": "17.0444px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "25.5667px",
+        "minHeight": "0px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 85.625,
+        "y": 115.734375,
+        "width": 591.484375,
+        "height": 181.875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 85.625,
+        "y": 314.640625,
+        "width": 591.484375,
+        "height": 909,
+        "css": {
+          "padding": "19.974px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 85.625,
+        "y": 169.796875,
+        "width": 591.484375,
+        "height": 127.8125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 17.0444px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and diverse, mixing a volunteer open",
+          "source community, academics and government workers, and for-profit",
+          "corporations. These sub-communities understandably have different",
+          "needs and expectations around communication, which can sometimes",
+          "conflict with each other."
+        ]
+      },
+      {
+        "x": 85.625,
+        "y": 334.609375,
+        "width": 591.484375,
+        "height": 127.8125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 17.0444px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask communications, either by individuals or associated",
+          "corporations we can make no expectations of tone. So while speaking",
+          "about Dask with your own voice, or the voice of your company, please do",
+          "not feel burdened by the expectations of this document. We trust that",
+          "you know best how to speak with your audience."
+        ]
+      },
+      {
+        "x": 85.625,
+        "y": 479.453125,
+        "width": 591.484375,
+        "height": 76.6875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 19.974px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we try to strike a balance that is",
+          "exciting while genuine, and informative while light-hearted. In particular",
+          "…"
+        ]
+      },
+      {
+        "x": 85.625,
+        "y": 576.109375,
+        "width": 591.484375,
+        "height": 51.125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 17.0444px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "19.175px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive news about Dask, either its",
+          "technical features:"
+        ]
+      },
+      {
+        "x": 85.625,
+        "y": 644.265625,
+        "width": 591.484375,
+        "height": 102.25,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 17.0444px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can integrate well with Scikit-Learn? Read more",
+          "here! or interesting and important ways in which the project has been",
+          "used. We’re excited to see Dask used in the fight against Malaria. Read",
+          "more in this article."
+        ]
+      },
+      {
+        "x": 85.625,
+        "y": 763.546875,
+        "width": 591.484375,
+        "height": 51.125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 17.0444px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise, especially if it is not very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 85.625,
+        "y": 831.703125,
+        "width": 591.484375,
+        "height": 127.8125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 17.0444px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways in which we can improve, and",
+          "highlight opportunities for others to engage.",
+          "We’re excited to announce Dask integration with Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 85.625,
+        "y": 976.546875,
+        "width": 591.484375,
+        "height": 127.8125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 17.0444px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative results, but we do make sure to",
+          "acknowledge them in order to maintain an honest reputation.",
+          "While running this benchmark we actually found that Dask performed",
+          "worse for one part of it. That led us to fix a bug (see PR #1234) and now",
+          "things are running smoothly again."
+        ]
+      },
+      {
+        "x": 85.625,
+        "y": 1121.390625,
+        "width": 591.484375,
+        "height": 102.25,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 17.0444px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.0444px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5667px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of others, both among our own",
+          "contributors, and among the project that are adjacent to Dask.",
+          "Next, we apply the new dask.dataframe.foo operation (recently",
+          "contributed by Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 85.625,
+          "y": 115.734375,
+          "width": 591.484375,
+          "height": 181.875,
+          "css": {
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "17.0444px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "25.5667px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 85.625,
+          "y": 314.640625,
+          "width": 591.484375,
+          "height": 909,
+          "css": {
+            "padding": "19.974px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "17.0444px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "25.5667px",
+            "minHeight": "0px",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 85.625,
+      "y": 115.734375,
+      "width": 591.484375,
+      "height": 34.09375,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 19.974px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "29.8278px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "34.0889px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  },
+  {
+    "width": 768,
+    "section": {
+      "x": 55,
+      "y": 0,
+      "width": 713,
+      "height": 1371,
+      "css": {
+        "padding": "120px 55px 80px 33px",
+        "margin": "0px",
+        "gap": "50px",
+        "gridTemplateColumns": "273.797px 301.203px",
+        "display": "grid",
+        "fontSize": "13.475px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "20.2101px",
+        "minHeight": "1371px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 88,
+        "y": 120,
+        "width": 273.796875,
+        "height": 1171,
+        "css": {
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 411.796875,
+        "y": 120,
+        "width": 301.203125,
+        "height": 1171,
+        "css": {
+          "padding": "24px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 88,
+        "y": 166.3125,
+        "width": 273.796875,
+        "height": 161.625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and diverse,",
+          "mixing a volunteer open source",
+          "community, academics and government",
+          "workers, and for-profit corporations. These",
+          "sub-communities understandably have",
+          "different needs and expectations around",
+          "communication, which can sometimes",
+          "conflict with each other."
+        ]
+      },
+      {
+        "x": 411.796875,
+        "y": 144,
+        "width": 301.203125,
+        "height": 161.625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask communications, either by",
+          "individuals or associated corporations we can",
+          "make no expectations of tone. So while",
+          "speaking about Dask with your own voice, or",
+          "the voice of your company, please do not feel",
+          "burdened by the expectations of this",
+          "document. We trust that you know best how to",
+          "speak with your audience."
+        ]
+      },
+      {
+        "x": 411.796875,
+        "y": 321.625,
+        "width": 301.203125,
+        "height": 80.8125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we try to",
+          "strike a balance that is exciting while genuine,",
+          "and informative while light-hearted. In particular",
+          "…"
+        ]
+      },
+      {
+        "x": 411.796875,
+        "y": 418.4375,
+        "width": 301.203125,
+        "height": 51.1875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "15.1603px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.5974px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive news about",
+          "Dask, either its technical features:"
+        ]
+      },
+      {
+        "x": 411.796875,
+        "y": 485.625,
+        "width": 301.203125,
+        "height": 121.21875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can integrate well with",
+          "Scikit-Learn? Read more here! or interesting",
+          "and important ways in which the project has",
+          "been used. We’re excited to see Dask used in",
+          "the fight against Malaria. Read more in this",
+          "article."
+        ]
+      },
+      {
+        "x": 411.796875,
+        "y": 622.84375,
+        "width": 301.203125,
+        "height": 60.609375,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise, especially if it is not",
+          "very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 411.796875,
+        "y": 699.453125,
+        "width": 301.203125,
+        "height": 141.421875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways in which",
+          "we can improve, and highlight opportunities for",
+          "others to engage.",
+          "We’re excited to announce Dask integration",
+          "with Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 411.796875,
+        "y": 856.875,
+        "width": 301.203125,
+        "height": 141.421875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative results, but we",
+          "do make sure to acknowledge them in order to",
+          "maintain an honest reputation.",
+          "While running this benchmark we actually found",
+          "that Dask performed worse for one part of it.",
+          "That led us to fix a bug (see PR #1234) and",
+          "now things are running smoothly again."
+        ]
+      },
+      {
+        "x": 411.796875,
+        "y": 1014.296875,
+        "width": 301.203125,
+        "height": 101.015625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.475px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2101px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of others,",
+          "both among our own contributors, and among",
+          "the project that are adjacent to Dask.",
+          "Next, we apply the new dask.dataframe.foo",
+          "operation (recently contributed by Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 88,
+          "y": 120,
+          "width": 273.796875,
+          "height": 1171,
+          "css": {
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "13.475px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "20.2101px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 411.796875,
+          "y": 120,
+          "width": 301.203125,
+          "height": 1171,
+          "css": {
+            "padding": "24px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "13.475px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "20.2101px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 88,
+      "y": 120,
+      "width": 273.796875,
+      "height": 30.3125,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "26.9501px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "30.3101px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  },
+  {
+    "width": 769,
+    "section": {
+      "x": 55.0625,
+      "y": 0,
+      "width": 713.9375,
+      "height": 1372.78125,
+      "css": {
+        "padding": "120.156px 55.0716px 80.1042px 33.043px",
+        "margin": "0px",
+        "gap": "50.0651px",
+        "gridTemplateColumns": "274.172px 301.609px",
+        "display": "grid",
+        "fontSize": "13.4925px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "20.2364px",
+        "minHeight": "1372.79px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 88.09375,
+        "y": 120.15625,
+        "width": 274.171875,
+        "height": 1172.53125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 412.328125,
+        "y": 120.15625,
+        "width": 301.609375,
+        "height": 1172.53125,
+        "css": {
+          "padding": "24.0312px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 88.09375,
+        "y": 166.515625,
+        "width": 274.171875,
+        "height": 161.875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.0208px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and diverse,",
+          "mixing a volunteer open source community,",
+          "academics and government workers, and",
+          "for-profit corporations. These sub-",
+          "communities understandably have different",
+          "needs and expectations around",
+          "communication, which can sometimes",
+          "conflict with each other."
+        ]
+      },
+      {
+        "x": 412.328125,
+        "y": 144.1875,
+        "width": 301.609375,
+        "height": 161.875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.0208px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask communications, either by",
+          "individuals or associated corporations we can",
+          "make no expectations of tone. So while",
+          "speaking about Dask with your own voice, or",
+          "the voice of your company, please do not feel",
+          "burdened by the expectations of this",
+          "document. We trust that you know best how to",
+          "speak with your audience."
+        ]
+      },
+      {
+        "x": 412.328125,
+        "y": 322.078125,
+        "width": 301.609375,
+        "height": 80.9375,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.0208px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we try to",
+          "strike a balance that is exciting while genuine,",
+          "and informative while light-hearted. In particular",
+          "…"
+        ]
+      },
+      {
+        "x": 412.328125,
+        "y": 419.03125,
+        "width": 301.609375,
+        "height": 51.25,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.0208px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "15.1801px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "25.6308px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive news about",
+          "Dask, either its technical features:"
+        ]
+      },
+      {
+        "x": 412.328125,
+        "y": 486.296875,
+        "width": 301.609375,
+        "height": 121.40625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.0208px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can integrate well with",
+          "Scikit-Learn? Read more here! or interesting",
+          "and important ways in which the project has",
+          "been used. We’re excited to see Dask used in",
+          "the fight against Malaria. Read more in this",
+          "article."
+        ]
+      },
+      {
+        "x": 412.328125,
+        "y": 623.71875,
+        "width": 301.609375,
+        "height": 60.703125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.0208px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise, especially if it is not",
+          "very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 412.328125,
+        "y": 700.4375,
+        "width": 301.609375,
+        "height": 141.640625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.0208px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways in which",
+          "we can improve, and highlight opportunities for",
+          "others to engage.",
+          "We’re excited to announce Dask integration",
+          "with Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 412.328125,
+        "y": 858.09375,
+        "width": 301.609375,
+        "height": 141.640625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.0208px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative results, but we",
+          "do make sure to acknowledge them in order to",
+          "maintain an honest reputation.",
+          "While running this benchmark we actually found",
+          "that Dask performed worse for one part of it.",
+          "That led us to fix a bug (see PR #1234) and",
+          "now things are running smoothly again."
+        ]
+      },
+      {
+        "x": 412.328125,
+        "y": 1015.75,
+        "width": 301.609375,
+        "height": 101.171875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.0208px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "13.4925px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "20.2364px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of others,",
+          "both among our own contributors, and among",
+          "the project that are adjacent to Dask.",
+          "Next, we apply the new dask.dataframe.foo",
+          "operation (recently contributed by Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 88.09375,
+          "y": 120.15625,
+          "width": 274.171875,
+          "height": 1172.53125,
+          "css": {
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "13.4925px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "20.2364px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 412.328125,
+          "y": 120.15625,
+          "width": 301.609375,
+          "height": 1172.53125,
+          "css": {
+            "padding": "24.0312px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "13.4925px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "20.2364px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 88.09375,
+      "y": 120.15625,
+      "width": 274.171875,
+      "height": 30.34375,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 16.0208px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "26.9852px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "30.3495px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  },
+  {
+    "width": 991,
+    "section": {
+      "x": 70.96875,
+      "y": 0,
+      "width": 920.03125,
+      "height": 1769.078125,
+      "css": {
+        "padding": "154.844px 70.9701px 103.229px 42.582px",
+        "margin": "0px",
+        "gap": "64.5182px",
+        "gridTemplateColumns": "353.312px 388.656px",
+        "display": "grid",
+        "fontSize": "17.3877px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "26.0784px",
+        "minHeight": "1769.09px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 113.546875,
+        "y": 154.84375,
+        "width": 353.3125,
+        "height": 1511.015625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 531.375,
+        "y": 154.84375,
+        "width": 388.65625,
+        "height": 1511.015625,
+        "css": {
+          "padding": "30.9688px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 113.546875,
+        "y": 214.59375,
+        "width": 353.3125,
+        "height": 208.625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.6458px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and diverse,",
+          "mixing a volunteer open source community,",
+          "academics and government workers, and",
+          "for-profit corporations. These sub-",
+          "communities understandably have different",
+          "needs and expectations around",
+          "communication, which can sometimes",
+          "conflict with each other."
+        ]
+      },
+      {
+        "x": 531.375,
+        "y": 185.8125,
+        "width": 388.65625,
+        "height": 208.625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.6458px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask communications, either by",
+          "individuals or associated corporations we can",
+          "make no expectations of tone. So while",
+          "speaking about Dask with your own voice, or",
+          "the voice of your company, please do not feel",
+          "burdened by the expectations of this",
+          "document. We trust that you know best how to",
+          "speak with your audience."
+        ]
+      },
+      {
+        "x": 531.375,
+        "y": 415.078125,
+        "width": 388.65625,
+        "height": 104.3125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.6458px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we try to",
+          "strike a balance that is exciting while genuine,",
+          "and informative while light-hearted. In",
+          "particular …"
+        ]
+      },
+      {
+        "x": 531.375,
+        "y": 540.03125,
+        "width": 388.65625,
+        "height": 66.0625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.6458px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "19.5623px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "33.03px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive news",
+          "about Dask, either its technical features:"
+        ]
+      },
+      {
+        "x": 531.375,
+        "y": 626.734375,
+        "width": 388.65625,
+        "height": 156.46875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.6458px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can integrate well with",
+          "Scikit-Learn? Read more here! or interesting",
+          "and important ways in which the project has",
+          "been used. We’re excited to see Dask used in",
+          "the fight against Malaria. Read more in this",
+          "article."
+        ]
+      },
+      {
+        "x": 531.375,
+        "y": 803.84375,
+        "width": 388.65625,
+        "height": 78.234375,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.6458px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise, especially if it is not",
+          "very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 531.375,
+        "y": 902.71875,
+        "width": 388.65625,
+        "height": 182.546875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.6458px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways in which",
+          "we can improve, and highlight opportunities for",
+          "others to engage.",
+          "We’re excited to announce Dask integration with",
+          "Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 531.375,
+        "y": 1105.90625,
+        "width": 388.65625,
+        "height": 182.546875,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.6458px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative results, but we",
+          "do make sure to acknowledge them in order to",
+          "maintain an honest reputation.",
+          "While running this benchmark we actually found",
+          "that Dask performed worse for one part of it.",
+          "That led us to fix a bug (see PR #1234) and",
+          "now things are running smoothly again."
+        ]
+      },
+      {
+        "x": 531.375,
+        "y": 1309.09375,
+        "width": 388.65625,
+        "height": 130.390625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 20.6458px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "17.3877px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "26.0784px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of others,",
+          "both among our own contributors, and among",
+          "the project that are adjacent to Dask.",
+          "Next, we apply the new dask.dataframe.foo",
+          "operation (recently contributed by Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 113.546875,
+          "y": 154.84375,
+          "width": 353.3125,
+          "height": 1511.015625,
+          "css": {
+            "padding": "0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "17.3877px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "26.0784px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 531.375,
+          "y": 154.84375,
+          "width": 388.65625,
+          "height": 1511.015625,
+          "css": {
+            "padding": "30.9688px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "17.3877px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "26.0784px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 113.546875,
+      "y": 154.84375,
+      "width": 353.3125,
+      "height": 39.109375,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 20.6458px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "34.7754px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "39.1111px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  },
+  {
+    "width": 992,
+    "section": {
+      "x": 55.796875,
+      "y": 0,
+      "width": 936.203125,
+      "height": 880.390625,
+      "css": {
+        "padding": "137.778px 56.4889px 82.6667px 39.9556px",
+        "margin": "0px",
+        "gap": "62px",
+        "gridTemplateColumns": "370.359px 407.406px",
+        "display": "grid",
+        "fontSize": "11.0222px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "16.5333px",
+        "minHeight": "880.4px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 95.75,
+        "y": 137.765625,
+        "width": 370.359375,
+        "height": 659.96875,
+        "css": {
+          "padding": "0px 34.4444px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 528.109375,
+        "y": 137.765625,
+        "width": 407.40625,
+        "height": 659.96875,
+        "css": {
+          "padding": "27.5556px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 95.75,
+        "y": 194.25,
+        "width": 335.921875,
+        "height": 82.65625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.5333px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and diverse, mixing a volunteer",
+          "open source community, academics and government workers,",
+          "and for-profit corporations. These sub-communities",
+          "understandably have different needs and expectations around",
+          "communication, which can sometimes conflict with each other."
+        ]
+      },
+      {
+        "x": 528.109375,
+        "y": 165.3125,
+        "width": 407.40625,
+        "height": 82.65625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.5333px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask communications, either by individuals or associated",
+          "corporations we can make no expectations of tone. So while speaking about",
+          "Dask with your own voice, or the voice of your company, please do not feel",
+          "burdened by the expectations of this document. We trust that you know best",
+          "how to speak with your audience."
+        ]
+      },
+      {
+        "x": 528.109375,
+        "y": 264.5,
+        "width": 407.40625,
+        "height": 33.0625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.5333px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we try to strike a balance that is exciting",
+          "while genuine, and informative while light-hearted. In particular …"
+        ]
+      },
+      {
+        "x": 528.109375,
+        "y": 314.09375,
+        "width": 407.40625,
+        "height": 33.0625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.5333px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "12.4px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5366px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive news about Dask, either its technical",
+          "features:"
+        ]
+      },
+      {
+        "x": 528.109375,
+        "y": 363.6875,
+        "width": 407.40625,
+        "height": 49.59375,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.5333px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can integrate well with Scikit-Learn? Read more here!",
+          "or interesting and important ways in which the project has been used. We’re",
+          "excited to see Dask used in the fight against Malaria. Read more in this article."
+        ]
+      },
+      {
+        "x": 528.109375,
+        "y": 429.8125,
+        "width": 407.40625,
+        "height": 33.0625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.5333px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise, especially if it is not very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 528.109375,
+        "y": 479.40625,
+        "width": 407.40625,
+        "height": 82.65625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.5333px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways in which we can improve, and highlight",
+          "opportunities for others to engage.",
+          "We’re excited to announce Dask integration with Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 528.109375,
+        "y": 578.59375,
+        "width": 407.40625,
+        "height": 82.65625,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.5333px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative results, but we do make sure to acknowledge",
+          "them in order to maintain an honest reputation.",
+          "While running this benchmark we actually found that Dask performed worse",
+          "for one part of it. That led us to fix a bug (see PR #1234) and now things are",
+          "running smoothly again."
+        ]
+      },
+      {
+        "x": 528.109375,
+        "y": 677.78125,
+        "width": 407.40625,
+        "height": 66.125,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 16.5333px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "11.0222px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "16.5333px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of others, both among our own",
+          "contributors, and among the project that are adjacent to Dask.",
+          "Next, we apply the new dask.dataframe.foo operation (recently contributed by",
+          "Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 95.75,
+          "y": 137.765625,
+          "width": 370.359375,
+          "height": 659.96875,
+          "css": {
+            "padding": "0px 34.4444px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "11.0222px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "16.5333px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 528.109375,
+          "y": 137.765625,
+          "width": 407.40625,
+          "height": 659.96875,
+          "css": {
+            "padding": "27.5556px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "11.0222px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "16.5333px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 95.75,
+      "y": 137.765625,
+      "width": 335.921875,
+      "height": 31.6875,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 24.8px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "24.8px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "31.6889px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  },
+  {
+    "width": 1440,
+    "section": {
+      "x": 81,
+      "y": 0,
+      "width": 1359,
+      "height": 1278,
+      "css": {
+        "padding": "200px 82px 120px 58px",
+        "margin": "0px",
+        "gap": "90px",
+        "gridTemplateColumns": "537.609px 591.391px",
+        "display": "grid",
+        "fontSize": "16px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "minHeight": "1278px",
+        "backgroundColor": "rgb(246, 246, 246)",
+        "flexDirection": "row"
+      }
+    },
+    "columns": [
+      {
+        "x": 139,
+        "y": 200,
+        "width": 537.609375,
+        "height": 958,
+        "css": {
+          "padding": "0px 50px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      },
+      {
+        "x": 766.609375,
+        "y": 200,
+        "width": 591.390625,
+        "height": 958,
+        "css": {
+          "padding": "40px 0px 0px",
+          "margin": "0px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "auto",
+          "backgroundColor": "rgb(246, 246, 246)",
+          "flexDirection": "row"
+        }
+      }
+    ],
+    "paragraphs": [
+      {
+        "x": 139,
+        "y": 282,
+        "width": 487.609375,
+        "height": 120,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "The Dask community is broad and diverse, mixing a volunteer open source community, academics and government workers, and for-profit corporations. These sub-communities understandably have different needs and expectations around communication, which can sometimes conflict with each other.",
+        "lines": [
+          "The Dask community is broad and diverse, mixing a volunteer",
+          "open source community, academics and government workers,",
+          "and for-profit corporations. These sub-communities",
+          "understandably have different needs and expectations around",
+          "communication, which can sometimes conflict with each other."
+        ]
+      },
+      {
+        "x": 766.609375,
+        "y": 240,
+        "width": 591.390625,
+        "height": 120,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For non-official Dask communications, either by individuals or associated corporations we can make no expectations of tone. So while speaking about Dask with your own voice, or the voice of your company, please do not feel burdened by the expectations of this document. We trust that you know best how to speak with your audience.",
+        "lines": [
+          "For non-official Dask communications, either by individuals or associated",
+          "corporations we can make no expectations of tone. So while speaking about",
+          "Dask with your own voice, or the voice of your company, please do not feel",
+          "burdened by the expectations of this document. We trust that you know best",
+          "how to speak with your audience."
+        ]
+      },
+      {
+        "x": 766.609375,
+        "y": 384,
+        "width": 591.390625,
+        "height": 48,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …",
+        "lines": [
+          "For official Dask communications we try to strike a balance that is exciting",
+          "while genuine, and informative while light-hearted. In particular …"
+        ]
+      },
+      {
+        "x": 766.609375,
+        "y": 456,
+        "width": 591.390625,
+        "height": 48,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "18px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24.0048px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We strive to promote positive news about Dask, either its technical features:",
+        "lines": [
+          "We strive to promote positive news about Dask, either its technical",
+          "features:"
+        ]
+      },
+      {
+        "x": 766.609375,
+        "y": 528,
+        "width": 591.390625,
+        "height": 96,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.",
+        "lines": [
+          "Did you know that Dask can integrate well with Scikit-Learn? Read more",
+          "here! or interesting and important ways in which the project has been used.",
+          "We’re excited to see Dask used in the fight against Malaria. Read more in this",
+          "article."
+        ]
+      },
+      {
+        "x": 766.609375,
+        "y": 648,
+        "width": 591.390625,
+        "height": 48,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We avoid overt self-praise, especially if it is not very well proven.Dask is 100x faster than Spark!",
+        "lines": [
+          "We avoid overt self-praise, especially if it is not very well proven.",
+          "Dask is 100x faster than Spark!"
+        ]
+      },
+      {
+        "x": 766.609375,
+        "y": 720,
+        "width": 591.390625,
+        "height": 120,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.We’re excited to announce Dask integration with Cassandra!…But there is still plenty to do.",
+        "lines": [
+          "We temper positive results with ways in which we can improve, and highlight",
+          "opportunities for others to engage.",
+          "We’re excited to announce Dask integration with Cassandra!",
+          "…",
+          "But there is still plenty to do."
+        ]
+      },
+      {
+        "x": 766.609375,
+        "y": 864,
+        "width": 591.390625,
+        "height": 120,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.",
+        "lines": [
+          "We don’t linger long on negative results, but we do make sure to",
+          "acknowledge them in order to maintain an honest reputation.",
+          "While running this benchmark we actually found that Dask performed worse",
+          "for one part of it. That led us to fix a bug (see PR #1234) and now things are",
+          "running smoothly again."
+        ]
+      },
+      {
+        "x": 766.609375,
+        "y": 1008,
+        "width": 591.390625,
+        "height": 96,
+        "css": {
+          "padding": "0px",
+          "margin": "0px 0px 24px",
+          "gap": "normal",
+          "gridTemplateColumns": "none",
+          "display": "block",
+          "fontSize": "16px",
+          "fontFamily": "Inter, Arial, sans-serif",
+          "fontWeight": "400",
+          "lineHeight": "24px",
+          "minHeight": "0px",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "flexDirection": "row"
+        },
+        "text": "We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)",
+        "lines": [
+          "We endeavor to highlight the work of others, both among our own",
+          "contributors, and among the project that are adjacent to Dask.",
+          "Next, we apply the new dask.dataframe.foo operation (recently contributed",
+          "by Alice Chen)"
+        ]
+      }
+    ],
+    "ancestors": [
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 139,
+          "y": 200,
+          "width": 537.609375,
+          "height": 958,
+          "css": {
+            "padding": "0px 50px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "16px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ],
+      [
+        {
+          "tag": "DIV",
+          "cls": "",
+          "x": 766.609375,
+          "y": 200,
+          "width": 591.390625,
+          "height": 958,
+          "css": {
+            "padding": "40px 0px 0px",
+            "margin": "0px",
+            "gap": "normal",
+            "gridTemplateColumns": "none",
+            "display": "block",
+            "fontSize": "16px",
+            "fontFamily": "Inter, Arial, sans-serif",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "minHeight": "auto",
+            "backgroundColor": "rgb(246, 246, 246)",
+            "flexDirection": "row"
+          }
+        }
+      ]
+    ],
+    "heading": {
+      "x": 139,
+      "y": 200,
+      "width": 487.609375,
+      "height": 46,
+      "css": {
+        "padding": "0px",
+        "margin": "0px 0px 36px",
+        "gap": "normal",
+        "gridTemplateColumns": "none",
+        "display": "block",
+        "fontSize": "36px",
+        "fontFamily": "Inter, Arial, sans-serif",
+        "fontWeight": "600",
+        "lineHeight": "46px",
+        "minHeight": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "flexDirection": "row"
+      }
+    }
+  }
+]

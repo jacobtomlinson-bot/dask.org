@@ -215,38 +215,10 @@
 .mono {
   font-family: Inconsolata, monospace;
 }
-.brand-tone {
-  background-color: #f6f6f6;
-  padding: 12.5rem 5.125rem 7.5rem 3.625rem;
-  min-height: 79.875rem;
-  display: grid;
-  grid-template-columns: 1fr 1.1fr;
-  gap: 5.625rem;
-}
-.brand-tone > div {
-  background-color: #f6f6f6;
-}
-.brand-tone > div:first-child {
-  padding-right: 3.125rem;
-}
-.brand-tone > div:nth-child(2) {
-  padding-top: 2.5rem;
-}
-.brand-tone p {
-  margin-bottom: 1.5rem;
-}
-.brand-body .brand-tone .tone-emphasis {
-  font-size: 1.125rem;
-  line-height: 1.5003rem;
-}
 .palette-grid button[data-color='#61BA92'] {
   color: white !important;
 }
 @media (max-width: 991px) and (min-width: 768px) {
-  .brand-body .brand-tone .tone-emphasis {
-    font-size: 0.94752rem;
-    line-height: 1.59984rem;
-  }
   .brand-type > div {
     background-color: white;
   }
@@ -410,23 +382,8 @@
     font-size: 0.75rem;
     line-height: 1.25rem;
   }
-  .brand-tone {
-    min-height: 85.6875rem;
-    padding: 7.5rem 3.4375rem 5rem 2.0625rem;
-    gap: 3.125rem;
-  }
-  .brand-tone > div:first-child {
-    padding: 0;
-  }
-  .brand-tone > div:nth-child(2) {
-    padding-top: 1.5rem;
-  }
 }
 @media (max-width: 767px) {
-  .brand-body .brand-tone .tone-emphasis {
-    font-size: 1.17rem;
-    line-height: 1.56rem;
-  }
   .brand-type > div {
     background-color: white;
   }
@@ -605,27 +562,6 @@
     line-height: 2.08rem !important;
     font-weight: 400 !important;
   }
-  .brand-tone {
-    display: block;
-    min-height: 0;
-    padding: 5.3625rem 7.7vw 4.875rem;
-  }
-  .brand-tone > div {
-    margin-inline: 0.0339rem;
-    padding-inline: 0.81242rem 0.94794rem;
-  }
-  .brand-tone > div:first-child {
-    padding: 1.7rem 0.94794rem 0 0.81242rem;
-  }
-  .brand-tone > div:nth-child(2) {
-    padding-top: 1.21875rem;
-  }
-  .brand-tone p {
-    margin-bottom: 1.04rem;
-  }
-  .brand-tone > div:nth-child(2) > p:nth-child(2) {
-    margin-bottom: 1.21875rem;
-  }
   .brand-logo-copy .button {
     margin-top: 0.9375rem;
   }
@@ -700,16 +636,6 @@
 }
 
 @media (min-width: 480px) and (max-width: 767px) {
-  .brand-tone {
-    padding: 7.0625rem 11.72vw 4.875rem 11.165vw;
-  }
-  .brand-tone > div {
-    margin-inline: 0;
-    padding-inline: 0;
-  }
-  .brand-tone > div:first-child {
-    padding: 0;
-  }
   .palette-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-template-rows: repeat(4, auto);
@@ -749,7 +675,6 @@
     height: 10rem;
   }
   .brand-type,
-  .brand-tone,
   .palette-section {
     min-height: 0;
   }

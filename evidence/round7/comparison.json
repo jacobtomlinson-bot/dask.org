@@ -1,0 +1,62 @@
+[
+  {
+    "width": 390,
+    "maxParagraphError": 0.21875,
+    "maxColumnError": 0,
+    "pixelDifferencePercent": 0.8557146824294839
+  },
+  {
+    "width": 479,
+    "maxParagraphError": 0.21875,
+    "maxColumnError": 0,
+    "pixelDifferencePercent": 3.011466714736944
+  },
+  {
+    "width": 480,
+    "maxParagraphError": 0.0625,
+    "maxColumnError": 0.0625,
+    "pixelDifferencePercent": 6.740851346226773
+  },
+  {
+    "width": 601,
+    "maxParagraphError": 0.015625,
+    "maxColumnError": 0.015625,
+    "pixelDifferencePercent": 0.461338021536433
+  },
+  {
+    "width": 767,
+    "maxParagraphError": 0.015625,
+    "maxColumnError": 0.015625,
+    "pixelDifferencePercent": 1.365991833168982
+  },
+  {
+    "width": 768,
+    "maxParagraphError": 0.015625,
+    "maxColumnError": 0.015625,
+    "pixelDifferencePercent": 1.9801923778264041
+  },
+  {
+    "width": 769,
+    "maxParagraphError": 0.015625,
+    "maxColumnError": 0.015625,
+    "pixelDifferencePercent": 2.0306748001076707
+  },
+  {
+    "width": 991,
+    "maxParagraphError": 0.03125,
+    "maxColumnError": 0.03125,
+    "pixelDifferencePercent": 0.9276360548100324
+  },
+  {
+    "width": 992,
+    "maxParagraphError": 0,
+    "maxColumnError": 0,
+    "pixelDifferencePercent": 1.2465215480941745
+  },
+  {
+    "width": 1440,
+    "maxParagraphError": 0,
+    "maxColumnError": 0,
+    "pixelDifferencePercent": 2.3223135106937924
+  }
+]

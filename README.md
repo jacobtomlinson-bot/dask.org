@@ -86,7 +86,7 @@ node scripts/report.mjs # refresh the current round-6 review summary (saved fina
 - `evidence/round2/checks.json`: focused production-preview regression results.
 - `evidence/round2/motion/`: original/native dashboard, gauges and counter at nominal 0/1500/4000 ms after scroll, plus static reduced-motion checks; results include actual capture delays.
 - `evidence/round2/local/`: 320/390 overflow evidence, sticky section anchors, empty/filled mobile panels, and original-left/native-right inspection strips.
-- `evidence/REVIEW.md`: current round-6 measured summary, residual-by-residual responses and honest residuals. Earlier B1–B6 responses are retained in Git history.
+- `evidence/REVIEW.md`: current developer review summary and explicit finding responses and honest residuals. Earlier B1–B6 responses are retained in Git history.
 - `evidence/round3/gallery.html`: current twelve-width page pairs, all seven terminal states at five neighboring widths, and motion evidence.
 
 Pixel comparisons use pixelmatch threshold 0.1 with antialias differences excluded. Full-page images of different heights are padded white; **percent different is not a "percent accurate" or perceptual-quality score**. State comparisons use each corresponding component's bounding box, so the legacy sidebar's presence can contribute to differences. Original animations, lazy-loaded artwork and failed external resources can change the reference frame. Closed-menu baselines were captured in fresh pages because an earlier cross-breakpoint capture left the legacy menu open. Such older captures remain clearly named, not silently treated as the default state.
@@ -109,20 +109,23 @@ Shared `--design-width` in `src/styles/global.css` is the single fluid-unit basi
 
 Astro allows only one preview per checkout. `npm test` starts/stops its own preview; stop an owned preview first or point `BASE_URL` at that existing server. Tests never submit to the live site.
 
-## Current round 6 fidelity review
+## Historical whole-site review evidence
 
-The full runner has **67 outer groups**, including all prior responsive/behavior regressions and `scripts/round6-checks.mjs`: eleven component groups at320/390/479/480/601/767/768/769/991/992/1440 plus eleven background-role/continuity assertions. Counts are nested, not additive. Testimonial geometry is owned by `src/styles/testimonials.css`; mixed contrast emphasis uses `src/components/ContrastText.astro` and safe `src/utils/contrast.ts`.
+`evidence/round6/gallery.html` preserves the fully traversed18 route-width pairs and the round6 residual table is retained in Git history. The previously reported390px home/brand/press height gaps became−2/0/−1px. That round's67-group test run and prior independent acceptance are historical, not an exact-fidelity claim or approval of the latest SHA. Current targeted findings/results follow below.
+
+## Current round 7 — Brand Tone composition
+
+`src/styles/tone.css` is the single owner of the tone section. Effective text tracks, insets and paragraph/example rhythm have distinct desktop/tablet/landscape rules; accepted390/479 phone rules are isolated. There is no tone section height/min-height or overflow masking. The six original semantic example breaks are unchanged. Other production routes/components are unchanged this round.
+
+The full runner now has **68 outer groups**, including `scripts/round7-checks.mjs`. The new suite compares both text-content columns and every paragraph's viewport-x/section-relative-y/width/height, plus the exact rendered line text, at390/479/480/601/767/768/769/991/992/1440. At480 and above the largest measured coordinate/size error is0.0625px, all paragraph heights and line text match;390/479 bounds remain unchanged from the accepted local baseline. These are composition measurements, not a whole-site pixel-equivalence claim.
 
 With a local production server on4321:
 
 ```sh
-node scripts/round6-checks.mjs
-WIDTHS=390,768,1440 node scripts/round6-capture.mjs # fresh fully traversed read-only originals and local pages
-LOCAL_ONLY=1 WIDTHS=390,768,1440 node scripts/round6-capture.mjs # refresh only native captures
-node scripts/round6-compare.mjs #18 page pairs, aligned details, pixel diffs and gallery
-node scripts/report.mjs # regenerate report from saved final round6 test results
+node scripts/round7-reference.mjs # fresh GET/HEAD-only original measurements/crops
+node scripts/round7-checks.mjs    # included in npm test; no original network dependency
+node scripts/round7-gallery.mjs   # viewport-aligned pairs and diagnostic pixel differences
+node scripts/report.mjs          # current review summary from saved final results
 ```
 
-Current report: `evidence/REVIEW.md`; current pairs: `evidence/round6/gallery.html`; geometry and diagnostics: `evidence/round6/{capture,comparison,checks}.json`. Earlier evidence folders preserve historical review rounds and must not be mistaken for current screenshots. All18 current pairs were inspected, with focused detail crops for testimonials, use cases, tone and press. Source/network mutations remain blocked.
-
-The previously reported390px home/brand/press height gaps are now−2/0/−1px against fresh reference captures. This is not an exact-equivalence claim: small static/paint/icon/typographic and unsynchronized animation differences remain. See the full measured table and limitations in the current report. Main reuses the existing independent tester for the exact revised signed SHA before further integration.
+Current report: `evidence/REVIEW.md`; ten inspected original-left/native-right pairs: `evidence/round7/gallery.html`; fresh source geometry: `evidence/round7/reference.json`; per-paragraph/column results: `evidence/round7/checks.json`. Earlier round6 evidence stays historical. Native paper-panel paint extents/dot phase and rasterization may still differ; original normal-motion and native reduced-motion captures are not synchronized. No forms, redirects, dependencies, deployment or remote publication changed. Main must obtain the same tester's verdict on the exact new signed SHA before local integration.
