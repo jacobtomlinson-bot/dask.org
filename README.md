@@ -108,3 +108,18 @@ Shared `--design-width` in `src/styles/global.css` is the single fluid-unit basi
 `src/utils/code.ts` shares safe tokens between Astro and native typing. SVG gauge rotation is explicitly around each local `(0,0)` pivot; reduced-motion preference changes pause it. The original adoption survey chart is static public artwork, source-listed separately from the independently drawn animated homepage gauges.
 
 Astro allows only one preview per checkout. `npm test` starts/stops its own preview; stop an owned preview first or point `BASE_URL` at that existing server. Tests never submit to the live site.
+
+## Round 4 focused visual review
+
+The final runner has **65 outer groups** (nested focused assertions are not additive totals). The landscape palette/footer and all-six-card/CTA regressions live in `scripts/round4-checks.mjs`. With a local preview on4321:
+
+```sh
+node scripts/round4-checks.mjs
+node scripts/round4-reference.mjs         # live read-only original component captures
+node scripts/round4-palette-reference.mjs # live read-only original palette boundaries
+REFERENCE_SCROLLED=1 npm run capture      #18 new native canonical images; cached traversed originals
+node scripts/round4-gallery.mjs
+node scripts/report.mjs
+```
+
+See `evidence/REVIEW.md`, `evidence/round4/gallery.html`, measured JSON and original/native screenshots. The three findings are addressed for independent re-review, **not a claim of exact equivalence**. `src/styles/cases.css` is the single owner of card geometry; old scattered card overrides were removed. Main is the sole coordinator and integration owner. Original art/fonts remain source-listed in `src/data/assets.json`; no new artwork was added in this round.

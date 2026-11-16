@@ -8,10 +8,10 @@
     ],
     "localSize": [
       1440,
-      8289
+      8240
     ],
-    "differentPixels": 718317,
-    "differencePercent": 6.018,
+    "differentPixels": 680229,
+    "differencePercent": 5.714,
     "topViewportDifferencePercent": 5.052,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
@@ -232,7 +232,7 @@
           0,
           5928,
           1440,
-          1215
+          1166
         ]
       },
       {
@@ -250,8 +250,8 @@
         "text": "NYC Uber/Lyft",
         "rect": [
           119,
-          6362,
-          238,
+          6406,
+          245,
           32
         ]
       },
@@ -259,9 +259,9 @@
         "tag": "H3",
         "text": "Scalable ETL Pipeline",
         "rect": [
-          441,
-          6362,
-          238,
+          438,
+          6406,
+          245,
           32
         ]
       },
@@ -269,9 +269,9 @@
         "tag": "H3",
         "text": "National Water Model",
         "rect": [
-          762,
-          6362,
-          238,
+          757,
+          6406,
+          245,
           32
         ]
       },
@@ -279,9 +279,9 @@
         "tag": "H3",
         "text": "TPC-H Benchmark",
         "rect": [
-          1084,
-          6362,
-          238,
+          1076,
+          6406,
+          245,
           32
         ]
       },
@@ -290,8 +290,8 @@
         "text": "NASA Satellite Imagery",
         "rect": [
           119,
-          6738,
-          238,
+          6782,
+          245,
           32
         ]
       },
@@ -299,9 +299,9 @@
         "tag": "H3",
         "text": "XGBoost Model Tuning",
         "rect": [
-          441,
-          6738,
-          238,
+          438,
+          6782,
+          245,
           32
         ]
       },
@@ -309,9 +309,9 @@
         "tag": "H3",
         "text": "Want more examples?",
         "rect": [
-          748,
-          6716,
-          587,
+          848,
+          6723,
+          383,
           46
         ]
       },
@@ -320,7 +320,7 @@
         "text": "Super easy to get startedYou can run Dask right now on your ",
         "rect": [
           0,
-          7143,
+          7094,
           1440,
           400
         ]
@@ -330,7 +330,7 @@
         "text": "Super easy to get started",
         "rect": [
           81,
-          7247,
+          7198,
           599,
           46
         ]
@@ -340,7 +340,7 @@
         "text": "Most people use Dask just on their laptops to scale out to 1",
         "rect": [
           0,
-          7543,
+          7494,
           1440,
           264
         ]
@@ -350,7 +350,7 @@
         "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
         "rect": [
           0,
-          7807,
+          7758,
           1440,
           482
         ]
@@ -360,7 +360,7 @@
         "text": "Get Started",
         "rect": [
           757,
-          7926,
+          7877,
           126,
           41
         ]
@@ -370,7 +370,7 @@
         "text": "Community",
         "rect": [
           915,
-          7926,
+          7877,
           126,
           41
         ]
@@ -380,7 +380,7 @@
         "text": "Blog",
         "rect": [
           1072,
-          7926,
+          7877,
           126,
           41
         ]
@@ -390,7 +390,7 @@
         "text": "Brand",
         "rect": [
           1230,
-          7926,
+          7877,
           126,
           41
         ]
@@ -1436,10 +1436,10 @@
     ],
     "localSize": [
       768,
-      7905
+      7874
     ],
-    "differentPixels": 488036,
-    "differencePercent": 8.039,
+    "differentPixels": 559782,
+    "differencePercent": 9.221,
     "topViewportDifferencePercent": 7.469,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
@@ -1660,7 +1660,7 @@
           0,
           5520,
           768,
-          1140
+          1109
         ]
       },
       {
@@ -1677,69 +1677,69 @@
         "tag": "H3",
         "text": "NYC Uber/Lyft",
         "rect": [
-          76,
-          5834,
-          175,
-          27
+          72,
+          5875,
+          185,
+          23
         ]
       },
       {
         "tag": "H3",
         "text": "Scalable ETL Pipeline",
         "rect": [
-          296,
-          5834,
-          175,
-          54
+          291,
+          5875,
+          185,
+          23
         ]
       },
       {
         "tag": "H3",
         "text": "National Water Model",
         "rect": [
-          517,
-          5834,
-          175,
-          54
+          511,
+          5875,
+          185,
+          23
         ]
       },
       {
         "tag": "H3",
         "text": "TPC-H Benchmark",
         "rect": [
-          76,
-          6139,
-          175,
-          27
+          72,
+          6182,
+          185,
+          23
         ]
       },
       {
         "tag": "H3",
         "text": "NASA Satellite Imagery",
         "rect": [
-          296,
-          6139,
-          175,
-          54
+          291,
+          6182,
+          185,
+          46
         ]
       },
       {
         "tag": "H3",
         "text": "XGBoost Model Tuning",
         "rect": [
-          517,
-          6139,
-          175,
-          54
+          511,
+          6182,
+          185,
+          46
         ]
       },
       {
         "tag": "H3",
         "text": "Want more examples?",
         "rect": [
-          80,
-          6384,
-          608,
+          240,
+          6408,
+          288,
           30
         ]
       },
@@ -1748,7 +1748,7 @@
         "text": "Super easy to get startedYou can run Dask right now on your ",
         "rect": [
           0,
-          6660,
+          6629,
           768,
           325
         ]
@@ -1758,7 +1758,7 @@
         "text": "Super easy to get started",
         "rect": [
           56,
-          6725,
+          6694,
           312,
           71
         ]
@@ -1768,7 +1768,7 @@
         "text": "Most people use Dask just on their laptops to scale out to 1",
         "rect": [
           0,
-          6985,
+          6954,
           768,
           272
         ]
@@ -1778,7 +1778,7 @@
         "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
         "rect": [
           0,
-          7257,
+          7226,
           768,
           648
         ]
@@ -1788,7 +1788,7 @@
         "text": "Get Started",
         "rect": [
           78,
-          7429,
+          7398,
           129,
           33
         ]
@@ -1798,7 +1798,7 @@
         "text": "Community",
         "rect": [
           239,
-          7429,
+          7398,
           129,
           33
         ]
@@ -1808,7 +1808,7 @@
         "text": "Blog",
         "rect": [
           400,
-          7429,
+          7398,
           129,
           33
         ]
@@ -1818,7 +1818,7 @@
         "text": "Brand",
         "rect": [
           561,
-          7429,
+          7398,
           129,
           33
         ]
@@ -2864,10 +2864,10 @@
     ],
     "localSize": [
       390,
-      13803
+      13838
     ],
-    "differentPixels": 602893,
-    "differencePercent": 11.2,
+    "differentPixels": 649412,
+    "differencePercent": 12.033,
     "topViewportDifferencePercent": 5.571,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
@@ -3088,7 +3088,7 @@
           0,
           8904,
           390,
-          2823
+          2858
         ]
       },
       {
@@ -3105,9 +3105,9 @@
         "tag": "H3",
         "text": "NYC Uber/Lyft",
         "rect": [
-          52,
-          9303,
-          287,
+          51,
+          9360,
+          292,
           33
         ]
       },
@@ -3115,9 +3115,9 @@
         "tag": "H3",
         "text": "Scalable ETL Pipeline",
         "rect": [
-          52,
-          9679,
-          287,
+          51,
+          9724,
+          292,
           33
         ]
       },
@@ -3125,9 +3125,9 @@
         "tag": "H3",
         "text": "National Water Model",
         "rect": [
-          52,
-          10055,
-          287,
+          51,
+          10088,
+          292,
           33
         ]
       },
@@ -3135,9 +3135,9 @@
         "tag": "H3",
         "text": "TPC-H Benchmark",
         "rect": [
-          52,
-          10431,
-          287,
+          51,
+          10453,
+          292,
           33
         ]
       },
@@ -3145,9 +3145,9 @@
         "tag": "H3",
         "text": "NASA Satellite Imagery",
         "rect": [
-          52,
-          10807,
-          287,
+          51,
+          10817,
+          292,
           33
         ]
       },
@@ -3155,9 +3155,9 @@
         "tag": "H3",
         "text": "XGBoost Model Tuning",
         "rect": [
-          52,
-          11183,
-          287,
+          51,
+          11181,
+          292,
           33
         ]
       },
@@ -3166,8 +3166,8 @@
         "text": "Want more examples?",
         "rect": [
           50,
-          11466,
-          291,
+          11402,
+          289,
           67
         ]
       },
@@ -3176,7 +3176,7 @@
         "text": "Super easy to get startedYou can run Dask right now on your ",
         "rect": [
           0,
-          11727,
+          11762,
           390,
           494
         ]
@@ -3186,7 +3186,7 @@
         "text": "Super easy to get started",
         "rect": [
           30,
-          11816,
+          11851,
           331,
           75
         ]
@@ -3196,7 +3196,7 @@
         "text": "Most people use Dask just on their laptops to scale out to 1",
         "rect": [
           0,
-          12221,
+          12256,
           390,
           435
         ]
@@ -3206,7 +3206,7 @@
         "text": "Get StartedLatestCommunityGet HelpPowered ByDemo DayBlogDask",
         "rect": [
           0,
-          12656,
+          12691,
           390,
           1147
         ]
@@ -3216,7 +3216,7 @@
         "text": "Get Started",
         "rect": [
           39,
-          12861,
+          12897,
           320,
           38
         ]
@@ -3226,7 +3226,7 @@
         "text": "Community",
         "rect": [
           39,
-          13007,
+          13042,
           320,
           38
         ]
@@ -3236,7 +3236,7 @@
         "text": "Blog",
         "rect": [
           39,
-          13221,
+          13257,
           320,
           38
         ]
@@ -3246,7 +3246,7 @@
         "text": "Brand",
         "rect": [
           39,
-          13401,
+          13437,
           320,
           38
         ]
@@ -3938,8 +3938,8 @@
       390,
       6981
     ],
-    "differentPixels": 260842,
-    "differencePercent": 9.581,
+    "differentPixels": 260950,
+    "differencePercent": 9.585,
     "topViewportDifferencePercent": 7.608,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [

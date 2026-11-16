@@ -94,17 +94,6 @@
   height: 9.75rem;
   object-fit: contain;
 }
-.case-art {
-  height: 6rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.case-art img {
-  width: 100%;
-  height: 6.75rem;
-  object-fit: contain;
-}
 .quote-logo {
   height: 2.5rem;
   margin-bottom: 1.5rem;
@@ -266,7 +255,6 @@
 }
 .use-cases {
   padding: 10rem var(--gutter) 6.25rem;
-  min-height: 75.9375rem;
   text-align: center;
 }
 .use-cases > .boxed {
@@ -279,77 +267,6 @@
 .use-cases > p {
   font-weight: 300;
   margin: 0.75rem 0 1.5rem;
-}
-.cases-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.5rem;
-  text-align: left;
-}
-.case {
-  display: block;
-  background: #f5f7f5;
-  padding: 2.375rem;
-  min-height: 23rem;
-}
-.case h3 {
-  margin-bottom: 1rem;
-  font-size: 1.25rem;
-  line-height: 2rem;
-}
-.case small {
-  font-size: 0.875rem;
-  line-height: 1.375rem;
-}
-.tags {
-  display: flex;
-  gap: 0.25rem;
-  flex-wrap: wrap;
-  margin: 0.25rem 0 1rem;
-}
-.tags span {
-  background: #262326;
-  color: white;
-  padding: 1px 0.375rem;
-  font-size: 0.75rem;
-  line-height: 1.125rem;
-}
-.case p {
-  font-size: 0.875rem;
-  line-height: 1.5rem;
-  margin: 0.25rem 0 0;
-}
-.case:hover h3 {
-  text-decoration: underline;
-  text-decoration-color: var(--yellow);
-}
-.more-cases {
-  grid-column: span 2;
-  text-align: center;
-  background: #ebeaee;
-  padding: 4.375rem 1.5rem;
-  align-content: center;
-}
-.more-cases h3 {
-  font-size: 2.25rem;
-  line-height: 2.875rem;
-  margin-bottom: 0.75rem;
-}
-.more-cases p {
-  font-size: 1rem;
-  font-weight: 300;
-}
-.more-cases > div {
-  display: flex;
-  gap: 1.5rem;
-  align-items: center;
-  justify-content: center;
-}
-.more-cases .button {
-  font-size: 0.875rem;
-}
-.more-cases .text-link {
-  font-size: 0.875rem;
 }
 .home-install {
   padding: 5rem var(--gutter) 0;
@@ -398,9 +315,6 @@
   }
   .workload-actions {
     gap: 1rem;
-  }
-  .case {
-    padding: 1.75rem;
   }
 }
 @media (min-width: 992px) {
@@ -539,20 +453,6 @@
   }
   .use-cases {
     padding: 6.25rem var(--gutter);
-    min-height: 0;
-  }
-  .cases-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  .case {
-    padding: 1.5rem;
-    min-height: 20.625rem;
-  }
-  .case-art {
-    height: 4.375rem;
-  }
-  .more-cases {
-    padding: 4rem 1.5rem;
   }
   .home-install h2 {
     font-size: 1.75rem;
@@ -768,50 +668,12 @@
     line-height: 1.894375rem;
   }
   .use-cases {
-    height: 71.25rem;
-    min-height: 71.25rem;
     padding: 6.875rem var(--gutter) 3.5rem;
   }
   .use-cases > .boxed {
     font-size: 1.894375rem;
     line-height: 2.210625rem;
     padding: 0.5rem 0.875rem 0.75rem;
-  }
-  .cases-grid {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 0.3125rem;
-  }
-  .case {
-    padding: 1.25rem;
-    min-height: 18.75rem;
-  }
-  .case-art {
-    height: 4.375rem;
-  }
-  .case h3 {
-    font-size: 1.0525rem;
-    line-height: 1.684375rem;
-  }
-  .case small {
-    font-size: 0.736875rem;
-    line-height: 1.263125rem;
-  }
-  .case p {
-    font-size: 0.736875rem;
-    line-height: 1.263125rem;
-  }
-  .tags span {
-    font-size: 0.625rem;
-    line-height: 1rem;
-  }
-  .more-cases {
-    grid-column: span 3;
-    min-height: 11.25rem;
-    padding: 1.5rem;
-  }
-  .more-cases h3 {
-    font-size: 1.684375rem;
-    line-height: 1.894375rem;
   }
   .home-install {
     height: 20.3125rem;
@@ -847,9 +709,6 @@
   }
   .home-org-grid img {
     height: 6.875rem;
-  }
-  .case-art img {
-    height: 4.375rem;
   }
   .closing-art {
     width: 10rem;
@@ -1138,9 +997,7 @@
     line-height: 2.08rem;
   }
   .use-cases {
-    height: 176.4375rem;
-    min-height: 176.4375rem;
-    padding: 7.0625rem var(--gutter) 0;
+    padding: 7.0625rem 7.7vw 5.11875rem;
     background-image: var(--grid-light);
   }
   .use-cases > .boxed {
@@ -1152,32 +1009,6 @@
     margin: 1.25rem 0 2rem;
     font-size: 1.04rem;
     line-height: 1.56rem;
-  }
-  .case {
-    height: 22.75rem;
-    min-height: 22.75rem;
-    padding: 1.375rem;
-  }
-  .case h3 {
-    font-size: 1.3rem;
-    line-height: 2.08rem;
-  }
-  .case p {
-    font-size: 0.91rem;
-    line-height: 1.56rem;
-  }
-  .case small {
-    font-size: 0.91rem;
-    line-height: 1.56rem;
-  }
-  .more-cases {
-    grid-column: auto;
-    padding: 2rem 1.25rem;
-    min-height: 18.75rem;
-  }
-  .more-cases h3 {
-    font-size: 1.82rem;
-    line-height: 2.08rem;
   }
   .home-install {
     display: block;
@@ -1210,9 +1041,6 @@
     display: block;
     margin-top: 1.75rem;
   }
-  .case-art {
-    height: 6.5625rem;
-  }
   .home-install > .terminal {
     width: calc(100% + var(--gutter));
     height: 12.5rem;
@@ -1223,9 +1051,6 @@
   }
   .home-org-grid img {
     height: 5.375rem;
-  }
-  .case-art img {
-    height: 6.5625rem;
   }
   .quote-columns .quote-logo {
     height: 2.5rem;
@@ -1265,14 +1090,6 @@
   }
   .quote-columns {
     display: block;
-  }
-  .cases-grid {
-    grid-template-columns: 1fr;
-    gap: 0.75rem;
-  }
-  .more-cases > div {
-    flex-direction: column;
-    gap: 1rem;
   }
   .workload-panel > .terminal pre {
     font-size: 0.63375rem;
@@ -1407,29 +1224,7 @@
     height: 7.8rem;
   }
   .use-cases {
-    min-height: 99.45rem;
     padding-top: 4.21rem;
-  }
-  .cases-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0.13rem;
-  }
-  .case {
-    height: auto;
-    min-height: 20.4rem;
-  }
-  .case-art {
-    height: 6rem;
-  }
-  .case-art img {
-    max-height: 6rem;
-  }
-  .more-cases {
-    grid-column: 1 / -1;
-    min-height: 13.7rem;
-  }
-  .more-cases > div {
-    flex-direction: row;
   }
   .home-install {
     min-height: 36.13rem;

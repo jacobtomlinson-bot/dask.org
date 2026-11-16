@@ -260,21 +260,19 @@ try {
     'round3-checks.mjs',
     'round3-motion.mjs',
     'round3-art-bounds.mjs',
+    'round4-checks.mjs',
   ]) {
-    await check(
-      `round-3 ${script}: production-preview regression`,
-      async () => {
-        const { stdout } = await promisify(execFile)(
-          process.execPath,
-          ['scripts/' + script],
-          {
-            env: { ...process.env, BASE_URL: base },
-            maxBuffer: 1024 * 1024,
-          },
-        );
-        console.log(stdout.trim());
-      },
-    );
+    await check(`${script}: production-preview regression`, async () => {
+      const { stdout } = await promisify(execFile)(
+        process.execPath,
+        ['scripts/' + script],
+        {
+          env: { ...process.env, BASE_URL: base },
+          maxBuffer: 1024 * 1024,
+        },
+      );
+      console.log(stdout.trim());
+    });
   }
 } finally {
   await browser.close();

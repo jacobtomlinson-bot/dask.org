@@ -1,5 +1,5 @@
 {
-  "passed": 64,
+  "passed": 65,
   "failed": 0,
   "results": [
     {
@@ -247,15 +247,19 @@
       "status": "passed"
     },
     {
-      "name": "round-3 round3-checks.mjs: production-preview regression",
+      "name": "round3-checks.mjs: production-preview regression",
       "status": "passed"
     },
     {
-      "name": "round-3 round3-motion.mjs: production-preview regression",
+      "name": "round3-motion.mjs: production-preview regression",
       "status": "passed"
     },
     {
-      "name": "round-3 round3-art-bounds.mjs: production-preview regression",
+      "name": "round3-art-bounds.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round4-checks.mjs: production-preview regression",
       "status": "passed"
     }
   ]

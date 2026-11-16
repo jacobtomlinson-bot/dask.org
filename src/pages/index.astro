@@ -1,6 +1,7 @@
 ---
 import Site from '../layouts/Site.astro';
 import '../styles/home.css';
+import '../styles/cases.css';
 import '../styles/illustrations.css';
 import Terminal from '../components/Terminal.astro';
 import Dashboard from '../components/Dashboard.astro';
@@ -206,15 +207,18 @@ import cases from '../data/cases.json';
           <div class="case-art">
             <img src={asset(c.image)} alt="" />
           </div>
-          <h3>{c.title}</h3>
-          <small>Tools</small>
-          <div class="tags">
-            {c.tools.map((t) => (
-              <span>{t}</span>
-            ))}
+          <div class="case-divider" aria-hidden="true"></div>
+          <div class="case-info">
+            <h3>{c.title}</h3>
+            <small>Tools</small>
+            <div class="tags">
+              {c.tools.map((t) => (
+                <span>{t}</span>
+              ))}
+            </div>
+            <small>Data</small>
+            <p>{c.data}</p>
           </div>
-          <small>Data</small>
-          <p>{c.data}</p>
         </a>
       ))}
       <div class="more-cases">
