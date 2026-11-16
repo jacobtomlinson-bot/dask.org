@@ -249,6 +249,8 @@
     padding: 0.78rem 1.04rem;
   }
   .more-cases .text-link {
+    border-bottom: 1px solid var(--yellow);
+    text-decoration: none;
     font-size: 1.04rem;
     line-height: 1.56rem;
   }

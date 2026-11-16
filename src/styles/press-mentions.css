@@ -137,30 +137,33 @@
   .press-section {
     display: block;
     padding: 5.3625rem var(--gutter) 5.11875rem;
-    padding-bottom: 7.5625rem;
+    padding-bottom: 5.11875rem;
   }
   .press-card {
     display: block;
     min-height: 0;
-    padding: 1.75rem 1.5625rem 1.375rem;
+    padding: 1.56rem;
+    width: 100%;
+    margin-inline: 0.06776rem;
   }
   .press-card img {
     display: block;
     object-position: left;
     width: auto;
-    max-width: 10rem;
-    height: 4.375rem;
-    margin: 0 0 1.625rem;
+    max-width: 100%;
+    width: 9.75rem;
+    height: 4.3875rem;
+    margin: 0 0 1.70625rem;
   }
   .press-card > div {
     border: 0;
     padding: 0;
     padding-left: 0;
-    border-top: 0.125rem solid #33363d;
-    padding-top: 1.9375rem;
+    border-top: 0.13rem solid #33363d;
+    padding-top: 1.70625rem;
   }
   .press-aside {
-    padding: 1.6875rem 0 6.875rem;
+    padding: 1.455rem 0 6.8025rem;
     text-align: center;
   }
   .press-card time {
@@ -177,8 +180,21 @@
   .press-list {
     gap: 1.21875rem;
   }
+  .press-card time {
+    display: block;
+  }
+  .press-card:last-child {
+    margin-bottom: 1.21875rem;
+  }
   .press-aside button {
+    display: inline-flex;
+    padding: 0.20304rem 0.27081rem;
     font-size: 1.04rem;
+    text-decoration: none;
+  }
+  .press-aside button span {
+    border-bottom: 1px solid var(--yellow);
+    line-height: 1.56rem;
   }
 }
 
@@ -188,6 +204,12 @@
   }
   .press-aside {
     padding: 1.56rem 0 4.89rem;
+  }
+  .press-card:last-child {
+    margin-bottom: 0;
+  }
+  .press-aside button {
+    padding: 0;
   }
   .press-card {
     display: grid;

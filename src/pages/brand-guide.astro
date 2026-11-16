@@ -3,6 +3,7 @@ import Site from '../layouts/Site.astro';
 import '../styles/brand.css';
 import Hero from '../components/Hero.astro';
 import BrandNav from '../components/BrandNav.astro';
+import ContrastText from '../components/ContrastText.astro';
 import { asset, colors } from '../data/site';
 const brandColorOrder = [
   '#FFFFFF',
@@ -42,10 +43,10 @@ const tone = [
   'For official Dask communications we try to strike a balance that is exciting while genuine, and informative while light-hearted. In particular …',
   'We strive to promote positive news about Dask, either its technical features:',
   'Did you know that Dask can integrate well with Scikit-Learn? Read more here! or interesting and important ways in which the project has been used. We’re excited to see Dask used in the fight against Malaria. Read more in this article.',
-  'We avoid overt self-praise, especially if it is not very well proven. Dask is 100x faster than Spark!',
-  'We temper positive results with ways in which we can improve, and highlight opportunities for others to engage. We’re excited to announce Dask integration with Cassandra! … But there is still plenty to do.',
-  'We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation. While running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.',
-  'We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask. Next, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)',
+  'We avoid overt self-praise, especially if it is not very well proven.\nDask is 100x faster than Spark!',
+  'We temper positive results with ways in which we can improve, and highlight opportunities for others to engage.\nWe’re excited to announce Dask integration with Cassandra!\n…\nBut there is still plenty to do.',
+  'We don’t linger long on negative results, but we do make sure to acknowledge them in order to maintain an honest reputation.\nWhile running this benchmark we actually found that Dask performed worse for one part of it. That led us to fix a bug (see PR #1234) and now things are running smoothly again.',
+  'We endeavor to highlight the work of others, both among our own contributors, and among the project that are adjacent to Dask.\nNext, we apply the new dask.dataframe.foo operation (recently contributed by Alice Chen)',
 ];
 ---
 
@@ -134,7 +135,13 @@ const tone = [
         <p class="color-name">Salmon</p>
         <p class="color-hex">#FC6E6B</p>
         <p class="color-label">Accessible Text Colors</p>
-        <p class="accessible-colors">#33363D(AA18) #262326(AA) #080815(AA)</p>
+        <ContrastText
+          entries={[
+            { hex: '#33363D', rating: 'AA18' },
+            { hex: '#262326', rating: 'AA' },
+            { hex: '#080815', rating: 'AA' },
+          ]}
+        />
         <button class="button copy-color">Copy Hex Code</button>
       </div>
       <div class="palette-grid">
@@ -156,7 +163,7 @@ const tone = [
           ))}
       </div>
     </section>
-    <section id="typography" class="brand-type light-grid">
+    <section id="typography" class="brand-type light-grid large-grid">
       <div>
         <h2 class="medium-title">Typography</h2>
         <p>
@@ -199,8 +206,15 @@ const tone = [
         </p>
       </div>
       <div>
-        {tone.map((text) => (
-          <p>{text}</p>
+        {tone.map((text, index) => (
+          <p class:list={{ 'tone-emphasis': index === 2 }}>
+            {text.split('\n').map((line, i) => (
+              <>
+                {i > 0 && <br />}
+                {line}
+              </>
+            ))}
+          </p>
         ))}
       </div>
     </section>

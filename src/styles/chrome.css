@@ -97,7 +97,7 @@
 .footer-nav {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 2rem;
+  gap: 2.5rem;
 }
 .footer-nav h2 {
   font-size: 1.125rem;
@@ -105,11 +105,11 @@
   font-weight: 600;
   border-bottom: 1px solid var(--yellow);
   padding-bottom: 1rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.6748rem;
 }
 .footer-nav a {
   display: block;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.9996rem;
   font-size: 1.125rem;
   line-height: 1.5rem;
   font-weight: 400;
@@ -120,7 +120,7 @@
 .copyright {
   font-size: 0.75rem;
   line-height: 1.5rem;
-  margin: 1.5rem 0 0;
+  margin: 1.6494rem 0 0;
 }
 dialog {
   position: fixed;
@@ -409,26 +409,27 @@ dialog .form-status {
     grid-template-columns: 1fr 1.6fr;
     display: flex;
     flex-direction: column;
-    gap: 2.5rem;
+    gap: 2.98828125rem;
     min-height: 0;
   }
   .footer-nav {
     order: 1;
     grid-template-columns: repeat(4, 1fr);
-    gap: 2rem;
-    width: 100%;
+    gap: 1.332rem;
+    width: calc(100% + 1.455rem);
+    margin-left: -0.203125rem;
     margin-top: 0;
   }
   .footer-nav h2 {
     font-size: 0.9475rem;
-    line-height: 1.263125rem;
-    margin-bottom: 1.25rem;
+    line-height: 1.59984rem;
+    margin-bottom: 1.03rem;
     padding-bottom: 0.75rem;
   }
   .footer-nav a {
     font-size: 0.9475rem;
-    line-height: 1.263125rem;
-    margin-bottom: 0.75rem;
+    line-height: 1.59984rem;
+    margin-bottom: 0.84192rem;
   }
   .site-header {
     font-size: 1rem;
@@ -445,12 +446,13 @@ dialog .form-status {
     order: 0;
   }
   .footer-brand > a img {
-    width: 8.375rem;
+    width: 8.1045rem;
   }
   .socials {
     order: 2;
-    margin-top: 1.25rem;
-    gap: 0.5rem;
+    margin-top: 3.092734375rem;
+    margin-left: 0.0634765625rem;
+    gap: 0.421rem;
   }
   .socials img {
     height: 1.6875rem;
@@ -458,8 +460,11 @@ dialog .form-status {
   }
   .copyright {
     font-size: 0.63125rem;
-    line-height: 1.263125rem;
-    margin-top: 3.75rem;
+    line-height: 1.59984rem;
+    line-height: 1.26336rem;
+    margin-top: 4.6992rem;
+    max-width: 35.078rem;
+    margin-left: 0.0634765625rem;
   }
   dialog {
     width: 80vw;
@@ -545,10 +550,10 @@ dialog .form-status {
     gap: 0.52rem;
   }
   .copyright {
-    max-width: 16.25rem;
+    max-width: 17.609375rem;
     font-size: 0.78rem;
     line-height: 1.3rem;
-    margin-top: 3.75rem;
+    margin-top: 4.694375rem;
   }
   .site-footer {
     min-height: 71.6875rem;

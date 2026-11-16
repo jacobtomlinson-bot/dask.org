@@ -9,27 +9,29 @@ import { asset, learn, explore, deeper, docs } from '../data/site';
 ---
 
 <Site title="Dask | Get Started">
-  <Hero title="Get Started with Dask" center>
-    <p>Ready to dive in? We’re here to help.</p>
-  </Hero>
-  <section class="install-section dark-grid">
-    <div class="install-copy">
-      <h2 class="medium-title">Install Dask</h2>
-      <p>
-        Dask is included by default in Anaconda. You can also install Dask with
-        Pip, or you have several options for installing from source. You can
-        also use Conda to update Dask or to do a minimal Dask install.
-      </p>
-      <a class="button" href={docs + 'install.html'}>
-        Install Now
-      </a>
-    </div>
-    <Terminal
-      code="$ conda install dask"
-      hero
-      loopCodes={['$ conda install dask', '$ pip install "dask[complete]"']}
-    />
-  </section>
+  <div class="get-started-intro dark-grid">
+    <Hero title="Get Started with Dask" center>
+      <p>Ready to dive in? We’re here to help.</p>
+    </Hero>
+    <section class="install-section dark-grid">
+      <div class="install-copy">
+        <h2 class="medium-title">Install Dask</h2>
+        <p>
+          Dask is included by default in Anaconda. You can also install Dask
+          with Pip, or you have several options for installing from source. You
+          can also use Conda to update Dask or to do a minimal Dask install.
+        </p>
+        <a class="button" href={docs + 'install.html'}>
+          Install Now
+        </a>
+      </div>
+      <Terminal
+        code="$ conda install dask"
+        hero
+        loopCodes={['$ conda install dask', '$ pip install "dask[complete]"']}
+      />
+    </section>
+  </div>
   <section class="learn-section light-grid">
     <img
       class="learn-art-top"
@@ -61,7 +63,7 @@ import { asset, learn, explore, deeper, docs } from '../data/site';
       ))}
     </div>
   </section>
-  <section class="explore-section light-grid">
+  <section class="explore-section light-grid large-grid">
     <h2>Explore the Possibilities</h2>
     <p>
       Dask is a versatile tool that supports a variety of workloads. Here are

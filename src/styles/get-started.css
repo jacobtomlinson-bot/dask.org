@@ -1,4 +1,7 @@
 /* get-started: component-owned base, desktop, tablet, mobile and reduced-motion rules. Keep each selector in its owning tier; do not append refinement layers. */
+.get-started-intro > .dark-grid {
+  background-image: none;
+}
 .install-section {
   padding: 0 var(--gutter);
   display: grid;
@@ -145,6 +148,7 @@
   margin-top: 2.5rem;
 }
 .deeper {
+  background-image: none;
   background-color: #30363a;
   color: white;
   padding: 4.5rem var(--gutter) 0;
@@ -208,6 +212,7 @@
 }
 @media (min-width: 992px) {
   .deeper {
+    background-image: url('/assets/grid-half-get-st.svg');
     min-height: 20.125rem;
   }
   .learn-section {

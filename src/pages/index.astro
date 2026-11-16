@@ -2,6 +2,7 @@
 import Site from '../layouts/Site.astro';
 import '../styles/home.css';
 import '../styles/cases.css';
+import '../styles/testimonials.css';
 import '../styles/illustrations.css';
 import Terminal from '../components/Terminal.astro';
 import Dashboard from '../components/Dashboard.astro';
@@ -150,12 +151,12 @@ import cases from '../data/cases.json';
   <section class="testimonials">
     <div class="quote-intro">
       <h2>What users say about Dask</h2>
-      <p>
-        People use Dask and like it!
-        <br />
-        You won’t be alone!
-      </p>
-      <small>It’s easy　—　It’s massive　—　It solved my problem</small>
+      <p>People use Dask and like it! You won’t be alone!</p>
+      <ul class="quote-benefits" aria-label="Why people use Dask">
+        <li>It’s easy</li>
+        <li>It’s massive</li>
+        <li>It solved my problem</li>
+      </ul>
     </div>
     <div class="quote-columns">
       {[quotes.slice(0, 4), quotes.slice(4)].map((col) => (
@@ -198,7 +199,7 @@ import cases from '../data/cases.json';
       ))}
     </div>
   </section>
-  <section class="use-cases light-grid">
+  <section class="use-cases light-grid large-grid">
     <h2 class="boxed">Use Cases</h2>
     <p>Anything you can do with Python, you can scale with Dask</p>
     <div class="cases-grid">

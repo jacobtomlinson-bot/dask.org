@@ -1,0 +1,550 @@
+[
+  [
+    {
+      "tag": "DIV",
+      "cls": "text-large text-weight-bold",
+      "text": "People use Dask and like it! You won’t be alone!",
+      "r": {
+        "x": 43,
+        "y": 5041.40625,
+        "width": 310.484375,
+        "height": 66.5625,
+        "top": 5041.40625,
+        "right": 353.484375,
+        "bottom": 5107.96875,
+        "left": 43
+      },
+      "css": {
+        "fontSize": "24.96px",
+        "fontWeight": "700",
+        "lineHeight": "33.2787px",
+        "padding": "0px",
+        "margin": "0px 0px 8.32065px",
+        "display": "block",
+        "gap": "normal",
+        "width": "310.484px",
+        "height": "66.5625px",
+        "minHeight": "0px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "quote-text-width",
+      "text": "People use Dask and like it! You won’t be alone!",
+      "r": {
+        "x": 43,
+        "y": 5041.40625,
+        "width": 310.484375,
+        "height": 66.5625,
+        "top": 5041.40625,
+        "right": 353.484375,
+        "bottom": 5107.96875,
+        "left": 43
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "4.3329px 0px 0px",
+        "display": "block",
+        "gap": "normal",
+        "width": "310.484px",
+        "height": "66.5625px",
+        "minHeight": "0px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "quote-text",
+      "text": "What users say about DaskPeople use Dask and like it! You won’t be alone!It’s easyIt’s massiveIt solved my problem",
+      "r": {
+        "x": 30.015625,
+        "y": 4946.609375,
+        "width": 329.96875,
+        "height": 235.171875,
+        "top": 4946.609375,
+        "right": 359.984375,
+        "bottom": 5181.78125,
+        "left": 30.015625
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "15.6px 6.5013px 15.6px 12.9987px",
+        "margin": "0px",
+        "display": "block",
+        "gap": "normal",
+        "width": "329.969px",
+        "height": "235.172px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "grid quotes",
+      "text": "What users say about DaskPeople use Dask and like it! You won’t be alone!It’s easyIt’s massiveIt solved my problem“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”Wes McKinney, Pandas“At Capital One, early implementations of Dask have reduced model training times by 91% withi",
+      "r": {
+        "x": 30.015625,
+        "y": 4946.609375,
+        "width": 329.96875,
+        "height": 2967.90625,
+        "top": 4946.609375,
+        "right": 359.984375,
+        "bottom": 7914.515625,
+        "left": 30.015625
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0.39px 0px 23.4px",
+        "display": "flex",
+        "gap": "16px 0px",
+        "width": "329.969px",
+        "height": "2967.91px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "container",
+      "text": "What users say about DaskPeople use Dask and like it! You won’t be alone!It’s easyIt’s massiveIt solved my problem“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”Wes McKinney, Pandas“At Capital One, early implementations of Dask have reduced model training times by 91% withi",
+      "r": {
+        "x": 30.015625,
+        "y": 4860.4375,
+        "width": 329.96875,
+        "height": 3163.265625,
+        "top": 4860.4375,
+        "right": 359.984375,
+        "bottom": 8023.703125,
+        "left": 30.015625
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "85.8px 0px",
+        "margin": "0px",
+        "display": "flex",
+        "gap": "normal",
+        "width": "329.969px",
+        "height": "3163.27px",
+        "minHeight": "0px"
+      }
+    }
+  ],
+  [
+    {
+      "tag": "DIV",
+      "cls": "text-medium",
+      "text": "“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”",
+      "r": {
+        "x": 50.046875,
+        "y": 5271.859375,
+        "width": 289.90625,
+        "height": 124.765625,
+        "top": 5271.859375,
+        "right": 339.953125,
+        "bottom": 5396.625,
+        "left": 50.046875
+      },
+      "css": {
+        "fontSize": "18.72px",
+        "fontWeight": "400",
+        "lineHeight": "24.96px",
+        "padding": "0px",
+        "margin": "0px",
+        "display": "block",
+        "gap": "normal",
+        "width": "289.906px",
+        "height": "124.766px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "text-quote",
+      "text": "“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”Wes McKinney, Pandas",
+      "r": {
+        "x": 30.546875,
+        "y": 5197.78125,
+        "width": 328.90625,
+        "height": 265.125,
+        "top": 5197.78125,
+        "right": 359.453125,
+        "bottom": 5462.90625,
+        "left": 30.546875
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "23.4px 19.5px",
+        "margin": "0px",
+        "display": "flex",
+        "gap": "15.6px",
+        "width": "328.906px",
+        "height": "265.125px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "text-quotes-col",
+      "text": "“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”Wes McKinney, Pandas“At Capital One, early implementations of Dask have reduced model training times by 91% within a few months of development effort.”Ryan McEntee, Capital One“My climate science research has been made possible",
+      "r": {
+        "x": 30.546875,
+        "y": 5197.78125,
+        "width": 328.90625,
+        "height": 1231.265625,
+        "top": 5197.78125,
+        "right": 359.453125,
+        "bottom": 6429.046875,
+        "left": 30.546875
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px",
+        "display": "flex",
+        "gap": "7.8px",
+        "width": "328.906px",
+        "height": "1231.27px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "text-quotes-wr",
+      "text": "“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”Wes McKinney, Pandas“At Capital One, early implementations of Dask have reduced model training times by 91% within a few months of development effort.”Ryan McEntee, Capital One“My climate science research has been made possible",
+      "r": {
+        "x": 30.546875,
+        "y": 5197.78125,
+        "width": 328.90625,
+        "height": 2716.734375,
+        "top": 5197.78125,
+        "right": 359.453125,
+        "bottom": 7914.515625,
+        "left": 30.546875
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px 0.5421px",
+        "display": "flex",
+        "gap": "3.9px",
+        "width": "328.906px",
+        "height": "2716.73px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "grid quotes",
+      "text": "What users say about DaskPeople use Dask and like it! You won’t be alone!It’s easyIt’s massiveIt solved my problem“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”Wes McKinney, Pandas“At Capital One, early implementations of Dask have reduced model training times by 91% withi",
+      "r": {
+        "x": 30.015625,
+        "y": 4946.609375,
+        "width": 329.96875,
+        "height": 2967.90625,
+        "top": 4946.609375,
+        "right": 359.984375,
+        "bottom": 7914.515625,
+        "left": 30.015625
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0.39px 0px 23.4px",
+        "display": "flex",
+        "gap": "16px 0px",
+        "width": "329.969px",
+        "height": "2967.91px",
+        "minHeight": "auto"
+      }
+    }
+  ],
+  [
+    {
+      "tag": "DIV",
+      "cls": "text-medium",
+      "text": "“At Capital One, early implementations of Dask have reduced model training times by 91% within a few months of development effort.”",
+      "r": {
+        "x": 50.046875,
+        "y": 5544.78125,
+        "width": 289.90625,
+        "height": 124.765625,
+        "top": 5544.78125,
+        "right": 339.953125,
+        "bottom": 5669.546875,
+        "left": 50.046875
+      },
+      "css": {
+        "fontSize": "18.72px",
+        "fontWeight": "400",
+        "lineHeight": "24.96px",
+        "padding": "0px",
+        "margin": "0px",
+        "display": "block",
+        "gap": "normal",
+        "width": "289.906px",
+        "height": "124.766px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "text-quote",
+      "text": "“At Capital One, early implementations of Dask have reduced model training times by 91% within a few months of development effort.”Ryan McEntee, Capital One",
+      "r": {
+        "x": 30.546875,
+        "y": 5470.703125,
+        "width": 328.90625,
+        "height": 265.125,
+        "top": 5470.703125,
+        "right": 359.453125,
+        "bottom": 5735.828125,
+        "left": 30.546875
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "23.4px 19.5px",
+        "margin": "0px",
+        "display": "flex",
+        "gap": "15.6px",
+        "width": "328.906px",
+        "height": "265.125px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "text-quotes-col",
+      "text": "“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”Wes McKinney, Pandas“At Capital One, early implementations of Dask have reduced model training times by 91% within a few months of development effort.”Ryan McEntee, Capital One“My climate science research has been made possible",
+      "r": {
+        "x": 30.546875,
+        "y": 5197.78125,
+        "width": 328.90625,
+        "height": 1231.265625,
+        "top": 5197.78125,
+        "right": 359.453125,
+        "bottom": 6429.046875,
+        "left": 30.546875
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px",
+        "display": "flex",
+        "gap": "7.8px",
+        "width": "328.906px",
+        "height": "1231.27px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "text-quotes-wr",
+      "text": "“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”Wes McKinney, Pandas“At Capital One, early implementations of Dask have reduced model training times by 91% within a few months of development effort.”Ryan McEntee, Capital One“My climate science research has been made possible",
+      "r": {
+        "x": 30.546875,
+        "y": 5197.78125,
+        "width": 328.90625,
+        "height": 2716.734375,
+        "top": 5197.78125,
+        "right": 359.453125,
+        "bottom": 7914.515625,
+        "left": 30.546875
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px 0.5421px",
+        "display": "flex",
+        "gap": "3.9px",
+        "width": "328.906px",
+        "height": "2716.73px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "grid quotes",
+      "text": "What users say about DaskPeople use Dask and like it! You won’t be alone!It’s easyIt’s massiveIt solved my problem“Dask has been a trailblazer in making distributed and out-of-memory computing in Python easy and accessible for everyone.”Wes McKinney, Pandas“At Capital One, early implementations of Dask have reduced model training times by 91% withi",
+      "r": {
+        "x": 30.015625,
+        "y": 4946.609375,
+        "width": 329.96875,
+        "height": 2967.90625,
+        "top": 4946.609375,
+        "right": 359.984375,
+        "bottom": 7914.515625,
+        "left": 30.015625
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0.39px 0px 23.4px",
+        "display": "flex",
+        "gap": "16px 0px",
+        "width": "329.969px",
+        "height": "2967.91px",
+        "minHeight": "auto"
+      }
+    }
+  ],
+  [
+    {
+      "tag": "DIV",
+      "cls": "text-regular",
+      "text": "Anything you can do with Python, you can scale with Dask",
+      "r": {
+        "x": 30.015625,
+        "y": 8936.640625,
+        "width": 329.96875,
+        "height": 49.90625,
+        "top": 8936.640625,
+        "right": 359.984375,
+        "bottom": 8986.546875,
+        "left": 30.015625
+      },
+      "css": {
+        "fontSize": "16.6413px",
+        "fontWeight": "400",
+        "lineHeight": "24.96px",
+        "padding": "0px",
+        "margin": "0px",
+        "display": "block",
+        "gap": "normal",
+        "width": "329.969px",
+        "height": "49.9062px",
+        "minHeight": "0px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "mar-top-xsmall",
+      "text": "Anything you can do with Python, you can scale with Dask",
+      "r": {
+        "x": 30.015625,
+        "y": 8936.640625,
+        "width": 329.96875,
+        "height": 49.90625,
+        "top": 8936.640625,
+        "right": 359.984375,
+        "bottom": 8986.546875,
+        "left": 30.015625
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "4.3329px 0px 0px",
+        "display": "block",
+        "gap": "normal",
+        "width": "329.969px",
+        "height": "49.9062px",
+        "minHeight": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "cls": "container center",
+      "text": "Use CasesAnything you can do with Python, you can scale with DaskNYC Uber/LyftToolsDataFramesParquetData50 GB of Parquet dataScalable ETL PipelineToolsDeltalakeStreamlitPrefectData2 TB of TPC-H JSON recordsNational Water ModelToolsXarrayZarrFloxData250 TB of Zarr dataTPC-H BenchmarkToolsSparkDuckDBPolarsDataStandard SQL benchmark resultsNASA Satell",
+      "r": {
+        "x": 30.015625,
+        "y": 8806,
+        "width": 329.96875,
+        "height": 2780.265625,
+        "top": 8806,
+        "right": 359.984375,
+        "bottom": 11586.265625,
+        "left": 30.015625
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "70.2px 0px 81.9px",
+        "margin": "0px",
+        "display": "flex",
+        "gap": "normal",
+        "width": "329.969px",
+        "height": "2780.27px",
+        "minHeight": "0px"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "cls": "section-responsive bg-largegridbox",
+      "text": "Use CasesAnything you can do with Python, you can scale with DaskNYC Uber/LyftToolsDataFramesParquetData50 GB of Parquet dataScalable ETL PipelineToolsDeltalakeStreamlitPrefectData2 TB of TPC-H JSON recordsNational Water ModelToolsXarrayZarrFloxData250 TB of Zarr dataTPC-H BenchmarkToolsSparkDuckDBPolarsDataStandard SQL benchmark resultsNASA Satell",
+      "r": {
+        "x": 0,
+        "y": 8763.109375,
+        "width": 390,
+        "height": 2823.15625,
+        "top": 8763.109375,
+        "right": 390,
+        "bottom": 11586.265625,
+        "left": 0
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "42.9px 30.03px 0px",
+        "margin": "0px",
+        "display": "block",
+        "gap": "normal",
+        "width": "390px",
+        "height": "2823.16px",
+        "minHeight": "0px"
+      }
+    },
+    {
+      "tag": "BODY",
+      "cls": "",
+      "text": "Get Started.cls-1{fill:#ebeaee;}Community.cls-1{fill:#ebeaee;}CommunityDemo Day.cls-1{fill:#ebeaee;}Get Help.cls-1{fill:#ebeaee;}Powered ByMailing List .st0{fill:#EBEAEE;} Get Help.cls-1{fill:#ebeaee;}.cls-1{fill:#ebeaee;}Powered ByNews & Events.cls-1{fill:#ebeaee;}BlogBlogDocsSubmit New EventSubmit News FeatureSign up for NewsletterSubmit New Even",
+      "r": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 13662.625,
+        "top": 0,
+        "right": 390,
+        "bottom": 13662.625,
+        "left": 0
+      },
+      "css": {
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "padding": "0px",
+        "margin": "0px",
+        "display": "block",
+        "gap": "normal",
+        "width": "390px",
+        "height": "13662.6px",
+        "minHeight": "100%"
+      }
+    }
+  ]
+]

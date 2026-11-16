@@ -1,3 +1,4 @@
+import { renderContrast } from '../utils/contrast';
 import { renderCode } from '../utils/code';
 const menu = document.querySelector<HTMLButtonElement>('.menu-toggle')!;
 const community =
@@ -144,16 +145,18 @@ if (palette) {
       palette.querySelector('.color-name')!.textContent = b.dataset.name!;
       palette.querySelector('.color-hex')!.textContent = hex;
       buttons.forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
-      palette.querySelector('.accessible-colors')!.textContent = buttons
+      const entries = buttons
         .map((x) => {
           const l = luminance(x.dataset.color!),
             ratio = (Math.max(l, lum) + 0.05) / (Math.min(l, lum) + 0.05);
           return ratio >= 3
-            ? `${x.dataset.color}(${ratio >= 4.5 ? 'AA' : 'AA18'})`
+            ? { hex: x.dataset.color!, rating: ratio >= 4.5 ? 'AA' : 'AA18' }
             : null;
         })
-        .filter(Boolean)
-        .join(' ');
+        .filter(
+          (entry): entry is { hex: string; rating: string } => entry !== null,
+        );
+      renderContrast(palette.querySelector('.accessible-colors')!, entries);
       palette.querySelector('.copy-color')!.textContent = 'Copy Hex Code';
     }),
   );

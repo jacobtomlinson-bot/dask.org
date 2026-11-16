@@ -164,9 +164,12 @@ textarea:focus-visible {
   background-position: center top;
 }
 .light-grid {
-  background-image: var(--grid-light);
+  background-image: var(--grid-dark);
   background-size: 100% auto;
   background-position: center top;
+}
+.light-grid.large-grid {
+  background-image: var(--grid-light);
 }
 .boxed {
   display: table;

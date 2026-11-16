@@ -74,19 +74,19 @@ node scripts/round3-art-bounds.mjs # loaded chart/text separation (included)
 node scripts/round3-states.mjs # all workload/deployment/install states at 767/768/769/991/992
 node scripts/round3-gallery.mjs
 node scripts/round3-sections.mjs
-node scripts/report.mjs # refresh the current round-3 review summary/gallery
+node scripts/report.mjs # refresh the current round-6 review summary (saved final results)
 ```
 
 `BASE_URL=http://127.0.0.1:<port>` overrides the local target. Reference inspection uses GET/HEAD only and blocks mutation methods. `scripts/inspect.mjs`, `details.mjs`, `states.mjs`, `inspect-states.mjs`, and `responsive-details.mjs` retain the bounded reference-capture workflow, including recovery from incomplete captures. They are development evidence tools only. The reference browser uses Node fetch to satisfy Chromium's requests in this environment; it never imports remote code into production.
 
-- `evidence/comparison-scrolled.json`: final comparison after traversing every reference page to trigger lazy artwork. `comparison.json` retains the initial/unscrolled baseline. Both include per-page dimensions, pixel counts, first-viewport differences and geometry.
-- `evidence/local/`, `evidence/reference/`, `evidence/diff/`: final local/reference/full-page diff screenshots.
+- `evidence/comparison-scrolled.json`: historical comparison after traversing every reference page to trigger lazy artwork. `comparison.json` retains the initial/unscrolled baseline. Both include per-page dimensions, pixel counts, first-viewport differences and geometry.
+- `evidence/local/`, `evidence/reference/`, `evidence/diff/`: historical local/reference/full-page diff screenshots; current evidence is in `evidence/round6/`.
 - `evidence/states/`: screenshots and quantitative differences for workload/deployment/explore tabs, four logo states, twelve palette states, three dialog types, desktop community and tablet/mobile navigation.
 - `evidence/tests/results.json`: production-preview assertions and result counts.
 - `evidence/round2/checks.json`: focused production-preview regression results.
 - `evidence/round2/motion/`: original/native dashboard, gauges and counter at nominal 0/1500/4000 ms after scroll, plus static reduced-motion checks; results include actual capture delays.
 - `evidence/round2/local/`: 320/390 overflow evidence, sticky section anchors, empty/filled mobile panels, and original-left/native-right inspection strips.
-- `evidence/REVIEW.md`: current round-3 measured summary, explicit R2-1..R2-4 responses and honest residuals. Earlier B1–B6 responses are retained in Git history.
+- `evidence/REVIEW.md`: current round-6 measured summary, residual-by-residual responses and honest residuals. Earlier B1–B6 responses are retained in Git history.
 - `evidence/round3/gallery.html`: current twelve-width page pairs, all seven terminal states at five neighboring widths, and motion evidence.
 
 Pixel comparisons use pixelmatch threshold 0.1 with antialias differences excluded. Full-page images of different heights are padded white; **percent different is not a "percent accurate" or perceptual-quality score**. State comparisons use each corresponding component's bounding box, so the legacy sidebar's presence can contribute to differences. Original animations, lazy-loaded artwork and failed external resources can change the reference frame. Closed-menu baselines were captured in fresh pages because an earlier cross-breakpoint capture left the legacy menu open. Such older captures remain clearly named, not silently treated as the default state.
@@ -109,32 +109,20 @@ Shared `--design-width` in `src/styles/global.css` is the single fluid-unit basi
 
 Astro allows only one preview per checkout. `npm test` starts/stops its own preview; stop an owned preview first or point `BASE_URL` at that existing server. Tests never submit to the live site.
 
-## Round 4 focused visual review
+## Current round 6 fidelity review
 
-The round4 runner had **65 outer groups** (nested focused assertions are not additive totals). The landscape palette/footer and all-six-card/CTA regressions live in `scripts/round4-checks.mjs`. With a local preview on4321:
-
-```sh
-node scripts/round4-checks.mjs
-node scripts/round4-reference.mjs         # live read-only original component captures
-node scripts/round4-palette-reference.mjs # live read-only original palette boundaries
-REFERENCE_SCROLLED=1 npm run capture      #18 new native canonical images; cached traversed originals
-node scripts/round4-gallery.mjs
-node scripts/report.mjs
-```
-
-See `evidence/REVIEW.md`, `evidence/round4/gallery.html`, measured JSON and original/native screenshots. The three findings are addressed for independent re-review, **not a claim of exact equivalence**. `src/styles/cases.css` is the single owner of card geometry; old scattered card overrides were removed. Main is the sole coordinator and integration owner. Original art/fonts remain source-listed in `src/data/assets.json`; no new artwork was added in this round.
-
-## Round 5 tablet palette review
-
-The current full runner has **66 outer groups**, including `scripts/round5-checks.mjs` (six nested resize/geometry/all-color-copy cases). Tablet768/769/991 swatches and copy bounds are compared to fresh read-only original measurements;767/992 cell geometry is checked against the accepted round4 baseline. Source-owned tablet rules remain in `src/styles/brand.css`; no other production files changed this round.
+The full runner has **67 outer groups**, including all prior responsive/behavior regressions and `scripts/round6-checks.mjs`: eleven component groups at320/390/479/480/601/767/768/769/991/992/1440 plus eleven background-role/continuity assertions. Counts are nested, not additive. Testimonial geometry is owned by `src/styles/testimonials.css`; mixed contrast emphasis uses `src/components/ContrastText.astro` and safe `src/utils/contrast.ts`.
 
 With a local production server on4321:
 
 ```sh
-node scripts/round5-reference.mjs # fresh GET/HEAD-only original captures/measurements
-node scripts/round5-checks.mjs
-node scripts/round5-gallery.mjs
-node scripts/report.mjs
+node scripts/round6-checks.mjs
+WIDTHS=390,768,1440 node scripts/round6-capture.mjs # fresh fully traversed read-only originals and local pages
+LOCAL_ONLY=1 WIDTHS=390,768,1440 node scripts/round6-capture.mjs # refresh only native captures
+node scripts/round6-compare.mjs #18 page pairs, aligned details, pixel diffs and gallery
+node scripts/report.mjs # regenerate report from saved final round6 test results
 ```
 
-Current report: `evidence/REVIEW.md`; focused original/native pairs: `evidence/round5/gallery.html`. This is a signed local review package, not an exact-equivalence or independent-approval claim.
+Current report: `evidence/REVIEW.md`; current pairs: `evidence/round6/gallery.html`; geometry and diagnostics: `evidence/round6/{capture,comparison,checks}.json`. Earlier evidence folders preserve historical review rounds and must not be mistaken for current screenshots. All18 current pairs were inspected, with focused detail crops for testimonials, use cases, tone and press. Source/network mutations remain blocked.
+
+The previously reported390px home/brand/press height gaps are now−2/0/−1px against fresh reference captures. This is not an exact-equivalence claim: small static/paint/icon/typographic and unsynchronized animation differences remain. See the full measured table and limitations in the current report. Main reuses the existing independent tester for the exact revised signed SHA before further integration.
