@@ -1,3 +1,4 @@
+import { renderCode } from '../utils/code';
 const menu = document.querySelector<HTMLButtonElement>('.menu-toggle')!;
 const community =
   document.querySelector<HTMLButtonElement>('.community-toggle')!;
@@ -223,10 +224,12 @@ if (!reduceMotion.matches) {
           index = (index + 1) % frames.length;
           const next = frames[index];
           let cursor = 0;
-          code.textContent = '';
+          renderCode(code, '');
           const type = () => {
             if (!root.isConnected || reduceMotion.matches) return;
-            code.textContent = next.slice(0, ++cursor);
+            renderCode(code, next.slice(0, ++cursor));
+            root.dataset.typing = cursor < next.length ? 'typing' : 'complete';
+            root.dataset.frame = String(index);
             if (cursor < next.length) setTimeout(type, 24);
             else setTimeout(cycle, 4000);
           };
@@ -249,7 +252,11 @@ const brandLinks = [
 if (brandLinks.length) {
   let pending = false;
   const updateBrandSection = () => {
-    const offset = matchMedia('(max-width:600px)').matches ? 82 : 26;
+    const offset = matchMedia('(max-width:767px)').matches
+      ? (document.querySelector('.brand-sidebar')?.getBoundingClientRect()
+          .height ?? 80) + 2
+      : (26 * parseFloat(getComputedStyle(document.documentElement).fontSize)) /
+        16;
     let active: HTMLAnchorElement | undefined;
     for (const link of brandLinks) {
       if (
@@ -295,6 +302,18 @@ const artObserver = new IntersectionObserver(
         'is-playing',
         entry.isIntersecting && !reduceMotion.matches,
       );
+      if (root.dataset.illustration === 'gauges') {
+        const svg = root.querySelector('svg')!;
+        if (entry.isIntersecting && !reduceMotion.matches) {
+          if (!root.dataset.gaugesStarted) {
+            root
+              .querySelectorAll<SVGAnimateTransformElement>('animateTransform')
+              .forEach((animation) => animation.beginElement());
+            root.dataset.gaugesStarted = 'true';
+          }
+          svg.unpauseAnimations();
+        } else svg.pauseAnimations();
+      }
       if (!entry.isIntersecting) root.dataset.started = '';
       if (
         root.dataset.illustration !== 'counter' ||
@@ -330,3 +349,16 @@ const artObserver = new IntersectionObserver(
   { threshold: 0.1 },
 );
 illustrations.forEach((art) => artObserver.observe(art));
+
+reduceMotion.addEventListener('change', () => {
+  for (const art of illustrations) {
+    if (reduceMotion.matches) {
+      art.classList.remove('is-playing');
+      art.querySelector('svg')?.pauseAnimations();
+      art.dataset.started = '';
+    } else {
+      artObserver.unobserve(art);
+      artObserver.observe(art);
+    }
+  }
+});

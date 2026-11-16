@@ -1,3 +1,7 @@
+---
+import { highlightedCode } from '../utils/code';
+---
+
 <div class="dashboard-art" aria-hidden="true" data-illustration="dashboard">
   <div class="dashboard-frame">
     <div class="dashboard-top">
@@ -15,12 +19,11 @@
             '# DataFrames implement the pandas API\nimport dask.dataframe as dd\ndf = dd.read_parquet("s3://data/*.parquet")\ndf.value.mean().compute()',
           ])}
         >
-          <code>
-            # Arrays implement the NumPy API
-            <br />
-            <span>import</span> dask.array <span>as</span> da
-            <br />x = da.random.random(size=(<b>1000, 1000</b>),
-          </code>
+          <code
+            set:html={highlightedCode(
+              '# Arrays implement the NumPy API\nimport dask.array as da\nx = da.random.random((1000, 1000),\n                     chunks=(100, 100))\nx.mean().compute()',
+            )}
+          />
         </div>
         <span class="dashboard-tab selected">PROGRESS STREAM　×</span>
         <svg

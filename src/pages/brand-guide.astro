@@ -177,7 +177,7 @@ const tone = [
         {fonts.map(([font, label, note, size, weight]) => (
           <div class="type-row">
             <span
-              style={`font-family:${font};font-size:${size}px;font-weight:${weight};line-height:${Number(size) > 40 ? 57 : 32}px`}
+              style={`font-family:${font};font-size:${Number(size) / 16}rem;font-weight:${weight};line-height:${(Number(size) > 40 ? 57 : 32) / 16}rem`}
             >
               {font}
             </span>

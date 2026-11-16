@@ -1,13 +1,13 @@
 /* press-mentions: component-owned base, desktop, tablet, mobile and reduced-motion rules. Keep each selector in its owning tier; do not append refinement layers. */
 .press-section {
-  padding: 81px var(--gutter) 100px;
+  padding: 5.0625rem var(--gutter) 6.25rem;
   display: grid;
   grid-template-columns: 25% 75%;
   gap: 0;
-  padding-bottom: 117px;
+  padding-bottom: 7.3125rem;
 }
 .press-aside {
-  padding: 24px 44px;
+  padding: 1.5rem 2.75rem;
 }
 .press-aside button {
   border: 0;
@@ -16,44 +16,44 @@
   font-weight: 600;
   text-decoration: underline;
   text-decoration-color: var(--yellow);
-  text-underline-offset: 4px;
+  text-underline-offset: 0.25rem;
   position: sticky;
-  top: 30px;
+  top: 1.875rem;
 }
 .press-list {
   display: grid;
-  gap: 12px;
+  gap: 0.75rem;
   min-width: 0;
 }
 .press-card {
   display: grid;
   align-items: center;
   background: #f5f7f5;
-  padding: 32px 44px 36px;
-  min-height: 131px;
-  grid-template-columns: 158px 1fr;
-  gap: 52px;
-  padding-bottom: 34px;
+  padding: 2rem 2.75rem 2.25rem;
+  min-height: 8.1875rem;
+  grid-template-columns: 9.875rem 1fr;
+  gap: 3.25rem;
+  padding-bottom: 2.125rem;
   min-width: 0;
 }
 .press-card img {
-  height: 65px;
+  height: 4.0625rem;
   object-fit: contain;
   padding-right: 0;
-  width: 160px;
+  width: 10rem;
 }
 .press-card > div {
-  border-left: 2px solid #33363d;
-  padding-left: 46px;
+  border-left: 0.125rem solid #33363d;
+  padding-left: 2.875rem;
   min-width: 0;
 }
 .press-card time {
-  font-size: 16px;
+  font-size: 1rem;
   color: var(--blue);
 }
 .press-card h2 {
-  font-size: 20px;
-  line-height: 32px;
+  font-size: 1.25rem;
+  line-height: 2rem;
   font-weight: 700;
 }
 .press-card:hover h2 {
@@ -62,15 +62,15 @@
 }
 @media (max-width: 1100px) {
   .press-card {
-    grid-template-columns: 140px 1fr;
-    gap: 24px;
-    padding: 28px;
+    grid-template-columns: 8.75rem 1fr;
+    gap: 1.5rem;
+    padding: 1.75rem;
   }
   .press-card img {
-    width: 140px;
+    width: 8.75rem;
   }
   .press-card > div {
-    padding-left: 24px;
+    padding-left: 1.5rem;
   }
 }
 @media (max-width: 991px) {
@@ -78,106 +78,135 @@
     grid-template-columns: 20% 80%;
   }
   .press-aside {
-    padding: 16px 20px 16px 0;
+    padding: 1rem 1.25rem 1rem 0;
   }
   .press-card {
-    grid-template-columns: 110px 1fr;
-    gap: 20px;
-    padding: 24px;
+    grid-template-columns: 6.875rem 1fr;
+    gap: 1.25rem;
+    padding: 1.5rem;
   }
   .press-card img {
-    width: 110px;
+    width: 6.875rem;
   }
   .press-card h2 {
-    font-size: 18px;
-    line-height: 26px;
+    font-size: 1.125rem;
+    line-height: 1.625rem;
   }
 }
-@media (max-width: 991px) and (min-width: 601px) {
+@media (max-width: 991px) and (min-width: 768px) {
   .press-section {
-    height: 1361px;
-    padding: 55.45px var(--gutter);
+    height: 85.0625rem;
+    padding: 3.465625rem var(--gutter);
     grid-template-columns: 25% 75%;
   }
   .press-aside {
-    padding: 20px 22px 0;
+    padding: 1.25rem 1.375rem 0;
   }
   .press-aside button {
-    font-size: 13.475px;
+    font-size: 0.842187rem;
   }
   .press-list {
-    gap: 8px;
+    gap: 0.5rem;
   }
   .press-card {
-    padding: 26px 29px;
-    grid-template-columns: 100px 1fr;
-    gap: 50px;
-    min-height: 118px;
-    padding-top: 22px;
-    padding-bottom: 22px;
+    padding: 1.625rem 1.8125rem;
+    grid-template-columns: 6.25rem 1fr;
+    gap: 3.125rem;
+    min-height: 7.375rem;
+    padding-top: 1.375rem;
+    padding-bottom: 1.375rem;
   }
   .press-card img {
-    width: 100px;
-    height: 50px;
+    width: 6.25rem;
+    height: 3.125rem;
   }
   .press-card > div {
-    padding-left: 28px;
+    padding-left: 1.75rem;
     border-left-width: 1px;
   }
   .press-card time {
-    font-size: 13.475px;
-    line-height: 20.21px;
+    font-size: 0.842187rem;
+    line-height: 1.263125rem;
   }
   .press-card h2 {
-    font-size: 16.84px;
-    line-height: 26.95px;
+    font-size: 1.0525rem;
+    line-height: 1.684375rem;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 767px) {
   .press-section {
     display: block;
-    padding: 85.8px var(--gutter) 81.9px;
-    padding-bottom: 121px;
+    padding: 5.3625rem var(--gutter) 5.11875rem;
+    padding-bottom: 7.5625rem;
   }
   .press-card {
     display: block;
     min-height: 0;
-    padding: 28px 25px 22px;
+    padding: 1.75rem 1.5625rem 1.375rem;
   }
   .press-card img {
     display: block;
     object-position: left;
     width: auto;
-    max-width: 160px;
-    height: 70px;
-    margin: 0 0 26px;
+    max-width: 10rem;
+    height: 4.375rem;
+    margin: 0 0 1.625rem;
   }
   .press-card > div {
     border: 0;
     padding: 0;
     padding-left: 0;
-    border-top: 2px solid #33363d;
-    padding-top: 31px;
+    border-top: 0.125rem solid #33363d;
+    padding-top: 1.9375rem;
   }
   .press-aside {
-    padding: 27px 0 110px;
+    padding: 1.6875rem 0 6.875rem;
     text-align: center;
   }
   .press-card time {
-    font-size: 16.64px;
-    line-height: 24.96px;
+    font-size: 1.04rem;
+    line-height: 1.56rem;
   }
   .press-card h2 {
-    font-size: 20.8px;
-    line-height: 33.28px;
+    font-size: 1.3rem;
+    line-height: 2.08rem;
     width: auto;
     max-width: 100%;
     overflow-wrap: break-word;
   }
   .press-list {
-    gap: 19.5px;
+    gap: 1.21875rem;
   }
   .press-aside button {
-    font-size: 16.64px;
+    font-size: 1.04rem;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+  .press-section {
+    padding: 4.16rem 7.54vw 6rem;
+  }
+  .press-aside {
+    padding: 1.56rem 0 4.89rem;
+  }
+  .press-card {
+    display: grid;
+    grid-template-columns: 9.36rem minmax(0, 1fr);
+    gap: 2.34rem;
+    padding: 1.56rem;
+  }
+  .press-card img {
+    margin: 0;
+    width: 9.36rem;
+    height: 4.68rem;
+    max-width: 100%;
+  }
+  .press-card > div {
+    border-top: 0;
+    border-left: 1px solid #33363d;
+    padding: 0 0 0 1.56rem;
+  }
+  .press-list {
+    gap: 0.936rem;
   }
 }

@@ -1,74 +1,98 @@
-# Local developer review package
+# Round 3 — local developer review package
 
-Card: 549aad55-ef02-4222-a004-0df05ae01ca1 (dask)
+Card: 549aad55-ef02-4222-a004-0df05ae01ca1. Parent reviewed revision: 01a303ea07ffdeb379e2d5c65999edbeab5460b4.
 
-Outcome: **ready_for_review**, not visual-equivalence acceptance. Main must send the committed local SHA to the independent tester. No reviewer approval has been obtained or claimed. No remote, push, PR, deployment or CI workflow was created.
+Outcome: **ready_for_review**, not acceptance or exact-equivalence certification. Main owns routing to the same independent tester and all card/completion decisions. The signed exact SHA is in the developer handoff; no remote, push, PR, deployment or CI workflow was created.
+
+## Explicit R2-1..R2-4 responses
+
+- **R2-1:** replaced frozen pixel geometry with shared fluid design units and separately owned phone (<480), landscape-phone (480–767), tablet (768–991), and desktop (≥992) tiers. All six routes and shared chrome use the scale. The 601px brand page now has full-width stacked content and a horizontal sticky bar; desktop/tablet retain their vertical rail. Landscape-specific organization/sponsor, learning, case, quote and support grids were inspected below the fold and corrected, rather than merely suppressing document overflow. Brand specimens scale together, with no measured text collisions. No new overflow-masking workaround was added. Loaded original adoption-chart artwork was restored, with text/art separation checks. Source manifests include the four appropriate responsive grid artworks.
+- **R2-2:** shared safe Python token rendering now drives both static Astro output and native typing. Client rendering uses text nodes/spans, not untrusted HTML. Dashboard code uses white-space:pre; terminal lines and syntax classes survive completed frame transitions. Desktop/mobile normal and reduced-motion cases were inspected after complete transitions, not merely at 4000ms.
+- **R2-3:** needle rotations use native SVG animateTransform with an explicit gauge-local (0,0) pivot, not CSS rotation around the outer SVG's center. Five sampled normal-motion phases at both1440/390 keep both paths within the SVG and show yellow pixels in each ring. Reduced motion stays static; offscreen/pref-change handling pauses native animation.
+- **R2-4:** corrected terminal font/line-height and separated window-body insets from intrinsic pre content. Source newlines do not wrap arbitrarily. All four workload states, both deployment states and installation were captured at767/768/769/991/992 (35 original/native pairs). Landscape tabs/actions and deployment headings were corrected after inspecting those comparisons. Correct section-specific dark/white grid artwork follows each tier. All18 canonical full-page captures were refreshed against the final production build.
 
 ## Verified checks
 
-- Production Astro build: six requested pages plus explanatory 404.
-- Playwright production-preview groups: **61 passed, 0 failed**, including the focused round-2 aggregate detailed below.
-- Prettier format check passed; npm audit reports no known dependency vulnerabilities at verification time.
-- Runtime is static HTML/CSS plus native browser JavaScript; no client framework hydration or Webflow implementation assets.
-- Artwork and fonts are local; source manifest: src/data/assets.json.
-- Form submissions prevented (including native method=dialog fallback); no live mutation tests performed.
+- Astro production build: six requested pages plus explanatory404.
+- npm test: **64 production-preview groups passed, 0 failed**. Its aggregates include 141 focused prior-review cases, 72 full-page responsive cases, 28 full-transition/phased motion cases and 12 loaded-artwork bounds/text-separation cases. These are nested counts, not additive independent test totals.
+- Responsive captures/checks:320/390/479/480/599/600/601/767/768/991/992/1440 across all six routes. Text-bound checks examine visible headings/paragraphs/buttons/time labels throughout main, not just h1 or scrollWidth; specimen collision checks use text ranges. Existing19-width regressions remain enabled.
+- Format check and git diff --check pass; npm audit reports zero known vulnerabilities. The earlier preview-start refusal was an Astro single-preview workspace lock; the owned preview was stopped before the final successful test run.
+- Existing B1 destinations/state labels, sticky active navigation, B5 safe forms and B6 document-width gates remain exercised. Local form submits remain prevented and report Not sent; no live form submissions were performed.
+- Static Astro/native browser JS/plain CSS only. Original public artwork/fonts are local and source-listed in src/data/assets.json; no production Webflow/jQuery/Lottie implementation dependency.
 
-## Full-page visual comparisons
+## Measured typography (reference / native)
 
-All six reference pages were traversed from top to bottom at 1440×1000, 768×900, and 390×900 to trigger reference lazy artwork; those original captures are reused rather than duplicated. All 18 final local views were refreshed after the shared and route-owned CSS changes. These **fully scrolled** references are more representative than an initial full-page screenshot taken without scrolling. Local captures honor reduced motion. Reference animations are uncontrolled, and dynamic/lazy resources can vary.
+| Width | Brand h1 px | Brand body paragraph px |
+|---|---|---|
+| 320 | 30.72 / 30.72px | 13.6544 / 13.6533px |
+| 480 | 25.2624 / 25.2624px | 10.6656 / 10.6667px |
+| 601 | 31.6306 / 31.6306px | 13.3542 / 13.3556px |
+| 992 | 38.5789 / 38.5778px | 11.0211 / 11.0222px |
 
-| Page | View | Reference size | Local size | Pixels different | First viewport different |
-|---|---|---|---|---:|---:|
-| home | desktop | 1440×8267 | 1440×8289 | 6.157% | 5.034% |
-| get-started | desktop | 1440×4252 | 1440×4256 | 2.67% | 1.926% |
-| get-help | desktop | 1440×2011 | 1440×2011 | 2.008% | 2.743% |
-| powered-by | desktop | 1440×5531 | 1440×5533 | 3.419% | 4.625% |
-| brand-guide | desktop | 1440×5128 | 1440×5133 | 6.646% | 2.479% |
-| press-mentions | desktop | 1440×2379 | 1440×2379 | 2.017% | 2.006% |
-| home | tablet | 768×7905 | 768×7905 | 8.597% | 7.492% |
-| get-started | tablet | 768×3771 | 768×3771 | 6.709% | 5.542% |
-| get-help | tablet | 768×2079 | 768×2079 | 4.711% | 6.661% |
-| powered-by | tablet | 768×4473 | 768×4477 | 4.761% | 8.933% |
-| brand-guide | tablet | 768×4216 | 768×4216 | 10.665% | 7.824% |
-| press-mentions | tablet | 768×2251 | 768×2251 | 5.364% | 5.484% |
-| home | mobile | 390×13663 | 390×13803 | 11.2% | 5.555% |
-| get-started | mobile | 390×7137 | 390×7136 | 7.803% | 6.059% |
-| get-help | mobile | 390×3766 | 390×3766 | 5.082% | 4.731% |
-| powered-by | mobile | 390×13705 | 390×13705 | 5.041% | 10.536% |
-| brand-guide | mobile | 390×6945 | 390×6981 | 9.602% | 7.608% |
-| press-mentions | mobile | 390×4667 | 390×4704 | 7.493% | 3.291% |
+| Width | Default workload reference font / line | Native font / line | pre content height reference / native px |
+|---|---|---|---|
+| 767 | 17.0427px / 25.5641px | 17.0444px / 25.5667px | 230.0625 / 230.0625 |
+| 768 | 10.752px / 15.36px | 10.752px / 15.36px | 138.234375 / 138.234375 |
+| 769 | 10.766px / 15.38px | 10.766px / 15.38px | 138.375 / 138.375 |
+| 991 | 13.874px / 19.82px | 13.874px / 19.82px | 178.3125 / 178.3125 |
+| 992 | 9.92px / 14.88px | 9.92px / 14.88px | 133.875 / 133.875 |
 
-Method: pixelmatch threshold 0.1, antialias differences excluded, shorter images padded white. These are pixel differences, **not percent accuracy**. No pixel-perfect threshold has passed. Geometry and exact pixel counts are in comparison-scrolled.json. Initial/unscrolled comparison.json is retained for transparency (18 views).
+## Canonical full-page comparisons
 
-## Interactive states
+Existing fully traversed originals are reused. Final native captures use the production build and reduced motion. Original animation phases are uncontrolled. Pixelmatch threshold0.1, antialias differences excluded; shorter pages padded white. **Different pixels are not a percent-accuracy score or an acceptance threshold.**
 
-31 reference/local comparisons are in states/results.json, with both screenshots and diffs. Includes four workload tabs, two deployment tabs, three exploration tabs, four logo color states, twelve palette selections, three submission panels, and desktop/tablet/mobile navigation. Corresponding component bounding boxes differ (legacy captures can include their sidebar); this affects state-level pixel percentages.
+| Page | View | Reference size | Native size | Different pixels |
+|---|---|---|---|---:|
+| home | desktop | 1440×8267 | 1440×8289 | 6.018% |
+| get-started | desktop | 1440×4252 | 1440×4256 | 2.669% |
+| get-help | desktop | 1440×2011 | 1440×2011 | 2.008% |
+| powered-by | desktop | 1440×5531 | 1440×5533 | 3.465% |
+| brand-guide | desktop | 1440×5128 | 1440×5133 | 6.646% |
+| press-mentions | desktop | 1440×2379 | 1440×2379 | 2.017% |
+| home | tablet | 768×7905 | 768×7905 | 8.039% |
+| get-started | tablet | 768×3771 | 768×3771 | 6.689% |
+| get-help | tablet | 768×2079 | 768×2079 | 4.688% |
+| powered-by | tablet | 768×4473 | 768×4477 | 4.792% |
+| brand-guide | tablet | 768×4216 | 768×4216 | 10.609% |
+| press-mentions | tablet | 768×2251 | 768×2251 | 5.354% |
+| home | mobile | 390×13663 | 390×13803 | 11.2% |
+| get-started | mobile | 390×7137 | 390×7136 | 7.802% |
+| get-help | mobile | 390×3766 | 390×3766 | 5.082% |
+| powered-by | mobile | 390×13705 | 390×13705 | 4.965% |
+| brand-guide | mobile | 390×6945 | 390×6981 | 9.581% |
+| press-mentions | mobile | 390×4667 | 390×4704 | 7.493% |
 
-## Residual gaps / decisions
+## Honest remaining differences / boundaries
 
-1. Exact visual equivalence is **not** established. Dashboard task/progress drawing, MEMORY/CPU resource gauges and automatic counters are native reconstructions. Their curves, task distribution, typing and timings still differ from original runtime frames; timed component captures are in round2/motion/results.json. These are observed differences, not antialias-only claims.
-2. Small text wrapping, typography/specimen baselines, footer and section whitespace differences remain. The complete page differences above are not acceptance thresholds; the independent tester still decides whether the original visual/behavior requirements are met.
-3. Native semantic tabs/dialogs, keyboard focus rings, reduced motion, and the mandatory truthful local-form notice intentionally differ. Forms never claim success; services, privacy/retention and spam controls require a separate authorized decision.
-4. Organization/project/case artwork remains locally served. Captured adoption metrics are historical copy, not live measurements. Logo/font download destinations are preserved; archive payload integrity remains unverified.
-5. Blog/event destinations remain null/pending in src/data/redirects.json; no guessed redirects. The original support-add link remains its observed # placeholder.
-6. Chromium only: behavior at 19 widths (320/360/390/599/600/601/767/768/990/991/992/993/1099/1100/1101/1440/1599/1600/1601), full-page visual captures at 1440/768/390 and selected 320 screenshots. Safari/Firefox, physical devices, arbitrary widths, production hosting and real submissions remain unverified.
+Exact equivalence is not established. Native task streams, typing/counter timing and gauge curves are independent reconstructions, not synchronized replicas of the legacy runtime. Some text wrapping, partner-logo sizing, specimen baselines, button/section spacing and footer geometry still differ. For example, the canonical390px home remains about140px longer than the original; the table above retains every measured page-size residual.
 
-## Round 2: explicit independent-review responses
+Settled601px whole-page heights (not used as an automatic pass/fail threshold):
 
-The prior SHA acfc9b7 received CHANGES_REQUIRED. No approval is implied by this developer package.
+| Page | Reference px | Native px | Native minus reference |
+|---|---:|---:|---:|
+| home | 9065 | 9032 | -33 |
+| get-started | 4586 | 4586 | 0 |
+| get-help | 2438 | 2438 | 0 |
+| powered-by | 6481 | 6486 | 5 |
+| brand-guide | 4704 | 4801 | 97 |
+| press-mentions | 2572 | 2580 | 8 |
 
-- **B1**: workload secondary actions are data-driven for all four tabs; both deployment states retain documentation/video actions. Inline performance/cost anchors, homepage Get started and en/latest Install Now destinations restored. Focused desktop/mobile assertions check each active panel’s visible label + exact href, not a global URL set.
-- **B2**: Dashboard.astro draws the original two-pane notebook/task/progress composition with native SVG bars. Gauges.astro draws MEMORY/CPU rings, labels and moving needles. CostCounter.astro is automatic, with no substituted range input. Native CSS/JS choreography pauses offscreen; reduced motion uses static representative content. Mobile partner rows and compact terminal geometry restored. Timed normal-motion original/native captures plus native motion/static assertions are in round2/motion/.
-- **B3**: BrandNav.astro supplies native Dask/brush/type/microphone artwork; sticky desktop rail/mobile bar, active-section observation and unobscured scroll offsets are implemented. Tests navigate Logos -> Colors -> Typography -> Tone and back while the rail remains available at desktop and mobile.
-- **B4**: corrected swatch sequence and column grouping/selected-salmon gap, 156×58.5 mobile logo specimens, table tracks/wrapping, shared button dimensions, original mobile grid artwork, measured desktop dropdown and footer spacing. All six routes re-captured at all three visual widths and actual images inspected. Remaining differences are disclosed above, not mislabeled exactness.
-- **B5**: mobile drawer stacks three tabs and both names; close control is top-right; field/textarea/submit baselines are measured against the original. Empty and filled captures cover all three forms; safe prevented submissions still report Not sent. Keyboard Escape/focus behavior is exercised.
-- **B6**: press cards use min-width:0/fluid headings and brand specimens use minmax(0,1fr) tracks. No new clipping/overflow:hidden workaround. Every route passes intrinsic-width assertions at 320/360/390 and breakpoint neighbors; screenshots retain 320 evidence.
-- **DRY**: removed refinements.css and the homepage/brand page-style piles. Shared primitives/chrome and six route-owned styles each have explicit base and responsive ownership; route CSS imports follow Site so the cascade stays intentional. Repeated workload CTAs remain editable data.
+The paired strips are inspection aids, with original LEFT/native RIGHT. Width montages show first-section crops; below-fold montages alternate section starts and selected mid-section crops, which can overlap and are not continuous pages. Full-resolution full pages remain beside them. The twelve-width captures and all-state comparisons were inspected; no claim is made that every pixel or every interaction at every possible width is identical. Remaining browser coverage is Chromium only, not Safari/Firefox or physical devices. External archive payload integrity and real backend behavior are unverified. Backend/privacy/spam decisions and blog/event destinations still require separate authorization; pending redirect mappings remain null and emit no guessed redirect.
 
-Focused regression suite: **141 passed, 0 failed** (included under the production npm test aggregate). Motion suite: **9 native normal/reduced-motion assertions passed**, with 18 original/native timed comparisons. Actual capture delays are recorded because reference/native animation phases are not synchronized.
+## Evidence and reproduction
 
-## Reproduce and integrate locally
+- round3/gallery.html: all12-width page pairs,70 state captures and motion links.
+- round3/responsive.json, local/, reference/: full-page text bounds, typography/rail geometry and new breakpoint originals. Canonical originals remain in reference/.
+- round3/states/results.json and sheet-{767,768,769,991,992}.png: all seven requested states at each width. Some state component bounding boxes differ; inspect the source/native images, not just their container size.
+- round3/motion/results.json and PNGs: complete token transitions, five normal/reduced gauge phases at1440/390 and visible-yellow counts.
+- round3/art-bounds.json: loaded chart within its section without text overlap at all12 widths.
+- round3/reference-grids.json, reference-stable.json, complete-section-metrics.json: rendered-reference observations, not copied implementation styles.
+- tests/results.json, round2/checks.json, comparison-scrolled.json, runtime-size.json: production checks, preserved regressions, final18 comparisons and measured runtime asset sizes.
 
-See ../README.md for npm ci, npm run dev, npm run build, npm test, npm run format:check and capture commands. For fully scrolled comparison: run node scripts/scroll-reference.mjs, then REFERENCE_SCROLLED=1 npm run capture.
+Setup/run: npm ci; npm run dev -- --port 4321. Build/test: npm run build; npm test; npm run format:check. npm test owns its preview; if a preview is already running, use BASE_URL=http://127.0.0.1:4321 npm test rather than starting a second Astro preview in the same checkout.
 
-Use the exact SHA in the developer handoff. Objects are shared with /home/jtomlinson-bot/Projects/dask/dask.org; a tester can git worktree add its managed review path at that SHA without fetching a remote. Do not merge or publish before Jacob's authorization and the mandatory independent review.
+With a local server: node scripts/round3-checks.mjs; node scripts/round3-motion.mjs; node scripts/round3-art-bounds.mjs. Read-only original/local state captures: node scripts/round3-states.mjs (LOCAL_ONLY=1 reuses originals). Final canonical screenshots: REFERENCE_SCROLLED=1 npm run capture. Refresh galleries/summary: node scripts/round3-gallery.mjs; node scripts/round3-sections.mjs; node scripts/report.mjs.
+
+## Local integration only
+
+Branch: openclaw/dask-org-astro-developer. Objects are shared with /home/jtomlinson-bot/Projects/dask/dask.org; the same tester can switch its retained managed worktree to the handoff SHA without fetching anything. A new reviewer can git worktree add an unused local review path at that SHA. After independent review and Jacob's authorization, main may fast-forward the complete branch from the original base; do not cherry-pick only the round3 delta onto the empty initial project. No integration, publication or card transition was performed by the developer.

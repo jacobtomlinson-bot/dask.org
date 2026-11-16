@@ -1,0 +1,437 @@
+[
+  {
+    "width": 390,
+    "grids": [
+      {
+        "cls": "section-responsive bg-black powered-by",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-1 w-tab-pane w--tab-active",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-2 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-3 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-4 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-1 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-2 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-3 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-4 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-5 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-6 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-7 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-8 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-9 w-tab-pane w--tab-active",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-10 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-11 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-12 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "section-responsive bg-largegridbox typography",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38674_vector-grid-v.mobile-white-bg.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "section-responsive bg-lightgrey tone",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "footer",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38672_vector-grid-v.mobile.svg\")",
+        "size": "499.2px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      }
+    ]
+  },
+  {
+    "width": 601,
+    "grids": [
+      {
+        "cls": "section-responsive bg-black powered-by",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-1 w-tab-pane w--tab-active",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-2 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-3 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-4 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-1 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-2 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-3 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-4 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-5 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-6 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-7 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-8 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-9 w-tab-pane w--tab-active",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-10 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-11 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-12 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "section-responsive bg-largegridbox typography",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38673_vector-grid-h.mobile-white-bg.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "section-responsive bg-lightgrey tone",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "footer",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg\")",
+        "size": "619.03px auto",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "grids": [
+      {
+        "cls": "section-responsive bg-black powered-by",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "0px 0px"
+      },
+      {
+        "cls": "tab-pane-tab-1 w-tab-pane w--tab-active",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-2 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-3 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-4 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-1 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-2 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-3 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-4 colors w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-5 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-6 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-7 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-8 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-9 w-tab-pane w--tab-active",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-10 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-11 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "tab-pane-tab-12 w-tab-pane",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "section-responsive bg-largegridbox typography",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866f_vector-grid-tablet-white-bg.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "section-responsive bg-lightgrey tone",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "50% 0px"
+      },
+      {
+        "cls": "footer",
+        "image": "url(\"https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg\")",
+        "size": "contain",
+        "repeat": "repeat-y",
+        "position": "0px 0px"
+      }
+    ]
+  }
+]

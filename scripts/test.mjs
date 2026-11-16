@@ -256,6 +256,26 @@ try {
       console.log(stdout.trim());
     },
   );
+  for (const script of [
+    'round3-checks.mjs',
+    'round3-motion.mjs',
+    'round3-art-bounds.mjs',
+  ]) {
+    await check(
+      `round-3 ${script}: production-preview regression`,
+      async () => {
+        const { stdout } = await promisify(execFile)(
+          process.execPath,
+          ['scripts/' + script],
+          {
+            env: { ...process.env, BASE_URL: base },
+            maxBuffer: 1024 * 1024,
+          },
+        );
+        console.log(stdout.trim());
+      },
+    );
+  }
 } finally {
   await browser.close();
   server?.kill();

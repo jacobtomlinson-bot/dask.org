@@ -688,5 +688,25 @@
     "path": "/assets/vector-grid-v.mobile-white-bg.svg",
     "url": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38674_vector-grid-v.mobile-white-bg.svg",
     "kind": "artwork"
+  },
+  {
+    "path": "/assets/vector-grid-tablet.svg",
+    "url": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866d_vector-grid-tablet.svg",
+    "kind": "artwork"
+  },
+  {
+    "path": "/assets/vector-grid-tablet-white-bg.svg",
+    "url": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf3866f_vector-grid-tablet-white-bg.svg",
+    "kind": "artwork"
+  },
+  {
+    "path": "/assets/vector-grid-h.mobile3.svg",
+    "url": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38671_vector-grid-h.mobile3.svg",
+    "kind": "artwork"
+  },
+  {
+    "path": "/assets/vector-grid-h.mobile-white-bg.svg",
+    "url": "https://cdn.prod.website-files.com/655926fa24195711dbf38624/655926fa24195711dbf38673_vector-grid-h.mobile-white-bg.svg",
+    "kind": "artwork"
   }
 ]

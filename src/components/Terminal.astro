@@ -1,4 +1,5 @@
 ---
+import { highlightedCode } from '../utils/code';
 const {
   code = '',
   light = false,
@@ -6,17 +7,6 @@ const {
   hero = false,
   loopCodes,
 } = Astro.props;
-function highlight(s: string) {
-  return s
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replace(
-      /("[^"\n]*"|'[^'\n]*'|#[^\n]*|\b(?:import|from|as|def|return|False|True)\b|\b\d+\b)/g,
-      (t) =>
-        `<span class="${t.startsWith('#') ? 'comment' : t.startsWith('"') || t.startsWith("'") ? 'string' : /^\d/.test(t) ? 'number' : 'keyword'}">${t}</span>`,
-    );
-}
 ---
 
 <div
@@ -28,5 +18,7 @@ function highlight(s: string) {
     <i></i>
     <i></i>
   </div>
-  <pre><code set:html={highlight(code)}/></pre>
+  <div class="terminal-body">
+    <pre><code set:html={highlightedCode(code)}/></pre>
+  </div>
 </div>

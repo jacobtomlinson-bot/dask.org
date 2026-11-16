@@ -1,0 +1,952 @@
+[
+  {
+    "slug": "powered-by",
+    "grids": [
+      {
+        "cls": "section-responsive bg-black powered-by",
+        "text": "Powered byDask is an open-sour",
+        "r": {
+          "x": 0,
+          "y": 67.9375,
+          "width": 601,
+          "height": 673.578125,
+          "top": 67.9375,
+          "right": 601,
+          "bottom": 741.515625,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 43.6326px",
+        "gap": "normal"
+      },
+      {
+        "cls": "hero-columns powered",
+        "text": "Powered byDask is an open-sour",
+        "r": {
+          "x": 43.625,
+          "y": 67.9375,
+          "width": 513.75,
+          "height": 673.578125,
+          "top": 67.9375,
+          "right": 557.375,
+          "bottom": 741.515625,
+          "left": 43.625
+        },
+        "columns": "513.75px",
+        "padding": "0px",
+        "gap": "1.67078px 1.31619px"
+      },
+      {
+        "cls": "section-responsive bg-largegridbox no-bot-pad",
+        "text": "Dask is supported by:Add us to",
+        "r": {
+          "x": 0,
+          "y": 741.515625,
+          "width": 601,
+          "height": 725.546875,
+          "top": 741.515625,
+          "right": 601,
+          "bottom": 1467.0625,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.6326px 0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "grid _4-col v-mob-2-col w-dyn-items",
+        "text": "AnacondaDask is installed by d",
+        "r": {
+          "x": 43.625,
+          "y": 949.15625,
+          "width": 513.75,
+          "height": 517.90625,
+          "top": 949.15625,
+          "right": 557.375,
+          "bottom": 1467.0625,
+          "left": 43.625
+        },
+        "columns": "256.047px 256.047px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      },
+      {
+        "cls": "section-responsive bg-largegridbox no-bot-pad",
+        "text": "Companies Powered by DaskThese",
+        "r": {
+          "x": 0,
+          "y": 1467.0625,
+          "width": 601,
+          "height": 1556.578125,
+          "top": 1467.0625,
+          "right": 601,
+          "bottom": 3023.640625,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.6326px 0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "grid _4-col v-mob-2-col w-dyn-items",
+        "text": "",
+        "r": {
+          "x": 43.625,
+          "y": 2194.921875,
+          "width": 513.75,
+          "height": 828.71875,
+          "top": 2194.921875,
+          "right": 557.375,
+          "bottom": 3023.640625,
+          "left": 43.625
+        },
+        "columns": "256.047px 256.047px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      },
+      {
+        "cls": "section-responsive bg-largegridbox bot-pad",
+        "text": "Projects Powered by DaskThese ",
+        "r": {
+          "x": 0,
+          "y": 3023.640625,
+          "width": 601,
+          "height": 1869.46875,
+          "top": 3023.640625,
+          "right": 601,
+          "bottom": 4893.109375,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.6326px 104.574px",
+        "gap": "normal"
+      },
+      {
+        "cls": "grid _4-col v-mob-2-col w-dyn-items",
+        "text": "",
+        "r": {
+          "x": 43.625,
+          "y": 3337.046875,
+          "width": 513.75,
+          "height": 1451.5,
+          "top": 3337.046875,
+          "right": 557.375,
+          "bottom": 4788.546875,
+          "left": 43.625
+        },
+        "columns": "256.047px 256.047px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      },
+      {
+        "cls": "section-responsive bg-lightgrey",
+        "text": "Dask Adoption Metrics6,049,226",
+        "r": {
+          "x": 0,
+          "y": 4893.109375,
+          "width": 601,
+          "height": 424.25,
+          "top": 4893.109375,
+          "right": 601,
+          "bottom": 5317.359375,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 45.676px",
+        "gap": "normal"
+      },
+      {
+        "cls": "hero-columns metrics",
+        "text": "Dask Adoption Metrics6,049,226",
+        "r": {
+          "x": 45.671875,
+          "y": 4947.1875,
+          "width": 510.84375,
+          "height": 316.09375,
+          "top": 4947.1875,
+          "right": 556.515625,
+          "bottom": 5263.28125,
+          "left": 45.671875
+        },
+        "columns": "254.109px 254.109px",
+        "padding": "0px",
+        "gap": "57.696px 2.63839px"
+      },
+      {
+        "cls": "footer",
+        "text": "Get StartedLatestCommunityGet ",
+        "r": {
+          "x": 0,
+          "y": 5317.359375,
+          "width": 601,
+          "height": 925.96875,
+          "top": 5317.359375,
+          "right": 601,
+          "bottom": 6243.328125,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "footer-container w-container",
+        "text": "Get StartedLatestCommunityGet ",
+        "r": {
+          "x": 0,
+          "y": 5317.359375,
+          "width": 601,
+          "height": 925.96875,
+          "top": 5317.359375,
+          "right": 601,
+          "bottom": 6243.328125,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.272px",
+        "gap": "normal"
+      },
+      {
+        "cls": "footer-grid",
+        "text": "Get StartedLatestCommunityGet ",
+        "r": {
+          "x": 44.578125,
+          "y": 5371.4375,
+          "width": 510.84375,
+          "height": 817.8125,
+          "top": 5371.4375,
+          "right": 555.421875,
+          "bottom": 6189.25,
+          "left": 44.578125
+        },
+        "columns": "126.609px 126.625px 126.609px 126.625px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      }
+    ]
+  },
+  {
+    "slug": "get-started",
+    "grids": [
+      {
+        "cls": "section-responsive bg-black get-started",
+        "text": "Get Started with DaskReady to ",
+        "r": {
+          "x": 0,
+          "y": 67.9375,
+          "width": 601,
+          "height": 815.40625,
+          "top": 67.9375,
+          "right": 601,
+          "bottom": 883.34375,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 43.6326px",
+        "gap": "normal"
+      },
+      {
+        "cls": "hero-columns get-started",
+        "text": "Install DaskDask is included b",
+        "r": {
+          "x": 43.625,
+          "y": 273.96875,
+          "width": 513.75,
+          "height": 609.375,
+          "top": 273.96875,
+          "right": 557.375,
+          "bottom": 883.34375,
+          "left": 43.625
+        },
+        "columns": "513.75px",
+        "padding": "0px",
+        "gap": "54.09px 64.307px"
+      },
+      {
+        "cls": "section-responsive bg-lightgrey",
+        "text": "Learn Your Way AroundDo you ha",
+        "r": {
+          "x": 0,
+          "y": 883.34375,
+          "width": 601,
+          "height": 1182.5625,
+          "top": 883.34375,
+          "right": 601,
+          "bottom": 2065.90625,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 45.676px",
+        "gap": "normal"
+      },
+      {
+        "cls": "grid _4-col top-bot-pad get-st-blog",
+        "text": "Learn Your Way AroundDo you ha",
+        "r": {
+          "x": 45.671875,
+          "y": 883.34375,
+          "width": 509.65625,
+          "height": 1182.5625,
+          "top": 883.34375,
+          "right": 555.328125,
+          "bottom": 2065.90625,
+          "left": 45.671875
+        },
+        "columns": "126.688px 126.688px 126.688px 126.688px",
+        "padding": "54.09px 0px 52.287px",
+        "gap": "1.67078px"
+      },
+      {
+        "cls": "section-responsive bg-largegridbox",
+        "text": "Explore the PossibilitiesDask ",
+        "r": {
+          "x": 0,
+          "y": 2065.90625,
+          "width": 601,
+          "height": 726.5,
+          "top": 2065.90625,
+          "right": 601,
+          "bottom": 2792.40625,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.6326px",
+        "gap": "normal"
+      },
+      {
+        "cls": "section-responsive bg-darkgrey get-st",
+        "text": "Dig Deeper into DaskDask has p",
+        "r": {
+          "x": 0,
+          "y": 2792.40625,
+          "width": 601,
+          "height": 321.484375,
+          "top": 2792.40625,
+          "right": 601,
+          "bottom": 3113.890625,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 44.0533px",
+        "gap": "normal"
+      },
+      {
+        "cls": "grid _4-col",
+        "text": "Dig Deeper into DaskDask has p",
+        "r": {
+          "x": 44.046875,
+          "y": 2792.40625,
+          "width": 512.90625,
+          "height": 321.484375,
+          "top": 2792.40625,
+          "right": 556.953125,
+          "bottom": 3113.890625,
+          "left": 44.046875
+        },
+        "columns": "169.859px 169.859px 169.859px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      },
+      {
+        "cls": "bg-btns",
+        "text": "Dask Best PracticesDask Docume",
+        "r": {
+          "x": 0,
+          "y": 3113.890625,
+          "width": 601,
+          "height": 184.15625,
+          "top": 3113.890625,
+          "right": 601,
+          "bottom": 3298.046875,
+          "left": 0
+        },
+        "columns": "247.094px 247.094px",
+        "padding": "36.06px 43.3922px",
+        "gap": "20.0313px"
+      },
+      {
+        "cls": "section-responsive bg-white",
+        "text": "Get More HelpYou can get help ",
+        "r": {
+          "x": 0,
+          "y": 3298.046875,
+          "width": 601,
+          "height": 361.84375,
+          "top": 3298.046875,
+          "right": 601,
+          "bottom": 3659.890625,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.6326px",
+        "gap": "normal"
+      },
+      {
+        "cls": "grid more-help",
+        "text": "Get More HelpYou can get help ",
+        "r": {
+          "x": 43.625,
+          "y": 3352.125,
+          "width": 513.75,
+          "height": 253.6875,
+          "top": 3352.125,
+          "right": 557.375,
+          "bottom": 3605.8125,
+          "left": 43.625
+        },
+        "columns": "170.141px 170.141px 170.141px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      },
+      {
+        "cls": "_3-col w-dyn-items",
+        "text": "go to current company pagego t",
+        "r": {
+          "x": 43.75,
+          "y": 3504.03125,
+          "width": 512.03125,
+          "height": 101.78125,
+          "top": 3504.03125,
+          "right": 555.78125,
+          "bottom": 3605.8125,
+          "left": 43.75
+        },
+        "columns": "170.562px 170.562px 170.562px",
+        "padding": "0px",
+        "gap": "1.31619px"
+      },
+      {
+        "cls": "footer",
+        "text": "Get StartedLatestCommunityGet ",
+        "r": {
+          "x": 0,
+          "y": 3659.890625,
+          "width": 601,
+          "height": 925.96875,
+          "top": 3659.890625,
+          "right": 601,
+          "bottom": 4585.859375,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "footer-container w-container",
+        "text": "Get StartedLatestCommunityGet ",
+        "r": {
+          "x": 0,
+          "y": 3659.890625,
+          "width": 601,
+          "height": 925.96875,
+          "top": 3659.890625,
+          "right": 601,
+          "bottom": 4585.859375,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.272px",
+        "gap": "normal"
+      },
+      {
+        "cls": "footer-grid",
+        "text": "Get StartedLatestCommunityGet ",
+        "r": {
+          "x": 44.578125,
+          "y": 3713.96875,
+          "width": 510.84375,
+          "height": 817.8125,
+          "top": 3713.96875,
+          "right": 555.421875,
+          "bottom": 4531.78125,
+          "left": 44.578125
+        },
+        "columns": "126.609px 126.625px 126.609px 126.625px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      }
+    ]
+  },
+  {
+    "slug": "",
+    "grids": [
+      {
+        "cls": "section-responsive bg-black no-pad-bot",
+        "text": "Parallel PythonFast and EasyEa",
+        "r": {
+          "x": 0,
+          "y": 67.9375,
+          "width": 601,
+          "height": 1439.234375,
+          "top": 67.9375,
+          "right": 601,
+          "bottom": 1507.171875,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 43.6326px",
+        "gap": "normal"
+      },
+      {
+        "cls": "homehero-columns",
+        "text": "Parallel PythonFast and EasyEa",
+        "r": {
+          "x": 43.625,
+          "y": 120.625,
+          "width": 513.75,
+          "height": 620.203125,
+          "top": 120.625,
+          "right": 557.375,
+          "bottom": 740.828125,
+          "left": 43.625
+        },
+        "columns": "513.75px",
+        "padding": "0px",
+        "gap": "55.292px 64.307px"
+      },
+      {
+        "cls": "container-text home-hero",
+        "text": "Parallel PythonFast and EasyEa",
+        "r": {
+          "x": 44.9375,
+          "y": 121.9375,
+          "width": 511.125,
+          "height": 249.4375,
+          "top": 121.9375,
+          "right": 556.0625,
+          "bottom": 371.375,
+          "left": 44.9375
+        },
+        "columns": "none",
+        "padding": "0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "section-responsive bg-white",
+        "text": "Performance at ScaleFast on Ma",
+        "r": {
+          "x": 0,
+          "y": 1507.171875,
+          "width": 601,
+          "height": 1492.59375,
+          "top": 1507.171875,
+          "right": 601,
+          "bottom": 2999.765625,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.6326px",
+        "gap": "normal"
+      },
+      {
+        "cls": "w-layout-grid ticker-grid",
+        "text": "Rows of Data Computed0Cost$0.0",
+        "r": {
+          "x": 60.1875,
+          "y": 2622.1875,
+          "width": 480.625,
+          "height": 307.359375,
+          "top": 2622.1875,
+          "right": 540.8125,
+          "bottom": 2929.546875,
+          "left": 60.1875
+        },
+        "columns": "231.297px 231.312px",
+        "padding": "0px",
+        "gap": "18.03px"
+      },
+      {
+        "cls": "run-dask-tabs w-tabs",
+        "text": "Open Source DeploymentManaged ",
+        "r": {
+          "x": 0,
+          "y": 2999.765625,
+          "width": 601,
+          "height": 823.578125,
+          "top": 2999.765625,
+          "right": 601,
+          "bottom": 3823.34375,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "section-responsive bg-black no-pad-bot",
+        "text": "Where you can run DaskOpen Sou",
+        "r": {
+          "x": 0,
+          "y": 2999.765625,
+          "width": 601,
+          "height": 823.578125,
+          "top": 2999.765625,
+          "right": 601,
+          "bottom": 3823.34375,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 43.6326px",
+        "gap": "normal"
+      },
+      {
+        "cls": "run-dask-tabs-wr",
+        "text": "Open Source DeploymentRun Dask",
+        "r": {
+          "x": 44.65625,
+          "y": 3157.03125,
+          "width": 511.6875,
+          "height": 614.3125,
+          "top": 3157.03125,
+          "right": 556.34375,
+          "bottom": 3771.34375,
+          "left": 44.65625
+        },
+        "columns": "none",
+        "padding": "0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "home-tab-content run-dask",
+        "text": "Open Source DeploymentRun Dask",
+        "r": {
+          "x": 45.96875,
+          "y": 3158.34375,
+          "width": 511.6875,
+          "height": 254.8125,
+          "top": 3158.34375,
+          "right": 557.65625,
+          "bottom": 3413.15625,
+          "left": 45.96875
+        },
+        "columns": "none",
+        "padding": "0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "tab-code-wr run-dask",
+        "text": "from dask.distributed import L",
+        "r": {
+          "x": 44.65625,
+          "y": 3473.25,
+          "width": 511.6875,
+          "height": 298.09375,
+          "top": 3473.25,
+          "right": 556.34375,
+          "bottom": 3771.34375,
+          "left": 44.65625
+        },
+        "columns": "none",
+        "padding": "0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "section-responsive bg-largegridbox overflow-visible",
+        "text": "What users say about DaskPeopl",
+        "r": {
+          "x": 0,
+          "y": 3823.34375,
+          "width": 601,
+          "height": 1600.609375,
+          "top": 3823.34375,
+          "right": 601,
+          "bottom": 5423.953125,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.6326px",
+        "gap": "normal"
+      },
+      {
+        "cls": "section-responsive bg-grey padding-bottom-1unit",
+        "text": "Organizations That Use Dask",
+        "r": {
+          "x": 0,
+          "y": 5423.953125,
+          "width": 601,
+          "height": 566.53125,
+          "top": 5423.953125,
+          "right": 601,
+          "bottom": 5990.484375,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 43.6326px 52.888px",
+        "gap": "normal"
+      },
+      {
+        "cls": "grid _6-col w-dyn-items",
+        "text": "",
+        "r": {
+          "x": 43.625,
+          "y": 5527.890625,
+          "width": 513.75,
+          "height": 409.71875,
+          "top": 5527.890625,
+          "right": 557.375,
+          "bottom": 5937.609375,
+          "left": 43.625
+        },
+        "columns": "170.141px 170.141px 170.141px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      },
+      {
+        "cls": "section-responsive bg-largegridbox",
+        "text": "Use CasesAnything you can do w",
+        "r": {
+          "x": 0,
+          "y": 5990.484375,
+          "width": 601,
+          "height": 1277.140625,
+          "top": 5990.484375,
+          "right": 601,
+          "bottom": 7267.625,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.6326px",
+        "gap": "normal"
+      },
+      {
+        "cls": "grid _4-col use-cases",
+        "text": "NYC Uber/LyftToolsDataFramesPa",
+        "r": {
+          "x": 62.359375,
+          "y": 6197.125,
+          "width": 476.28125,
+          "height": 969.21875,
+          "top": 6197.125,
+          "right": 538.640625,
+          "bottom": 7166.34375,
+          "left": 62.359375
+        },
+        "columns": "237.312px 237.312px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      },
+      {
+        "cls": "use-case-card-info",
+        "text": "NYC Uber/LyftToolsDataFramesPa",
+        "r": {
+          "x": 64.5,
+          "y": 6303.40625,
+          "width": 234.703125,
+          "height": 153.578125,
+          "top": 6303.40625,
+          "right": 299.203125,
+          "bottom": 6456.984375,
+          "left": 64.5
+        },
+        "columns": "none",
+        "padding": "15.025px 18.03px 17.429px",
+        "gap": "normal"
+      },
+      {
+        "cls": "use-case-card-info",
+        "text": "Scalable ETL PipelineToolsDelt",
+        "r": {
+          "x": 303.46875,
+          "y": 6303.40625,
+          "width": 234.703125,
+          "height": 153.578125,
+          "top": 6303.40625,
+          "right": 538.171875,
+          "bottom": 6456.984375,
+          "left": 303.46875
+        },
+        "columns": "none",
+        "padding": "15.025px 18.03px 17.429px",
+        "gap": "normal"
+      },
+      {
+        "cls": "use-case-card-info",
+        "text": "National Water ModelToolsXarra",
+        "r": {
+          "x": 64.5,
+          "y": 6566.578125,
+          "width": 234.703125,
+          "height": 153.578125,
+          "top": 6566.578125,
+          "right": 299.203125,
+          "bottom": 6720.15625,
+          "left": 64.5
+        },
+        "columns": "none",
+        "padding": "15.025px 18.03px 17.429px",
+        "gap": "normal"
+      },
+      {
+        "cls": "use-case-card-info",
+        "text": "TPC-H BenchmarkToolsSparkDuckD",
+        "r": {
+          "x": 303.46875,
+          "y": 6566.578125,
+          "width": 234.703125,
+          "height": 153.578125,
+          "top": 6566.578125,
+          "right": 538.171875,
+          "bottom": 6720.15625,
+          "left": 303.46875
+        },
+        "columns": "none",
+        "padding": "15.025px 18.03px 17.429px",
+        "gap": "normal"
+      },
+      {
+        "cls": "use-case-card-info",
+        "text": "NASA Satellite ImageryToolsGeo",
+        "r": {
+          "x": 64.5,
+          "y": 6829.75,
+          "width": 234.703125,
+          "height": 153.578125,
+          "top": 6829.75,
+          "right": 299.203125,
+          "bottom": 6983.328125,
+          "left": 64.5
+        },
+        "columns": "none",
+        "padding": "15.025px 18.03px 17.429px",
+        "gap": "normal"
+      },
+      {
+        "cls": "use-case-card-info",
+        "text": "XGBoost Model TuningToolsXGBoo",
+        "r": {
+          "x": 303.46875,
+          "y": 6829.75,
+          "width": 234.703125,
+          "height": 153.578125,
+          "top": 6829.75,
+          "right": 538.171875,
+          "bottom": 6983.328125,
+          "left": 303.46875
+        },
+        "columns": "none",
+        "padding": "15.025px 18.03px 17.429px",
+        "gap": "normal"
+      },
+      {
+        "cls": "card use-cases cta",
+        "text": "Want more examples?Visit the D",
+        "r": {
+          "x": 63.671875,
+          "y": 6988.296875,
+          "width": 473.65625,
+          "height": 176.390625,
+          "top": 6988.296875,
+          "right": 537.328125,
+          "bottom": 7164.6875,
+          "left": 63.671875
+        },
+        "columns": "none",
+        "padding": "32.454px 24.04px",
+        "gap": "normal"
+      },
+      {
+        "cls": "section-responsive bg-lightgrey",
+        "text": "Super easy to get startedYou c",
+        "r": {
+          "x": 0,
+          "y": 7267.625,
+          "width": 601,
+          "height": 463.984375,
+          "top": 7267.625,
+          "right": 601,
+          "bottom": 7731.609375,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 45.676px",
+        "gap": "normal"
+      },
+      {
+        "cls": "get-started-columns",
+        "text": "Super easy to get startedYou c",
+        "r": {
+          "x": 45.671875,
+          "y": 7320.3125,
+          "width": 509.65625,
+          "height": 411.296875,
+          "top": 7320.3125,
+          "right": 555.328125,
+          "bottom": 7731.609375,
+          "left": 45.671875
+        },
+        "columns": "558.922px",
+        "padding": "0px",
+        "gap": "55.292px 64.307px"
+      },
+      {
+        "cls": "section-responsive bg-navy",
+        "text": "Most people use Dask just on t",
+        "r": {
+          "x": 0,
+          "y": 7731.609375,
+          "width": 601,
+          "height": 407.59375,
+          "top": 7731.609375,
+          "right": 601,
+          "bottom": 8139.203125,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px 44.0533px",
+        "gap": "normal"
+      },
+      {
+        "cls": "footer",
+        "text": "Get StartedLatestCommunityGet ",
+        "r": {
+          "x": 0,
+          "y": 8139.203125,
+          "width": 601,
+          "height": 925.96875,
+          "top": 8139.203125,
+          "right": 601,
+          "bottom": 9065.171875,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "0px",
+        "gap": "normal"
+      },
+      {
+        "cls": "footer-container w-container",
+        "text": "Get StartedLatestCommunityGet ",
+        "r": {
+          "x": 0,
+          "y": 8139.203125,
+          "width": 601,
+          "height": 925.96875,
+          "top": 8139.203125,
+          "right": 601,
+          "bottom": 9065.171875,
+          "left": 0
+        },
+        "columns": "none",
+        "padding": "54.09px 43.272px",
+        "gap": "normal"
+      },
+      {
+        "cls": "footer-grid",
+        "text": "Get StartedLatestCommunityGet ",
+        "r": {
+          "x": 44.578125,
+          "y": 8193.28125,
+          "width": 510.84375,
+          "height": 817.8125,
+          "top": 8193.28125,
+          "right": 555.421875,
+          "bottom": 9011.09375,
+          "left": 44.578125
+        },
+        "columns": "126.609px 126.625px 126.609px 126.625px",
+        "padding": "0px",
+        "gap": "1.67078px"
+      }
+    ]
+  }
+]

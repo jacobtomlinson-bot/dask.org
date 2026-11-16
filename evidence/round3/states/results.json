@@ -1,0 +1,1772 @@
+[
+  {
+    "width": 767,
+    "label": "reference",
+    "state": "workload-0",
+    "rect": {
+      "x": 55.671875,
+      "y": 48.6875,
+      "width": 655.65625,
+      "height": 851.09375,
+      "top": 48.6875,
+      "right": 711.328125,
+      "bottom": 899.78125,
+      "left": 55.671875
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()\n",
+        "font": "17.0427px",
+        "line": "25.5641px",
+        "whiteSpace": "pre",
+        "height": 230.0625,
+        "scrollWidth": 615,
+        "width": 615
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "reference",
+    "state": "workload-1",
+    "rect": {
+      "x": 55.671875,
+      "y": 48.6875,
+      "width": 655.65625,
+      "height": 851.09375,
+      "top": 48.6875,
+      "right": 711.328125,
+      "bottom": 899.78125,
+      "left": 55.671875
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)\n",
+        "font": "17.0427px",
+        "line": "25.5641px",
+        "whiteSpace": "pre",
+        "height": 281.1875,
+        "scrollWidth": 615,
+        "width": 615
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "reference",
+    "state": "workload-2",
+    "rect": {
+      "x": 55.671875,
+      "y": 48.6875,
+      "width": 655.65625,
+      "height": 851.09375,
+      "top": 48.6875,
+      "right": 711.328125,
+      "bottom": 899.78125,
+      "left": 55.671875
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()  \n",
+        "font": "17.0427px",
+        "line": "25.5641px",
+        "whiteSpace": "pre",
+        "height": 178.9375,
+        "scrollWidth": 615,
+        "width": 615
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "reference",
+    "state": "workload-3",
+    "rect": {
+      "x": 55.671875,
+      "y": 48.6875,
+      "width": 655.65625,
+      "height": 851.09375,
+      "top": 48.6875,
+      "right": 711.328125,
+      "bottom": 899.78125,
+      "left": 55.671875
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)\n",
+        "font": "17.0427px",
+        "line": "25.5641px",
+        "whiteSpace": "pre",
+        "height": 281.1875,
+        "scrollWidth": 615,
+        "width": 615
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "reference",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 3740.84375,
+      "width": 767,
+      "height": 1051.96875,
+      "top": 3740.84375,
+      "right": 767,
+      "bottom": 4792.8125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)       \nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "17.0427px",
+        "line": "25.5641px",
+        "whiteSpace": "pre",
+        "height": 281.1875,
+        "scrollWidth": 613,
+        "width": 613
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "reference",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 3740.84375,
+      "width": 767,
+      "height": 1051.96875,
+      "top": 3740.84375,
+      "right": 767,
+      "bottom": 4792.8125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "17.0427px",
+        "line": "25.5641px",
+        "whiteSpace": "pre",
+        "height": 281.1875,
+        "scrollWidth": 613,
+        "width": 613
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "reference",
+    "state": "install",
+    "rect": {
+      "x": 55.671875,
+      "y": 122.40625,
+      "width": 655.65625,
+      "height": 777.703125,
+      "top": 122.40625,
+      "right": 711.328125,
+      "bottom": 900.109375,
+      "left": 55.671875
+    },
+    "pre": []
+  },
+  {
+    "width": 768,
+    "label": "reference",
+    "state": "workload-0",
+    "rect": {
+      "x": 55.75,
+      "y": 470.84375,
+      "width": 655.140625,
+      "height": 429.421875,
+      "top": 470.84375,
+      "right": 710.890625,
+      "bottom": 900.265625,
+      "left": 55.75
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()\n",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 138.234375,
+        "scrollWidth": 269,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "reference",
+    "state": "workload-1",
+    "rect": {
+      "x": 55.75,
+      "y": 470.84375,
+      "width": 655.140625,
+      "height": 429.421875,
+      "top": 470.84375,
+      "right": 710.890625,
+      "bottom": 900.265625,
+      "left": 55.75
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)\n",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 168.953125,
+        "scrollWidth": 269,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "reference",
+    "state": "workload-2",
+    "rect": {
+      "x": 55.75,
+      "y": 470.84375,
+      "width": 655.140625,
+      "height": 429.421875,
+      "top": 470.84375,
+      "right": 710.890625,
+      "bottom": 900.265625,
+      "left": 55.75
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()  \n",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 107.515625,
+        "scrollWidth": 269,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "reference",
+    "state": "workload-3",
+    "rect": {
+      "x": 55.75,
+      "y": 470.84375,
+      "width": 655.140625,
+      "height": 429.421875,
+      "top": 470.84375,
+      "right": 710.890625,
+      "bottom": 900.265625,
+      "left": 55.75
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)\n",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 168.953125,
+        "scrollWidth": 269,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "reference",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 312.9375,
+      "width": 768,
+      "height": 538.53125,
+      "top": 312.9375,
+      "right": 768,
+      "bottom": 851.46875,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)       \nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 168.953125,
+        "scrollWidth": 291,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "reference",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 312.9375,
+      "width": 768,
+      "height": 538.53125,
+      "top": 312.9375,
+      "right": 768,
+      "bottom": 851.46875,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 168.953125,
+        "scrollWidth": 278,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "reference",
+    "state": "install",
+    "rect": {
+      "x": 55.75,
+      "y": 297.6875,
+      "width": 656.5,
+      "height": 322.546875,
+      "top": 297.6875,
+      "right": 712.25,
+      "bottom": 620.234375,
+      "left": 55.75
+    },
+    "pre": []
+  },
+  {
+    "width": 769,
+    "label": "reference",
+    "state": "workload-0",
+    "rect": {
+      "x": 55.828125,
+      "y": 469.515625,
+      "width": 655.984375,
+      "height": 429.984375,
+      "top": 469.515625,
+      "right": 711.8125,
+      "bottom": 899.5,
+      "left": 55.828125
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()\n",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 138.375,
+        "scrollWidth": 269,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "reference",
+    "state": "workload-1",
+    "rect": {
+      "x": 55.828125,
+      "y": 469.515625,
+      "width": 655.984375,
+      "height": 429.984375,
+      "top": 469.515625,
+      "right": 711.8125,
+      "bottom": 899.5,
+      "left": 55.828125
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)\n",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 169.125,
+        "scrollWidth": 269,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "reference",
+    "state": "workload-2",
+    "rect": {
+      "x": 55.828125,
+      "y": 469.515625,
+      "width": 655.984375,
+      "height": 429.984375,
+      "top": 469.515625,
+      "right": 711.8125,
+      "bottom": 899.5,
+      "left": 55.828125
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()  \n",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 107.625,
+        "scrollWidth": 269,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "reference",
+    "state": "workload-3",
+    "rect": {
+      "x": 55.828125,
+      "y": 469.515625,
+      "width": 655.984375,
+      "height": 429.984375,
+      "top": 469.515625,
+      "right": 711.8125,
+      "bottom": 899.5,
+      "left": 55.828125
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)\n",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 169.125,
+        "scrollWidth": 269,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "reference",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 312.859375,
+      "width": 769,
+      "height": 539.25,
+      "top": 312.859375,
+      "right": 769,
+      "bottom": 852.109375,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)       \nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 169.125,
+        "scrollWidth": 291,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "reference",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 312.859375,
+      "width": 769,
+      "height": 539.25,
+      "top": 312.859375,
+      "right": 769,
+      "bottom": 852.109375,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 169.125,
+        "scrollWidth": 278,
+        "width": 269
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "reference",
+    "state": "install",
+    "rect": {
+      "x": 55.828125,
+      "y": 298.09375,
+      "width": 657.34375,
+      "height": 322.96875,
+      "top": 298.09375,
+      "right": 713.171875,
+      "bottom": 621.0625,
+      "left": 55.828125
+    },
+    "pre": []
+  },
+  {
+    "width": 991,
+    "label": "reference",
+    "state": "workload-0",
+    "rect": {
+      "x": 71.9375,
+      "y": 346.359375,
+      "width": 845.359375,
+      "height": 554.125,
+      "top": 346.359375,
+      "right": 917.296875,
+      "bottom": 900.484375,
+      "left": 71.9375
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()\n",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 178.3125,
+        "scrollWidth": 347,
+        "width": 347
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "reference",
+    "state": "workload-1",
+    "rect": {
+      "x": 71.9375,
+      "y": 346.359375,
+      "width": 845.359375,
+      "height": 554.125,
+      "top": 346.359375,
+      "right": 917.296875,
+      "bottom": 900.484375,
+      "left": 71.9375
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)\n",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 217.9375,
+        "scrollWidth": 347,
+        "width": 347
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "reference",
+    "state": "workload-2",
+    "rect": {
+      "x": 71.9375,
+      "y": 346.359375,
+      "width": 845.359375,
+      "height": 554.125,
+      "top": 346.359375,
+      "right": 917.296875,
+      "bottom": 900.484375,
+      "left": 71.9375
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()  \n",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 138.6875,
+        "scrollWidth": 347,
+        "width": 347
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "reference",
+    "state": "workload-3",
+    "rect": {
+      "x": 71.9375,
+      "y": 346.359375,
+      "width": 845.359375,
+      "height": 554.125,
+      "top": 346.359375,
+      "right": 917.296875,
+      "bottom": 900.484375,
+      "left": 71.9375
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)\n",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 217.9375,
+        "scrollWidth": 347,
+        "width": 347
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "reference",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 204.53125,
+      "width": 991,
+      "height": 695.765625,
+      "top": 204.53125,
+      "right": 991,
+      "bottom": 900.296875,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)       \nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 217.9375,
+        "scrollWidth": 376,
+        "width": 347
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "reference",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 204.53125,
+      "width": 991,
+      "height": 695.765625,
+      "top": 204.53125,
+      "right": 991,
+      "bottom": 900.296875,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 217.9375,
+        "scrollWidth": 359,
+        "width": 347
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "reference",
+    "state": "install",
+    "rect": {
+      "x": 71.9375,
+      "y": 385,
+      "width": 847.125,
+      "height": 416.21875,
+      "top": 385,
+      "right": 919.0625,
+      "bottom": 801.21875,
+      "left": 71.9375
+    },
+    "pre": []
+  },
+  {
+    "width": 992,
+    "label": "reference",
+    "state": "workload-0",
+    "rect": {
+      "x": 111.59375,
+      "y": 410.40625,
+      "width": 767.796875,
+      "height": 442.703125,
+      "top": 410.40625,
+      "right": 879.390625,
+      "bottom": 853.109375,
+      "left": 111.59375
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()\n",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 133.875,
+        "scrollWidth": 279,
+        "width": 279
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "reference",
+    "state": "workload-1",
+    "rect": {
+      "x": 111.59375,
+      "y": 410.40625,
+      "width": 767.796875,
+      "height": 442.703125,
+      "top": 410.40625,
+      "right": 879.390625,
+      "bottom": 853.109375,
+      "left": 111.59375
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)\n",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 163.625,
+        "scrollWidth": 279,
+        "width": 279
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "reference",
+    "state": "workload-2",
+    "rect": {
+      "x": 111.59375,
+      "y": 410.40625,
+      "width": 767.796875,
+      "height": 442.703125,
+      "top": 410.40625,
+      "right": 879.390625,
+      "bottom": 853.109375,
+      "left": 111.59375
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()  \n",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 104.125,
+        "scrollWidth": 279,
+        "width": 279
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "reference",
+    "state": "workload-3",
+    "rect": {
+      "x": 111.59375,
+      "y": 410.40625,
+      "width": 767.796875,
+      "height": 442.703125,
+      "top": 410.40625,
+      "right": 879.390625,
+      "bottom": 853.109375,
+      "left": 111.59375
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)\n",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 163.625,
+        "scrollWidth": 279,
+        "width": 279
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "reference",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 311.5,
+      "width": 992,
+      "height": 494.921875,
+      "top": 311.5,
+      "right": 992,
+      "bottom": 806.421875,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)       \nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 163.625,
+        "scrollWidth": 279,
+        "width": 279
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "reference",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 311.5,
+      "width": 992,
+      "height": 494.921875,
+      "top": 311.5,
+      "right": 992,
+      "bottom": 806.421875,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 163.625,
+        "scrollWidth": 279,
+        "width": 279
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "reference",
+    "state": "install",
+    "rect": {
+      "x": 55.796875,
+      "y": 304.625,
+      "width": 880.40625,
+      "height": 330.125,
+      "top": 304.625,
+      "right": 936.203125,
+      "bottom": 634.75,
+      "left": 55.796875
+    },
+    "pre": []
+  },
+  {
+    "width": 767,
+    "label": "local",
+    "state": "workload-0",
+    "rect": {
+      "x": 58.28125,
+      "y": 127.234375,
+      "width": 650.4375,
+      "height": 772.46875,
+      "top": 127.234375,
+      "right": 708.71875,
+      "bottom": 899.703125,
+      "left": 58.28125
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()",
+        "font": "17.0444px",
+        "line": "25.5667px",
+        "whiteSpace": "pre",
+        "height": 230.0625,
+        "scrollWidth": 608,
+        "width": 608
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "local",
+    "state": "workload-1",
+    "rect": {
+      "x": 58.28125,
+      "y": 127.234375,
+      "width": 650.4375,
+      "height": 752.5,
+      "top": 127.234375,
+      "right": 708.71875,
+      "bottom": 879.734375,
+      "left": 58.28125
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)",
+        "font": "17.0444px",
+        "line": "25.5667px",
+        "whiteSpace": "pre",
+        "height": 281.1875,
+        "scrollWidth": 608,
+        "width": 608
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "local",
+    "state": "workload-2",
+    "rect": {
+      "x": 58.28125,
+      "y": 127.234375,
+      "width": 650.4375,
+      "height": 772.46875,
+      "top": 127.234375,
+      "right": 708.71875,
+      "bottom": 899.703125,
+      "left": 58.28125
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()",
+        "font": "17.0444px",
+        "line": "25.5667px",
+        "whiteSpace": "pre",
+        "height": 178.9375,
+        "scrollWidth": 608,
+        "width": 608
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "local",
+    "state": "workload-3",
+    "rect": {
+      "x": 58.28125,
+      "y": 127.234375,
+      "width": 650.4375,
+      "height": 772.46875,
+      "top": 127.234375,
+      "right": 708.71875,
+      "bottom": 899.703125,
+      "left": 58.28125
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)",
+        "font": "17.0444px",
+        "line": "25.5667px",
+        "whiteSpace": "pre",
+        "height": 281.1875,
+        "scrollWidth": 608,
+        "width": 608
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "local",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 3745.5625,
+      "width": 767,
+      "height": 1051.015625,
+      "top": 3745.5625,
+      "right": 767,
+      "bottom": 4796.578125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)\nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "17.0444px",
+        "line": "25.5667px",
+        "whiteSpace": "pre",
+        "height": 281.1875,
+        "scrollWidth": 608,
+        "width": 608
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "local",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 3745.5625,
+      "width": 767,
+      "height": 1051.015625,
+      "top": 3745.5625,
+      "right": 767,
+      "bottom": 4796.578125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "17.0444px",
+        "line": "25.5667px",
+        "whiteSpace": "pre",
+        "height": 281.1875,
+        "scrollWidth": 608,
+        "width": 608
+      }
+    ]
+  },
+  {
+    "width": 767,
+    "label": "local",
+    "state": "install",
+    "rect": {
+      "x": 0,
+      "y": 121.9375,
+      "width": 767,
+      "height": 777.640625,
+      "top": 121.9375,
+      "right": 767,
+      "bottom": 899.578125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "$ conda install dask",
+        "font": "16.3889px",
+        "line": "24.5833px",
+        "whiteSpace": "pre",
+        "height": 73.734375,
+        "scrollWidth": 803,
+        "width": 803
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "local",
+    "state": "workload-0",
+    "rect": {
+      "x": 56.0625,
+      "y": 468,
+      "width": 655.875,
+      "height": 431.828125,
+      "top": 468,
+      "right": 711.9375,
+      "bottom": 899.828125,
+      "left": 56.0625
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 138.234375,
+        "scrollWidth": 267,
+        "width": 267
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "local",
+    "state": "workload-1",
+    "rect": {
+      "x": 56.0625,
+      "y": 468,
+      "width": 655.875,
+      "height": 431.828125,
+      "top": 468,
+      "right": 711.9375,
+      "bottom": 899.828125,
+      "left": 56.0625
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 168.953125,
+        "scrollWidth": 267,
+        "width": 267
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "local",
+    "state": "workload-2",
+    "rect": {
+      "x": 56.0625,
+      "y": 468,
+      "width": 655.875,
+      "height": 431.828125,
+      "top": 468,
+      "right": 711.9375,
+      "bottom": 899.828125,
+      "left": 56.0625
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 107.515625,
+        "scrollWidth": 267,
+        "width": 267
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "local",
+    "state": "workload-3",
+    "rect": {
+      "x": 56.0625,
+      "y": 453,
+      "width": 655.875,
+      "height": 447.109375,
+      "top": 453,
+      "right": 711.9375,
+      "bottom": 900.109375,
+      "left": 56.0625
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 168.953125,
+        "scrollWidth": 267,
+        "width": 267
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "local",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 318,
+      "width": 768,
+      "height": 539,
+      "top": 318,
+      "right": 768,
+      "bottom": 857,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)\nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 168.953125,
+        "scrollWidth": 291,
+        "width": 267
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "local",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 318,
+      "width": 768,
+      "height": 539,
+      "top": 318,
+      "right": 768,
+      "bottom": 857,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 168.953125,
+        "scrollWidth": 278,
+        "width": 267
+      }
+    ]
+  },
+  {
+    "width": 768,
+    "label": "local",
+    "state": "install",
+    "rect": {
+      "x": 0,
+      "y": 297,
+      "width": 768,
+      "height": 323,
+      "top": 297,
+      "right": 768,
+      "bottom": 620,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "$ conda install dask",
+        "font": "10.752px",
+        "line": "15.36px",
+        "whiteSpace": "pre",
+        "height": 15.359375,
+        "scrollWidth": 457,
+        "width": 457
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "local",
+    "state": "workload-0",
+    "rect": {
+      "x": 56.125,
+      "y": 467.65625,
+      "width": 656.75,
+      "height": 432.328125,
+      "top": 467.65625,
+      "right": 712.875,
+      "bottom": 899.984375,
+      "left": 56.125
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 138.375,
+        "scrollWidth": 268,
+        "width": 268
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "local",
+    "state": "workload-1",
+    "rect": {
+      "x": 56.125,
+      "y": 467.65625,
+      "width": 656.75,
+      "height": 432.328125,
+      "top": 467.65625,
+      "right": 712.875,
+      "bottom": 899.984375,
+      "left": 56.125
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 169.125,
+        "scrollWidth": 268,
+        "width": 268
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "local",
+    "state": "workload-2",
+    "rect": {
+      "x": 56.125,
+      "y": 467.65625,
+      "width": 656.75,
+      "height": 432.328125,
+      "top": 467.65625,
+      "right": 712.875,
+      "bottom": 899.984375,
+      "left": 56.125
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 107.625,
+        "scrollWidth": 268,
+        "width": 268
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "local",
+    "state": "workload-3",
+    "rect": {
+      "x": 56.125,
+      "y": 452.65625,
+      "width": 656.75,
+      "height": 447.640625,
+      "top": 452.65625,
+      "right": 712.875,
+      "bottom": 900.296875,
+      "left": 56.125
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 169.125,
+        "scrollWidth": 268,
+        "width": 268
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "local",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 317.890625,
+      "width": 769,
+      "height": 539.6875,
+      "top": 317.890625,
+      "right": 769,
+      "bottom": 857.578125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)\nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 169.125,
+        "scrollWidth": 291,
+        "width": 268
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "local",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 317.890625,
+      "width": 769,
+      "height": 539.6875,
+      "top": 317.890625,
+      "right": 769,
+      "bottom": 857.578125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 169.125,
+        "scrollWidth": 278,
+        "width": 268
+      }
+    ]
+  },
+  {
+    "width": 769,
+    "label": "local",
+    "state": "install",
+    "rect": {
+      "x": 0,
+      "y": 297.375,
+      "width": 769,
+      "height": 323.40625,
+      "top": 297.375,
+      "right": 769,
+      "bottom": 620.78125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "$ conda install dask",
+        "font": "10.766px",
+        "line": "15.38px",
+        "whiteSpace": "pre",
+        "height": 15.375,
+        "scrollWidth": 458,
+        "width": 458
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "local",
+    "state": "workload-0",
+    "rect": {
+      "x": 72.328125,
+      "y": 343.828125,
+      "width": 846.34375,
+      "height": 556.59375,
+      "top": 343.828125,
+      "right": 918.671875,
+      "bottom": 900.421875,
+      "left": 72.328125
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 178.3125,
+        "scrollWidth": 345,
+        "width": 345
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "local",
+    "state": "workload-1",
+    "rect": {
+      "x": 72.328125,
+      "y": 343.828125,
+      "width": 846.34375,
+      "height": 556.59375,
+      "top": 343.828125,
+      "right": 918.671875,
+      "bottom": 900.421875,
+      "left": 72.328125
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 217.9375,
+        "scrollWidth": 345,
+        "width": 345
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "local",
+    "state": "workload-2",
+    "rect": {
+      "x": 72.328125,
+      "y": 343.828125,
+      "width": 846.34375,
+      "height": 556.59375,
+      "top": 343.828125,
+      "right": 918.671875,
+      "bottom": 900.421875,
+      "left": 72.328125
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 138.6875,
+        "scrollWidth": 345,
+        "width": 345
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "local",
+    "state": "workload-3",
+    "rect": {
+      "x": 72.328125,
+      "y": 323.828125,
+      "width": 846.34375,
+      "height": 576.328125,
+      "top": 323.828125,
+      "right": 918.671875,
+      "bottom": 900.15625,
+      "left": 72.328125
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 217.9375,
+        "scrollWidth": 345,
+        "width": 345
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "local",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 204.09375,
+      "width": 991,
+      "height": 695.5,
+      "top": 204.09375,
+      "right": 991,
+      "bottom": 899.59375,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)\nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 217.9375,
+        "scrollWidth": 376,
+        "width": 345
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "local",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 204.09375,
+      "width": 991,
+      "height": 695.5,
+      "top": 204.09375,
+      "right": 991,
+      "bottom": 899.59375,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 217.9375,
+        "scrollWidth": 359,
+        "width": 345
+      }
+    ]
+  },
+  {
+    "width": 991,
+    "label": "local",
+    "state": "install",
+    "rect": {
+      "x": 0,
+      "y": 383.21875,
+      "width": 991,
+      "height": 416.78125,
+      "top": 383.21875,
+      "right": 991,
+      "bottom": 800,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "$ conda install dask",
+        "font": "13.874px",
+        "line": "19.82px",
+        "whiteSpace": "pre",
+        "height": 19.8125,
+        "scrollWidth": 590,
+        "width": 590
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "local",
+    "state": "workload-0",
+    "rect": {
+      "x": 111.59375,
+      "y": 421.765625,
+      "width": 768.796875,
+      "height": 431.515625,
+      "top": 421.765625,
+      "right": 880.390625,
+      "bottom": 853.28125,
+      "left": 111.59375
+    },
+    "pre": [
+      {
+        "text": "import dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://data/uber/\")\n\n# How much did NYC pay Uber?\ndf.base_passenger_fare.sum().compute()\n\n# And how much did drivers make?\ndf.driver_pay.sum().compute()",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 133.875,
+        "scrollWidth": 282,
+        "width": 282
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "local",
+    "state": "workload-1",
+    "rect": {
+      "x": 111.59375,
+      "y": 421.765625,
+      "width": 768.796875,
+      "height": 431.515625,
+      "top": 421.765625,
+      "right": 880.390625,
+      "bottom": 853.28125,
+      "left": 111.59375
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import Client\n\nclient = Client()\n\n# Define your own code\ndef f(x):\n    return x + 1\n\n# Run your code in parallel\nfutures = client.map(f, range(100))\nresults = client.gather(futures)",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 163.625,
+        "scrollWidth": 282,
+        "width": 282
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "local",
+    "state": "workload-2",
+    "rect": {
+      "x": 111.59375,
+      "y": 421.765625,
+      "width": 768.796875,
+      "height": 431.515625,
+      "top": 421.765625,
+      "right": 880.390625,
+      "bottom": 853.28125,
+      "left": 111.59375
+    },
+    "pre": [
+      {
+        "text": "import xarray as xr\n\n# Open image/array files natively\nds = xr.open_mfdataset(\"data/*.nc\")\n\n# Process across dimensions\nds.mean(dims=[\"lat\", \"lon\"]).compute()",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 104.125,
+        "scrollWidth": 282,
+        "width": 282
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "local",
+    "state": "workload-3",
+    "rect": {
+      "x": 111.59375,
+      "y": 421.765625,
+      "width": 768.796875,
+      "height": 431.515625,
+      "top": 421.765625,
+      "right": 880.390625,
+      "bottom": 853.28125,
+      "left": 111.59375
+    },
+    "pre": [
+      {
+        "text": "import xgboost as xgb\nimport dask.dataframe as dd\n\ndf = dd.read_parquet(\"s3://my-data/\")\ndtrain = xgb.dask.DaskDMatrix(df)\n\nmodel = xgb.dask.train(\n    dtrain,\n    {\"tree_method\": \"hist\", ...},\n    ...\n)",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 163.625,
+        "scrollWidth": 282,
+        "width": 282
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "local",
+    "state": "deployment-0",
+    "rect": {
+      "x": 0,
+      "y": 312.71875,
+      "width": 992,
+      "height": 494.609375,
+      "top": 312.71875,
+      "right": 992,
+      "bottom": 807.328125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from dask.distributed import LocalCluster\n\ncluster = LocalCluster(\n    processes=False,\n)\nclient = cluster.get_client()\n\n# Use Dask locally\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"/path/to/data.parquet\")\ndf.value.mean().compute()",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 163.625,
+        "scrollWidth": 282,
+        "width": 282
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "local",
+    "state": "deployment-1",
+    "rect": {
+      "x": 0,
+      "y": 312.71875,
+      "width": 992,
+      "height": 494.609375,
+      "top": 312.71875,
+      "right": 992,
+      "bottom": 807.328125,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "from coiled import Cluster\n\ncluster = Cluster(\n    n_workers=100, region=\"us-east-2\",\n)\nclient = cluster.get_client()\n\n# Use Dask on the cloud\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data.*.parquet\")\ndf.value.mean().compute()",
+        "font": "9.92px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 163.625,
+        "scrollWidth": 282,
+        "width": 282
+      }
+    ]
+  },
+  {
+    "width": 992,
+    "label": "local",
+    "state": "install",
+    "rect": {
+      "x": 0,
+      "y": 308.015625,
+      "width": 992,
+      "height": 329.96875,
+      "top": 308.015625,
+      "right": 992,
+      "bottom": 637.984375,
+      "left": 0
+    },
+    "pre": [
+      {
+        "text": "$ conda install dask",
+        "font": "13.7778px",
+        "line": "14.88px",
+        "whiteSpace": "pre",
+        "height": 47.9375,
+        "scrollWidth": 553,
+        "width": 553
+      }
+    ]
+  }
+]

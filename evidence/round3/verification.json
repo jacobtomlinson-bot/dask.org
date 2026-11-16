@@ -1,0 +1,14 @@
+{
+  "outcome": "ready_for_review",
+  "acceptance": "independent review required",
+  "parent": "01a303ea07ffdeb379e2d5c65999edbeab5460b4",
+  "productionGroups": 64,
+  "failed": 0,
+  "focusedCases": 141,
+  "responsiveCases": 72,
+  "motionCases": 28,
+  "artworkCases": 12,
+  "canonicalPairs": 18,
+  "statePairs": 35,
+  "localOnly": true
+}

@@ -10,9 +10,9 @@
       1440,
       8289
     ],
-    "differentPixels": 734889,
-    "differencePercent": 6.157,
-    "topViewportDifferencePercent": 5.034,
+    "differentPixels": 718317,
+    "differencePercent": 6.018,
+    "topViewportDifferencePercent": 5.052,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -418,8 +418,8 @@
       1440,
       4256
     ],
-    "differentPixels": 163606,
-    "differencePercent": 2.67,
+    "differentPixels": 163603,
+    "differencePercent": 2.669,
     "topViewportDifferencePercent": 1.926,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
@@ -864,8 +864,8 @@
       1440,
       5533
     ],
-    "differentPixels": 272441,
-    "differencePercent": 3.419,
+    "differentPixels": 276109,
+    "differencePercent": 3.465,
     "topViewportDifferencePercent": 4.625,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
@@ -1438,9 +1438,9 @@
       768,
       7905
     ],
-    "differentPixels": 521944,
-    "differencePercent": 8.597,
-    "topViewportDifferencePercent": 7.492,
+    "differentPixels": 488036,
+    "differencePercent": 8.039,
+    "topViewportDifferencePercent": 7.469,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -1489,7 +1489,7 @@
         "rect": [
           70,
           639,
-          296,
+          303,
           30
         ]
       },
@@ -1557,9 +1557,9 @@
         "tag": "H3",
         "text": "Made for Humans",
         "rect": [
-          406,
+          483,
           1448,
-          286,
+          209,
           27
         ]
       },
@@ -1599,7 +1599,7 @@
         "rect": [
           72,
           2420,
-          294,
+          301,
           61
         ]
       },
@@ -1846,9 +1846,9 @@
       768,
       3771
     ],
-    "differentPixels": 194292,
-    "differencePercent": 6.709,
-    "topViewportDifferencePercent": 5.542,
+    "differentPixels": 193711,
+    "differencePercent": 6.689,
+    "topViewportDifferencePercent": 5.445,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2124,9 +2124,9 @@
       768,
       2079
     ],
-    "differentPixels": 75222,
-    "differencePercent": 4.711,
-    "topViewportDifferencePercent": 6.661,
+    "differentPixels": 74847,
+    "differencePercent": 4.688,
+    "topViewportDifferencePercent": 6.585,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2292,9 +2292,9 @@
       768,
       4477
     ],
-    "differentPixels": 163688,
-    "differencePercent": 4.761,
-    "topViewportDifferencePercent": 8.933,
+    "differentPixels": 164764,
+    "differencePercent": 4.792,
+    "topViewportDifferencePercent": 8.804,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2431,9 +2431,9 @@
         "tag": "H2",
         "text": "Dask Adoption Metrics",
         "rect": [
-          69,
-          3162,
-          630,
+          56,
+          3125,
+          657,
           30
         ]
       },
@@ -2510,9 +2510,9 @@
       768,
       4216
     ],
-    "differentPixels": 345309,
-    "differencePercent": 10.665,
-    "topViewportDifferencePercent": 7.824,
+    "differentPixels": 343512,
+    "differencePercent": 10.609,
+    "topViewportDifferencePercent": 7.589,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2668,9 +2668,9 @@
       768,
       2251
     ],
-    "differentPixels": 92737,
-    "differencePercent": 5.364,
-    "topViewportDifferencePercent": 5.484,
+    "differentPixels": 92551,
+    "differencePercent": 5.354,
+    "topViewportDifferencePercent": 5.421,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -2866,9 +2866,9 @@
       390,
       13803
     ],
-    "differentPixels": 602935,
+    "differentPixels": 602893,
     "differencePercent": 11.2,
-    "topViewportDifferencePercent": 5.555,
+    "topViewportDifferencePercent": 5.571,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
       {
@@ -3274,8 +3274,8 @@
       390,
       7136
     ],
-    "differentPixels": 217191,
-    "differencePercent": 7.803,
+    "differentPixels": 217177,
+    "differencePercent": 7.802,
     "topViewportDifferencePercent": 6.059,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
@@ -3720,8 +3720,8 @@
       390,
       13705
     ],
-    "differentPixels": 269434,
-    "differencePercent": 5.041,
+    "differentPixels": 265396,
+    "differencePercent": 4.965,
     "topViewportDifferencePercent": 10.536,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [
@@ -3938,8 +3938,8 @@
       390,
       6981
     ],
-    "differentPixels": 261429,
-    "differencePercent": 9.602,
+    "differentPixels": 260842,
+    "differencePercent": 9.581,
     "topViewportDifferencePercent": 7.608,
     "method": "pixelmatch threshold 0.1; antialias excluded; shorter full-page capture padded white",
     "geometry": [

@@ -1,5 +1,5 @@
 {
-  "passed": 61,
+  "passed": 64,
   "failed": 0,
   "results": [
     {
@@ -244,6 +244,18 @@
     },
     {
       "name": "independent-review regression suite (see evidence/round2/checks.json)",
+      "status": "passed"
+    },
+    {
+      "name": "round-3 round3-checks.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round-3 round3-motion.mjs: production-preview regression",
+      "status": "passed"
+    },
+    {
+      "name": "round-3 round3-art-bounds.mjs: production-preview regression",
       "status": "passed"
     }
   ]

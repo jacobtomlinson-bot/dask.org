@@ -34,7 +34,7 @@ The test runner makes **no live form submissions**. It starts a production previ
 - `src/pages/`: native Astro page composition and page-specific editorial copy. No component framework or client hydration.
 - `src/styles/global.css`: shared tokens, resets, grid backgrounds, hero/support/terminal/tab primitives.
 - `src/styles/chrome.css`: header/navigation, footer and native submission drawer.
-- `src/styles/{home,brand,get-started,get-help,powered-by,press-mentions}.css`: route-owned base and breakpoint rules, imported after `Site` by that route only. `illustrations.css` owns the three native homepage drawings. There is no refinement stylesheet or page-level style pile: edit the existing selector in its owning base/tablet/mobile tier rather than appending overrides. Some deliberately generous sections preserve reference whitespace.
+- `src/styles/{home,brand,get-started,get-help,powered-by,press-mentions}.css`: route-owned base and breakpoint rules, imported after `Site` by that route only. `illustrations.css` owns the three native homepage drawings. There is no refinement stylesheet or page-level style pile: edit the existing selector in its owning base/desktop/tablet/landscape-phone/phone tier rather than appending overrides. Some deliberately generous sections preserve reference whitespace.
 - `src/scripts/site.ts`: small native browser interactions; keyboard tab navigation, Escape dismissal, clipboard, form preview, and reduced-motion-aware terminal illustrations.
 
 Use `npm run format` after edits. Repeated structure/content is component- or data-driven. The homepage dashboard, MEMORY/CPU gauges and automatic rolling counter are independently authored HTML/CSS/SVG, not screenshots of the old site. Terminal examples are ordinary text and locally highlighted code. No animation JSON, Webflow generated CSS/JS, jQuery, Webflow library, or third-party client runtime is included.
@@ -68,7 +68,13 @@ node scripts/scroll-reference.mjs # complete below-fold artwork capture
 REFERENCE_SCROLLED=1 npm run capture
 node scripts/round2-checks.mjs # focused checks against the running local server (also included in npm test)
 node scripts/round2-motion.mjs # read-only live/native timed art and reduced-motion checks
-node scripts/report.mjs # refresh review summary/gallery after captures
+node scripts/round3-checks.mjs # 72 full-page responsive checks (included in npm test)
+node scripts/round3-motion.mjs # complete token cycles and phased gauge visibility (included)
+node scripts/round3-art-bounds.mjs # loaded chart/text separation (included)
+node scripts/round3-states.mjs # all workload/deployment/install states at 767/768/769/991/992
+node scripts/round3-gallery.mjs
+node scripts/round3-sections.mjs
+node scripts/report.mjs # refresh the current round-3 review summary/gallery
 ```
 
 `BASE_URL=http://127.0.0.1:<port>` overrides the local target. Reference inspection uses GET/HEAD only and blocks mutation methods. `scripts/inspect.mjs`, `details.mjs`, `states.mjs`, `inspect-states.mjs`, and `responsive-details.mjs` retain the bounded reference-capture workflow, including recovery from incomplete captures. They are development evidence tools only. The reference browser uses Node fetch to satisfy Chromium's requests in this environment; it never imports remote code into production.
@@ -80,7 +86,8 @@ node scripts/report.mjs # refresh review summary/gallery after captures
 - `evidence/round2/checks.json`: focused production-preview regression results.
 - `evidence/round2/motion/`: original/native dashboard, gauges and counter at nominal 0/1500/4000 ms after scroll, plus static reduced-motion checks; results include actual capture delays.
 - `evidence/round2/local/`: 320/390 overflow evidence, sticky section anchors, empty/filled mobile panels, and original-left/native-right inspection strips.
-- `evidence/REVIEW.md`: measured review summary and explicit B1–B6 responses.
+- `evidence/REVIEW.md`: current round-3 measured summary, explicit R2-1..R2-4 responses and honest residuals. Earlier B1–B6 responses are retained in Git history.
+- `evidence/round3/gallery.html`: current twelve-width page pairs, all seven terminal states at five neighboring widths, and motion evidence.
 
 Pixel comparisons use pixelmatch threshold 0.1 with antialias differences excluded. Full-page images of different heights are padded white; **percent different is not a "percent accurate" or perceptual-quality score**. State comparisons use each corresponding component's bounding box, so the legacy sidebar's presence can contribute to differences. Original animations, lazy-loaded artwork and failed external resources can change the reference frame. Closed-menu baselines were captured in fresh pages because an earlier cross-breakpoint capture left the legacy menu open. Such older captures remain clearly named, not silently treated as the default state.
 
@@ -88,8 +95,16 @@ Pixel comparisons use pixelmatch threshold 0.1 with antialias differences exclud
 
 Exact visual equivalence is not established. The independently drawn dashboard streams, MEMORY/CPU gauges and automatic counter now preserve those original content types, geometry and normal/reduced-motion behavior, but their animation curves, task distribution, typing and timing are not bit-identical to the old runtime. Original/native timed captures quantify representative differences, not synchronized animation parity. Small text wrapping, section whitespace, footer and specimen differences remain visible in the full-page comparisons. The palette computes real contrast rather than duplicating incorrect legacy labels. Native focus rings and the mandatory local-form notice intentionally differ.
 
-Chromium behavior is tested at the 19 listed widths; full-page visual captures cover 1440/768/390 and selected 320 views. Safari/Firefox, physical devices, all outbound/download payloads and real backend integration remain unverified. The independent tester must review the exact committed SHA before human acceptance. See `evidence/REVIEW.md` for measured differences and review boundaries.
+Chromium retains the 19-width regressions plus full-page geometry/captures at 320/390/479/480/599/600/601/767/768/991/992/1440 on all six routes. Workload/deployment/install states also have 769px comparisons. Complete normal/reduced typing transitions, local SVG pivots and visible yellow needles are tested at 1440/390. Safari/Firefox, physical devices, all outbound/download payloads and real backend integration remain unverified. The independent tester must review the exact committed SHA before human acceptance. See `evidence/REVIEW.md` for measured differences and review boundaries.
 
 ## Local integration only
 
 No GitHub repository, remote, push, pull request, deployment, or CI workflow was created. The managed-worktree branch and exact SHA are in the developer handoff. It shares Git objects with the main checkout, so a reviewer can use `git worktree add <review-path> <SHA>` or inspect `git show <SHA>` without networking. The main coordinator owns review routing and Workboard lifecycle; merging remains Jacob's decision.
+
+### Fluid layout ownership
+
+Shared `--design-width` in `src/styles/global.css` is the single fluid-unit basis: 1440 desktop, 768 tablet, 748.8 compact landscape-phone, 390 narrow phone. The landscape basis records observed compact type; it is not an assumed device width. Explicit 480/768/992 tiers own the different layouts. Component lengths use rem, true viewport proportions remain vw/percent, and single-pixel borders remain pixels. This avoids freezing 390/768 measurements into every viewport. Appropriate original grid artwork is selected through shared tokens. Route CSS still owns its own section grids and spacing; no refinements stylesheet or late global homepage pile was introduced.
+
+`src/utils/code.ts` shares safe tokens between Astro and native typing. SVG gauge rotation is explicitly around each local `(0,0)` pivot; reduced-motion preference changes pause it. The original adoption survey chart is static public artwork, source-listed separately from the independently drawn animated homepage gauges.
+
+Astro allows only one preview per checkout. `npm test` starts/stops its own preview; stop an owned preview first or point `BASE_URL` at that existing server. Tests never submit to the live site.

@@ -67,7 +67,18 @@
         >
           USAGE
         </text>
-        <g class={`gauge-needle gauge-${i}`} style={`--angle:${g.angle}deg`}>
+        <g
+          class={`gauge-needle gauge-${i}`}
+          transform={`rotate(${g.angle} 0 0)`}
+        >
+          <animateTransform
+            attributeName="transform"
+            type="rotate"
+            values={`-25 0 0;${g.angle} 0 0;-25 0 0`}
+            dur="8s"
+            repeatCount="indefinite"
+            begin="indefinite"
+          />
           <path d="M-106 0h50" stroke="#ffc11e" stroke-width="2" />
         </g>
         <g
