@@ -1,3 +1,4 @@
+import { expectReadingMarker } from './brand-reading-check.mjs';
 import { chromium, expect } from '@playwright/test';
 import fs from 'node:fs/promises';
 const browser = await chromium.launch();
@@ -202,12 +203,14 @@ try {
           const r = await p.locator('#' + section).boundingBox();
           expect(r.y).toBeGreaterThanOrEqual(width < 600 ? 79 : 0);
           expect(r.y).toBeLessThan(width < 600 ? 83 : 27);
-          await expect(
-            p.locator(`.brand-sidebar a[href="#${section}"]`),
-          ).toHaveAttribute('aria-current', 'location');
+          await expect(p).toHaveURL(new RegExp('#' + section + '$'));
+          await expectReadingMarker(p);
           const nav = await p.locator('.brand-sidebar').boundingBox();
           expect(nav.y).toBeGreaterThanOrEqual(-1);
-          expect(nav.y).toBeLessThanOrEqual(width < 600 ? 1 : 25);
+          const pin = await p
+            .locator('.brand-sidebar')
+            .evaluate((e) => parseFloat(getComputedStyle(e).top));
+          expect(Math.abs(nav.y - pin)).toBeLessThanOrEqual(1);
           await p.screenshot({
             path: `evidence/round2/local/brand-${section}-${width}.png`,
           });

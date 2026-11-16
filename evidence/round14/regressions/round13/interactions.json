@@ -1,0 +1,499 @@
+{
+  "passed": 123,
+  "failed": 0,
+  "paints": 780,
+  "results": [
+    {
+      "name": "479 color 0: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 1: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 2: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 3: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 5: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 6: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 7: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 8: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 9: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 10: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 11: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "479 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 0: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 1: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 2: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 3: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 5: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 6: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 7: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 8: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 9: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 10: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 11: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "480 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 0: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 1: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 2: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 3: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 5: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 6: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 7: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 8: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 9: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 10: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 11: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "601 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 0: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 1: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 2: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 3: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 5: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 6: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 7: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 8: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 9: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 10: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 11: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "767 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 0: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 1: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 2: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 3: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 5: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 6: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 7: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 8: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 9: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 10: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 11: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "768 color 4: original matrix/boundary, all real colors, unclipped contrast and clipboard",
+      "pass": true
+    },
+    {
+      "name": "390 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "390 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "390 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "390 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "390 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "390 logo keyboard semantics and focus retained",
+      "pass": true
+    },
+    {
+      "name": "479 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "479 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "479 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "479 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "479 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "480 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "480 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "480 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "480 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "480 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "601 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "601 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "601 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "601 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "601 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "767 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "767 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "767 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "767 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "767 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "768 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "768 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "768 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "768 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "768 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "768 logo keyboard semantics and focus retained",
+      "pass": true
+    },
+    {
+      "name": "769 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "769 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "769 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "769 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "769 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "991 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "991 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "991 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "991 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "991 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "992 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "992 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "992 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "992 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "992 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "1100 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "1100 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "1100 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "1100 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "1100 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "1440 initial marker follows source viewport midpoint, including a clear hero state",
+      "pass": true
+    },
+    {
+      "name": "1440 logo 0: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "1440 logo 1: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "1440 logo 2: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "1440 logo 3: physical swatch hit and real state surface/asset switch",
+      "pass": true
+    },
+    {
+      "name": "1440 logo keyboard semantics and focus retained",
+      "pass": true
+    }
+  ]
+}

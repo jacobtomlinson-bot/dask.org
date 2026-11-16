@@ -1,0 +1,1 @@
+Trailing terminal padding was stripped from build.log for whitespace hygiene; command content and results are unchanged.

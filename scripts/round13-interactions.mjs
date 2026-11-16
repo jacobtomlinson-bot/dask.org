@@ -133,21 +133,27 @@ try {
     await p.setViewportSize({ width, height: 1000 });
     await p.goto(base + '/brand-guide');
     await check(
-      `${width} initial rail retains original Logos highlight before scrolling`,
+      `${width} initial marker follows source viewport midpoint, including a clear hero state`,
       async () => {
-        await p.waitForFunction(
-          () =>
-            document
-              .querySelector('.brand-sidebar a')
-              ?.getAttribute('aria-current') === 'location',
-        );
-        assert.equal(
-          await p
-            .locator('.brand-sidebar a')
-            .first()
-            .evaluate((e) => getComputedStyle(e).backgroundColor),
-          'rgb(246, 246, 246)',
-        );
+        await p.waitForTimeout(100);
+        const data = await p.evaluate(() => {
+          const midpoint = innerHeight / 2;
+          const links = [...document.querySelectorAll('.brand-sidebar a')];
+          return {
+            expected: links
+              .filter((e) => {
+                const r = document
+                  .querySelector(e.hash)
+                  .getBoundingClientRect();
+                return r.top <= midpoint && r.bottom >= midpoint;
+              })
+              .map((e) => e.hash),
+            actual: links
+              .filter((e) => e.hasAttribute('aria-current'))
+              .map((e) => e.hash),
+          };
+        });
+        assert.deepEqual(data.actual, data.expected);
       },
     );
     for (let i = 0; i < 4; i++)

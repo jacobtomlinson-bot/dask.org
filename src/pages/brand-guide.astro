@@ -207,27 +207,31 @@ const tone = [
       </div>
     </section>
     <section id="tone" class="brand-tone light-grid">
-      <div>
-        <h2 class="medium-title">Tone</h2>
-        <p>
-          The Dask community is broad and diverse, mixing a volunteer open
-          source community, academics and government workers, and for-profit
-          corporations. These sub-communities understandably have different
-          needs and expectations around communication, which can sometimes
-          conflict with each other.
-        </p>
-      </div>
-      <div>
-        {tone.map((text, index) => (
-          <p class:list={{ 'tone-emphasis': index === 2 }}>
-            {text.split('\n').map((line, i) => (
-              <>
-                {i > 0 && <br />}
-                {line}
-              </>
-            ))}
+      <div class="tone-sheet tone-intro-sheet">
+        <div class="tone-intro">
+          <h2 class="medium-title">Tone</h2>
+          <p>
+            The Dask community is broad and diverse, mixing a volunteer open
+            source community, academics and government workers, and for-profit
+            corporations. These sub-communities understandably have different
+            needs and expectations around communication, which can sometimes
+            conflict with each other.
           </p>
-        ))}
+        </div>
+      </div>
+      <div class="tone-sheet tone-examples-sheet">
+        <div class="tone-examples">
+          {tone.map((text, index) => (
+            <p class:list={{ 'tone-emphasis': index === 2 }}>
+              {text.split('\n').map((line, i) => (
+                <>
+                  {i > 0 && <br />}
+                  {line}
+                </>
+              ))}
+            </p>
+          ))}
+        </div>
       </div>
     </section>
   </div>

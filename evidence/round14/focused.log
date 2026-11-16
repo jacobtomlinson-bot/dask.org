@@ -1,0 +1,8 @@
+1177 round14 groups passed; 0 failed; 5521 actual pixels; 561 exact line arrays {
+  rail: 0.703125,
+  paper: 0.125,
+  text: 0.109375,
+  cards: 0.703125,
+  cardChildren: 0.703125,
+  cardArt: 0.640625
+}

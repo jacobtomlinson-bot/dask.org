@@ -1,3 +1,4 @@
+import { expectReadingMarker } from './brand-reading-check.mjs';
 import fs from 'node:fs/promises';
 import { PNG } from 'pngjs';
 import { chromium, expect } from '@playwright/test';
@@ -45,10 +46,20 @@ try {
           color: s.backgroundColor,
         };
       };
-      const panels =
-        innerWidth >= 992
-          ? [box(section, '::before'), box(section, '::after')]
-          : [...section.children].map((e) => box(e, '::before'));
+      // Tone now has real sticky sheets, not section-owned decorative masks.
+      const panels = [...section.querySelectorAll(':scope > .tone-sheet')].map(
+        (e) => {
+          const r = e.getBoundingClientRect(),
+            style = getComputedStyle(e);
+          return {
+            x: r.x,
+            y: r.y - origin.y,
+            width: r.width,
+            height: r.height,
+            color: style.backgroundColor,
+          };
+        },
+      );
       const s = getComputedStyle(section);
       return {
         panels,
@@ -77,7 +88,6 @@ try {
         expect(error, `${width} surface${i} ${k}`).toBeLessThan(0.35);
       }
       expect(a.color).toBe('rgb(246, 246, 246)');
-      expect(a.z).toBe('-1');
     }
     // Same artwork, viewport-wide size, origin and vertical period: changing the
     // global dot phase cannot compensate for missing paper. No phase override.
@@ -95,7 +105,7 @@ try {
       ),
     ).toBeLessThan(0.01);
     const rail = await p.locator('.brand-sidebar').evaluate((nav) => {
-      const origin = nav.getBoundingClientRect();
+      const origin = nav.closest('.brand-rail').getBoundingClientRect();
       const box = (e) => {
         const r = e.getBoundingClientRect();
         return { x: r.x, y: r.y - origin.y, width: r.width, height: r.height };
@@ -163,9 +173,8 @@ try {
     for (const state of ['colors', 'tone']) {
       const link = p.locator(`.brand-sidebar a[href="#${state}"]`);
       await link.click();
-      await expect(link).toHaveAttribute('aria-current', 'location');
-      await expect(link).toHaveCSS('background-color', 'rgb(246, 246, 246)');
-      await expect(link).toHaveCSS('color', 'rgb(8, 8, 21)');
+      await expect(p).toHaveURL(new RegExp('#' + state + '$'));
+      await expectReadingMarker(p);
     }
     rows.push({
       width,

@@ -1,0 +1,910 @@
+[
+  {
+    "width": 1440,
+    "reducedMotion": "no-preference",
+    "name": "dashboard-full-transition",
+    "text": "# DataFrames implement the pandas API\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data/*.parquet\")\ndf.value.mean().compute()",
+    "inner": "# DataFrames implement the pandas API\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data/*.parquet\")\ndf.value.mean().compute()",
+    "spans": 4,
+    "whiteSpace": "pre"
+  },
+  {
+    "name": "terminal-full-transition",
+    "width": 1440,
+    "reducedMotion": "no-preference",
+    "spans": 6,
+    "text": "import pandas as pd\n\ndf = pd.read_parquet(\"s3://mybucket/myfile.parquet/\")\n\ndf = df[df.value >= 0]\ndf.groupby(\"account\")[\"value\"].sum()",
+    "whiteSpace": "pre"
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "no-preference",
+    "phase": 0,
+    "yellow": [
+      109,
+      96
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 818.9006958007812,
+        "y": 398.5370178222656,
+        "width": 45.27667236328125,
+        "height": 21.112884521484375,
+        "top": 398.5370178222656,
+        "right": 864.1773681640625,
+        "bottom": 419.64990234375,
+        "left": 818.9006958007812
+      },
+      {
+        "x": 1064.6904296875,
+        "y": 398.5370178222656,
+        "width": 45.2767333984375,
+        "height": 21.112884521484375,
+        "top": 398.5370178222656,
+        "right": 1109.9671630859375,
+        "bottom": 419.64990234375,
+        "left": 1064.6904296875
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "no-preference",
+    "phase": 1000,
+    "yellow": [
+      108,
+      93
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 818.322998046875,
+        "y": 397.8712158203125,
+        "width": 45.5491943359375,
+        "height": 20.518402099609375,
+        "top": 397.8712158203125,
+        "right": 863.8721923828125,
+        "bottom": 418.3896179199219,
+        "left": 818.322998046875
+      },
+      {
+        "x": 1101.0706787109375,
+        "y": 421.14007568359375,
+        "width": 28.1162109375,
+        "height": 41.294189453125,
+        "top": 421.14007568359375,
+        "right": 1129.1868896484375,
+        "bottom": 462.43426513671875,
+        "left": 1101.0706787109375
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "no-preference",
+    "phase": 2500,
+    "yellow": [
+      110,
+      93
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 817.487548828125,
+        "y": 396.86517333984375,
+        "width": 45.9432373046875,
+        "height": 19.620147705078125,
+        "top": 396.86517333984375,
+        "right": 863.4307861328125,
+        "bottom": 416.4853210449219,
+        "left": 817.487548828125
+      },
+      {
+        "x": 1172.190673828125,
+        "y": 429.64532470703125,
+        "width": 10.280029296875,
+        "height": 48.888153076171875,
+        "top": 429.64532470703125,
+        "right": 1182.470703125,
+        "bottom": 478.5334777832031,
+        "left": 1172.190673828125
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "no-preference",
+    "phase": 4500,
+    "yellow": [
+      114,
+      86
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 816.9514770507812,
+        "y": 396.18975830078125,
+        "width": 46.19610595703125,
+        "height": 19.01708984375,
+        "top": 396.18975830078125,
+        "right": 863.1475830078125,
+        "bottom": 415.20684814453125,
+        "left": 816.9514770507812
+      },
+      {
+        "x": 1198.567626953125,
+        "y": 416.060302734375,
+        "width": 33.8309326171875,
+        "height": 36.7586669921875,
+        "top": 416.060302734375,
+        "right": 1232.3985595703125,
+        "bottom": 452.8189697265625,
+        "left": 1198.567626953125
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "no-preference",
+    "phase": 7500,
+    "yellow": [
+      114,
+      103
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 818.6098022460938,
+        "y": 398.2046203613281,
+        "width": 45.41387939453125,
+        "height": 20.816070556640625,
+        "top": 398.2046203613281,
+        "right": 864.023681640625,
+        "bottom": 419.02069091796875,
+        "left": 818.6098022460938
+      },
+      {
+        "x": 1079.992919921875,
+        "y": 411.1357421875,
+        "width": 38.05859375,
+        "height": 32.3616943359375,
+        "top": 411.1357421875,
+        "right": 1118.051513671875,
+        "bottom": 443.4974365234375,
+        "left": 1079.992919921875
+      }
+    ]
+  },
+  {
+    "width": 1440,
+    "reducedMotion": "reduce",
+    "name": "dashboard-full-transition",
+    "text": "# Arrays implement the NumPy API\nimport dask.array as da\nx = da.random.random((1000, 1000),\n                     chunks=(100, 100))\nx.mean().compute()",
+    "inner": "# Arrays implement the NumPy API\nimport dask.array as da\nx = da.random.random((1000, 1000),\n                     chunks=(100, 100))\nx.mean().compute()",
+    "spans": 7,
+    "whiteSpace": "pre"
+  },
+  {
+    "name": "terminal-full-transition",
+    "width": 1440,
+    "reducedMotion": "reduce",
+    "spans": 6,
+    "text": "import pandas as pd\n\ndf = pd.read_parquet(\"s3://mybucket/myfile.parquet/\")\n\ndf = df[df.value >= 0]\ndf.groupby(\"account\")[\"value\"].sum()",
+    "whiteSpace": "pre"
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "reduce",
+    "phase": 0,
+    "yellow": [
+      106,
+      97
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 816.689697265625,
+        "y": 395.85064697265625,
+        "width": 46.319580078125,
+        "height": 18.71435546875,
+        "top": 395.85064697265625,
+        "right": 863.00927734375,
+        "bottom": 414.56500244140625,
+        "left": 816.689697265625
+      },
+      {
+        "x": 1208.1270751953125,
+        "y": 404.5407409667969,
+        "width": 42.3662109375,
+        "height": 26.47332763671875,
+        "top": 404.5407409667969,
+        "right": 1250.4932861328125,
+        "bottom": 431.0140686035156,
+        "left": 1208.1270751953125
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "reduce",
+    "phase": 1000,
+    "yellow": [
+      106,
+      97
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 816.689697265625,
+        "y": 395.85064697265625,
+        "width": 46.319580078125,
+        "height": 18.71435546875,
+        "top": 395.85064697265625,
+        "right": 863.00927734375,
+        "bottom": 414.56500244140625,
+        "left": 816.689697265625
+      },
+      {
+        "x": 1208.1270751953125,
+        "y": 404.5407409667969,
+        "width": 42.3662109375,
+        "height": 26.47332763671875,
+        "top": 404.5407409667969,
+        "right": 1250.4932861328125,
+        "bottom": 431.0140686035156,
+        "left": 1208.1270751953125
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "reduce",
+    "phase": 2500,
+    "yellow": [
+      106,
+      97
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 816.689697265625,
+        "y": 395.85064697265625,
+        "width": 46.319580078125,
+        "height": 18.71435546875,
+        "top": 395.85064697265625,
+        "right": 863.00927734375,
+        "bottom": 414.56500244140625,
+        "left": 816.689697265625
+      },
+      {
+        "x": 1208.1270751953125,
+        "y": 404.5407409667969,
+        "width": 42.3662109375,
+        "height": 26.47332763671875,
+        "top": 404.5407409667969,
+        "right": 1250.4932861328125,
+        "bottom": 431.0140686035156,
+        "left": 1208.1270751953125
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "reduce",
+    "phase": 4500,
+    "yellow": [
+      106,
+      97
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 816.689697265625,
+        "y": 395.85064697265625,
+        "width": 46.319580078125,
+        "height": 18.71435546875,
+        "top": 395.85064697265625,
+        "right": 863.00927734375,
+        "bottom": 414.56500244140625,
+        "left": 816.689697265625
+      },
+      {
+        "x": 1208.1270751953125,
+        "y": 404.5407409667969,
+        "width": 42.3662109375,
+        "height": 26.47332763671875,
+        "top": 404.5407409667969,
+        "right": 1250.4932861328125,
+        "bottom": 431.0140686035156,
+        "left": 1208.1270751953125
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 1440,
+    "reducedMotion": "reduce",
+    "phase": 7500,
+    "yellow": [
+      106,
+      97
+    ],
+    "svg": {
+      "x": 771,
+      "y": 247,
+      "width": 535.5625,
+      "height": 255.78125,
+      "top": 247,
+      "right": 1306.5625,
+      "bottom": 502.78125,
+      "left": 771
+    },
+    "needles": [
+      {
+        "x": 816.689697265625,
+        "y": 395.85064697265625,
+        "width": 46.319580078125,
+        "height": 18.71435546875,
+        "top": 395.85064697265625,
+        "right": 863.00927734375,
+        "bottom": 414.56500244140625,
+        "left": 816.689697265625
+      },
+      {
+        "x": 1208.1270751953125,
+        "y": 404.5407409667969,
+        "width": 42.3662109375,
+        "height": 26.47332763671875,
+        "top": 404.5407409667969,
+        "right": 1250.4932861328125,
+        "bottom": 431.0140686035156,
+        "left": 1208.1270751953125
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "reducedMotion": "no-preference",
+    "name": "dashboard-full-transition",
+    "text": "# DataFrames implement the pandas API\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data/*.parquet\")\ndf.value.mean().compute()",
+    "inner": "# DataFrames implement the pandas API\nimport dask.dataframe as dd\ndf = dd.read_parquet(\"s3://data/*.parquet\")\ndf.value.mean().compute()",
+    "spans": 4,
+    "whiteSpace": "pre"
+  },
+  {
+    "name": "terminal-full-transition",
+    "width": 390,
+    "reducedMotion": "no-preference",
+    "spans": 6,
+    "text": "import pandas as pd\n\ndf = pd.read_parquet(\"s3://mybucket/myfile.parquet/\")\n\ndf = df[df.value >= 0]\ndf.groupby(\"account\")[\"value\"].sum()",
+    "whiteSpace": "pre"
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "no-preference",
+    "phase": 0,
+    "yellow": [
+      55,
+      37
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 67.98660278320312,
+        "y": 288.88525390625,
+        "width": 26.351516723632812,
+        "height": 10.646697998046875,
+        "top": 288.88525390625,
+        "right": 94.33811950683594,
+        "bottom": 299.5319519042969,
+        "left": 67.98660278320312
+      },
+      {
+        "x": 290.67791748046875,
+        "y": 293.8291015625,
+        "width": 24.102386474609375,
+        "height": 15.060821533203125,
+        "top": 293.8291015625,
+        "right": 314.7803039550781,
+        "bottom": 308.8899230957031,
+        "left": 290.67791748046875
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "no-preference",
+    "phase": 1000,
+    "yellow": [
+      57,
+      37
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 68.91580963134766,
+        "y": 290.0347595214844,
+        "width": 25.91320037841797,
+        "height": 11.67303466796875,
+        "top": 290.0347595214844,
+        "right": 94.82901000976562,
+        "bottom": 301.7077941894531,
+        "left": 68.91580963134766
+      },
+      {
+        "x": 229.7727813720703,
+        "y": 303.2725524902344,
+        "width": 15.995498657226562,
+        "height": 23.492523193359375,
+        "top": 303.2725524902344,
+        "right": 245.76828002929688,
+        "bottom": 326.76507568359375,
+        "left": 229.7727813720703
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "no-preference",
+    "phase": 2500,
+    "yellow": [
+      57,
+      36
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 68.44052124023438,
+        "y": 289.46240234375,
+        "width": 26.137405395507812,
+        "height": 11.16204833984375,
+        "top": 289.46240234375,
+        "right": 94.57792663574219,
+        "bottom": 300.62445068359375,
+        "left": 68.44052124023438
+      },
+      {
+        "x": 270.2334289550781,
+        "y": 308.11126708984375,
+        "width": 5.848419189453125,
+        "height": 27.812744140625,
+        "top": 308.11126708984375,
+        "right": 276.08184814453125,
+        "bottom": 335.92401123046875,
+        "left": 270.2334289550781
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "no-preference",
+    "phase": 4500,
+    "yellow": [
+      60,
+      33
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 68.13552856445312,
+        "y": 289.0781555175781,
+        "width": 26.281265258789062,
+        "height": 10.818939208984375,
+        "top": 289.0781555175781,
+        "right": 94.41679382324219,
+        "bottom": 299.8970947265625,
+        "left": 68.13552856445312
+      },
+      {
+        "x": 285.23944091796875,
+        "y": 300.38262939453125,
+        "width": 19.24664306640625,
+        "height": 20.9122314453125,
+        "top": 300.38262939453125,
+        "right": 304.486083984375,
+        "bottom": 321.29486083984375,
+        "left": 285.23944091796875
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "no-preference",
+    "phase": 7500,
+    "yellow": [
+      61,
+      41
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 69.07894897460938,
+        "y": 290.22442626953125,
+        "width": 25.836257934570312,
+        "height": 11.8424072265625,
+        "top": 290.22442626953125,
+        "right": 94.91520690917969,
+        "bottom": 302.06683349609375,
+        "left": 69.07894897460938
+      },
+      {
+        "x": 217.78155517578125,
+        "y": 297.5810241699219,
+        "width": 21.6517333984375,
+        "height": 18.4107666015625,
+        "top": 297.5810241699219,
+        "right": 239.43328857421875,
+        "bottom": 315.9917907714844,
+        "left": 217.78155517578125
+      }
+    ]
+  },
+  {
+    "width": 390,
+    "reducedMotion": "reduce",
+    "name": "dashboard-full-transition",
+    "text": "# Arrays implement the NumPy API\nimport dask.array as da\nx = da.random.random((1000, 1000),\n                     chunks=(100, 100))\nx.mean().compute()",
+    "inner": "# Arrays implement the NumPy API\nimport dask.array as da\nx = da.random.random((1000, 1000),\n                     chunks=(100, 100))\nx.mean().compute()",
+    "spans": 7,
+    "whiteSpace": "pre"
+  },
+  {
+    "name": "terminal-full-transition",
+    "width": 390,
+    "reducedMotion": "reduce",
+    "spans": 6,
+    "text": "import pandas as pd\n\ndf = pd.read_parquet(\"s3://mybucket/myfile.parquet/\")\n\ndf = df[df.value >= 0]\ndf.groupby(\"account\")[\"value\"].sum()",
+    "whiteSpace": "pre"
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "reduce",
+    "phase": 0,
+    "yellow": [
+      55,
+      37
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 67.98660278320312,
+        "y": 288.88525390625,
+        "width": 26.351516723632812,
+        "height": 10.646697998046875,
+        "top": 288.88525390625,
+        "right": 94.33811950683594,
+        "bottom": 299.5319519042969,
+        "left": 67.98660278320312
+      },
+      {
+        "x": 290.67791748046875,
+        "y": 293.8291015625,
+        "width": 24.102386474609375,
+        "height": 15.060821533203125,
+        "top": 293.8291015625,
+        "right": 314.7803039550781,
+        "bottom": 308.8899230957031,
+        "left": 290.67791748046875
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "reduce",
+    "phase": 1000,
+    "yellow": [
+      55,
+      37
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 67.98660278320312,
+        "y": 288.88525390625,
+        "width": 26.351516723632812,
+        "height": 10.646697998046875,
+        "top": 288.88525390625,
+        "right": 94.33811950683594,
+        "bottom": 299.5319519042969,
+        "left": 67.98660278320312
+      },
+      {
+        "x": 290.67791748046875,
+        "y": 293.8291015625,
+        "width": 24.102386474609375,
+        "height": 15.060821533203125,
+        "top": 293.8291015625,
+        "right": 314.7803039550781,
+        "bottom": 308.8899230957031,
+        "left": 290.67791748046875
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "reduce",
+    "phase": 2500,
+    "yellow": [
+      55,
+      37
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 67.98660278320312,
+        "y": 288.88525390625,
+        "width": 26.351516723632812,
+        "height": 10.646697998046875,
+        "top": 288.88525390625,
+        "right": 94.33811950683594,
+        "bottom": 299.5319519042969,
+        "left": 67.98660278320312
+      },
+      {
+        "x": 290.67791748046875,
+        "y": 293.8291015625,
+        "width": 24.102386474609375,
+        "height": 15.060821533203125,
+        "top": 293.8291015625,
+        "right": 314.7803039550781,
+        "bottom": 308.8899230957031,
+        "left": 290.67791748046875
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "reduce",
+    "phase": 4500,
+    "yellow": [
+      55,
+      37
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 67.98660278320312,
+        "y": 288.88525390625,
+        "width": 26.351516723632812,
+        "height": 10.646697998046875,
+        "top": 288.88525390625,
+        "right": 94.33811950683594,
+        "bottom": 299.5319519042969,
+        "left": 67.98660278320312
+      },
+      {
+        "x": 290.67791748046875,
+        "y": 293.8291015625,
+        "width": 24.102386474609375,
+        "height": 15.060821533203125,
+        "top": 293.8291015625,
+        "right": 314.7803039550781,
+        "bottom": 308.8899230957031,
+        "left": 290.67791748046875
+      }
+    ]
+  },
+  {
+    "name": "gauge-visible-pivots",
+    "width": 390,
+    "reducedMotion": "reduce",
+    "phase": 7500,
+    "yellow": [
+      55,
+      37
+    ],
+    "svg": {
+      "x": 41.984375,
+      "y": 204.203125,
+      "width": 304.703125,
+      "height": 145.515625,
+      "top": 204.203125,
+      "right": 346.6875,
+      "bottom": 349.71875,
+      "left": 41.984375
+    },
+    "needles": [
+      {
+        "x": 67.98660278320312,
+        "y": 288.88525390625,
+        "width": 26.351516723632812,
+        "height": 10.646697998046875,
+        "top": 288.88525390625,
+        "right": 94.33811950683594,
+        "bottom": 299.5319519042969,
+        "left": 67.98660278320312
+      },
+      {
+        "x": 290.67791748046875,
+        "y": 293.8291015625,
+        "width": 24.102386474609375,
+        "height": 15.060821533203125,
+        "top": 293.8291015625,
+        "right": 314.7803039550781,
+        "bottom": 308.8899230957031,
+        "left": 290.67791748046875
+      }
+    ]
+  }
+]

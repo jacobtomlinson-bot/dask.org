@@ -328,3 +328,46 @@ formatting and whitespace pass; audit0. Targeted static artwork/caption/control
 rectangles differ by at most0.109375px, palette tracks0.046875px and actual
 foreground raster bounds1.015625px in the exercised cases. Review the explicit
 remaining inventory before interpreting those scoped measurements.
+
+## Round14 — compact Brand controls, real sticky Tone papers and card seams
+
+`evidence/REVIEW.md` and `evidence/round14/` supersede the historical review
+sections above. In particular, the earlier unconditional initial Logos marker was
+not source-equivalent: the reading marker follows the viewport midpoint and can
+clear, including while the hero precedes the content. The compact sticky control
+box is now separate from the full-height pink rail. Tone's real foreground sheets
+own their text, intrinsic flow and bounded sticky travel; all90 accepted paragraph
+line arrays remain covered. Landscape tag gaps, foreground card percentages and
+tablet CTA margins now determine the actual Use Cases tracks and seams.
+
+```sh
+npm run build
+npm run preview -- --port 4321
+# another terminal:
+BASE_URL=http://127.0.0.1:4321 npm test
+npm run format:check
+npm audit
+# Explicit optional GET/HEAD-only source refresh (not part of ordinary tests):
+REFERENCE=1 CAPTURES=1 node scripts/round14-probe.mjs
+node scripts/round14-settled-reference.mjs
+node scripts/round14-cases-capture.mjs
+# Local-only source-backed focused regression and paint audit:
+BASE_URL=http://127.0.0.1:4321 node scripts/round14-checks.mjs
+node scripts/round14-rail-paint.mjs
+node scripts/round14-gallery.mjs
+```
+
+The focused gate includes836 bidirectional viewport states at11 widths and two
+viewport heights, actual point-click and keyboard navigation, foreground paper
+pixels, all77 card bounds and leaf text line arrays. `states.html` presents66
+scroll pairs and11 complete Use Cases pairs; `gallery.html` contains18 canonical
+page pairs. Remaining small geometry, vector/grid phase and unsynchronized motion
+limits are explicit in the review; passing scoped checks is not exact-equivalence
+or cross-engine certification. Safe unsent forms, accepted calculated contrast
+metadata, public asset provenance and explicitly pending redirects are unchanged.
+No publication or integration is authorized by this package.
+
+Round14 frozen verification: **76 full regression groups,1,177 focused groups;
+0 failures**, with561 exact line arrays and5,521 actual paint samples. Separate
+hit tests passed246 physical clicks and88 keyboard activations. Build and
+formatting passed; audit0.

@@ -1,7 +1,7 @@
 /* brand: component-owned base, desktop, tablet, mobile and reduced-motion rules. Keep each selector in its owning tier; do not append refinement layers. */
 .brand-body {
   --brand-rail: 5.0625rem;
-  /* The rail track remains pink beyond the viewport-height sticky navigation. */
+  /* Paint spans the content; the interactive group has its own compact sticky box. */
   background-image: linear-gradient(
     to right,
     var(--pink) 0 var(--brand-rail),
@@ -19,19 +19,22 @@
   background-size: 100vw auto;
   background-position: right top;
 }
-.brand-sidebar {
+.brand-rail {
+  position: relative;
   grid-column: 1;
   grid-row: 1 / span 4;
-  position: sticky;
-  top: 0;
-  align-self: start;
-  height: 100dvh;
+  padding-block: 2.5002rem;
   background: var(--pink);
   z-index: 10;
+}
+.brand-sidebar {
+  position: sticky;
+  top: 5.0004rem;
+  height: 19.999rem;
   display: flex;
   align-items: center;
   flex-direction: column;
-  padding: 2.5002rem 0;
+  padding: 0;
   gap: 0.9999rem;
   color: white;
 }
@@ -39,6 +42,7 @@
   display: contents;
 }
 .brand-sidebar a {
+  flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -284,8 +288,22 @@
   .brand-body {
     --brand-rail: 3.4375rem;
   }
+  .brand-rail {
+    padding-block: 1.33344rem 5.33376rem;
+  }
+  .brand-rail::before {
+    /* The painted tablet strip is wider than its legacy content reservation. */
+    content: '';
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: 7.26vw;
+    background: var(--pink);
+    z-index: -1;
+    pointer-events: none;
+  }
   .brand-sidebar {
-    padding-top: 1.33344rem;
+    top: 2.66688rem;
+    height: 10.666rem;
     gap: 0.84192rem;
   }
   .brand-sidebar a {
@@ -463,7 +481,14 @@
     background-position: center top;
     scroll-margin-top: 80px;
   }
+  .brand-rail {
+    position: sticky;
+    top: 0;
+    padding: 0;
+  }
   .brand-sidebar {
+    position: relative;
+    top: 0;
     height: 80px;
     width: 100%;
     flex-direction: row;

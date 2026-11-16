@@ -298,26 +298,20 @@ if (!reduceMotion.matches) {
     .forEach((e) => observer.observe(e));
 }
 
-// Persistent brand navigation follows the section nearest the sticky rail.
+// Persistent brand navigation follows the viewport reading midpoint.
 const brandLinks = [
   ...document.querySelectorAll<HTMLAnchorElement>('.brand-sidebar a'),
 ];
 if (brandLinks.length) {
   let pending = false;
   const updateBrandSection = () => {
-    const offset = matchMedia('(max-width:767px)').matches
-      ? (document.querySelector('.brand-sidebar')?.getBoundingClientRect()
-          .height ?? 80) + 2
-      : (26 * parseFloat(getComputedStyle(document.documentElement).fontSize)) /
-        16;
-    // The original keeps Logos selected while the hero precedes the rail.
-    let active: HTMLAnchorElement | undefined = brandLinks[0];
+    // Follow the section intersecting the viewport's reading midpoint. A marker
+    // clears beyond the final section; the rail itself remains independently usable.
+    const midpoint = innerHeight / 2;
+    let active: HTMLAnchorElement | undefined;
     for (const link of brandLinks) {
-      if (
-        document.querySelector(link.hash)!.getBoundingClientRect().top <=
-        offset + 12
-      )
-        active = link;
+      const rect = document.querySelector(link.hash)!.getBoundingClientRect();
+      if (rect.top <= midpoint && rect.bottom >= midpoint) active = link;
     }
     for (const link of brandLinks) {
       if (link === active) link.setAttribute('aria-current', 'location');

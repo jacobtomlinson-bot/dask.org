@@ -1,0 +1,210 @@
+{
+  "sourceSide": "left",
+  "nativeSide": "right",
+  "canonicalOverviews": 18,
+  "responsiveScrollContactSheets": 11,
+  "completeCardSectionPairs": 11,
+  "literalEquivalenceCertified": false,
+  "inspected": [
+    {
+      "path": "evidence/round14/inspection/cases-1100.png",
+      "sha256": "39bdb99774bfbbe3537c6d58121f3cd7495773a250f27ed965019832d9fa1ae3",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-1440.png",
+      "sha256": "d317561158c9be1b8fc13115d571e008fdf45f50f24aeee446f4758a7c4a22e4",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-390.png",
+      "sha256": "52561ab1b7f9a8692f20497ca78bececfd67e834cb4695ba87ea70d6e04a6d8c",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-479.png",
+      "sha256": "d5262ebd46312a95909b75ea3527d2a9347dc13f86680d0f9b5b1585efeaac3d",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-480.png",
+      "sha256": "4ea4b9205edaf667cbcce477c5d84411e07fccb97b7bab63ad3bfe9e809bc543",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-601.png",
+      "sha256": "64d1911ec378ead333fdf54e389fbf39efb498eef7b5416db7c3b2393537d841",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-767.png",
+      "sha256": "bc238e0ab55771588debedd7e48dad8199a800dc46920d4eb621cf90874cf097",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-768.png",
+      "sha256": "a2a7a85766f365548240c998119e38674a9620c0c6faf756288ffdf262244a89",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-769.png",
+      "sha256": "91d840345826b76037a5f71e0c40ae8d3a70864cc49e14045aa3bfad639df414",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-991.png",
+      "sha256": "cb5ecc42131ab62c2ddf6ecab79b8463838fbfc2a73b02cc0036312437c71f16",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/cases-992.png",
+      "sha256": "8a7d63a259a5fa55c5f21073d9ae2a9dcf6e0faf7d08a2727b984770d85ca93f",
+      "observation": "Inspected complete foreground Use Cases section: all six artwork/content cards plus final CTA, seams, dividers, tag gaps, wrapping and neighboring layouts. Tiny reported rounding differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-brand-guide-1440.png",
+      "sha256": "31628fbcfe3e3d77642aa6805a16b8f7ac41be68651ceac7fa62e7ae44b3a0d8",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-brand-guide-390.png",
+      "sha256": "decb17b011b97635546cdc722a1672770a43fe41bd5b76b0bd7b646e2d76135c",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-brand-guide-768.png",
+      "sha256": "b93c2e0bf15c7b15657f0223190e8620e1cf2c7831553a8f4b657882b56994bf",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-get-help-1440.png",
+      "sha256": "0099927903a6b9a37c67b190ab5b35f1a6c9cdd17037e35d9f80c02e164e23f8",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-get-help-390.png",
+      "sha256": "d7f00ca693ddd7c115265c372951af3865366958e3743d0dd66086b981e54419",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-get-help-768.png",
+      "sha256": "8bdd9ea9ce2a586e054a734defe819d1bdc5504653f38bd101801f7b10c5a9b5",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-get-started-1440.png",
+      "sha256": "d2c53592e13e2b51641c333389332d4b20c45845a0d809031d2a0976a37092cd",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-get-started-390.png",
+      "sha256": "11cf657734249db0989912a18ebe84c07f4f9f8b47d75f41a303e399174f5fd5",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-get-started-768.png",
+      "sha256": "59218a46f22cf844f9463631a936b222ba346219b74229671d07905464ecca11",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-home-1440.png",
+      "sha256": "b561cc8d2f2452f9dc0ca4ac28ffbe8f8904e7b44cfae61c344485ab5eae7d83",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-home-390.png",
+      "sha256": "eef5799a52afd8b0317afe1421665170d8a2c14642707696f70324bb7299db07",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-home-768.png",
+      "sha256": "a6c2c13c16521ec82c38e20c44df853f7103025cc4f1947282dbbf3228e64267",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-powered-by-1440.png",
+      "sha256": "871a303c3acf16ac973cb9cabe8c412f6934813e2e61463283b74d3977bd8438",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-powered-by-390.png",
+      "sha256": "cd0384a1d10bd6983670439ada2c9f613853f9076043a590ac4be6abd4c6602c",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-powered-by-768.png",
+      "sha256": "4eaa73f707400a80d154e878aba7d4ed98d159501669ed32960cb4bb5aef458b",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-press-mentions-1440.png",
+      "sha256": "6563abf9db1f28cc4e1685adf76d261c471b906f0dcd3ef2cc4871679476585c",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-press-mentions-390.png",
+      "sha256": "5b310613b048ec447b6e855dea8b8f7ef635ef064ec94345c401799501f2af4e",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/overview-press-mentions-768.png",
+      "sha256": "bcff6ac68f224c884825a73af2229ce21f4edc5c64316ac014a0a86b1bdf3779",
+      "observation": "Inspected source-left/native-right full-page scaled overview: shared chrome, section order/flow, artwork and footer. Not every glyph/pixel at full resolution."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-1100.png",
+      "sha256": "d50270bcc3179b653e97bbc5bd27126102f5543c289b671034a2f552d1945375",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-1440.png",
+      "sha256": "def3ea347c3015e07385631aa789a203ca689df555d2626532fc741297a28ce6",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-390.png",
+      "sha256": "a4791f857b323f26ba3e644e67ad5da6a49e4ba398e28c8e6f56f5c54a87cd5b",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-479.png",
+      "sha256": "d432fa2ff80983d005e8ef007a57507fc10f948c69af92d678ab96d0217a32ca",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-480.png",
+      "sha256": "38a73a59fb2cc6511b3f6065ac903e72997bbf14f7a99c57a51d9c999c842b20",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-601.png",
+      "sha256": "e1755a63330f2c709a1c43034b7467c25720aa48370663c4a5080121643546b5",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-767.png",
+      "sha256": "e53dde43469c55dbf5da7963380ec53b691b6bfe82b557b14c3dfa6eff3b102e",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-768.png",
+      "sha256": "ba5082fcf95bb35ea67bb95f0bde27b54a68ef5451df17528b65dc5d670a122b",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-769.png",
+      "sha256": "dc4a90b95b655babe891f54f40edf4088e066e81634c50f1beef267600ecedf1",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-991.png",
+      "sha256": "939e2103dc0334cf98d33d852dc63122c99cdf55fe1cf94e42de692b73931bc3",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    },
+    {
+      "path": "evidence/round14/inspection/scroll-992.png",
+      "sha256": "c27a99473bfac73d15e3356f49f56f6a41fe32ad2b5ac6e7025aa6739f478efe",
+      "observation": "Inspected six source350ms/native viewport pairs: entry, pinned travel and footer release at700/1000px heights. Text and actual sheet move together; compact rail availability/clear state match. Stacked later-sibling coverage retained. Minor native contour/grid phase differences remain."
+    }
+  ]
+}

@@ -1,0 +1,5362 @@
+[
+  {
+    "label": "local",
+    "width": 390,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 2822.890625
+    },
+    "grid": {
+      "x": 30.015625,
+      "y": 235.828125,
+      "w": 329.96875,
+      "h": 2505.171875
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 30.859375,
+          "y": 236.90625,
+          "w": 328.28125,
+          "h": 350.78125
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 30.859375,
+            "y": 241.0625,
+            "w": 328.28125,
+            "h": 152.328125
+          },
+          {
+            "x": 35.1875,
+            "y": 397.546875,
+            "w": 319.625,
+            "h": 2.078125
+          },
+          {
+            "x": 31.390625,
+            "y": 400.15625,
+            "w": 327.21875,
+            "h": 187.53125
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 47.484375,
+            "y": 257.6875,
+            "w": 295.03125,
+            "h": 119.078125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 30.859375,
+          "y": 601.234375,
+          "w": 328.28125,
+          "h": 350.78125
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 30.859375,
+            "y": 605.390625,
+            "w": 328.28125,
+            "h": 152.328125
+          },
+          {
+            "x": 35.1875,
+            "y": 761.875,
+            "w": 319.625,
+            "h": 2.078125
+          },
+          {
+            "x": 31.390625,
+            "y": 764.484375,
+            "w": 327.21875,
+            "h": 187.53125
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlitPrefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 47.484375,
+            "y": 622.015625,
+            "w": 295.03125,
+            "h": 119.078125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 30.859375,
+          "y": 965.5625,
+          "w": 328.28125,
+          "h": 350.78125
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 30.859375,
+            "y": 969.71875,
+            "w": 328.28125,
+            "h": 152.328125
+          },
+          {
+            "x": 35.1875,
+            "y": 1126.203125,
+            "w": 319.625,
+            "h": 2.078125
+          },
+          {
+            "x": 31.390625,
+            "y": 1128.8125,
+            "w": 327.21875,
+            "h": 187.53125
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 47.484375,
+            "y": 986.34375,
+            "w": 295.03125,
+            "h": 119.078125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 30.859375,
+          "y": 1329.890625,
+          "w": 328.28125,
+          "h": 350.78125
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 30.859375,
+            "y": 1334.046875,
+            "w": 328.28125,
+            "h": 152.328125
+          },
+          {
+            "x": 35.1875,
+            "y": 1490.53125,
+            "w": 319.625,
+            "h": 2.078125
+          },
+          {
+            "x": 31.390625,
+            "y": 1493.140625,
+            "w": 327.21875,
+            "h": 187.53125
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 47.484375,
+            "y": 1350.671875,
+            "w": 295.03125,
+            "h": 119.078125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 30.859375,
+          "y": 1694.21875,
+          "w": 328.28125,
+          "h": 350.78125
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 30.859375,
+            "y": 1698.375,
+            "w": 328.28125,
+            "h": 152.328125
+          },
+          {
+            "x": 35.1875,
+            "y": 1854.859375,
+            "w": 319.625,
+            "h": 2.078125
+          },
+          {
+            "x": 31.390625,
+            "y": 1857.46875,
+            "w": 327.21875,
+            "h": 187.53125
+          }
+        ],
+        "heading": [
+          "NASA Satellite Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 47.484375,
+            "y": 1715,
+            "w": 295.03125,
+            "h": 119.078125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 30.859375,
+          "y": 2058.546875,
+          "w": 328.28125,
+          "h": 350.78125
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 30.859375,
+            "y": 2062.703125,
+            "w": 328.28125,
+            "h": 152.328125
+          },
+          {
+            "x": 35.1875,
+            "y": 2219.1875,
+            "w": 319.625,
+            "h": 2.078125
+          },
+          {
+            "x": 31.390625,
+            "y": 2221.796875,
+            "w": 327.21875,
+            "h": 187.53125
+          }
+        ],
+        "heading": [
+          "XGBoost Model Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 47.484375,
+            "y": 2079.328125,
+            "w": 295.03125,
+            "h": 119.078125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 30.859375,
+          "y": 2422.875,
+          "w": 328.28125,
+          "h": 309.8125
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 50.359375,
+            "y": 2461.875,
+            "w": 289.28125,
+            "h": 66.5625
+          },
+          {
+            "x": 50.359375,
+            "y": 2536.75,
+            "w": 289.28125,
+            "h": 49.90625
+          },
+          {
+            "x": 50.359375,
+            "y": 2602.25,
+            "w": 289.28125,
+            "h": 91.4375
+          }
+        ],
+        "heading": [
+          "Want more",
+          "examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more",
+            "examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube",
+            "Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more",
+          "examples?",
+          "Visit the Dask Blog or Dask Youtube",
+          "Channel",
+          "Dask Demo Day",
+          "Dask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 479,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 479,
+      "h": 3466.78125
+    },
+    "grid": {
+      "x": 36.875,
+      "y": 289.65625,
+      "w": 405.25,
+      "h": 3076.546875
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 37.921875,
+          "y": 290.984375,
+          "w": 403.15625,
+          "h": 430.828125
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 37.921875,
+            "y": 296.078125,
+            "w": 403.15625,
+            "h": 187.09375
+          },
+          {
+            "x": 43.234375,
+            "y": 488.265625,
+            "w": 392.53125,
+            "h": 2.546875
+          },
+          {
+            "x": 38.578125,
+            "y": 491.46875,
+            "w": 401.84375,
+            "h": 230.34375
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 58.34375,
+            "y": 316.5,
+            "w": 362.3125,
+            "h": 146.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 37.921875,
+          "y": 738.4375,
+          "w": 403.15625,
+          "h": 430.828125
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 37.921875,
+            "y": 743.53125,
+            "w": 403.15625,
+            "h": 187.09375
+          },
+          {
+            "x": 43.234375,
+            "y": 935.71875,
+            "w": 392.53125,
+            "h": 2.546875
+          },
+          {
+            "x": 38.578125,
+            "y": 938.921875,
+            "w": 401.84375,
+            "h": 230.34375
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlitPrefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 58.34375,
+            "y": 763.953125,
+            "w": 362.3125,
+            "h": 146.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 37.921875,
+          "y": 1185.890625,
+          "w": 403.15625,
+          "h": 430.828125
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 37.921875,
+            "y": 1190.984375,
+            "w": 403.15625,
+            "h": 187.09375
+          },
+          {
+            "x": 43.234375,
+            "y": 1383.171875,
+            "w": 392.53125,
+            "h": 2.546875
+          },
+          {
+            "x": 38.578125,
+            "y": 1386.375,
+            "w": 401.84375,
+            "h": 230.34375
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 58.34375,
+            "y": 1211.40625,
+            "w": 362.3125,
+            "h": 146.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 37.921875,
+          "y": 1633.34375,
+          "w": 403.15625,
+          "h": 430.828125
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 37.921875,
+            "y": 1638.4375,
+            "w": 403.15625,
+            "h": 187.09375
+          },
+          {
+            "x": 43.234375,
+            "y": 1830.625,
+            "w": 392.53125,
+            "h": 2.546875
+          },
+          {
+            "x": 38.578125,
+            "y": 1833.828125,
+            "w": 401.84375,
+            "h": 230.34375
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 58.34375,
+            "y": 1658.859375,
+            "w": 362.3125,
+            "h": 146.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 37.921875,
+          "y": 2080.796875,
+          "w": 403.15625,
+          "h": 430.828125
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 37.921875,
+            "y": 2085.890625,
+            "w": 403.15625,
+            "h": 187.09375
+          },
+          {
+            "x": 43.234375,
+            "y": 2278.078125,
+            "w": 392.53125,
+            "h": 2.546875
+          },
+          {
+            "x": 38.578125,
+            "y": 2281.28125,
+            "w": 401.84375,
+            "h": 230.34375
+          }
+        ],
+        "heading": [
+          "NASA Satellite Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 58.34375,
+            "y": 2106.3125,
+            "w": 362.3125,
+            "h": 146.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 37.921875,
+          "y": 2528.25,
+          "w": 403.15625,
+          "h": 430.828125
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 37.921875,
+            "y": 2533.34375,
+            "w": 403.15625,
+            "h": 187.09375
+          },
+          {
+            "x": 43.234375,
+            "y": 2725.53125,
+            "w": 392.53125,
+            "h": 2.546875
+          },
+          {
+            "x": 38.578125,
+            "y": 2728.734375,
+            "w": 401.84375,
+            "h": 230.34375
+          }
+        ],
+        "heading": [
+          "XGBoost Model Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 58.34375,
+            "y": 2553.765625,
+            "w": 362.3125,
+            "h": 146.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 37.921875,
+          "y": 2975.703125,
+          "w": 403.15625,
+          "h": 380.296875
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 61.859375,
+            "y": 3023.59375,
+            "w": 355.28125,
+            "h": 81.75
+          },
+          {
+            "x": 61.859375,
+            "y": 3115.546875,
+            "w": 355.28125,
+            "h": 61.3125
+          },
+          {
+            "x": 61.859375,
+            "y": 3196.015625,
+            "w": 355.28125,
+            "h": 112.09375
+          }
+        ],
+        "heading": [
+          "Want more",
+          "examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more",
+            "examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube",
+            "Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more",
+          "examples?",
+          "Visit the Dask Blog or Dask Youtube",
+          "Channel",
+          "Dask Demo Day",
+          "Dask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 480,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 480,
+      "h": 1020.140625
+    },
+    "grid": {
+      "x": 54.140625,
+      "y": 165.046875,
+      "w": 371.703125,
+      "h": 774.171875
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 55.1875,
+          "y": 166.375,
+          "w": 184.4375,
+          "h": 206.234375
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 55.1875,
+            "y": 167.03125,
+            "w": 184.4375,
+            "h": 80.25
+          },
+          {
+            "x": 60.515625,
+            "y": 247.9375,
+            "w": 173.78125,
+            "h": 1.328125
+          },
+          {
+            "x": 55.84375,
+            "y": 249.921875,
+            "w": 183.125,
+            "h": 122.6875
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 63.59375,
+            "y": 175.03125,
+            "w": 167.625,
+            "h": 64.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 241.703125,
+          "y": 166.375,
+          "w": 184.4375,
+          "h": 206.234375
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 241.703125,
+            "y": 167.03125,
+            "w": 184.4375,
+            "h": 80.25
+          },
+          {
+            "x": 247.03125,
+            "y": 247.9375,
+            "w": 173.78125,
+            "h": 1.328125
+          },
+          {
+            "x": 242.359375,
+            "y": 249.921875,
+            "w": 183.125,
+            "h": 122.6875
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlitPrefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 250.109375,
+            "y": 175.03125,
+            "w": 167.625,
+            "h": 64.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 55.1875,
+          "y": 376.59375,
+          "w": 184.4375,
+          "h": 206.234375
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 55.1875,
+            "y": 377.25,
+            "w": 184.4375,
+            "h": 80.25
+          },
+          {
+            "x": 60.515625,
+            "y": 458.15625,
+            "w": 173.78125,
+            "h": 1.328125
+          },
+          {
+            "x": 55.84375,
+            "y": 460.140625,
+            "w": 183.125,
+            "h": 122.6875
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 63.59375,
+            "y": 385.25,
+            "w": 167.625,
+            "h": 64.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 241.703125,
+          "y": 376.59375,
+          "w": 184.4375,
+          "h": 206.234375
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 241.703125,
+            "y": 377.25,
+            "w": 184.4375,
+            "h": 80.25
+          },
+          {
+            "x": 247.03125,
+            "y": 458.15625,
+            "w": 173.78125,
+            "h": 1.328125
+          },
+          {
+            "x": 242.359375,
+            "y": 460.140625,
+            "w": 183.125,
+            "h": 122.6875
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 250.109375,
+            "y": 385.25,
+            "w": 167.625,
+            "h": 64.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 55.1875,
+          "y": 586.8125,
+          "w": 184.4375,
+          "h": 206.234375
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 55.1875,
+            "y": 587.46875,
+            "w": 184.4375,
+            "h": 80.25
+          },
+          {
+            "x": 60.515625,
+            "y": 668.375,
+            "w": 173.78125,
+            "h": 1.328125
+          },
+          {
+            "x": 55.84375,
+            "y": 670.359375,
+            "w": 183.125,
+            "h": 122.6875
+          }
+        ],
+        "heading": [
+          "NASA Satellite Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 63.59375,
+            "y": 595.46875,
+            "w": 167.625,
+            "h": 64.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 241.703125,
+          "y": 586.8125,
+          "w": 184.4375,
+          "h": 206.234375
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 241.703125,
+            "y": 587.46875,
+            "w": 184.4375,
+            "h": 80.25
+          },
+          {
+            "x": 247.03125,
+            "y": 668.375,
+            "w": 173.78125,
+            "h": 1.328125
+          },
+          {
+            "x": 242.359375,
+            "y": 670.359375,
+            "w": 183.125,
+            "h": 122.6875
+          }
+        ],
+        "heading": [
+          "XGBoost Model Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 250.109375,
+            "y": 595.46875,
+            "w": 167.625,
+            "h": 64.25
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 55.1875,
+          "y": 797.03125,
+          "w": 369.609375,
+          "h": 140.859375
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 137.984375,
+            "y": 822.9375,
+            "w": 204,
+            "h": 21.328125
+          },
+          {
+            "x": 145.984375,
+            "y": 849.59375,
+            "w": 188,
+            "h": 16
+          },
+          {
+            "x": 116.828125,
+            "y": 879.984375,
+            "w": 246.3125,
+            "h": 32
+          }
+        ],
+        "heading": [
+          "Want more examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more examples?",
+          "Visit the Dask Blog or Dask Youtube Channel",
+          "Dask Demo DayDask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 601,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 601,
+      "h": 1277.203125
+    },
+    "grid": {
+      "x": 62.359375,
+      "y": 206.65625,
+      "w": 476.28125,
+      "h": 969.234375
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 63.671875,
+          "y": 208.3125,
+          "w": 236.359375,
+          "h": 258.203125
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 63.671875,
+            "y": 209.140625,
+            "w": 236.359375,
+            "h": 100.484375
+          },
+          {
+            "x": 70.34375,
+            "y": 310.453125,
+            "w": 223.015625,
+            "h": 1.65625
+          },
+          {
+            "x": 64.5,
+            "y": 312.9375,
+            "w": 234.703125,
+            "h": 153.578125
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 74.203125,
+            "y": 219.15625,
+            "w": 215.296875,
+            "h": 80.453125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 302.640625,
+          "y": 208.3125,
+          "w": 236.359375,
+          "h": 258.203125
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 302.640625,
+            "y": 209.140625,
+            "w": 236.359375,
+            "h": 100.484375
+          },
+          {
+            "x": 309.3125,
+            "y": 310.453125,
+            "w": 223.015625,
+            "h": 1.65625
+          },
+          {
+            "x": 303.46875,
+            "y": 312.9375,
+            "w": 234.703125,
+            "h": 153.578125
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlitPrefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 313.171875,
+            "y": 219.15625,
+            "w": 215.296875,
+            "h": 80.453125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 63.671875,
+          "y": 471.484375,
+          "w": 236.359375,
+          "h": 258.203125
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 63.671875,
+            "y": 472.3125,
+            "w": 236.359375,
+            "h": 100.484375
+          },
+          {
+            "x": 70.34375,
+            "y": 573.625,
+            "w": 223.015625,
+            "h": 1.65625
+          },
+          {
+            "x": 64.5,
+            "y": 576.109375,
+            "w": 234.703125,
+            "h": 153.578125
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 74.203125,
+            "y": 482.328125,
+            "w": 215.296875,
+            "h": 80.453125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 302.640625,
+          "y": 471.484375,
+          "w": 236.359375,
+          "h": 258.203125
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 302.640625,
+            "y": 472.3125,
+            "w": 236.359375,
+            "h": 100.484375
+          },
+          {
+            "x": 309.3125,
+            "y": 573.625,
+            "w": 223.015625,
+            "h": 1.65625
+          },
+          {
+            "x": 303.46875,
+            "y": 576.109375,
+            "w": 234.703125,
+            "h": 153.578125
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 313.171875,
+            "y": 482.328125,
+            "w": 215.296875,
+            "h": 80.453125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 63.671875,
+          "y": 734.65625,
+          "w": 236.359375,
+          "h": 258.203125
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 63.671875,
+            "y": 735.484375,
+            "w": 236.359375,
+            "h": 100.484375
+          },
+          {
+            "x": 70.34375,
+            "y": 836.796875,
+            "w": 223.015625,
+            "h": 1.65625
+          },
+          {
+            "x": 64.5,
+            "y": 839.28125,
+            "w": 234.703125,
+            "h": 153.578125
+          }
+        ],
+        "heading": [
+          "NASA Satellite Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 74.203125,
+            "y": 745.5,
+            "w": 215.296875,
+            "h": 80.453125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 302.640625,
+          "y": 734.65625,
+          "w": 236.359375,
+          "h": 258.203125
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 302.640625,
+            "y": 735.484375,
+            "w": 236.359375,
+            "h": 100.484375
+          },
+          {
+            "x": 309.3125,
+            "y": 836.796875,
+            "w": 223.015625,
+            "h": 1.65625
+          },
+          {
+            "x": 303.46875,
+            "y": 839.28125,
+            "w": 234.703125,
+            "h": 153.578125
+          }
+        ],
+        "heading": [
+          "XGBoost Model Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 313.171875,
+            "y": 745.5,
+            "w": 215.296875,
+            "h": 80.453125
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 63.671875,
+          "y": 997.828125,
+          "w": 473.65625,
+          "h": 176.40625
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 176.5,
+            "y": 1030.28125,
+            "w": 248,
+            "h": 26.71875
+          },
+          {
+            "x": 175.5,
+            "y": 1063.671875,
+            "w": 250,
+            "h": 20.03125
+          },
+          {
+            "x": 152.640625,
+            "y": 1101.71875,
+            "w": 295.703125,
+            "h": 40.0625
+          }
+        ],
+        "heading": [
+          "Want more examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more examples?",
+          "Visit the Dask Blog or Dask Youtube Channel",
+          "Dask Demo Day",
+          "Dask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 767,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 767,
+      "h": 1630.28125
+    },
+    "grid": {
+      "x": 87.65625,
+      "y": 263.765625,
+      "w": 591.6875,
+      "h": 1237.21875
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 89.328125,
+          "y": 265.890625,
+          "w": 293.59375,
+          "h": 329.578125
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 89.328125,
+            "y": 266.953125,
+            "w": 293.59375,
+            "h": 128.234375
+          },
+          {
+            "x": 97.84375,
+            "y": 396.25,
+            "w": 276.5625,
+            "h": 2.125
+          },
+          {
+            "x": 90.390625,
+            "y": 399.4375,
+            "w": 291.46875,
+            "h": 196.03125
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 102.78125,
+            "y": 279.734375,
+            "w": 266.6875,
+            "h": 102.671875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 386.234375,
+          "y": 265.890625,
+          "w": 293.59375,
+          "h": 329.578125
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 386.234375,
+            "y": 266.953125,
+            "w": 293.59375,
+            "h": 128.234375
+          },
+          {
+            "x": 394.75,
+            "y": 396.25,
+            "w": 276.5625,
+            "h": 2.125
+          },
+          {
+            "x": 387.296875,
+            "y": 399.4375,
+            "w": 291.46875,
+            "h": 196.03125
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlitPrefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 399.6875,
+            "y": 279.734375,
+            "w": 266.6875,
+            "h": 102.671875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 89.328125,
+          "y": 601.84375,
+          "w": 293.59375,
+          "h": 329.578125
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 89.328125,
+            "y": 602.90625,
+            "w": 293.59375,
+            "h": 128.234375
+          },
+          {
+            "x": 97.84375,
+            "y": 732.203125,
+            "w": 276.5625,
+            "h": 2.125
+          },
+          {
+            "x": 90.390625,
+            "y": 735.390625,
+            "w": 291.46875,
+            "h": 196.03125
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 102.78125,
+            "y": 615.6875,
+            "w": 266.6875,
+            "h": 102.671875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 386.234375,
+          "y": 601.84375,
+          "w": 293.59375,
+          "h": 329.578125
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 386.234375,
+            "y": 602.90625,
+            "w": 293.59375,
+            "h": 128.234375
+          },
+          {
+            "x": 394.75,
+            "y": 732.203125,
+            "w": 276.5625,
+            "h": 2.125
+          },
+          {
+            "x": 387.296875,
+            "y": 735.390625,
+            "w": 291.46875,
+            "h": 196.03125
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 399.6875,
+            "y": 615.6875,
+            "w": 266.6875,
+            "h": 102.671875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 89.328125,
+          "y": 937.796875,
+          "w": 293.59375,
+          "h": 329.578125
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 89.328125,
+            "y": 938.859375,
+            "w": 293.59375,
+            "h": 128.234375
+          },
+          {
+            "x": 97.84375,
+            "y": 1068.15625,
+            "w": 276.5625,
+            "h": 2.125
+          },
+          {
+            "x": 90.390625,
+            "y": 1071.34375,
+            "w": 291.46875,
+            "h": 196.03125
+          }
+        ],
+        "heading": [
+          "NASA Satellite Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 102.78125,
+            "y": 951.640625,
+            "w": 266.6875,
+            "h": 102.671875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 386.234375,
+          "y": 937.796875,
+          "w": 293.59375,
+          "h": 329.578125
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 386.234375,
+            "y": 938.859375,
+            "w": 293.59375,
+            "h": 128.234375
+          },
+          {
+            "x": 394.75,
+            "y": 1068.15625,
+            "w": 276.5625,
+            "h": 2.125
+          },
+          {
+            "x": 387.296875,
+            "y": 1071.34375,
+            "w": 291.46875,
+            "h": 196.03125
+          }
+        ],
+        "heading": [
+          "XGBoost Model Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 399.6875,
+            "y": 951.640625,
+            "w": 266.6875,
+            "h": 102.671875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 89.328125,
+          "y": 1273.75,
+          "w": 588.34375,
+          "h": 225.109375
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 224.5,
+            "y": 1315.15625,
+            "w": 318,
+            "h": 34.09375
+          },
+          {
+            "x": 225,
+            "y": 1357.765625,
+            "w": 317,
+            "h": 25.5625
+          },
+          {
+            "x": 194.078125,
+            "y": 1406.328125,
+            "w": 378.84375,
+            "h": 51.125
+          }
+        ],
+        "heading": [
+          "Want more examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more examples?",
+          "Visit the Dask Blog or Dask Youtube Channel",
+          "Dask Demo Day",
+          "Dask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 768,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 1140.15625
+    },
+    "grid": {
+      "x": 55.75,
+      "y": 220.09375,
+      "w": 656.5,
+      "h": 828.21875
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 57.421875,
+          "y": 221.15625,
+          "w": 216.84375,
+          "h": 303.1875
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 57.421875,
+            "y": 222.828125,
+            "w": 216.84375,
+            "h": 104.59375
+          },
+          {
+            "x": 65.9375,
+            "y": 329.09375,
+            "w": 199.8125,
+            "h": 1.671875
+          },
+          {
+            "x": 58.484375,
+            "y": 331.828125,
+            "w": 214.71875,
+            "h": 164.859375
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 70.890625,
+            "y": 235.625,
+            "w": 189.90625,
+            "h": 79
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 276.8125,
+          "y": 221.15625,
+          "w": 216.84375,
+          "h": 303.1875
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 276.8125,
+            "y": 222.828125,
+            "w": 216.84375,
+            "h": 104.59375
+          },
+          {
+            "x": 285.328125,
+            "y": 329.09375,
+            "w": 199.8125,
+            "h": 1.671875
+          },
+          {
+            "x": 277.875,
+            "y": 331.828125,
+            "w": 214.71875,
+            "h": 192.515625
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlit",
+          "Prefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 290.28125,
+            "y": 235.625,
+            "w": 189.90625,
+            "h": 79
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 496.203125,
+          "y": 221.15625,
+          "w": 216.84375,
+          "h": 303.1875
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 496.203125,
+            "y": 222.828125,
+            "w": 216.84375,
+            "h": 104.59375
+          },
+          {
+            "x": 504.71875,
+            "y": 329.09375,
+            "w": 199.8125,
+            "h": 1.671875
+          },
+          {
+            "x": 497.265625,
+            "y": 331.828125,
+            "w": 214.71875,
+            "h": 164.859375
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 509.671875,
+            "y": 235.625,
+            "w": 189.90625,
+            "h": 79
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 57.421875,
+          "y": 528.75,
+          "w": 216.84375,
+          "h": 298.578125
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 57.421875,
+            "y": 530.421875,
+            "w": 216.84375,
+            "h": 104.59375
+          },
+          {
+            "x": 65.9375,
+            "y": 636.6875,
+            "w": 199.8125,
+            "h": 1.671875
+          },
+          {
+            "x": 58.484375,
+            "y": 639.421875,
+            "w": 214.71875,
+            "h": 164.859375
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 70.890625,
+            "y": 543.21875,
+            "w": 189.90625,
+            "h": 79
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 276.8125,
+          "y": 528.75,
+          "w": 216.84375,
+          "h": 298.578125
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 276.8125,
+            "y": 530.421875,
+            "w": 216.84375,
+            "h": 104.59375
+          },
+          {
+            "x": 285.328125,
+            "y": 636.6875,
+            "w": 199.8125,
+            "h": 1.671875
+          },
+          {
+            "x": 277.875,
+            "y": 639.421875,
+            "w": 214.71875,
+            "h": 187.90625
+          }
+        ],
+        "heading": [
+          "NASA Satellite",
+          "Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite",
+            "Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite",
+          "Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 290.28125,
+            "y": 543.21875,
+            "w": 189.90625,
+            "h": 79
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 496.203125,
+          "y": 528.75,
+          "w": 216.84375,
+          "h": 298.578125
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 496.203125,
+            "y": 530.421875,
+            "w": 216.84375,
+            "h": 104.59375
+          },
+          {
+            "x": 504.71875,
+            "y": 636.6875,
+            "w": 199.8125,
+            "h": 1.671875
+          },
+          {
+            "x": 497.265625,
+            "y": 639.421875,
+            "w": 214.71875,
+            "h": 187.90625
+          }
+        ],
+        "heading": [
+          "XGBoost Model",
+          "Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model",
+            "Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model",
+          "Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 509.671875,
+            "y": 543.21875,
+            "w": 189.90625,
+            "h": 79
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 57.421875,
+          "y": 831.734375,
+          "w": 653.15625,
+          "h": 214.90625
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 240,
+            "y": 883.953125,
+            "w": 288,
+            "h": 30.3125
+          },
+          {
+            "x": 259,
+            "y": 921,
+            "w": 250,
+            "h": 20.21875
+          },
+          {
+            "x": 222.625,
+            "y": 954.015625,
+            "w": 322.734375,
+            "h": 40.40625
+          }
+        ],
+        "heading": [
+          "Want more examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more examples?",
+          "Visit the Dask Blog or Dask Youtube Channel",
+          "Dask Demo DayDask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 769,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 769,
+      "h": 1141.453125
+    },
+    "grid": {
+      "x": 55.828125,
+      "y": 220.390625,
+      "w": 657.34375,
+      "h": 829.09375
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 57.5,
+          "y": 221.453125,
+          "w": 217.125,
+          "h": 303.515625
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 57.5,
+            "y": 223.125,
+            "w": 217.125,
+            "h": 104.71875
+          },
+          {
+            "x": 66.03125,
+            "y": 329.515625,
+            "w": 200.0625,
+            "h": 1.671875
+          },
+          {
+            "x": 58.5625,
+            "y": 332.25,
+            "w": 215,
+            "h": 165.03125
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 70.984375,
+            "y": 235.9375,
+            "w": 190.15625,
+            "h": 79.09375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 277.171875,
+          "y": 221.453125,
+          "w": 217.125,
+          "h": 303.515625
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 277.171875,
+            "y": 223.125,
+            "w": 217.125,
+            "h": 104.71875
+          },
+          {
+            "x": 285.703125,
+            "y": 329.515625,
+            "w": 200.0625,
+            "h": 1.671875
+          },
+          {
+            "x": 278.234375,
+            "y": 332.25,
+            "w": 215,
+            "h": 192.71875
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlit",
+          "Prefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 290.65625,
+            "y": 235.9375,
+            "w": 190.15625,
+            "h": 79.09375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 496.84375,
+          "y": 221.453125,
+          "w": 217.125,
+          "h": 303.515625
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 496.84375,
+            "y": 223.125,
+            "w": 217.125,
+            "h": 104.71875
+          },
+          {
+            "x": 505.375,
+            "y": 329.515625,
+            "w": 200.0625,
+            "h": 1.671875
+          },
+          {
+            "x": 497.90625,
+            "y": 332.25,
+            "w": 215,
+            "h": 165.03125
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 510.328125,
+            "y": 235.9375,
+            "w": 190.15625,
+            "h": 79.09375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 57.5,
+          "y": 529.375,
+          "w": 217.125,
+          "h": 298.890625
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 57.5,
+            "y": 531.046875,
+            "w": 217.125,
+            "h": 104.71875
+          },
+          {
+            "x": 66.03125,
+            "y": 637.4375,
+            "w": 200.0625,
+            "h": 1.671875
+          },
+          {
+            "x": 58.5625,
+            "y": 640.171875,
+            "w": 215,
+            "h": 165.03125
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 70.984375,
+            "y": 543.859375,
+            "w": 190.15625,
+            "h": 79.09375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 277.171875,
+          "y": 529.375,
+          "w": 217.125,
+          "h": 298.890625
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 277.171875,
+            "y": 531.046875,
+            "w": 217.125,
+            "h": 104.71875
+          },
+          {
+            "x": 285.703125,
+            "y": 637.4375,
+            "w": 200.0625,
+            "h": 1.671875
+          },
+          {
+            "x": 278.234375,
+            "y": 640.171875,
+            "w": 215,
+            "h": 188.09375
+          }
+        ],
+        "heading": [
+          "NASA Satellite",
+          "Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite",
+            "Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite",
+          "Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 290.65625,
+            "y": 543.859375,
+            "w": 190.15625,
+            "h": 79.09375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 496.84375,
+          "y": 529.375,
+          "w": 217.125,
+          "h": 298.890625
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 496.84375,
+            "y": 531.046875,
+            "w": 217.125,
+            "h": 104.71875
+          },
+          {
+            "x": 505.375,
+            "y": 637.4375,
+            "w": 200.0625,
+            "h": 1.671875
+          },
+          {
+            "x": 497.90625,
+            "y": 640.171875,
+            "w": 215,
+            "h": 188.09375
+          }
+        ],
+        "heading": [
+          "XGBoost Model",
+          "Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model",
+            "Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model",
+          "Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 510.328125,
+            "y": 543.859375,
+            "w": 190.15625,
+            "h": 79.09375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 57.5,
+          "y": 832.671875,
+          "w": 654,
+          "h": 215.140625
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 240.5,
+            "y": 884.953125,
+            "w": 288,
+            "h": 30.34375
+          },
+          {
+            "x": 259.5,
+            "y": 922.03125,
+            "w": 250,
+            "h": 20.234375
+          },
+          {
+            "x": 223.109375,
+            "y": 955.078125,
+            "w": 322.78125,
+            "h": 40.453125
+          }
+        ],
+        "heading": [
+          "Want more examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more examples?",
+          "Visit the Dask Blog or Dask Youtube Channel",
+          "Dask Demo DayDask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 991,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 991,
+      "h": 1471.25
+    },
+    "grid": {
+      "x": 71.9375,
+      "y": 284.015625,
+      "w": 847.125,
+      "h": 1068.71875
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 74.09375,
+          "y": 285.390625,
+          "w": 279.8125,
+          "h": 391.25
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 74.09375,
+            "y": 287.546875,
+            "w": 279.8125,
+            "h": 134.96875
+          },
+          {
+            "x": 85.09375,
+            "y": 424.671875,
+            "w": 257.8125,
+            "h": 2.15625
+          },
+          {
+            "x": 75.46875,
+            "y": 428.203125,
+            "w": 277.0625,
+            "h": 212.734375
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 91.46875,
+            "y": 304.0625,
+            "w": 245.0625,
+            "h": 101.9375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 357.1875,
+          "y": 285.390625,
+          "w": 279.8125,
+          "h": 391.25
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 357.1875,
+            "y": 287.546875,
+            "w": 279.8125,
+            "h": 134.96875
+          },
+          {
+            "x": 368.1875,
+            "y": 424.671875,
+            "w": 257.8125,
+            "h": 2.15625
+          },
+          {
+            "x": 358.5625,
+            "y": 428.203125,
+            "w": 277.0625,
+            "h": 248.4375
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlit",
+          "Prefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 374.5625,
+            "y": 304.0625,
+            "w": 245.0625,
+            "h": 101.9375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 640.28125,
+          "y": 285.390625,
+          "w": 279.8125,
+          "h": 391.25
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 640.28125,
+            "y": 287.546875,
+            "w": 279.8125,
+            "h": 134.96875
+          },
+          {
+            "x": 651.28125,
+            "y": 424.671875,
+            "w": 257.8125,
+            "h": 2.15625
+          },
+          {
+            "x": 641.65625,
+            "y": 428.203125,
+            "w": 277.0625,
+            "h": 212.734375
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 657.65625,
+            "y": 304.0625,
+            "w": 245.0625,
+            "h": 101.9375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 74.09375,
+          "y": 682.328125,
+          "w": 279.8125,
+          "h": 385.28125
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 74.09375,
+            "y": 684.484375,
+            "w": 279.8125,
+            "h": 134.96875
+          },
+          {
+            "x": 85.09375,
+            "y": 821.609375,
+            "w": 257.8125,
+            "h": 2.15625
+          },
+          {
+            "x": 75.46875,
+            "y": 825.140625,
+            "w": 277.0625,
+            "h": 212.734375
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 91.46875,
+            "y": 701,
+            "w": 245.0625,
+            "h": 101.9375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 357.1875,
+          "y": 682.328125,
+          "w": 279.8125,
+          "h": 385.28125
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 357.1875,
+            "y": 684.484375,
+            "w": 279.8125,
+            "h": 134.96875
+          },
+          {
+            "x": 368.1875,
+            "y": 821.609375,
+            "w": 257.8125,
+            "h": 2.15625
+          },
+          {
+            "x": 358.5625,
+            "y": 825.140625,
+            "w": 277.0625,
+            "h": 242.46875
+          }
+        ],
+        "heading": [
+          "NASA Satellite",
+          "Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite",
+            "Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite",
+          "Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 374.5625,
+            "y": 701,
+            "w": 245.0625,
+            "h": 101.9375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 640.28125,
+          "y": 682.328125,
+          "w": 279.8125,
+          "h": 385.28125
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 640.28125,
+            "y": 684.484375,
+            "w": 279.8125,
+            "h": 134.96875
+          },
+          {
+            "x": 651.28125,
+            "y": 821.609375,
+            "w": 257.8125,
+            "h": 2.15625
+          },
+          {
+            "x": 641.65625,
+            "y": 825.140625,
+            "w": 277.0625,
+            "h": 242.46875
+          }
+        ],
+        "heading": [
+          "XGBoost Model",
+          "Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model",
+            "Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model",
+          "Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 657.65625,
+            "y": 701,
+            "w": 245.0625,
+            "h": 101.9375
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 74.09375,
+          "y": 1073.296875,
+          "w": 842.8125,
+          "h": 277.28125
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 309,
+            "y": 1140.671875,
+            "w": 373,
+            "h": 39.109375
+          },
+          {
+            "x": 337,
+            "y": 1188.46875,
+            "w": 317,
+            "h": 26.078125
+          },
+          {
+            "x": 284.859375,
+            "y": 1231.0625,
+            "w": 421.265625,
+            "h": 52.140625
+          }
+        ],
+        "heading": [
+          "Want more examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more examples?",
+          "Visit the Dask Blog or Dask Youtube Channel",
+          "Dask Demo DayDask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 992,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 992,
+      "h": 837.3125
+    },
+    "grid": {
+      "x": 57.109375,
+      "y": 221.328125,
+      "w": 877.78125,
+      "h": 527.890625
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 58.484375,
+          "y": 222.703125,
+          "w": 215.65625,
+          "h": 255.109375
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 58.484375,
+            "y": 222.703125,
+            "w": 215.65625,
+            "h": 107.203125
+          },
+          {
+            "x": 69.5,
+            "y": 331.28125,
+            "w": 193.625,
+            "h": 1.375
+          },
+          {
+            "x": 59.859375,
+            "y": 334.03125,
+            "w": 212.90625,
+            "h": 143.78125
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 86.03125,
+            "y": 239.234375,
+            "w": 160.5625,
+            "h": 74.140625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 278.265625,
+          "y": 222.703125,
+          "w": 215.671875,
+          "h": 255.109375
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 278.265625,
+            "y": 222.703125,
+            "w": 215.671875,
+            "h": 107.203125
+          },
+          {
+            "x": 289.28125,
+            "y": 331.28125,
+            "w": 193.640625,
+            "h": 1.375
+          },
+          {
+            "x": 279.640625,
+            "y": 334.03125,
+            "w": 212.921875,
+            "h": 143.78125
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlitPrefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 305.8125,
+            "y": 239.234375,
+            "w": 160.578125,
+            "h": 74.140625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 498.0625,
+          "y": 222.703125,
+          "w": 215.65625,
+          "h": 255.109375
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 498.0625,
+            "y": 222.703125,
+            "w": 215.65625,
+            "h": 107.203125
+          },
+          {
+            "x": 509.078125,
+            "y": 331.28125,
+            "w": 193.625,
+            "h": 1.375
+          },
+          {
+            "x": 499.4375,
+            "y": 334.03125,
+            "w": 212.90625,
+            "h": 143.78125
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 525.609375,
+            "y": 239.234375,
+            "w": 160.5625,
+            "h": 74.140625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 717.84375,
+          "y": 222.703125,
+          "w": 215.671875,
+          "h": 255.109375
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 717.84375,
+            "y": 222.703125,
+            "w": 215.671875,
+            "h": 107.203125
+          },
+          {
+            "x": 728.859375,
+            "y": 331.28125,
+            "w": 193.640625,
+            "h": 1.375
+          },
+          {
+            "x": 719.21875,
+            "y": 334.03125,
+            "w": 212.921875,
+            "h": 143.78125
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 745.390625,
+            "y": 239.234375,
+            "w": 160.578125,
+            "h": 74.140625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 58.484375,
+          "y": 481.9375,
+          "w": 215.65625,
+          "h": 265.90625
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 58.484375,
+            "y": 481.9375,
+            "w": 215.65625,
+            "h": 107.203125
+          },
+          {
+            "x": 69.5,
+            "y": 590.515625,
+            "w": 193.625,
+            "h": 1.375
+          },
+          {
+            "x": 59.859375,
+            "y": 593.265625,
+            "w": 212.90625,
+            "h": 143.78125
+          }
+        ],
+        "heading": [
+          "NASA Satellite Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 86.03125,
+            "y": 498.46875,
+            "w": 160.5625,
+            "h": 74.140625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 278.265625,
+          "y": 481.9375,
+          "w": 215.671875,
+          "h": 265.90625
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 278.265625,
+            "y": 481.9375,
+            "w": 215.671875,
+            "h": 107.203125
+          },
+          {
+            "x": 289.28125,
+            "y": 590.515625,
+            "w": 193.640625,
+            "h": 1.375
+          },
+          {
+            "x": 279.640625,
+            "y": 593.265625,
+            "w": 212.921875,
+            "h": 143.78125
+          }
+        ],
+        "heading": [
+          "XGBoost Model Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 305.8125,
+            "y": 498.46875,
+            "w": 160.578125,
+            "h": 74.140625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 498.0625,
+          "y": 481.9375,
+          "w": 435.453125,
+          "h": 265.90625
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 582.28125,
+            "y": 562.203125,
+            "w": 267,
+            "h": 31.6875
+          },
+          {
+            "x": 609.28125,
+            "y": 599.390625,
+            "w": 213,
+            "h": 16.53125
+          },
+          {
+            "x": 588,
+            "y": 632.453125,
+            "w": 255.5625,
+            "h": 35.125
+          }
+        ],
+        "heading": [
+          "Want more examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more examples?",
+          "Visit the Dask Blog or Dask Youtube Channel",
+          "Dask Demo Day",
+          "Dask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 1100,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 1100,
+      "h": 928.390625
+    },
+    "grid": {
+      "x": 63.328125,
+      "y": 245.421875,
+      "w": 973.34375,
+      "h": 585.296875
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 64.84375,
+          "y": 246.9375,
+          "w": 239.15625,
+          "h": 282.859375
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 64.84375,
+            "y": 246.9375,
+            "w": 239.15625,
+            "h": 118.875
+          },
+          {
+            "x": 77.0625,
+            "y": 367.328125,
+            "w": 214.71875,
+            "h": 1.515625
+          },
+          {
+            "x": 66.359375,
+            "y": 370.359375,
+            "w": 236.125,
+            "h": 159.4375
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 95.390625,
+            "y": 265.265625,
+            "w": 178.0625,
+            "h": 82.21875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 308.546875,
+          "y": 246.9375,
+          "w": 239.171875,
+          "h": 282.859375
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 308.546875,
+            "y": 246.9375,
+            "w": 239.171875,
+            "h": 118.875
+          },
+          {
+            "x": 320.765625,
+            "y": 367.328125,
+            "w": 214.734375,
+            "h": 1.515625
+          },
+          {
+            "x": 310.0625,
+            "y": 370.359375,
+            "w": 236.140625,
+            "h": 159.4375
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlitPrefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 339.09375,
+            "y": 265.265625,
+            "w": 178.078125,
+            "h": 82.21875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 552.265625,
+          "y": 246.9375,
+          "w": 239.171875,
+          "h": 282.859375
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 552.265625,
+            "y": 246.9375,
+            "w": 239.171875,
+            "h": 118.875
+          },
+          {
+            "x": 564.484375,
+            "y": 367.328125,
+            "w": 214.734375,
+            "h": 1.515625
+          },
+          {
+            "x": 553.78125,
+            "y": 370.359375,
+            "w": 236.140625,
+            "h": 159.4375
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 582.8125,
+            "y": 265.265625,
+            "w": 178.078125,
+            "h": 82.21875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 795.984375,
+          "y": 246.9375,
+          "w": 239.171875,
+          "h": 282.859375
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 795.984375,
+            "y": 246.9375,
+            "w": 239.171875,
+            "h": 118.875
+          },
+          {
+            "x": 808.203125,
+            "y": 367.328125,
+            "w": 214.734375,
+            "h": 1.515625
+          },
+          {
+            "x": 797.5,
+            "y": 370.359375,
+            "w": 236.140625,
+            "h": 159.4375
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 826.53125,
+            "y": 265.265625,
+            "w": 178.078125,
+            "h": 82.21875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 64.84375,
+          "y": 534.34375,
+          "w": 239.15625,
+          "h": 294.859375
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 64.84375,
+            "y": 534.34375,
+            "w": 239.15625,
+            "h": 118.875
+          },
+          {
+            "x": 77.0625,
+            "y": 654.734375,
+            "w": 214.71875,
+            "h": 1.515625
+          },
+          {
+            "x": 66.359375,
+            "y": 657.765625,
+            "w": 236.125,
+            "h": 159.4375
+          }
+        ],
+        "heading": [
+          "NASA Satellite Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 95.390625,
+            "y": 552.671875,
+            "w": 178.0625,
+            "h": 82.21875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 308.546875,
+          "y": 534.34375,
+          "w": 239.171875,
+          "h": 294.859375
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 308.546875,
+            "y": 534.34375,
+            "w": 239.171875,
+            "h": 118.875
+          },
+          {
+            "x": 320.765625,
+            "y": 654.734375,
+            "w": 214.734375,
+            "h": 1.515625
+          },
+          {
+            "x": 310.0625,
+            "y": 657.765625,
+            "w": 236.140625,
+            "h": 159.4375
+          }
+        ],
+        "heading": [
+          "XGBoost Model Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 339.09375,
+            "y": 552.671875,
+            "w": 178.078125,
+            "h": 82.21875
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 552.265625,
+          "y": 534.34375,
+          "w": 482.890625,
+          "h": 294.859375
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 644.703125,
+            "y": 623.34375,
+            "w": 298,
+            "h": 35.140625
+          },
+          {
+            "x": 677.703125,
+            "y": 664.59375,
+            "w": 232,
+            "h": 18.328125
+          },
+          {
+            "x": 653.328125,
+            "y": 701.25,
+            "w": 280.765625,
+            "h": 38.9375
+          }
+        ],
+        "heading": [
+          "Want more examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more examples?",
+          "Visit the Dask Blog or Dask Youtube Channel",
+          "Dask Demo DayDask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  },
+  {
+    "label": "local",
+    "width": 1440,
+    "section": {
+      "x": 0,
+      "y": 0,
+      "w": 1440,
+      "h": 1215.59375
+    },
+    "grid": {
+      "x": 82.90625,
+      "y": 321.3125,
+      "w": 1274.1875,
+      "h": 766.40625
+    },
+    "cards": [
+      {
+        "box": {
+          "x": 84.90625,
+          "y": 323.3125,
+          "w": 313.046875,
+          "h": 370.40625
+        },
+        "href": "https://docs.coiled.io/user_guide/uber-lyft.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 84.90625,
+            "y": 323.3125,
+            "w": 313.046875,
+            "h": 155.625
+          },
+          {
+            "x": 100.90625,
+            "y": 480.9375,
+            "w": 281.046875,
+            "h": 2
+          },
+          {
+            "x": 86.90625,
+            "y": 484.9375,
+            "w": 309.046875,
+            "h": 208.78125
+          }
+        ],
+        "heading": [
+          "NYC Uber/Lyft"
+        ],
+        "textRuns": [
+          [
+            "NYC Uber/Lyft"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "DataFrames"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "50 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "NYC Uber/Lyft",
+          "Tools",
+          "DataFramesParquet",
+          "Data",
+          "50 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 124.90625,
+            "y": 347.3125,
+            "w": 233.046875,
+            "h": 107.625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 403.953125,
+          "y": 323.3125,
+          "w": 313.046875,
+          "h": 370.40625
+        },
+        "href": "https://docs.coiled.io/blog/easy-scalable-production-etl.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 403.953125,
+            "y": 323.3125,
+            "w": 313.046875,
+            "h": 155.625
+          },
+          {
+            "x": 419.953125,
+            "y": 480.9375,
+            "w": 281.046875,
+            "h": 2
+          },
+          {
+            "x": 405.953125,
+            "y": 484.9375,
+            "w": 309.046875,
+            "h": 208.78125
+          }
+        ],
+        "heading": [
+          "Scalable ETL Pipeline"
+        ],
+        "textRuns": [
+          [
+            "Scalable ETL Pipeline"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Deltalake"
+          ],
+          [
+            "Streamlit"
+          ],
+          [
+            "Prefect"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "2 TB of TPC-H JSON records"
+          ]
+        ],
+        "copy": [
+          "Scalable ETL Pipeline",
+          "Tools",
+          "DeltalakeStreamlitPrefect",
+          "Data",
+          "2 TB of TPC-H JSON records"
+        ],
+        "art": [
+          {
+            "x": 443.953125,
+            "y": 347.3125,
+            "w": 233.046875,
+            "h": 107.625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 723,
+          "y": 323.3125,
+          "w": 313.046875,
+          "h": 370.40625
+        },
+        "href": "https://docs.coiled.io/blog/coiled-xarray.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 723,
+            "y": 323.3125,
+            "w": 313.046875,
+            "h": 155.625
+          },
+          {
+            "x": 739,
+            "y": 480.9375,
+            "w": 281.046875,
+            "h": 2
+          },
+          {
+            "x": 725,
+            "y": 484.9375,
+            "w": 309.046875,
+            "h": 208.78125
+          }
+        ],
+        "heading": [
+          "National Water Model"
+        ],
+        "textRuns": [
+          [
+            "National Water Model"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Zarr"
+          ],
+          [
+            "Flox"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "250 TB of Zarr data"
+          ]
+        ],
+        "copy": [
+          "National Water Model",
+          "Tools",
+          "XarrayZarrFlox",
+          "Data",
+          "250 TB of Zarr data"
+        ],
+        "art": [
+          {
+            "x": 763,
+            "y": 347.3125,
+            "w": 233.046875,
+            "h": 107.625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 1042.046875,
+          "y": 323.3125,
+          "w": 313.046875,
+          "h": 370.40625
+        },
+        "href": "https://docs.coiled.io/blog/dask-expr-tpch-dask.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 1042.046875,
+            "y": 323.3125,
+            "w": 313.046875,
+            "h": 155.625
+          },
+          {
+            "x": 1058.046875,
+            "y": 480.9375,
+            "w": 281.046875,
+            "h": 2
+          },
+          {
+            "x": 1044.046875,
+            "y": 484.9375,
+            "w": 309.046875,
+            "h": 208.78125
+          }
+        ],
+        "heading": [
+          "TPC-H Benchmark"
+        ],
+        "textRuns": [
+          [
+            "TPC-H Benchmark"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Spark"
+          ],
+          [
+            "DuckDB"
+          ],
+          [
+            "Polars"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "Standard SQL benchmark results"
+          ]
+        ],
+        "copy": [
+          "TPC-H Benchmark",
+          "Tools",
+          "SparkDuckDBPolars",
+          "Data",
+          "Standard SQL benchmark results"
+        ],
+        "art": [
+          {
+            "x": 1082.046875,
+            "y": 347.3125,
+            "w": 233.046875,
+            "h": 107.625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 84.90625,
+          "y": 699.71875,
+          "w": 313.046875,
+          "h": 386
+        },
+        "href": "https://docs.coiled.io/blog/processing-terabyte-scale-nasa-cloud-datasets-with-coiled.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 84.90625,
+            "y": 699.71875,
+            "w": 313.046875,
+            "h": 155.625
+          },
+          {
+            "x": 100.90625,
+            "y": 857.34375,
+            "w": 281.046875,
+            "h": 2
+          },
+          {
+            "x": 86.90625,
+            "y": 861.34375,
+            "w": 309.046875,
+            "h": 208.78125
+          }
+        ],
+        "heading": [
+          "NASA Satellite Imagery"
+        ],
+        "textRuns": [
+          [
+            "NASA Satellite Imagery"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "Geotiff"
+          ],
+          [
+            "Xarray"
+          ],
+          [
+            "Coiled"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "1 TB of NetCDF files"
+          ]
+        ],
+        "copy": [
+          "NASA Satellite Imagery",
+          "Tools",
+          "GeotiffXarrayCoiled",
+          "Data",
+          "1 TB of NetCDF files"
+        ],
+        "art": [
+          {
+            "x": 124.90625,
+            "y": 723.71875,
+            "w": 233.046875,
+            "h": 107.625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 403.953125,
+          "y": 699.71875,
+          "w": 313.046875,
+          "h": 386
+        },
+        "href": "https://docs.coiled.io/user_guide/xgboost.html?utm_source=dask.org&utm_medium=homepage",
+        "children": [
+          {
+            "x": 403.953125,
+            "y": 699.71875,
+            "w": 313.046875,
+            "h": 155.625
+          },
+          {
+            "x": 419.953125,
+            "y": 857.34375,
+            "w": 281.046875,
+            "h": 2
+          },
+          {
+            "x": 405.953125,
+            "y": 861.34375,
+            "w": 309.046875,
+            "h": 208.78125
+          }
+        ],
+        "heading": [
+          "XGBoost Model Tuning"
+        ],
+        "textRuns": [
+          [
+            "XGBoost Model Tuning"
+          ],
+          [
+            "Tools"
+          ],
+          [
+            "XGBoost"
+          ],
+          [
+            "Parquet"
+          ],
+          [
+            "Data"
+          ],
+          [
+            "75 GB of Parquet data"
+          ]
+        ],
+        "copy": [
+          "XGBoost Model Tuning",
+          "Tools",
+          "XGBoostParquet",
+          "Data",
+          "75 GB of Parquet data"
+        ],
+        "art": [
+          {
+            "x": 443.953125,
+            "y": 723.71875,
+            "w": 233.046875,
+            "h": 107.625
+          }
+        ]
+      },
+      {
+        "box": {
+          "x": 723,
+          "y": 699.71875,
+          "w": 632.09375,
+          "h": 386
+        },
+        "href": null,
+        "children": [
+          {
+            "x": 847.546875,
+            "y": 816.21875,
+            "w": 383,
+            "h": 46
+          },
+          {
+            "x": 893.546875,
+            "y": 870.21875,
+            "w": 291,
+            "h": 24
+          },
+          {
+            "x": 854.546875,
+            "y": 918.21875,
+            "w": 369,
+            "h": 51
+          }
+        ],
+        "heading": [
+          "Want more examples?"
+        ],
+        "textRuns": [
+          [
+            "Want more examples?"
+          ],
+          [
+            "Visit the Dask Blog or Dask Youtube Channel"
+          ],
+          [
+            "Dask Demo Day"
+          ],
+          [
+            "Dask YouTube Channel"
+          ]
+        ],
+        "copy": [
+          "Want more examples?",
+          "Visit the Dask Blog or Dask Youtube Channel",
+          "Dask Demo DayDask YouTube Channel"
+        ],
+        "art": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,276 @@
+390/700 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -66 vs -65.234375, delta 0.765625
+390/700 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -66 vs -65.234375, delta 0.765625
+390/1000 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -66 vs -65.234375, delta 0.765625
+390/1000 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -66 vs -65.234375, delta 0.765625
+479/700 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -66 vs -65.046875, delta 0.953125
+479/700 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -66 vs -65.046875, delta 0.953125
+479/1000 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -66 vs -65.046875, delta 0.953125
+479/1000 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -66 vs -65.046875, delta 0.953125
+480/700 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -43.203125 vs -42.25, delta 0.953125
+480/700 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -43.203125 vs -42.25, delta 0.953125
+480/1000 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -43.203125 vs -42.25, delta 0.953125
+480/1000 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -43.203125 vs -42.25, delta 0.953125
+601/700 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -54.09375 vs -52.90625, delta 1.1875
+601/700 forward tone+500 actual foreground paper and full-height rail RGB actual sheet pixel 52,126.078125
++ actual - expected
+
+  [
+    255,
+-   52,
+    60,
++   119
+  ]
+
+601/700 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -54.09375 vs -52.90625, delta 1.1875
+601/1000 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -54.09375 vs -52.90625, delta 1.1875
+601/1000 forward tone+500 actual foreground paper and full-height rail RGB actual sheet pixel 52,126.078125
++ actual - expected
+
+  [
+    255,
+-   52,
+    60,
++   119
+  ]
+
+601/1000 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -54.09375 vs -52.90625, delta 1.1875
+767/700 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -69.03125 vs -67.5, delta 1.53125
+767/700 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -69.03125 vs -67.5, delta 1.53125
+767/1000 forward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -69.03125 vs -67.5, delta 1.53125
+767/1000 backward initial+0 R13-1 reading marker/clear state, compact control bounds and physical hit control 0.y: -69.03125 vs -67.5, delta 1.53125
+768/700 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,107
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   71,
+-   73,
+-   78
+  ]
+
+768/1000 forward tone+500 actual foreground paper and full-height rail RGB rail paint pixel 1,919
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   71,
+-   73,
+-   78
+  ]
+
+768/1000 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,455
++ actual - expected
+
+  [
++   51,
++   54,
+    61,
+-   64,
+-   70
+  ]
+
+769/700 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,78
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   79,
+-   81,
+-   85
+  ]
+
+769/1000 forward tone+500 actual foreground paper and full-height rail RGB rail paint pixel 1,890
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   79,
+-   81,
+-   85
+  ]
+
+769/1000 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,513
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   79,
+-   81,
+-   85
+  ]
+
+992/700 forward tone+500 actual foreground paper and full-height rail RGB rail paint pixel 1,687
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   57,
+-   60,
+-   66
+  ]
+
+992/700 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,368
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   67,
+-   69,
+-   75
+  ]
+
+992/1000 forward tone+0 actual foreground paper and full-height rail RGB rail paint pixel 1,948
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   67,
+-   69,
+-   75
+  ]
+
+992/1000 forward tone+500 actual foreground paper and full-height rail RGB rail paint pixel 1,919
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   57,
+-   60,
+-   66
+  ]
+
+992/1000 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,919
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   57,
+-   60,
+-   66
+  ]
+
+1100/700 forward tone+0 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 forward tone+100 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 forward tone+200 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 forward tone+500 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 forward tone+500 actual foreground paper and full-height rail RGB rail paint pixel 1,571
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   70,
+-   72,
+-   77
+  ]
+
+1100/700 forward tone+800 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 forward tone+1300 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,339
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   63,
+-   66,
+-   72
+  ]
+
+1100/700 backward tone+1300 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 backward tone+800 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 backward tone+500 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 backward tone+200 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 backward tone+100 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/700 backward tone+0 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 forward tone+0 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 forward tone+100 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 forward tone+200 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 forward tone+500 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 forward tone+500 actual foreground paper and full-height rail RGB rail paint pixel 1,774
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   70,
+-   72,
+-   77
+  ]
+
+1100/1000 forward tone+800 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 forward tone+1300 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,774
++ actual - expected
+
+  [
++   51,
++   54,
++   61
+-   70,
+-   72,
+-   77
+  ]
+
+1100/1000 backward tone+1300 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 backward tone+800 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 backward tone+500 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 backward tone+200 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 backward tone+100 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1100/1000 backward tone+0 R13-2 actual sticky sheet/text travel, bounded release and intrinsic dimensions intrinsic Tone section height: 976.6875 vs 976.421875, delta 0.265625
+1440/700 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,484
++ actual - expected
+
+  [
++   52,
++   55,
++   62
+-   51,
+-   54,
+-   61
+  ]
+
+1440/1000 forward tone+1300 actual foreground paper and full-height rail RGB rail paint pixel 1,571
++ actual - expected
+
+  [
+-   51,
+    54,
++   57,
++   64
+-   61
+  ]
+
+390 R13-3 every foreground card, seams, CTA row and artwork card 6 child 2.w: 186 vs 289.28125, delta 103.28125
+479 R13-3 every foreground card, seams, CTA row and artwork card 6 child 2.w: 219 vs 355.28125, delta 136.28125
+1112 round14 groups passed; 65 failed; 5594 actual pixels; 77 exact line arrays {
+  rail: 1.53125,
+  paper: 0.125,
+  text: 0.109375,
+  cards: 0.703125,
+  cardChildren: 136.28125,
+  cardArt: 0.640625
+}
