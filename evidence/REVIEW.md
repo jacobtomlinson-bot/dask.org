@@ -1,163 +1,132 @@
-# Round14 local review package
+# Round15 local review package
 
 Card **549aad55-ef02-4222-a004-0df05ae01ca1** · native Astro Dask.org, six core routes.
-Branch `openclaw/dask-org-astro-developer`; base signed round13 `41507da97762ef527b139ccace1eb82ac2da0bfe`.
+Branch `openclaw/dask-org-astro-developer`; base signed round14
+`57fefbbc68a7b94810cc498a6761cf20b6764222`.
 Main remains sole coordinator, reviewer relay, integration and completion owner.
-This package is local-only: no remotes/fetch/push/PR/deployment/CI/auth changes,
-helpers, live submissions, main integration or card mutation. Exact signed review
-SHA is supplied in the handoff after final verification. **Not an exact-equivalence claim.**
+Local only: no remote/fetch/push/PR/deployment/CI/auth changes, helpers, live
+submissions, main integration or card mutation. The exact new signed SHA is
+reported in the handoff. **This is not an exact-equivalence claim.**
 
-## R13-1 — reading state and actual compact sticky controls
+## R14-1 — Explore's local trailing canvas and actual painted seam
 
-Separated the full-height painted `brand-rail` from its compact interactive
-`brand-sidebar`. The latter has its own sticky inset, intrinsic control sizes,
-compact reservation and containing-track release; it is no longer a viewport-high
-sticky element whose bottom clamp removes otherwise visible controls. Tablet
-controls retain their real sizes rather than flex-shrinking into the compact
-reservation. The measured tablet painted strip is also restored independently
-of the previously accepted content-track reservation: actual edge pixels, not
-only the center of the pink rail, are checked.
+Read the complete independent-round14 report and its residual/seam collectors.
+Fresh read-only original observations at390/479/480/601/767/768/769/991/992/1440
+show that the pane reserves a width-driven composition canvas, separately from
+its action's final inline reservation. Native previously let that last line box
+alone determine the pane's contribution, and collapsed the reference's two
+trailing inset owners into a slightly different single gutter.
 
-At768 the pinned first control is **42.65625px** from the viewport top; at1440 it
-is **80px**. All four source-visible controls remain physically available in the
-exercised intermediate and footer states. Phone/landscape retain their horizontal
-sticky bar and native anchor semantics. The SVG paths remain independently drawn.
+`src/styles/explore.css` now owns that reservation with a preferred pane aspect
+ratio: desktop2:1, tablet85:28.4, landscape5:2, phone85:83.4. These ratios are
+measured pane-width/pane-height relationships, **not fixed section/page heights**.
+`min-block-size:0` avoids reinstating the automatic content minimum; action ink
+can retain its source-observed small overhang **without overflow clipping**.
+The two original trailing inset contributions are combined locally: desktop
+5.625vw+5.0004 fluid rem, tablet14.26vw, landscape17.556vw. Existing phone gutter
+is unchanged. Section height remains the sum of real intro, tab, pane and inset
+flow; there are no added empty spacer elements, downstream transforms, fixed
+section heights or masks. Deeper and all foreground rules/markup/JS are unchanged.
 
-The reading marker now follows the section intersecting the **viewport midpoint**,
-including a genuine **clear state** after Tone. Fresh source observations establish
-this in both scroll directions at two viewport heights. It is not based on the
-last clicked hash, the top edge, or an unconditional first/last section fallback.
-This also corrects round13's mistaken unconditional initial-Logos assumption:
-when the midpoint remains in the hero the original has no current section; when
-it intersects Logos, Logos is selected. Existing direct-navigation tests still
-assert the real hash, usable pin geometry and current-state paint, but no longer
-assert that a clicked URL must stay current after a different section occupies
-the reading midpoint. The independent source-backed gate checks actual states,
-not just a duplicate of the local algorithm.
+`round15/structure.json` records the original/native action and each real parent,
+with rendered rectangles and computed insets. No original generated style sheet
+or implementation code was copied. No dependencies or artwork were added.
 
-Evidence: `round14/reference-scroll.json` / `local-scroll.json` contain **836
-forward/backward viewport states per side** across390/479/480/601/767/768/769/991/
-992/1100/1440 and700/1000px heights. `hits.json` contains **246 real clicks at the
-source's physical coordinates**, not label targeting; **88 keyboard Enter
-activations** additionally preserve semantic navigation. States unavailable in
-the original viewport are not counted as successful click tests. The real final
-painted rail column passes **1,342 RGB checks** in `rail-paint.json`.
+### Fresh all-state acceptance
 
-## R13-2 — real Tone sheets and text stick together
+`scripts/round15-checks.mjs` independently obtains **60 records**, original and
+native, covering three states at all ten requested widths, with fonts loaded,
+full-page traversal,350ms settling and reduced motion. Each of30 paired groups
+asserts section-relative heading/card/action rectangles, action label/destination,
+no document overflow, actual action-bottom-to-boundary extent, and the first
+painted #33363D row at x3/10/20 in a full-page PNG. The next sibling's unrelated
+wrapper height is deliberately not compared. PNGs retain both the complete
+Explore composition and a real action-to-seam strip.
 
-Tone now owns actual foreground sheet elements wrapping its existing text tracks.
-The introductory sheet is `position:sticky; top:0`, constrained by the natural
-containing section. Measured paper padding/margins and responsive track ownership
-replace the previous section-owned decorative foreground. There is no fixed
-overlay, section/page minimum-height, overflow clipping, compensating spacer or
-downstream offset. The desktop short sheet follows the observed two-fifths
-proportion of the intrinsic examples row; the row's natural content still
-determines the section extent. Tablet and stacked sheets use their real content
-and padding. The trailing stacked-sheet margin belongs to that sheet rather than
-being folded into section padding, preserving the actual sticky release point.
+- Maximum trailing-gap error: **0.015625px** (old1–3px mismatch removed).
+- Maximum preserved foreground bound error: **0.09375px**.
+- Actual painted gap differs by **at most one raster row**. This is retained as a
+  limit, not called pixel identity: integer-ceiled action edges can fall on
+  different sides of the source/native document's fractional origin. At601 the
+  DOM gap is exactly103.296875px on both sides; PNG integer gap is102/103 rather
+  than the old102/105. At390 it is80/80;768110/110;1440160/160.
+- Each detected gray seam is within one raster row of its actual local section
+  boundary, not merely an assertion on computed background color.
 
-AtTone+500 the native heading is **62.046875px at768** and **116.34375px at1440**,
-matching the observed pinned reference instead of scrolling hundreds of pixels
-above the viewport. Stacked phone/landscape reproduce the same native sticky
-travel and original sibling painting order; a later examples paper may paint over
-the introductory paper on a stacked tier, just as in the reference. This is not a
-claim that a sticky heading is always visually above every later sibling.
+The prior foreground-only round11 section-bound tolerance is tightened from3.5px
+to0.125px; its old1–3px waiver is removed. The new real-paint gate runs as part of
+`npm test`. Existing round11 checks additionally exercise all four bounded arrow
+transitions, missing endpoint arrows, keyboard Home/End/ArrowRight, retained focus
+and exact destinations at390/768/1440. Prior rail/Tone/cards/clipboard/assets/forms/
+normal-motion regressions remain in the full integrated runner.
 
-All **90 accepted paragraph line arrays and static text bounds** remain covered
-by the prior independent fixtures. New checks compare actual sheet rectangles,
-heading/intro dimensions, text-to-paper coordinates, entry, pinned travel and
-bounded release. Normalized paper error is at most **0.125px**; text-to-paper
-error is **0.109375px**. Raw viewport comparisons retain integer document-scroll
-rounding separately: paper at most **0.78125px**, heading/intro **0.796875px**.
-The pinned phase is compared directly, not normalized away. At1100 the intrinsic
-Tone section differs by **0.265625px** from accumulated fluid-unit line rounding;
-this is disclosed rather than concealed with a height adjustment.
+## Validation and inspected evidence
 
-## R13-3 — foreground card tracks, gaps and row seams
+Integrated runner: **75 completed outer groups with no recorded assertion failures;
+no terminal aggregate**. The tool transport interrupted the awaited2400-second
+command after600 seconds during round14. Remaining round14 and new round15 gates
+completed separately with terminal exit0 under an ordinary2400-second process
+lifetime: round14 **1,177 groups**, round15 **30 groups**, all passed. Results
+are recorded in `round15/final-gates.log` and `split-coverage.json`.
+This is split coverage, not a reported terminal `npm test` pass.
 
-Corrected the actual percentage-sized landscape/tablet foreground cards and the
-tablet CTA's margins. The landscape tag gap was undersized: its contribution to
-the grid's max-content width explained the767px outer-gutter error. Restoring that
-real component gap lets the intrinsic grid size itself correctly; no explicit
-page/grid width compensation or section height was added. Phone CTA actions now
-own the original stretched containing track while their visible controls retain
-the accepted intrinsic sizes. Desktop and neighboring601/992 behavior remain.
+Commands (repository root; loopback static preview serves built `dist/`):
 
-Fresh measured reference/native at767: grid **x87.65625, width591.6875px**;
-first card **x89.328125, width293.59375px**. At768 the first foreground card is
-**216.84375px** wide; at991 it is **279.8125px** wide, and total grid height is
-**1068.71875px**, matching the source. Every one of the seven cards is asserted,
-including internal child tracks, artwork, CTA row position, exact leaf line arrays
-and original destination strings. At the requested767/768/769/991 widths, maximum
-card-bound error is **0.03125px**, not the previous several-pixel track error.
-The complete eleven-width gate covers **77 foreground cards and561 exact
-heading/leaf text-line arrays**. Narrow-phone cumulative card positions retain a
-maximum **0.703125px** rounding difference; full card sections were inspected.
+```sh
+npm run build
+python3 -m http.server 4321 --bind 127.0.0.1 --directory dist
+BASE_URL=http://127.0.0.1:4321 npm test
+npm run format:check
+npm audit --json
+git diff --check
+```
 
-## Verification and inspected evidence
+The requested2400-second process allowance did not override the awaited tool
+transport's600-second limit. The separate final-gate command returns immediately
+with a durable process handle, avoiding that awaited-call limit. Focused gate can also
+be reproduced with `BASE_URL=http://127.0.0.1:4321 node scripts/round15-checks.mjs`.
+`round15/{build.log,tests.log,format.log,audit.json,whitespace.log}` retain outcomes.
+Historical generated regression results are archived under `round15/regressions/`
+before restoring older rounds, keeping the implementation diff reviewable.
 
-The frozen final suite passed **76 regression groups,0 failures**. Build and
-formatting passed; audit reports **0 vulnerabilities**. Frozen implementation
-hashes were reverified after the suite. The exact signed SHA is in the handoff.
-The new focused gate passes **1,177 groups,0 failures**, including **5,521 actual
-foreground/rail RGB samples**. The separate final-column rail audit adds1,342
-actual pink samples. Physical-click/keyboard results are separate from those
-static group counts. `geometry-summary.json` preserves raw maxima by component
-and card width rather than using aggregate pixel percentages as acceptance.
+Actually inspected the ten `pair-explore-<width>.png` all-state composition
+sheets, plus seam-strip contact sheets; `round15/seams.html` links all30 pairs and
+raw measurement/pixel results. Also inspected six `overview-<width>-<group>.png`
+covering all18 fresh canonical source/native page pairs at390/768/1440.
+`round15/gallery.html` links full-resolution page pairs and diagnostic pixel diffs;
+source normal motion there is not synchronized with native reduced motion.
+These overviews catch broad structural regressions; focused reduced-motion
+comparisons establish the local Explore correction, not aggregate pixel scores.
 
-- `gallery.html`:18 freshly traversed canonical route pairs, six routes at390/
-  768/1440. All18 overview pairs were inspected, not treated as pixel-equivalent.
-- `states.html`:66 actual viewport scroll pairs at two heights and three Tone
-  phases, plus11 complete Use Cases section pairs. Eleven responsive contact
-  sheets and all eleven card section pairs were inspected; full-size files are
-  linked for independent reproduction.
-- `settled-reference.json` and `settled/`: independent350ms-settled source recheck
-  of all836 forward/backward states, separating marker-color transition frames
-  from persistent geometry/selection. The original collection records its raw
-  geometry; the settled recheck is an additional observation, not a replacement
-  fixture copied from the native result.
-- `reference-cases.json` / `local-cases.json`, `cases/`, `checks.json`, `hits.json`,
-  `rail-paint.json`: actual per-element/state geometry, lines, targets and paint.
-- `build.log`, `tests.log`, `format.log`, `whitespace.log`, `audit.json`: final
-  command results. Historical test-generated outputs are archived under
-  `regressions/` before restoring old fixtures; abandoned/intermediate diagnostics
-  are separated under `iterations/`, not treated as final acceptance.
+## Remaining inventory / honest limits
 
-Reproduction commands are in README's Round14 section. Ordinary tests use frozen
-source evidence and navigate the local preview only. Optional explicit original
-refreshes use the GET/HEAD-only browser harness. No Webflow implementation,
-generated CSS/JS, runtime or tools are copied into production; original public
-artwork/fonts retain the existing provenance manifest. This round adds no
-production dependencies or assets.
-
-## Remaining inventory and scope limits
-
-- This is scoped Chromium evidence on this host, not cross-engine or literal
-  whole-site exactness certification. Current350ms reference states do not
-  synchronize normal-motion dashboards, counters or typing phases; existing
-  normal/reduced-motion behavioral regressions remain required.
-- Grid/dot phase, antialiasing and independently authored internal vector contours
-  remain visibly different in some comparisons. They are not silently dismissed
-  as motion noise, nor are aggregate difference pixels used to invent a new
-  contour scale correction without an actual reference-backed cause.
-- Small static differences remain: phone card/artwork cumulative positions up to
-  0.703125px; Tone1100 section0.265625px; previously documented Explore boundary
-  around1–3px and Press underline quantization. Canonical Brand/get-started desktop
-  document extents can differ by4px despite the accepted local component geometry;
-  no page-height compensation was applied. Raw per-route diagnostics remain.
-- Correct calculated contrast metadata preserves the previously accepted policy,
-  not every legacy annotation/category/typo. New rail/Tone/card work does not change
-  palette pixels, all-color clipboard behavior, selected artwork identities or
-  typography specimens. Logo guidance's separate40px sticky inset is retained.
-- Forms still prevent network submission and truthfully report “Not sent”; pending
-  excluded blog/event redirects remain unguessed. No backend success, content,
-  authorization or deployment was fabricated.
+- Actual seam raster-gap quantization remains up to1px despite<=0.015625px local
+  geometry error. No downstream or foreground offset was introduced to force
+  unrelated absolute document origins onto the same integer raster row.
+- Optional nonblocking Press polish is deliberately not mixed into this one-file
+  production repair. The tester's390 action origin0.203125px and991 leaf origin
+  1.0625px residuals remain; same1px yellow border/type/line height and accepted
+  native action hitboxes are preserved. No false pixel-identity claim.
+- Independently authored internal vector contours, grid/dot phase, antialiasing
+  and unsynchronized dashboard/gauge/typing/counter frames remain visibly
+  nonidentical in some pairs. No original implementation/runtime was imported
+  to remove those differences. Existing scoped normal/reduced-motion tests stay.
+- Prior subpixel phone card/artwork accumulation up to0.703125px and Tone1100
+  section0.265625px remain disclosed. Canonical whole-document extents are
+  diagnostics, not proof of equivalence or justification for page-height offsets.
+- This is Chromium-on-host coverage, not universal cross-engine certification.
+  Safe forms truthfully remain unsent; backend behavior and pending excluded
+  content redirect destinations are not fabricated.
 
 ## Integration boundary
 
-The signed branch/ref is fetchable through the existing shared object store;
-no remote fetch is required. Main must send the exact new SHA to the **same
-independent tester** before any local integration. Only after that gate may main
-integrate the approved exact commit (for example, `git merge --ff-only <SHA>` in
-its own authorized checkout). Developer has not run that integration command,
-published a PR or moved the Workboard card. Review handoff is not task completion.
+Same retained independent tester must review the new **exact signed SHA** before
+main integrates it locally. Branch/ref is accessible through the existing shared
+Git object store; no fetch is needed. After approval, main may use
+`git merge --ff-only <approved-SHA>` in its own authorized checkout. Developer does
+not run that integration, move the card, or publish anything. Review handoff is
+an intermediate phase, not task completion.
+
+Final gates: build and formatting passed; audit0 vulnerabilities; frozen tested
+source/check hashes verified unchanged. Owned loopback preview stopped and port4321
+confirmed closed before signing.

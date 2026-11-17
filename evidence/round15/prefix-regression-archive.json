@@ -1,0 +1,1286 @@
+[
+  {
+    "generated": "evidence/round10/checks.json",
+    "archived": "evidence/round15/regressions/round10/checks.json"
+  },
+  {
+    "generated": "evidence/round10/dropdown-local-1100.png",
+    "archived": "evidence/round15/regressions/round10/dropdown-local-1100.png"
+  },
+  {
+    "generated": "evidence/round10/dropdown-local-1440.png",
+    "archived": "evidence/round15/regressions/round10/dropdown-local-1440.png"
+  },
+  {
+    "generated": "evidence/round10/dropdown-local-992.png",
+    "archived": "evidence/round15/regressions/round10/dropdown-local-992.png"
+  },
+  {
+    "generated": "evidence/round10/human-local-320.png",
+    "archived": "evidence/round15/regressions/round10/human-local-320.png"
+  },
+  {
+    "generated": "evidence/round10/human-local-360.png",
+    "archived": "evidence/round15/regressions/round10/human-local-360.png"
+  },
+  {
+    "generated": "evidence/round10/human-local-390.png",
+    "archived": "evidence/round15/regressions/round10/human-local-390.png"
+  },
+  {
+    "generated": "evidence/round10/human-local.json",
+    "archived": "evidence/round15/regressions/round10/human-local.json"
+  },
+  {
+    "generated": "evidence/round10/local.json",
+    "archived": "evidence/round15/regressions/round10/local.json"
+  },
+  {
+    "generated": "evidence/round11/ancillary-local.json",
+    "archived": "evidence/round15/regressions/round11/ancillary-local.json"
+  },
+  {
+    "generated": "evidence/round11/local.json",
+    "archived": "evidence/round15/regressions/round11/local.json"
+  },
+  {
+    "generated": "evidence/round12/checks.json",
+    "archived": "evidence/round15/regressions/round12/checks.json"
+  },
+  {
+    "generated": "evidence/round12/deeper-paint.json",
+    "archived": "evidence/round15/regressions/round12/deeper-paint.json"
+  },
+  {
+    "generated": "evidence/round12/interactions.json",
+    "archived": "evidence/round15/regressions/round12/interactions.json"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-1100-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-1100-default.png"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-1440-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-1440-default.png"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-390-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-390-default.png"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-479-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-479-default.png"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-480-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-480-default.png"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-601-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-601-default.png"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-767-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-767-default.png"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-768-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-768-default.png"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-991-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-991-default.png"
+  },
+  {
+    "generated": "evidence/round12/local-get-started-992-default.png",
+    "archived": "evidence/round15/regressions/round12/local-get-started-992-default.png"
+  },
+  {
+    "generated": "evidence/round12/local.json",
+    "archived": "evidence/round15/regressions/round12/local.json"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-1100.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-1100.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-1440.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-1440.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-390.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-390.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-479.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-479.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-480.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-480.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-601.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-601.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-767.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-767.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-768.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-768.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-769.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-769.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-991.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-991.png"
+  },
+  {
+    "generated": "evidence/round12/palette-paint-992.png",
+    "archived": "evidence/round15/regressions/round12/palette-paint-992.png"
+  },
+  {
+    "generated": "evidence/round13/checks.json",
+    "archived": "evidence/round15/regressions/round13/checks.json"
+  },
+  {
+    "generated": "evidence/round13/interactions.json",
+    "archived": "evidence/round15/regressions/round13/interactions.json"
+  },
+  {
+    "generated": "evidence/round13/local/guidance-1440-0-scroll300.png",
+    "archived": "evidence/round15/regressions/round13/local/guidance-1440-0-scroll300.png"
+  },
+  {
+    "generated": "evidence/round13/local/guidance-1440-1-scroll300.png",
+    "archived": "evidence/round15/regressions/round13/local/guidance-1440-1-scroll300.png"
+  },
+  {
+    "generated": "evidence/round13/local/guidance-768-0-scroll300.png",
+    "archived": "evidence/round15/regressions/round13/local/guidance-768-0-scroll300.png"
+  },
+  {
+    "generated": "evidence/round13/local/guidance-768-1-scroll300.png",
+    "archived": "evidence/round15/regressions/round13/local/guidance-768-1-scroll300.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-1100-1.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-1100-1.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-1100-2.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-1100-2.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-1100-3.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-1100-3.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-1100-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-1100-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-1440-1.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-1440-1.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-1440-2.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-1440-2.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-1440-3.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-1440-3.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-1440-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-1440-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-768-1.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-768-1.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-768-2.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-768-2.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-768-3.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-768-3.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-768-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-768-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-769-1.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-769-1.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-769-2.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-769-2.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-769-3.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-769-3.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-769-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-769-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-991-1.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-991-1.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-991-2.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-991-2.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-991-3.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-991-3.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-991-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-991-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-992-1.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-992-1.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-992-2.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-992-2.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-992-3.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-992-3.png"
+  },
+  {
+    "generated": "evidence/round13/local/logos-992-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/logos-992-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/palette-1100-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/palette-1100-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/palette-480-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/palette-480-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/palette-601-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/palette-601-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/palette-767-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/palette-767-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/palette-768-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/palette-768-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/palette-769-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/palette-769-initial.png"
+  },
+  {
+    "generated": "evidence/round13/local/palette-991-initial.png",
+    "archived": "evidence/round15/regressions/round13/local/palette-991-initial.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-colors-1440.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-colors-1440.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-colors-390.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-colors-390.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-guide-320.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-guide-320.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-guide-390.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-guide-390.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-logos-1440.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-logos-1440.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-logos-390.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-logos-390.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-tone-1440.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-tone-1440.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-tone-390.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-tone-390.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-typography-1440.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-typography-1440.png"
+  },
+  {
+    "generated": "evidence/round2/local/brand-typography-390.png",
+    "archived": "evidence/round15/regressions/round2/local/brand-typography-390.png"
+  },
+  {
+    "generated": "evidence/round2/local/press-mentions-320.png",
+    "archived": "evidence/round15/regressions/round2/local/press-mentions-320.png"
+  },
+  {
+    "generated": "evidence/round2/local/press-mentions-390.png",
+    "archived": "evidence/round15/regressions/round2/local/press-mentions-390.png"
+  },
+  {
+    "generated": "evidence/round3/art-bounds.json",
+    "archived": "evidence/round15/regressions/round3/art-bounds.json"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-1440.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-1440.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-320.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-320.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-390.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-390.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-479.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-479.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-480.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-480.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-599.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-599.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-600.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-600.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-601.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-601.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-767.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-767.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-768.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-768.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-991.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-991.png"
+  },
+  {
+    "generated": "evidence/round3/local/brand-guide-992.png",
+    "archived": "evidence/round15/regressions/round3/local/brand-guide-992.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-1440.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-1440.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-320.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-320.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-390.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-390.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-479.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-479.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-480.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-480.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-599.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-599.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-600.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-600.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-601.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-601.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-767.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-767.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-768.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-768.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-991.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-991.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-help-992.png",
+    "archived": "evidence/round15/regressions/round3/local/get-help-992.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-1440.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-1440.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-320.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-320.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-390.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-390.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-479.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-479.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-480.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-480.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-599.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-599.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-600.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-600.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-601.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-601.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-767.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-767.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-768.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-768.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-991.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-991.png"
+  },
+  {
+    "generated": "evidence/round3/local/get-started-992.png",
+    "archived": "evidence/round15/regressions/round3/local/get-started-992.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-1440.png",
+    "archived": "evidence/round15/regressions/round3/local/home-1440.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-320.png",
+    "archived": "evidence/round15/regressions/round3/local/home-320.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-390.png",
+    "archived": "evidence/round15/regressions/round3/local/home-390.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-479.png",
+    "archived": "evidence/round15/regressions/round3/local/home-479.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-480.png",
+    "archived": "evidence/round15/regressions/round3/local/home-480.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-599.png",
+    "archived": "evidence/round15/regressions/round3/local/home-599.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-600.png",
+    "archived": "evidence/round15/regressions/round3/local/home-600.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-601.png",
+    "archived": "evidence/round15/regressions/round3/local/home-601.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-767.png",
+    "archived": "evidence/round15/regressions/round3/local/home-767.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-768.png",
+    "archived": "evidence/round15/regressions/round3/local/home-768.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-991.png",
+    "archived": "evidence/round15/regressions/round3/local/home-991.png"
+  },
+  {
+    "generated": "evidence/round3/local/home-992.png",
+    "archived": "evidence/round15/regressions/round3/local/home-992.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-1440.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-1440.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-320.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-320.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-390.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-390.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-479.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-479.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-480.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-480.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-599.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-599.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-600.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-600.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-601.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-601.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-767.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-767.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-768.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-768.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-991.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-991.png"
+  },
+  {
+    "generated": "evidence/round3/local/powered-by-992.png",
+    "archived": "evidence/round15/regressions/round3/local/powered-by-992.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-1440.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-1440.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-320.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-320.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-390.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-390.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-479.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-479.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-480.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-480.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-599.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-599.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-600.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-600.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-601.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-601.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-767.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-767.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-768.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-768.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-991.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-991.png"
+  },
+  {
+    "generated": "evidence/round3/local/press-mentions-992.png",
+    "archived": "evidence/round15/regressions/round3/local/press-mentions-992.png"
+  },
+  {
+    "generated": "evidence/round3/motion/dashboard-1440-no-preference.png",
+    "archived": "evidence/round15/regressions/round3/motion/dashboard-1440-no-preference.png"
+  },
+  {
+    "generated": "evidence/round3/motion/dashboard-1440-reduce.png",
+    "archived": "evidence/round15/regressions/round3/motion/dashboard-1440-reduce.png"
+  },
+  {
+    "generated": "evidence/round3/motion/dashboard-390-no-preference.png",
+    "archived": "evidence/round15/regressions/round3/motion/dashboard-390-no-preference.png"
+  },
+  {
+    "generated": "evidence/round3/motion/dashboard-390-reduce.png",
+    "archived": "evidence/round15/regressions/round3/motion/dashboard-390-reduce.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-no-preference-0.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-no-preference-0.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-no-preference-1000.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-no-preference-1000.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-no-preference-2500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-no-preference-2500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-no-preference-4500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-no-preference-4500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-no-preference-7500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-no-preference-7500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-reduce-0.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-reduce-0.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-reduce-1000.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-reduce-1000.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-reduce-2500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-reduce-2500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-reduce-4500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-reduce-4500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-1440-reduce-7500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-1440-reduce-7500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-no-preference-0.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-no-preference-0.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-no-preference-1000.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-no-preference-1000.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-no-preference-2500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-no-preference-2500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-no-preference-4500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-no-preference-4500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-no-preference-7500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-no-preference-7500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-reduce-0.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-reduce-0.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-reduce-1000.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-reduce-1000.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-reduce-2500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-reduce-2500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-reduce-4500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-reduce-4500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/gauges-390-reduce-7500.png",
+    "archived": "evidence/round15/regressions/round3/motion/gauges-390-reduce-7500.png"
+  },
+  {
+    "generated": "evidence/round3/motion/results.json",
+    "archived": "evidence/round15/regressions/round3/motion/results.json"
+  },
+  {
+    "generated": "evidence/round3/responsive.json",
+    "archived": "evidence/round15/regressions/round3/responsive.json"
+  },
+  {
+    "generated": "evidence/round4/checks.json",
+    "archived": "evidence/round15/regressions/round4/checks.json"
+  },
+  {
+    "generated": "evidence/round4/local-cards-1440.png",
+    "archived": "evidence/round15/regressions/round4/local-cards-1440.png"
+  },
+  {
+    "generated": "evidence/round4/local-cards-390.png",
+    "archived": "evidence/round15/regressions/round4/local-cards-390.png"
+  },
+  {
+    "generated": "evidence/round4/local-cards-479.png",
+    "archived": "evidence/round15/regressions/round4/local-cards-479.png"
+  },
+  {
+    "generated": "evidence/round4/local-cards-480.png",
+    "archived": "evidence/round15/regressions/round4/local-cards-480.png"
+  },
+  {
+    "generated": "evidence/round4/local-cards-601.png",
+    "archived": "evidence/round15/regressions/round4/local-cards-601.png"
+  },
+  {
+    "generated": "evidence/round4/local-cards-767.png",
+    "archived": "evidence/round15/regressions/round4/local-cards-767.png"
+  },
+  {
+    "generated": "evidence/round4/local-cards-768.png",
+    "archived": "evidence/round15/regressions/round4/local-cards-768.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-brand-guide-1440.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-brand-guide-1440.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-brand-guide-390.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-brand-guide-390.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-brand-guide-479.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-brand-guide-479.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-brand-guide-480.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-brand-guide-480.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-brand-guide-601.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-brand-guide-601.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-brand-guide-767.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-brand-guide-767.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-brand-guide-768.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-brand-guide-768.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-help-1440.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-help-1440.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-help-390.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-help-390.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-help-479.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-help-479.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-help-480.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-help-480.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-help-601.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-help-601.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-help-767.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-help-767.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-help-768.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-help-768.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-started-1440.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-started-1440.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-started-390.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-started-390.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-started-479.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-started-479.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-started-480.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-started-480.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-started-601.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-started-601.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-started-767.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-started-767.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-get-started-768.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-get-started-768.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-home-1440.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-home-1440.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-home-390.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-home-390.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-home-479.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-home-479.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-home-480.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-home-480.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-home-601.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-home-601.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-home-767.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-home-767.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-home-768.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-home-768.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-powered-by-1440.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-powered-by-1440.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-powered-by-390.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-powered-by-390.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-powered-by-479.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-powered-by-479.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-powered-by-480.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-powered-by-480.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-powered-by-601.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-powered-by-601.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-powered-by-767.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-powered-by-767.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-powered-by-768.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-powered-by-768.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-press-mentions-1440.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-press-mentions-1440.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-press-mentions-390.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-press-mentions-390.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-press-mentions-479.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-press-mentions-479.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-press-mentions-480.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-press-mentions-480.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-press-mentions-601.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-press-mentions-601.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-press-mentions-767.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-press-mentions-767.png"
+  },
+  {
+    "generated": "evidence/round4/local-footer-press-mentions-768.png",
+    "archived": "evidence/round15/regressions/round4/local-footer-press-mentions-768.png"
+  },
+  {
+    "generated": "evidence/round4/local-palette-390.png",
+    "archived": "evidence/round15/regressions/round4/local-palette-390.png"
+  },
+  {
+    "generated": "evidence/round4/local-palette-479.png",
+    "archived": "evidence/round15/regressions/round4/local-palette-479.png"
+  },
+  {
+    "generated": "evidence/round4/local-palette-480.png",
+    "archived": "evidence/round15/regressions/round4/local-palette-480.png"
+  },
+  {
+    "generated": "evidence/round4/local-palette-601.png",
+    "archived": "evidence/round15/regressions/round4/local-palette-601.png"
+  },
+  {
+    "generated": "evidence/round4/local-palette-767.png",
+    "archived": "evidence/round15/regressions/round4/local-palette-767.png"
+  },
+  {
+    "generated": "evidence/round4/local-palette-768.png",
+    "archived": "evidence/round15/regressions/round4/local-palette-768.png"
+  },
+  {
+    "generated": "evidence/round5/checks.json",
+    "archived": "evidence/round15/regressions/round5/checks.json"
+  },
+  {
+    "generated": "evidence/round5/local-767.png",
+    "archived": "evidence/round15/regressions/round5/local-767.png"
+  },
+  {
+    "generated": "evidence/round5/local-768.png",
+    "archived": "evidence/round15/regressions/round5/local-768.png"
+  },
+  {
+    "generated": "evidence/round5/local-769.png",
+    "archived": "evidence/round15/regressions/round5/local-769.png"
+  },
+  {
+    "generated": "evidence/round5/local-991.png",
+    "archived": "evidence/round15/regressions/round5/local-991.png"
+  },
+  {
+    "generated": "evidence/round5/local-992.png",
+    "archived": "evidence/round15/regressions/round5/local-992.png"
+  },
+  {
+    "generated": "evidence/round6/checks.json",
+    "archived": "evidence/round15/regressions/round6/checks.json"
+  },
+  {
+    "generated": "evidence/round7/checks.json",
+    "archived": "evidence/round15/regressions/round7/checks.json"
+  },
+  {
+    "generated": "evidence/round7/local/tone-1440.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-1440.png"
+  },
+  {
+    "generated": "evidence/round7/local/tone-390.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-390.png"
+  },
+  {
+    "generated": "evidence/round7/local/tone-479.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-479.png"
+  },
+  {
+    "generated": "evidence/round7/local/tone-480.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-480.png"
+  },
+  {
+    "generated": "evidence/round7/local/tone-601.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-601.png"
+  },
+  {
+    "generated": "evidence/round7/local/tone-767.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-767.png"
+  },
+  {
+    "generated": "evidence/round7/local/tone-768.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-768.png"
+  },
+  {
+    "generated": "evidence/round7/local/tone-769.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-769.png"
+  },
+  {
+    "generated": "evidence/round7/local/tone-991.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-991.png"
+  },
+  {
+    "generated": "evidence/round7/local/tone-992.png",
+    "archived": "evidence/round15/regressions/round7/local/tone-992.png"
+  },
+  {
+    "generated": "evidence/round8/checks.json",
+    "archived": "evidence/round15/regressions/round8/checks.json"
+  },
+  {
+    "generated": "evidence/round8/local/icon-1440-0.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-1440-0.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-1440-1.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-1440-1.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-1440-2.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-1440-2.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-1440-3.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-1440-3.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-480-0.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-480-0.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-480-1.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-480-1.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-480-2.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-480-2.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-480-3.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-480-3.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-601-0.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-601-0.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-601-1.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-601-1.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-601-2.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-601-2.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-601-3.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-601-3.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-767-0.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-767-0.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-767-2.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-767-2.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-768-1.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-768-1.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-768-2.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-768-2.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-768-3.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-768-3.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-769-0.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-769-0.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-769-1.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-769-1.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-769-2.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-769-2.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-769-3.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-769-3.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-991-0.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-991-0.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-991-1.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-991-1.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-991-2.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-991-2.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-991-3.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-991-3.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-992-1.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-992-1.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-992-2.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-992-2.png"
+  },
+  {
+    "generated": "evidence/round8/local/icon-992-3.png",
+    "archived": "evidence/round15/regressions/round8/local/icon-992-3.png"
+  },
+  {
+    "generated": "evidence/round8/local/rail-1440.png",
+    "archived": "evidence/round15/regressions/round8/local/rail-1440.png"
+  },
+  {
+    "generated": "evidence/round8/local/rail-480.png",
+    "archived": "evidence/round15/regressions/round8/local/rail-480.png"
+  },
+  {
+    "generated": "evidence/round8/local/rail-601.png",
+    "archived": "evidence/round15/regressions/round8/local/rail-601.png"
+  },
+  {
+    "generated": "evidence/round8/local/rail-767.png",
+    "archived": "evidence/round15/regressions/round8/local/rail-767.png"
+  },
+  {
+    "generated": "evidence/round8/local/rail-768.png",
+    "archived": "evidence/round15/regressions/round8/local/rail-768.png"
+  },
+  {
+    "generated": "evidence/round8/local/rail-769.png",
+    "archived": "evidence/round15/regressions/round8/local/rail-769.png"
+  },
+  {
+    "generated": "evidence/round8/local/rail-991.png",
+    "archived": "evidence/round15/regressions/round8/local/rail-991.png"
+  },
+  {
+    "generated": "evidence/round8/local/rail-992.png",
+    "archived": "evidence/round15/regressions/round8/local/rail-992.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-1440.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-1440.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-390.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-390.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-479.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-479.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-480.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-480.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-601.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-601.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-767.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-767.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-768.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-768.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-769.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-769.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-991.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-991.png"
+  },
+  {
+    "generated": "evidence/round8/local/tone-992.png",
+    "archived": "evidence/round15/regressions/round8/local/tone-992.png"
+  },
+  {
+    "generated": "evidence/round9/checks.json",
+    "archived": "evidence/round15/regressions/round9/checks.json"
+  },
+  {
+    "generated": "evidence/round9/local.json",
+    "archived": "evidence/round15/regressions/round9/local.json"
+  },
+  {
+    "generated": "evidence/round9/surfaces.json",
+    "archived": "evidence/round15/regressions/round9/surfaces.json"
+  },
+  {
+    "generated": "evidence/tests/brand-guide-390-nav.png",
+    "archived": "evidence/round15/regressions/tests/brand-guide-390-nav.png"
+  },
+  {
+    "generated": "evidence/tests/brand-guide-768-nav.png",
+    "archived": "evidence/round15/regressions/tests/brand-guide-768-nav.png"
+  },
+  {
+    "generated": "evidence/tests/get-help-390-nav.png",
+    "archived": "evidence/round15/regressions/tests/get-help-390-nav.png"
+  },
+  {
+    "generated": "evidence/tests/get-help-768-nav.png",
+    "archived": "evidence/round15/regressions/tests/get-help-768-nav.png"
+  },
+  {
+    "generated": "evidence/tests/get-started-390-nav.png",
+    "archived": "evidence/round15/regressions/tests/get-started-390-nav.png"
+  },
+  {
+    "generated": "evidence/tests/get-started-768-nav.png",
+    "archived": "evidence/round15/regressions/tests/get-started-768-nav.png"
+  },
+  {
+    "generated": "evidence/tests/home-390-nav.png",
+    "archived": "evidence/round15/regressions/tests/home-390-nav.png"
+  },
+  {
+    "generated": "evidence/tests/home-768-nav.png",
+    "archived": "evidence/round15/regressions/tests/home-768-nav.png"
+  },
+  {
+    "generated": "evidence/tests/powered-by-390-nav.png",
+    "archived": "evidence/round15/regressions/tests/powered-by-390-nav.png"
+  },
+  {
+    "generated": "evidence/tests/powered-by-768-nav.png",
+    "archived": "evidence/round15/regressions/tests/powered-by-768-nav.png"
+  },
+  {
+    "generated": "evidence/tests/press-dialog.png",
+    "archived": "evidence/round15/regressions/tests/press-dialog.png"
+  },
+  {
+    "generated": "evidence/tests/press-mentions-390-nav.png",
+    "archived": "evidence/round15/regressions/tests/press-mentions-390-nav.png"
+  },
+  {
+    "generated": "evidence/tests/press-mentions-768-nav.png",
+    "archived": "evidence/round15/regressions/tests/press-mentions-768-nav.png"
+  }
+]

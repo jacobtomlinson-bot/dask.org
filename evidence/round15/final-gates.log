@@ -1,0 +1,16 @@
+Split completion for the integrated runner interrupted by the 600s tool transport limit.
+local 836 bidirectional viewport states; 11 seven-card structural records
+246 real source-coordinate clicks plus 88 keyboard anchor activations passed
+1177 round14 groups passed; 0 failed; 5521 actual pixels; 561 exact line arrays {
+  rail: 0.703125,
+  paper: 0.125,
+  text: 0.109375,
+  cards: 0.703125,
+  cardChildren: 0.703125,
+  cardArt: 0.640625
+}
+
+round14 terminal exit: 0
+30 Explore canvas/state groups passed, 0 failed; max tail 0.015625px, foreground 0.09375px, painted gap 1px.
+
+round15 terminal exit: 0

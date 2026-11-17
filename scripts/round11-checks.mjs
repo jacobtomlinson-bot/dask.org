@@ -86,10 +86,10 @@ for (const r of refs) {
         );
       },
     );
-    // Original slider uses a fixed pane viewport whose action can overhang it by
-    // subpixels. Native intrinsic action flow stays visible and may be 1–3px taller.
+    // The measured width-driven pane preserves its action overhang without clipping.
+    // Round15 additionally checks its trailing canvas and actual painted seam.
     check(`${r.width} ${r.state}: no section-height concealment`, () => {
-      near(a.section.h, b.section.h, 3.5, 'Explore intrinsic boundary');
+      near(a.section.h, b.section.h, 0.125, 'Explore intrinsic boundary');
       assert.ok(b.card.y + b.card.h <= b.action.y + 0.1);
       assert.ok(b.action.y + b.action.h <= b.section.h + 0.1);
     });

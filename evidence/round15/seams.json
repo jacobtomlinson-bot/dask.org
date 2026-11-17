@@ -1,0 +1,2882 @@
+[
+  {
+    "label": "reference",
+    "width": 390,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 3434.296875,
+      "w": 390,
+      "h": 1236.203125,
+      "bottom": 4670.5
+    },
+    "action": {
+      "x": 73.859375,
+      "y": 4540.25,
+      "w": 242.28125,
+      "h": 49.890625,
+      "bottom": 4590.140625
+    },
+    "pane": {
+      "x": 29.25,
+      "y": 4263.359375,
+      "w": 331.5,
+      "h": 325.25,
+      "bottom": 4588.609375
+    },
+    "card": {
+      "x": 29.25,
+      "y": 4263.359375,
+      "w": 331.5,
+      "h": 257.390625,
+      "bottom": 4520.75
+    },
+    "heading": {
+      "x": 30.015625,
+      "y": 3558.625,
+      "w": 331.5,
+      "h": 74.875,
+      "bottom": 3633.5
+    },
+    "tail": 80.359375,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 4671,
+    "rasterGap": 80,
+    "edgePhase": 0.5
+  },
+  {
+    "label": "reference",
+    "width": 390,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 3434.296875,
+      "w": 390,
+      "h": 1236.203125,
+      "bottom": 4670.5
+    },
+    "action": {
+      "x": 101.359375,
+      "y": 4540.25,
+      "w": 187.28125,
+      "h": 49.890625,
+      "bottom": 4590.140625
+    },
+    "pane": {
+      "x": 29.25,
+      "y": 4263.359375,
+      "w": 331.5,
+      "h": 325.25,
+      "bottom": 4588.609375
+    },
+    "card": {
+      "x": 29.25,
+      "y": 4263.359375,
+      "w": 331.5,
+      "h": 257.390625,
+      "bottom": 4520.75
+    },
+    "heading": {
+      "x": 30.015625,
+      "y": 3558.625,
+      "w": 331.5,
+      "h": 74.875,
+      "bottom": 3633.5
+    },
+    "tail": 80.359375,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 4671,
+    "rasterGap": 80,
+    "edgePhase": 0.5
+  },
+  {
+    "label": "reference",
+    "width": 390,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 3434.296875,
+      "w": 390,
+      "h": 1236.203125,
+      "bottom": 4670.5
+    },
+    "action": {
+      "x": 96.359375,
+      "y": 4540.25,
+      "w": 197.28125,
+      "h": 49.890625,
+      "bottom": 4590.140625
+    },
+    "pane": {
+      "x": 29.25,
+      "y": 4263.359375,
+      "w": 331.5,
+      "h": 325.25,
+      "bottom": 4588.609375
+    },
+    "card": {
+      "x": 29.25,
+      "y": 4263.359375,
+      "w": 331.5,
+      "h": 257.390625,
+      "bottom": 4520.75
+    },
+    "heading": {
+      "x": 30.015625,
+      "y": 3558.625,
+      "w": 331.5,
+      "h": 74.875,
+      "bottom": 3633.5
+    },
+    "tail": 80.359375,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 4671,
+    "rasterGap": 80,
+    "edgePhase": 0.5
+  },
+  {
+    "label": "reference",
+    "width": 479,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 4218.703125,
+      "w": 479,
+      "h": 1518.34375,
+      "bottom": 5737.046875
+    },
+    "action": {
+      "x": 91.0625,
+      "y": 5577.046875,
+      "w": 296.875,
+      "h": 61.28125,
+      "bottom": 5638.328125
+    },
+    "pane": {
+      "x": 35.9375,
+      "y": 5236.984375,
+      "w": 407.140625,
+      "h": 399.484375,
+      "bottom": 5636.46875
+    },
+    "card": {
+      "x": 35.9375,
+      "y": 5236.984375,
+      "w": 407.140625,
+      "h": 316.125,
+      "bottom": 5553.109375
+    },
+    "heading": {
+      "x": 36.875,
+      "y": 4371.40625,
+      "w": 407.140625,
+      "h": 91.96875,
+      "bottom": 4463.375
+    },
+    "tail": 98.71875,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 5737,
+    "rasterGap": 98,
+    "edgePhase": -0.046875
+  },
+  {
+    "label": "reference",
+    "width": 479,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 4218.703125,
+      "w": 479,
+      "h": 1518.34375,
+      "bottom": 5737.046875
+    },
+    "action": {
+      "x": 125.0625,
+      "y": 5577.046875,
+      "w": 228.875,
+      "h": 61.28125,
+      "bottom": 5638.328125
+    },
+    "pane": {
+      "x": 35.9375,
+      "y": 5236.984375,
+      "w": 407.140625,
+      "h": 399.484375,
+      "bottom": 5636.46875
+    },
+    "card": {
+      "x": 35.9375,
+      "y": 5236.984375,
+      "w": 407.140625,
+      "h": 316.125,
+      "bottom": 5553.109375
+    },
+    "heading": {
+      "x": 36.875,
+      "y": 4371.40625,
+      "w": 407.140625,
+      "h": 91.96875,
+      "bottom": 4463.375
+    },
+    "tail": 98.71875,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 5737,
+    "rasterGap": 98,
+    "edgePhase": -0.046875
+  },
+  {
+    "label": "reference",
+    "width": 479,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 4218.703125,
+      "w": 479,
+      "h": 1518.34375,
+      "bottom": 5737.046875
+    },
+    "action": {
+      "x": 120.5625,
+      "y": 5577.046875,
+      "w": 237.875,
+      "h": 61.28125,
+      "bottom": 5638.328125
+    },
+    "pane": {
+      "x": 35.9375,
+      "y": 5236.984375,
+      "w": 407.140625,
+      "h": 399.484375,
+      "bottom": 5636.46875
+    },
+    "card": {
+      "x": 35.9375,
+      "y": 5236.984375,
+      "w": 407.140625,
+      "h": 316.125,
+      "bottom": 5553.109375
+    },
+    "heading": {
+      "x": 36.875,
+      "y": 4371.40625,
+      "w": 407.140625,
+      "h": 91.96875,
+      "bottom": 4463.375
+    },
+    "tail": 98.71875,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 5737,
+    "rasterGap": 98,
+    "edgePhase": -0.046875
+  },
+  {
+    "label": "reference",
+    "width": 480,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1650.109375,
+      "w": 480,
+      "h": 580.21875,
+      "bottom": 2230.328125
+    },
+    "action": {
+      "x": 162.34375,
+      "y": 2115.84375,
+      "w": 155.3125,
+      "h": 32,
+      "bottom": 2147.84375
+    },
+    "pane": {
+      "x": 36,
+      "y": 1982.890625,
+      "w": 408,
+      "h": 163.1875,
+      "bottom": 2146.078125
+    },
+    "card": {
+      "x": 36,
+      "y": 1982.890625,
+      "w": 408,
+      "h": 120.953125,
+      "bottom": 2103.84375
+    },
+    "heading": {
+      "x": 114.34375,
+      "y": 1733.96875,
+      "w": 249,
+      "h": 24,
+      "bottom": 1757.96875
+    },
+    "tail": 82.484375,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2230,
+    "rasterGap": 82,
+    "edgePhase": -0.328125
+  },
+  {
+    "label": "reference",
+    "width": 480,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1650.109375,
+      "w": 480,
+      "h": 580.21875,
+      "bottom": 2230.328125
+    },
+    "action": {
+      "x": 179.84375,
+      "y": 2115.84375,
+      "w": 120.3125,
+      "h": 32,
+      "bottom": 2147.84375
+    },
+    "pane": {
+      "x": 36,
+      "y": 1982.890625,
+      "w": 408,
+      "h": 163.1875,
+      "bottom": 2146.078125
+    },
+    "card": {
+      "x": 36,
+      "y": 1982.890625,
+      "w": 408,
+      "h": 120.953125,
+      "bottom": 2103.84375
+    },
+    "heading": {
+      "x": 114.34375,
+      "y": 1733.96875,
+      "w": 249,
+      "h": 24,
+      "bottom": 1757.96875
+    },
+    "tail": 82.484375,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2230,
+    "rasterGap": 82,
+    "edgePhase": -0.328125
+  },
+  {
+    "label": "reference",
+    "width": 480,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1650.109375,
+      "w": 480,
+      "h": 580.21875,
+      "bottom": 2230.328125
+    },
+    "action": {
+      "x": 177.34375,
+      "y": 2115.84375,
+      "w": 125.3125,
+      "h": 32,
+      "bottom": 2147.84375
+    },
+    "pane": {
+      "x": 36,
+      "y": 1982.890625,
+      "w": 408,
+      "h": 163.1875,
+      "bottom": 2146.078125
+    },
+    "card": {
+      "x": 36,
+      "y": 1982.890625,
+      "w": 408,
+      "h": 120.953125,
+      "bottom": 2103.84375
+    },
+    "heading": {
+      "x": 114.34375,
+      "y": 1733.96875,
+      "w": 249,
+      "h": 24,
+      "bottom": 1757.96875
+    },
+    "tail": 82.484375,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2230,
+    "rasterGap": 82,
+    "edgePhase": -0.328125
+  },
+  {
+    "label": "reference",
+    "width": 601,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 2065.90625,
+      "w": 601,
+      "h": 726.5,
+      "bottom": 2792.40625
+    },
+    "action": {
+      "x": 203.65625,
+      "y": 2649.046875,
+      "w": 193.6875,
+      "h": 40.0625,
+      "bottom": 2689.109375
+    },
+    "pane": {
+      "x": 45.078125,
+      "y": 2482.59375,
+      "w": 510.84375,
+      "h": 204.328125,
+      "bottom": 2686.921875
+    },
+    "card": {
+      "x": 45.078125,
+      "y": 2482.59375,
+      "w": 510.84375,
+      "h": 151.4375,
+      "bottom": 2634.03125
+    },
+    "heading": {
+      "x": 143.046875,
+      "y": 2170.921875,
+      "w": 312,
+      "h": 30.046875,
+      "bottom": 2200.96875
+    },
+    "tail": 103.296875,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2792,
+    "rasterGap": 102,
+    "edgePhase": -0.40625
+  },
+  {
+    "label": "reference",
+    "width": 601,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 2065.90625,
+      "w": 601,
+      "h": 726.5,
+      "bottom": 2792.40625
+    },
+    "action": {
+      "x": 225.65625,
+      "y": 2649.046875,
+      "w": 149.6875,
+      "h": 40.0625,
+      "bottom": 2689.109375
+    },
+    "pane": {
+      "x": 45.078125,
+      "y": 2482.59375,
+      "w": 510.84375,
+      "h": 204.328125,
+      "bottom": 2686.921875
+    },
+    "card": {
+      "x": 45.078125,
+      "y": 2482.59375,
+      "w": 510.84375,
+      "h": 151.4375,
+      "bottom": 2634.03125
+    },
+    "heading": {
+      "x": 143.046875,
+      "y": 2170.921875,
+      "w": 312,
+      "h": 30.046875,
+      "bottom": 2200.96875
+    },
+    "tail": 103.296875,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2792,
+    "rasterGap": 102,
+    "edgePhase": -0.40625
+  },
+  {
+    "label": "reference",
+    "width": 601,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 2065.90625,
+      "w": 601,
+      "h": 726.5,
+      "bottom": 2792.40625
+    },
+    "action": {
+      "x": 223.65625,
+      "y": 2649.046875,
+      "w": 153.6875,
+      "h": 40.0625,
+      "bottom": 2689.109375
+    },
+    "pane": {
+      "x": 45.078125,
+      "y": 2482.59375,
+      "w": 510.84375,
+      "h": 204.328125,
+      "bottom": 2686.921875
+    },
+    "card": {
+      "x": 45.078125,
+      "y": 2482.59375,
+      "w": 510.84375,
+      "h": 151.4375,
+      "bottom": 2634.03125
+    },
+    "heading": {
+      "x": 143.046875,
+      "y": 2170.921875,
+      "w": 312,
+      "h": 30.046875,
+      "bottom": 2200.96875
+    },
+    "tail": 103.296875,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2792,
+    "rasterGap": 102,
+    "edgePhase": -0.40625
+  },
+  {
+    "label": "reference",
+    "width": 767,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 2638.46875,
+      "w": 767,
+      "h": 927.203125,
+      "bottom": 3565.671875
+    },
+    "action": {
+      "x": 261.96875,
+      "y": 3382.734375,
+      "w": 243.0625,
+      "h": 51.125,
+      "bottom": 3433.859375
+    },
+    "pane": {
+      "x": 57.53125,
+      "y": 3170.28125,
+      "w": 651.9375,
+      "h": 260.765625,
+      "bottom": 3431.046875
+    },
+    "card": {
+      "x": 57.53125,
+      "y": 3170.28125,
+      "w": 651.9375,
+      "h": 193.28125,
+      "bottom": 3363.5625
+    },
+    "heading": {
+      "x": 183.640625,
+      "y": 2772.515625,
+      "w": 396,
+      "h": 38.34375,
+      "bottom": 2810.859375
+    },
+    "tail": 131.8125,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3566,
+    "rasterGap": 132,
+    "edgePhase": 0.328125
+  },
+  {
+    "label": "reference",
+    "width": 767,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 2638.46875,
+      "w": 767,
+      "h": 927.203125,
+      "bottom": 3565.671875
+    },
+    "action": {
+      "x": 289.46875,
+      "y": 3382.734375,
+      "w": 188.0625,
+      "h": 51.125,
+      "bottom": 3433.859375
+    },
+    "pane": {
+      "x": 57.53125,
+      "y": 3170.28125,
+      "w": 651.9375,
+      "h": 260.765625,
+      "bottom": 3431.046875
+    },
+    "card": {
+      "x": 57.53125,
+      "y": 3170.28125,
+      "w": 651.9375,
+      "h": 193.28125,
+      "bottom": 3363.5625
+    },
+    "heading": {
+      "x": 183.640625,
+      "y": 2772.515625,
+      "w": 396,
+      "h": 38.34375,
+      "bottom": 2810.859375
+    },
+    "tail": 131.8125,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3566,
+    "rasterGap": 132,
+    "edgePhase": 0.328125
+  },
+  {
+    "label": "reference",
+    "width": 767,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 2638.46875,
+      "w": 767,
+      "h": 927.203125,
+      "bottom": 3565.671875
+    },
+    "action": {
+      "x": 284.46875,
+      "y": 3382.734375,
+      "w": 198.0625,
+      "h": 51.125,
+      "bottom": 3433.859375
+    },
+    "pane": {
+      "x": 57.53125,
+      "y": 3170.28125,
+      "w": 651.9375,
+      "h": 260.765625,
+      "bottom": 3431.046875
+    },
+    "card": {
+      "x": 57.53125,
+      "y": 3170.28125,
+      "w": 651.9375,
+      "h": 193.28125,
+      "bottom": 3363.5625
+    },
+    "heading": {
+      "x": 183.640625,
+      "y": 2772.515625,
+      "w": 396,
+      "h": 38.34375,
+      "bottom": 2810.859375
+    },
+    "tail": 131.8125,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3566,
+    "rasterGap": 132,
+    "edgePhase": 0.328125
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1541.328125,
+      "w": 768,
+      "h": 766.984375,
+      "bottom": 2308.3125
+    },
+    "action": {
+      "x": 287.015625,
+      "y": 2157.328125,
+      "w": 193.9375,
+      "h": 40.40625,
+      "bottom": 2197.734375
+    },
+    "pane": {
+      "x": 57.59375,
+      "y": 1980.703125,
+      "w": 652.796875,
+      "h": 218.109375,
+      "bottom": 2198.8125
+    },
+    "card": {
+      "x": 57.59375,
+      "y": 1980.703125,
+      "w": 652.796875,
+      "h": 157.4375,
+      "bottom": 2138.140625
+    },
+    "heading": {
+      "x": 209.484375,
+      "y": 1659.59375,
+      "w": 349,
+      "h": 35.359375,
+      "bottom": 1694.953125
+    },
+    "tail": 110.578125,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2308,
+    "rasterGap": 110,
+    "edgePhase": -0.3125
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1541.328125,
+      "w": 768,
+      "h": 766.984375,
+      "bottom": 2308.3125
+    },
+    "action": {
+      "x": 309.015625,
+      "y": 2157.328125,
+      "w": 149.9375,
+      "h": 40.40625,
+      "bottom": 2197.734375
+    },
+    "pane": {
+      "x": 57.59375,
+      "y": 1980.703125,
+      "w": 652.796875,
+      "h": 218.109375,
+      "bottom": 2198.8125
+    },
+    "card": {
+      "x": 57.59375,
+      "y": 1980.703125,
+      "w": 652.796875,
+      "h": 157.4375,
+      "bottom": 2138.140625
+    },
+    "heading": {
+      "x": 209.484375,
+      "y": 1659.59375,
+      "w": 349,
+      "h": 35.359375,
+      "bottom": 1694.953125
+    },
+    "tail": 110.578125,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2308,
+    "rasterGap": 110,
+    "edgePhase": -0.3125
+  },
+  {
+    "label": "reference",
+    "width": 768,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1541.328125,
+      "w": 768,
+      "h": 766.984375,
+      "bottom": 2308.3125
+    },
+    "action": {
+      "x": 307.015625,
+      "y": 2157.328125,
+      "w": 153.9375,
+      "h": 40.40625,
+      "bottom": 2197.734375
+    },
+    "pane": {
+      "x": 57.59375,
+      "y": 1980.703125,
+      "w": 652.796875,
+      "h": 218.109375,
+      "bottom": 2198.8125
+    },
+    "card": {
+      "x": 57.59375,
+      "y": 1980.703125,
+      "w": 652.796875,
+      "h": 157.4375,
+      "bottom": 2138.140625
+    },
+    "heading": {
+      "x": 209.484375,
+      "y": 1659.59375,
+      "w": 349,
+      "h": 35.359375,
+      "bottom": 1694.953125
+    },
+    "tail": 110.578125,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2308,
+    "rasterGap": 110,
+    "edgePhase": -0.3125
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1543.375,
+      "w": 769,
+      "h": 768,
+      "bottom": 2311.375
+    },
+    "action": {
+      "x": 287.5,
+      "y": 2160.1875,
+      "w": 193.96875,
+      "h": 40.453125,
+      "bottom": 2200.640625
+    },
+    "pane": {
+      "x": 57.671875,
+      "y": 1983.328125,
+      "w": 653.640625,
+      "h": 218.390625,
+      "bottom": 2201.71875
+    },
+    "card": {
+      "x": 57.671875,
+      "y": 1983.328125,
+      "w": 653.640625,
+      "h": 157.640625,
+      "bottom": 2140.96875
+    },
+    "heading": {
+      "x": 209.984375,
+      "y": 1661.828125,
+      "w": 349,
+      "h": 35.40625,
+      "bottom": 1697.234375
+    },
+    "tail": 110.734375,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2311,
+    "rasterGap": 110,
+    "edgePhase": -0.375
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1543.375,
+      "w": 769,
+      "h": 768,
+      "bottom": 2311.375
+    },
+    "action": {
+      "x": 309.5,
+      "y": 2160.1875,
+      "w": 149.96875,
+      "h": 40.453125,
+      "bottom": 2200.640625
+    },
+    "pane": {
+      "x": 57.671875,
+      "y": 1983.328125,
+      "w": 653.640625,
+      "h": 218.390625,
+      "bottom": 2201.71875
+    },
+    "card": {
+      "x": 57.671875,
+      "y": 1983.328125,
+      "w": 653.640625,
+      "h": 157.640625,
+      "bottom": 2140.96875
+    },
+    "heading": {
+      "x": 209.984375,
+      "y": 1661.828125,
+      "w": 349,
+      "h": 35.40625,
+      "bottom": 1697.234375
+    },
+    "tail": 110.734375,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2311,
+    "rasterGap": 110,
+    "edgePhase": -0.375
+  },
+  {
+    "label": "reference",
+    "width": 769,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1543.375,
+      "w": 769,
+      "h": 768,
+      "bottom": 2311.375
+    },
+    "action": {
+      "x": 307.5,
+      "y": 2160.1875,
+      "w": 153.96875,
+      "h": 40.453125,
+      "bottom": 2200.640625
+    },
+    "pane": {
+      "x": 57.671875,
+      "y": 1983.328125,
+      "w": 653.640625,
+      "h": 218.390625,
+      "bottom": 2201.71875
+    },
+    "card": {
+      "x": 57.671875,
+      "y": 1983.328125,
+      "w": 653.640625,
+      "h": 157.640625,
+      "bottom": 2140.96875
+    },
+    "heading": {
+      "x": 209.984375,
+      "y": 1661.828125,
+      "w": 349,
+      "h": 35.40625,
+      "bottom": 1697.234375
+    },
+    "tail": 110.734375,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2311,
+    "rasterGap": 110,
+    "edgePhase": -0.375
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1989.8125,
+      "w": 991,
+      "h": 989.703125,
+      "bottom": 2979.515625
+    },
+    "action": {
+      "x": 366.625,
+      "y": 2784.6875,
+      "w": 257.75,
+      "h": 52.140625,
+      "bottom": 2836.828125
+    },
+    "pane": {
+      "x": 74.328125,
+      "y": 2556.78125,
+      "w": 842.34375,
+      "h": 281.4375,
+      "bottom": 2838.21875
+    },
+    "card": {
+      "x": 74.328125,
+      "y": 2556.78125,
+      "w": 842.34375,
+      "h": 203.140625,
+      "bottom": 2759.921875
+    },
+    "heading": {
+      "x": 267,
+      "y": 2142.4375,
+      "w": 457,
+      "h": 45.640625,
+      "bottom": 2188.078125
+    },
+    "tail": 142.6875,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2980,
+    "rasterGap": 143,
+    "edgePhase": 0.484375
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1989.8125,
+      "w": 991,
+      "h": 989.703125,
+      "bottom": 2979.515625
+    },
+    "action": {
+      "x": 397.125,
+      "y": 2784.6875,
+      "w": 196.75,
+      "h": 52.140625,
+      "bottom": 2836.828125
+    },
+    "pane": {
+      "x": 74.328125,
+      "y": 2556.78125,
+      "w": 842.34375,
+      "h": 281.4375,
+      "bottom": 2838.21875
+    },
+    "card": {
+      "x": 74.328125,
+      "y": 2556.78125,
+      "w": 842.34375,
+      "h": 203.140625,
+      "bottom": 2759.921875
+    },
+    "heading": {
+      "x": 267,
+      "y": 2142.4375,
+      "w": 457,
+      "h": 45.640625,
+      "bottom": 2188.078125
+    },
+    "tail": 142.6875,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2980,
+    "rasterGap": 143,
+    "edgePhase": 0.484375
+  },
+  {
+    "label": "reference",
+    "width": 991,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1989.8125,
+      "w": 991,
+      "h": 989.703125,
+      "bottom": 2979.515625
+    },
+    "action": {
+      "x": 392.625,
+      "y": 2784.6875,
+      "w": 205.75,
+      "h": 52.140625,
+      "bottom": 2836.828125
+    },
+    "pane": {
+      "x": 74.328125,
+      "y": 2556.78125,
+      "w": 842.34375,
+      "h": 281.4375,
+      "bottom": 2838.21875
+    },
+    "card": {
+      "x": 74.328125,
+      "y": 2556.78125,
+      "w": 842.34375,
+      "h": 203.140625,
+      "bottom": 2759.921875
+    },
+    "heading": {
+      "x": 267,
+      "y": 2142.4375,
+      "w": 457,
+      "h": 45.640625,
+      "bottom": 2188.078125
+    },
+    "tail": 142.6875,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2980,
+    "rasterGap": 143,
+    "edgePhase": 0.484375
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1348.953125,
+      "w": 992,
+      "h": 770.671875,
+      "bottom": 2119.625
+    },
+    "action": {
+      "x": 417.984375,
+      "y": 1974,
+      "w": 156.03125,
+      "h": 35.109375,
+      "bottom": 2009.109375
+    },
+    "pane": {
+      "x": 277.765625,
+      "y": 1790.484375,
+      "w": 436.46875,
+      "h": 218.234375,
+      "bottom": 2008.71875
+    },
+    "card": {
+      "x": 277.765625,
+      "y": 1790.484375,
+      "w": 436.46875,
+      "h": 158.71875,
+      "bottom": 1949.203125
+    },
+    "heading": {
+      "x": 308.984375,
+      "y": 1467.671875,
+      "w": 374,
+      "h": 38.578125,
+      "bottom": 1506.25
+    },
+    "tail": 110.515625,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2120,
+    "rasterGap": 110,
+    "edgePhase": 0.375
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1348.953125,
+      "w": 992,
+      "h": 770.671875,
+      "bottom": 2119.625
+    },
+    "action": {
+      "x": 435.484375,
+      "y": 1974,
+      "w": 121.03125,
+      "h": 35.109375,
+      "bottom": 2009.109375
+    },
+    "pane": {
+      "x": 277.765625,
+      "y": 1790.484375,
+      "w": 436.46875,
+      "h": 218.234375,
+      "bottom": 2008.71875
+    },
+    "card": {
+      "x": 277.765625,
+      "y": 1790.484375,
+      "w": 436.46875,
+      "h": 158.71875,
+      "bottom": 1949.203125
+    },
+    "heading": {
+      "x": 308.984375,
+      "y": 1467.671875,
+      "w": 374,
+      "h": 38.578125,
+      "bottom": 1506.25
+    },
+    "tail": 110.515625,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2120,
+    "rasterGap": 110,
+    "edgePhase": 0.375
+  },
+  {
+    "label": "reference",
+    "width": 992,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1348.953125,
+      "w": 992,
+      "h": 770.671875,
+      "bottom": 2119.625
+    },
+    "action": {
+      "x": 432.984375,
+      "y": 1974,
+      "w": 126.03125,
+      "h": 35.109375,
+      "bottom": 2009.109375
+    },
+    "pane": {
+      "x": 277.765625,
+      "y": 1790.484375,
+      "w": 436.46875,
+      "h": 218.234375,
+      "bottom": 2008.71875
+    },
+    "card": {
+      "x": 277.765625,
+      "y": 1790.484375,
+      "w": 436.46875,
+      "h": 158.71875,
+      "bottom": 1949.203125
+    },
+    "heading": {
+      "x": 308.984375,
+      "y": 1467.671875,
+      "w": 374,
+      "h": 38.578125,
+      "bottom": 1506.25
+    },
+    "tail": 110.515625,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2120,
+    "rasterGap": 110,
+    "edgePhase": 0.375
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1927.953125,
+      "w": 1440,
+      "h": 1118.78125,
+      "bottom": 3046.734375
+    },
+    "action": {
+      "x": 604.515625,
+      "y": 2835.328125,
+      "w": 230.96875,
+      "h": 50.96875,
+      "bottom": 2886.296875
+    },
+    "pane": {
+      "x": 403.203125,
+      "y": 2568.9375,
+      "w": 633.59375,
+      "h": 316.796875,
+      "bottom": 2885.734375
+    },
+    "card": {
+      "x": 403.203125,
+      "y": 2568.9375,
+      "w": 633.59375,
+      "h": 230.390625,
+      "bottom": 2799.328125
+    },
+    "heading": {
+      "x": 448,
+      "y": 2100.296875,
+      "w": 544,
+      "h": 56,
+      "bottom": 2156.296875
+    },
+    "tail": 160.4375,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3047,
+    "rasterGap": 160,
+    "edgePhase": 0.265625
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1927.953125,
+      "w": 1440,
+      "h": 1118.78125,
+      "bottom": 3046.734375
+    },
+    "action": {
+      "x": 631.015625,
+      "y": 2835.328125,
+      "w": 177.96875,
+      "h": 50.96875,
+      "bottom": 2886.296875
+    },
+    "pane": {
+      "x": 403.203125,
+      "y": 2568.9375,
+      "w": 633.59375,
+      "h": 316.796875,
+      "bottom": 2885.734375
+    },
+    "card": {
+      "x": 403.203125,
+      "y": 2568.9375,
+      "w": 633.59375,
+      "h": 230.390625,
+      "bottom": 2799.328125
+    },
+    "heading": {
+      "x": 448,
+      "y": 2100.296875,
+      "w": 544,
+      "h": 56,
+      "bottom": 2156.296875
+    },
+    "tail": 160.4375,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3047,
+    "rasterGap": 160,
+    "edgePhase": 0.265625
+  },
+  {
+    "label": "reference",
+    "width": 1440,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1927.953125,
+      "w": 1440,
+      "h": 1118.78125,
+      "bottom": 3046.734375
+    },
+    "action": {
+      "x": 627.015625,
+      "y": 2835.328125,
+      "w": 185.96875,
+      "h": 50.96875,
+      "bottom": 2886.296875
+    },
+    "pane": {
+      "x": 403.203125,
+      "y": 2568.9375,
+      "w": 633.59375,
+      "h": 316.796875,
+      "bottom": 2885.734375
+    },
+    "card": {
+      "x": 403.203125,
+      "y": 2568.9375,
+      "w": 633.59375,
+      "h": 230.390625,
+      "bottom": 2799.328125
+    },
+    "heading": {
+      "x": 448,
+      "y": 2100.296875,
+      "w": 544,
+      "h": 56,
+      "bottom": 2156.296875
+    },
+    "tail": 160.4375,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3047,
+    "rasterGap": 160,
+    "edgePhase": 0.265625
+  },
+  {
+    "label": "local",
+    "width": 390,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 3433.796875,
+      "w": 390,
+      "h": 1236.21875,
+      "bottom": 4670.015625
+    },
+    "action": {
+      "x": 73.859375,
+      "y": 4539.75,
+      "w": 242.28125,
+      "h": 49.890625,
+      "bottom": 4589.640625
+    },
+    "pane": {
+      "x": 29.25,
+      "y": 4262.875,
+      "w": 331.5,
+      "h": 325.25,
+      "bottom": 4588.125
+    },
+    "card": {
+      "x": 29.25,
+      "y": 4262.875,
+      "w": 331.5,
+      "h": 257.375,
+      "bottom": 4520.25
+    },
+    "heading": {
+      "x": 30,
+      "y": 3558.140625,
+      "w": 331.5,
+      "h": 74.875,
+      "bottom": 3633.015625
+    },
+    "tail": 80.375,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 4670,
+    "rasterGap": 80,
+    "edgePhase": -0.015625
+  },
+  {
+    "label": "local",
+    "width": 390,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 3433.796875,
+      "w": 390,
+      "h": 1236.21875,
+      "bottom": 4670.015625
+    },
+    "action": {
+      "x": 101.359375,
+      "y": 4539.75,
+      "w": 187.28125,
+      "h": 49.890625,
+      "bottom": 4589.640625
+    },
+    "pane": {
+      "x": 29.25,
+      "y": 4262.875,
+      "w": 331.5,
+      "h": 325.25,
+      "bottom": 4588.125
+    },
+    "card": {
+      "x": 29.25,
+      "y": 4262.875,
+      "w": 331.5,
+      "h": 257.375,
+      "bottom": 4520.25
+    },
+    "heading": {
+      "x": 30,
+      "y": 3558.140625,
+      "w": 331.5,
+      "h": 74.875,
+      "bottom": 3633.015625
+    },
+    "tail": 80.375,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 4670,
+    "rasterGap": 80,
+    "edgePhase": -0.015625
+  },
+  {
+    "label": "local",
+    "width": 390,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 3433.796875,
+      "w": 390,
+      "h": 1236.21875,
+      "bottom": 4670.015625
+    },
+    "action": {
+      "x": 96.359375,
+      "y": 4539.75,
+      "w": 197.28125,
+      "h": 49.890625,
+      "bottom": 4589.640625
+    },
+    "pane": {
+      "x": 29.25,
+      "y": 4262.875,
+      "w": 331.5,
+      "h": 325.25,
+      "bottom": 4588.125
+    },
+    "card": {
+      "x": 29.25,
+      "y": 4262.875,
+      "w": 331.5,
+      "h": 257.375,
+      "bottom": 4520.25
+    },
+    "heading": {
+      "x": 30,
+      "y": 3558.140625,
+      "w": 331.5,
+      "h": 74.875,
+      "bottom": 3633.015625
+    },
+    "tail": 80.375,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 4670,
+    "rasterGap": 80,
+    "edgePhase": -0.015625
+  },
+  {
+    "label": "local",
+    "width": 479,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 4217.4375,
+      "w": 479,
+      "h": 1518.34375,
+      "bottom": 5735.78125
+    },
+    "action": {
+      "x": 91.046875,
+      "y": 5575.796875,
+      "w": 296.875,
+      "h": 61.28125,
+      "bottom": 5637.078125
+    },
+    "pane": {
+      "x": 35.921875,
+      "y": 5235.734375,
+      "w": 407.140625,
+      "h": 399.46875,
+      "bottom": 5635.203125
+    },
+    "card": {
+      "x": 35.921875,
+      "y": 5235.734375,
+      "w": 407.140625,
+      "h": 316.125,
+      "bottom": 5551.859375
+    },
+    "heading": {
+      "x": 36.859375,
+      "y": 4370.15625,
+      "w": 407.140625,
+      "h": 91.96875,
+      "bottom": 4462.125
+    },
+    "tail": 98.703125,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 5736,
+    "rasterGap": 98,
+    "edgePhase": 0.21875
+  },
+  {
+    "label": "local",
+    "width": 479,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 4217.4375,
+      "w": 479,
+      "h": 1518.34375,
+      "bottom": 5735.78125
+    },
+    "action": {
+      "x": 125.046875,
+      "y": 5575.796875,
+      "w": 228.875,
+      "h": 61.28125,
+      "bottom": 5637.078125
+    },
+    "pane": {
+      "x": 35.921875,
+      "y": 5235.734375,
+      "w": 407.140625,
+      "h": 399.46875,
+      "bottom": 5635.203125
+    },
+    "card": {
+      "x": 35.921875,
+      "y": 5235.734375,
+      "w": 407.140625,
+      "h": 316.125,
+      "bottom": 5551.859375
+    },
+    "heading": {
+      "x": 36.859375,
+      "y": 4370.15625,
+      "w": 407.140625,
+      "h": 91.96875,
+      "bottom": 4462.125
+    },
+    "tail": 98.703125,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 5736,
+    "rasterGap": 98,
+    "edgePhase": 0.21875
+  },
+  {
+    "label": "local",
+    "width": 479,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 4217.4375,
+      "w": 479,
+      "h": 1518.34375,
+      "bottom": 5735.78125
+    },
+    "action": {
+      "x": 120.546875,
+      "y": 5575.796875,
+      "w": 237.875,
+      "h": 61.28125,
+      "bottom": 5637.078125
+    },
+    "pane": {
+      "x": 35.921875,
+      "y": 5235.734375,
+      "w": 407.140625,
+      "h": 399.46875,
+      "bottom": 5635.203125
+    },
+    "card": {
+      "x": 35.921875,
+      "y": 5235.734375,
+      "w": 407.140625,
+      "h": 316.125,
+      "bottom": 5551.859375
+    },
+    "heading": {
+      "x": 36.859375,
+      "y": 4370.15625,
+      "w": 407.140625,
+      "h": 91.96875,
+      "bottom": 4462.125
+    },
+    "tail": 98.703125,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 5736,
+    "rasterGap": 98,
+    "edgePhase": 0.21875
+  },
+  {
+    "label": "local",
+    "width": 480,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1650,
+      "w": 480,
+      "h": 580.25,
+      "bottom": 2230.25
+    },
+    "action": {
+      "x": 162.34375,
+      "y": 2115.75,
+      "w": 155.3125,
+      "h": 32,
+      "bottom": 2147.75
+    },
+    "pane": {
+      "x": 36,
+      "y": 1982.796875,
+      "w": 408,
+      "h": 163.1875,
+      "bottom": 2145.984375
+    },
+    "card": {
+      "x": 36,
+      "y": 1982.796875,
+      "w": 408,
+      "h": 120.953125,
+      "bottom": 2103.75
+    },
+    "heading": {
+      "x": 114.34375,
+      "y": 1733.859375,
+      "w": 249,
+      "h": 24,
+      "bottom": 1757.859375
+    },
+    "tail": 82.5,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2230,
+    "rasterGap": 82,
+    "edgePhase": -0.25
+  },
+  {
+    "label": "local",
+    "width": 480,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1650,
+      "w": 480,
+      "h": 580.25,
+      "bottom": 2230.25
+    },
+    "action": {
+      "x": 179.84375,
+      "y": 2115.75,
+      "w": 120.3125,
+      "h": 32,
+      "bottom": 2147.75
+    },
+    "pane": {
+      "x": 36,
+      "y": 1982.796875,
+      "w": 408,
+      "h": 163.1875,
+      "bottom": 2145.984375
+    },
+    "card": {
+      "x": 36,
+      "y": 1982.796875,
+      "w": 408,
+      "h": 120.953125,
+      "bottom": 2103.75
+    },
+    "heading": {
+      "x": 114.34375,
+      "y": 1733.859375,
+      "w": 249,
+      "h": 24,
+      "bottom": 1757.859375
+    },
+    "tail": 82.5,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2230,
+    "rasterGap": 82,
+    "edgePhase": -0.25
+  },
+  {
+    "label": "local",
+    "width": 480,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1650,
+      "w": 480,
+      "h": 580.25,
+      "bottom": 2230.25
+    },
+    "action": {
+      "x": 177.34375,
+      "y": 2115.75,
+      "w": 125.3125,
+      "h": 32,
+      "bottom": 2147.75
+    },
+    "pane": {
+      "x": 36,
+      "y": 1982.796875,
+      "w": 408,
+      "h": 163.1875,
+      "bottom": 2145.984375
+    },
+    "card": {
+      "x": 36,
+      "y": 1982.796875,
+      "w": 408,
+      "h": 120.953125,
+      "bottom": 2103.75
+    },
+    "heading": {
+      "x": 114.34375,
+      "y": 1733.859375,
+      "w": 249,
+      "h": 24,
+      "bottom": 1757.859375
+    },
+    "tail": 82.5,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2230,
+    "rasterGap": 82,
+    "edgePhase": -0.25
+  },
+  {
+    "label": "local",
+    "width": 601,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 2065.796875,
+      "w": 601,
+      "h": 726.484375,
+      "bottom": 2792.28125
+    },
+    "action": {
+      "x": 203.65625,
+      "y": 2648.921875,
+      "w": 193.6875,
+      "h": 40.0625,
+      "bottom": 2688.984375
+    },
+    "pane": {
+      "x": 45.078125,
+      "y": 2482.453125,
+      "w": 510.84375,
+      "h": 204.328125,
+      "bottom": 2686.78125
+    },
+    "card": {
+      "x": 45.078125,
+      "y": 2482.453125,
+      "w": 510.84375,
+      "h": 151.453125,
+      "bottom": 2633.90625
+    },
+    "heading": {
+      "x": 143.0625,
+      "y": 2170.796875,
+      "w": 312,
+      "h": 30.046875,
+      "bottom": 2200.84375
+    },
+    "tail": 103.296875,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2792,
+    "rasterGap": 103,
+    "edgePhase": -0.28125
+  },
+  {
+    "label": "local",
+    "width": 601,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 2065.796875,
+      "w": 601,
+      "h": 726.484375,
+      "bottom": 2792.28125
+    },
+    "action": {
+      "x": 225.65625,
+      "y": 2648.921875,
+      "w": 149.6875,
+      "h": 40.0625,
+      "bottom": 2688.984375
+    },
+    "pane": {
+      "x": 45.078125,
+      "y": 2482.453125,
+      "w": 510.84375,
+      "h": 204.328125,
+      "bottom": 2686.78125
+    },
+    "card": {
+      "x": 45.078125,
+      "y": 2482.453125,
+      "w": 510.84375,
+      "h": 151.453125,
+      "bottom": 2633.90625
+    },
+    "heading": {
+      "x": 143.0625,
+      "y": 2170.796875,
+      "w": 312,
+      "h": 30.046875,
+      "bottom": 2200.84375
+    },
+    "tail": 103.296875,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2792,
+    "rasterGap": 103,
+    "edgePhase": -0.28125
+  },
+  {
+    "label": "local",
+    "width": 601,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 2065.796875,
+      "w": 601,
+      "h": 726.484375,
+      "bottom": 2792.28125
+    },
+    "action": {
+      "x": 223.65625,
+      "y": 2648.921875,
+      "w": 153.6875,
+      "h": 40.0625,
+      "bottom": 2688.984375
+    },
+    "pane": {
+      "x": 45.078125,
+      "y": 2482.453125,
+      "w": 510.84375,
+      "h": 204.328125,
+      "bottom": 2686.78125
+    },
+    "card": {
+      "x": 45.078125,
+      "y": 2482.453125,
+      "w": 510.84375,
+      "h": 151.453125,
+      "bottom": 2633.90625
+    },
+    "heading": {
+      "x": 143.0625,
+      "y": 2170.796875,
+      "w": 312,
+      "h": 30.046875,
+      "bottom": 2200.84375
+    },
+    "tail": 103.296875,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2792,
+    "rasterGap": 103,
+    "edgePhase": -0.28125
+  },
+  {
+    "label": "local",
+    "width": 767,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 2638.09375,
+      "w": 767,
+      "h": 927.171875,
+      "bottom": 3565.265625
+    },
+    "action": {
+      "x": 261.96875,
+      "y": 3382.3125,
+      "w": 243.0625,
+      "h": 51.125,
+      "bottom": 3433.4375
+    },
+    "pane": {
+      "x": 57.53125,
+      "y": 3169.859375,
+      "w": 651.9375,
+      "h": 260.765625,
+      "bottom": 3430.625
+    },
+    "card": {
+      "x": 57.53125,
+      "y": 3169.859375,
+      "w": 651.9375,
+      "h": 193.28125,
+      "bottom": 3363.140625
+    },
+    "heading": {
+      "x": 183.65625,
+      "y": 2772.109375,
+      "w": 396,
+      "h": 38.34375,
+      "bottom": 2810.453125
+    },
+    "tail": 131.828125,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3565,
+    "rasterGap": 131,
+    "edgePhase": -0.265625
+  },
+  {
+    "label": "local",
+    "width": 767,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 2638.09375,
+      "w": 767,
+      "h": 927.171875,
+      "bottom": 3565.265625
+    },
+    "action": {
+      "x": 289.46875,
+      "y": 3382.3125,
+      "w": 188.0625,
+      "h": 51.125,
+      "bottom": 3433.4375
+    },
+    "pane": {
+      "x": 57.53125,
+      "y": 3169.859375,
+      "w": 651.9375,
+      "h": 260.765625,
+      "bottom": 3430.625
+    },
+    "card": {
+      "x": 57.53125,
+      "y": 3169.859375,
+      "w": 651.9375,
+      "h": 193.28125,
+      "bottom": 3363.140625
+    },
+    "heading": {
+      "x": 183.65625,
+      "y": 2772.109375,
+      "w": 396,
+      "h": 38.34375,
+      "bottom": 2810.453125
+    },
+    "tail": 131.828125,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3565,
+    "rasterGap": 131,
+    "edgePhase": -0.265625
+  },
+  {
+    "label": "local",
+    "width": 767,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 2638.09375,
+      "w": 767,
+      "h": 927.171875,
+      "bottom": 3565.265625
+    },
+    "action": {
+      "x": 284.46875,
+      "y": 3382.3125,
+      "w": 198.0625,
+      "h": 51.125,
+      "bottom": 3433.4375
+    },
+    "pane": {
+      "x": 57.53125,
+      "y": 3169.859375,
+      "w": 651.9375,
+      "h": 260.765625,
+      "bottom": 3430.625
+    },
+    "card": {
+      "x": 57.53125,
+      "y": 3169.859375,
+      "w": 651.9375,
+      "h": 193.28125,
+      "bottom": 3363.140625
+    },
+    "heading": {
+      "x": 183.65625,
+      "y": 2772.109375,
+      "w": 396,
+      "h": 38.34375,
+      "bottom": 2810.453125
+    },
+    "tail": 131.828125,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3565,
+    "rasterGap": 131,
+    "edgePhase": -0.265625
+  },
+  {
+    "label": "local",
+    "width": 768,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1541.046875,
+      "w": 768,
+      "h": 766.9375,
+      "bottom": 2307.984375
+    },
+    "action": {
+      "x": 287.015625,
+      "y": 2156.984375,
+      "w": 193.9375,
+      "h": 40.40625,
+      "bottom": 2197.390625
+    },
+    "pane": {
+      "x": 57.59375,
+      "y": 1980.359375,
+      "w": 652.796875,
+      "h": 218.109375,
+      "bottom": 2198.46875
+    },
+    "card": {
+      "x": 57.59375,
+      "y": 1980.359375,
+      "w": 652.796875,
+      "h": 157.4375,
+      "bottom": 2137.796875
+    },
+    "heading": {
+      "x": 209.484375,
+      "y": 1659.296875,
+      "w": 349,
+      "h": 35.359375,
+      "bottom": 1694.65625
+    },
+    "tail": 110.59375,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2308,
+    "rasterGap": 110,
+    "edgePhase": 0.015625
+  },
+  {
+    "label": "local",
+    "width": 768,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1541.046875,
+      "w": 768,
+      "h": 766.9375,
+      "bottom": 2307.984375
+    },
+    "action": {
+      "x": 309.015625,
+      "y": 2156.984375,
+      "w": 149.9375,
+      "h": 40.40625,
+      "bottom": 2197.390625
+    },
+    "pane": {
+      "x": 57.59375,
+      "y": 1980.359375,
+      "w": 652.796875,
+      "h": 218.109375,
+      "bottom": 2198.46875
+    },
+    "card": {
+      "x": 57.59375,
+      "y": 1980.359375,
+      "w": 652.796875,
+      "h": 157.4375,
+      "bottom": 2137.796875
+    },
+    "heading": {
+      "x": 209.484375,
+      "y": 1659.296875,
+      "w": 349,
+      "h": 35.359375,
+      "bottom": 1694.65625
+    },
+    "tail": 110.59375,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2308,
+    "rasterGap": 110,
+    "edgePhase": 0.015625
+  },
+  {
+    "label": "local",
+    "width": 768,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1541.046875,
+      "w": 768,
+      "h": 766.9375,
+      "bottom": 2307.984375
+    },
+    "action": {
+      "x": 307.015625,
+      "y": 2156.984375,
+      "w": 153.9375,
+      "h": 40.40625,
+      "bottom": 2197.390625
+    },
+    "pane": {
+      "x": 57.59375,
+      "y": 1980.359375,
+      "w": 652.796875,
+      "h": 218.109375,
+      "bottom": 2198.46875
+    },
+    "card": {
+      "x": 57.59375,
+      "y": 1980.359375,
+      "w": 652.796875,
+      "h": 157.4375,
+      "bottom": 2137.796875
+    },
+    "heading": {
+      "x": 209.484375,
+      "y": 1659.296875,
+      "w": 349,
+      "h": 35.359375,
+      "bottom": 1694.65625
+    },
+    "tail": 110.59375,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2308,
+    "rasterGap": 110,
+    "edgePhase": 0.015625
+  },
+  {
+    "label": "local",
+    "width": 769,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1542.96875,
+      "w": 769,
+      "h": 767.90625,
+      "bottom": 2310.875
+    },
+    "action": {
+      "x": 287.5,
+      "y": 2159.6875,
+      "w": 193.96875,
+      "h": 40.453125,
+      "bottom": 2200.140625
+    },
+    "pane": {
+      "x": 57.671875,
+      "y": 1982.828125,
+      "w": 653.640625,
+      "h": 218.390625,
+      "bottom": 2201.21875
+    },
+    "card": {
+      "x": 57.671875,
+      "y": 1982.828125,
+      "w": 653.640625,
+      "h": 157.640625,
+      "bottom": 2140.46875
+    },
+    "heading": {
+      "x": 209.984375,
+      "y": 1661.375,
+      "w": 349,
+      "h": 35.40625,
+      "bottom": 1696.78125
+    },
+    "tail": 110.734375,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2311,
+    "rasterGap": 110,
+    "edgePhase": 0.125
+  },
+  {
+    "label": "local",
+    "width": 769,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1542.96875,
+      "w": 769,
+      "h": 767.90625,
+      "bottom": 2310.875
+    },
+    "action": {
+      "x": 309.5,
+      "y": 2159.6875,
+      "w": 149.96875,
+      "h": 40.453125,
+      "bottom": 2200.140625
+    },
+    "pane": {
+      "x": 57.671875,
+      "y": 1982.828125,
+      "w": 653.640625,
+      "h": 218.390625,
+      "bottom": 2201.21875
+    },
+    "card": {
+      "x": 57.671875,
+      "y": 1982.828125,
+      "w": 653.640625,
+      "h": 157.640625,
+      "bottom": 2140.46875
+    },
+    "heading": {
+      "x": 209.984375,
+      "y": 1661.375,
+      "w": 349,
+      "h": 35.40625,
+      "bottom": 1696.78125
+    },
+    "tail": 110.734375,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2311,
+    "rasterGap": 110,
+    "edgePhase": 0.125
+  },
+  {
+    "label": "local",
+    "width": 769,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1542.96875,
+      "w": 769,
+      "h": 767.90625,
+      "bottom": 2310.875
+    },
+    "action": {
+      "x": 307.5,
+      "y": 2159.6875,
+      "w": 153.96875,
+      "h": 40.453125,
+      "bottom": 2200.140625
+    },
+    "pane": {
+      "x": 57.671875,
+      "y": 1982.828125,
+      "w": 653.640625,
+      "h": 218.390625,
+      "bottom": 2201.21875
+    },
+    "card": {
+      "x": 57.671875,
+      "y": 1982.828125,
+      "w": 653.640625,
+      "h": 157.640625,
+      "bottom": 2140.46875
+    },
+    "heading": {
+      "x": 209.984375,
+      "y": 1661.375,
+      "w": 349,
+      "h": 35.40625,
+      "bottom": 1696.78125
+    },
+    "tail": 110.734375,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2311,
+    "rasterGap": 110,
+    "edgePhase": 0.125
+  },
+  {
+    "label": "local",
+    "width": 991,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1988.484375,
+      "w": 991,
+      "h": 989.640625,
+      "bottom": 2978.125
+    },
+    "action": {
+      "x": 366.625,
+      "y": 2783.28125,
+      "w": 257.75,
+      "h": 52.140625,
+      "bottom": 2835.421875
+    },
+    "pane": {
+      "x": 74.328125,
+      "y": 2555.375,
+      "w": 842.34375,
+      "h": 281.4375,
+      "bottom": 2836.8125
+    },
+    "card": {
+      "x": 74.328125,
+      "y": 2555.375,
+      "w": 842.34375,
+      "h": 203.140625,
+      "bottom": 2758.515625
+    },
+    "heading": {
+      "x": 267,
+      "y": 2141.09375,
+      "w": 457,
+      "h": 45.640625,
+      "bottom": 2186.734375
+    },
+    "tail": 142.703125,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2978,
+    "rasterGap": 142,
+    "edgePhase": -0.125
+  },
+  {
+    "label": "local",
+    "width": 991,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1988.484375,
+      "w": 991,
+      "h": 989.640625,
+      "bottom": 2978.125
+    },
+    "action": {
+      "x": 397.125,
+      "y": 2783.28125,
+      "w": 196.75,
+      "h": 52.140625,
+      "bottom": 2835.421875
+    },
+    "pane": {
+      "x": 74.328125,
+      "y": 2555.375,
+      "w": 842.34375,
+      "h": 281.4375,
+      "bottom": 2836.8125
+    },
+    "card": {
+      "x": 74.328125,
+      "y": 2555.375,
+      "w": 842.34375,
+      "h": 203.140625,
+      "bottom": 2758.515625
+    },
+    "heading": {
+      "x": 267,
+      "y": 2141.09375,
+      "w": 457,
+      "h": 45.640625,
+      "bottom": 2186.734375
+    },
+    "tail": 142.703125,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2978,
+    "rasterGap": 142,
+    "edgePhase": -0.125
+  },
+  {
+    "label": "local",
+    "width": 991,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1988.484375,
+      "w": 991,
+      "h": 989.640625,
+      "bottom": 2978.125
+    },
+    "action": {
+      "x": 392.625,
+      "y": 2783.28125,
+      "w": 205.75,
+      "h": 52.140625,
+      "bottom": 2835.421875
+    },
+    "pane": {
+      "x": 74.328125,
+      "y": 2555.375,
+      "w": 842.34375,
+      "h": 281.4375,
+      "bottom": 2836.8125
+    },
+    "card": {
+      "x": 74.328125,
+      "y": 2555.375,
+      "w": 842.34375,
+      "h": 203.140625,
+      "bottom": 2758.515625
+    },
+    "heading": {
+      "x": 267,
+      "y": 2141.09375,
+      "w": 457,
+      "h": 45.640625,
+      "bottom": 2186.734375
+    },
+    "tail": 142.703125,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2978,
+    "rasterGap": 142,
+    "edgePhase": -0.125
+  },
+  {
+    "label": "local",
+    "width": 992,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1352.15625,
+      "w": 992,
+      "h": 770.671875,
+      "bottom": 2122.828125
+    },
+    "action": {
+      "x": 417.984375,
+      "y": 1977.203125,
+      "w": 156.03125,
+      "h": 35.09375,
+      "bottom": 2012.296875
+    },
+    "pane": {
+      "x": 277.765625,
+      "y": 1793.6875,
+      "w": 436.46875,
+      "h": 218.234375,
+      "bottom": 2011.921875
+    },
+    "card": {
+      "x": 277.765625,
+      "y": 1793.6875,
+      "w": 436.46875,
+      "h": 158.71875,
+      "bottom": 1952.40625
+    },
+    "heading": {
+      "x": 308.984375,
+      "y": 1470.875,
+      "w": 374,
+      "h": 38.578125,
+      "bottom": 1509.453125
+    },
+    "tail": 110.53125,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2123,
+    "rasterGap": 110,
+    "edgePhase": 0.171875
+  },
+  {
+    "label": "local",
+    "width": 992,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1352.15625,
+      "w": 992,
+      "h": 770.671875,
+      "bottom": 2122.828125
+    },
+    "action": {
+      "x": 435.484375,
+      "y": 1977.203125,
+      "w": 121.03125,
+      "h": 35.09375,
+      "bottom": 2012.296875
+    },
+    "pane": {
+      "x": 277.765625,
+      "y": 1793.6875,
+      "w": 436.46875,
+      "h": 218.234375,
+      "bottom": 2011.921875
+    },
+    "card": {
+      "x": 277.765625,
+      "y": 1793.6875,
+      "w": 436.46875,
+      "h": 158.71875,
+      "bottom": 1952.40625
+    },
+    "heading": {
+      "x": 308.984375,
+      "y": 1470.875,
+      "w": 374,
+      "h": 38.578125,
+      "bottom": 1509.453125
+    },
+    "tail": 110.53125,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2123,
+    "rasterGap": 110,
+    "edgePhase": 0.171875
+  },
+  {
+    "label": "local",
+    "width": 992,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1352.15625,
+      "w": 992,
+      "h": 770.671875,
+      "bottom": 2122.828125
+    },
+    "action": {
+      "x": 432.984375,
+      "y": 1977.203125,
+      "w": 126.03125,
+      "h": 35.09375,
+      "bottom": 2012.296875
+    },
+    "pane": {
+      "x": 277.765625,
+      "y": 1793.6875,
+      "w": 436.46875,
+      "h": 218.234375,
+      "bottom": 2011.921875
+    },
+    "card": {
+      "x": 277.765625,
+      "y": 1793.6875,
+      "w": 436.46875,
+      "h": 158.71875,
+      "bottom": 1952.40625
+    },
+    "heading": {
+      "x": 308.984375,
+      "y": 1470.875,
+      "w": 374,
+      "h": 38.578125,
+      "bottom": 1509.453125
+    },
+    "tail": 110.53125,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 2123,
+    "rasterGap": 110,
+    "edgePhase": 0.171875
+  },
+  {
+    "label": "local",
+    "width": 1440,
+    "state": "Ecosystem",
+    "section": {
+      "x": 0,
+      "y": 1931.75,
+      "w": 1440,
+      "h": 1118.78125,
+      "bottom": 3050.53125
+    },
+    "action": {
+      "x": 604.515625,
+      "y": 2839.125,
+      "w": 230.96875,
+      "h": 50.96875,
+      "bottom": 2890.09375
+    },
+    "pane": {
+      "x": 403.203125,
+      "y": 2572.734375,
+      "w": 633.59375,
+      "h": 316.796875,
+      "bottom": 2889.53125
+    },
+    "card": {
+      "x": 403.203125,
+      "y": 2572.734375,
+      "w": 633.59375,
+      "h": 230.390625,
+      "bottom": 2803.125
+    },
+    "heading": {
+      "x": 448,
+      "y": 2104.09375,
+      "w": 544,
+      "h": 56,
+      "bottom": 2160.09375
+    },
+    "tail": 160.4375,
+    "href": "/powered-by",
+    "actionLabel": "Browse the ecosystem",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3051,
+    "rasterGap": 160,
+    "edgePhase": 0.46875
+  },
+  {
+    "label": "local",
+    "width": 1440,
+    "state": "Case studies",
+    "section": {
+      "x": 0,
+      "y": 1931.75,
+      "w": 1440,
+      "h": 1118.78125,
+      "bottom": 3050.53125
+    },
+    "action": {
+      "x": 631.015625,
+      "y": 2839.125,
+      "w": 177.96875,
+      "h": 50.96875,
+      "bottom": 2890.09375
+    },
+    "pane": {
+      "x": 403.203125,
+      "y": 2572.734375,
+      "w": 633.59375,
+      "h": 316.796875,
+      "bottom": 2889.53125
+    },
+    "card": {
+      "x": 403.203125,
+      "y": 2572.734375,
+      "w": 633.59375,
+      "h": 230.390625,
+      "bottom": 2803.125
+    },
+    "heading": {
+      "x": 448,
+      "y": 2104.09375,
+      "w": 544,
+      "h": 56,
+      "bottom": 2160.09375
+    },
+    "tail": 160.4375,
+    "href": "https://stories.dask.org/en/latest/",
+    "actionLabel": "Read real stories",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3051,
+    "rasterGap": 160,
+    "edgePhase": 0.46875
+  },
+  {
+    "label": "local",
+    "width": 1440,
+    "state": "Examples",
+    "section": {
+      "x": 0,
+      "y": 1931.75,
+      "w": 1440,
+      "h": 1118.78125,
+      "bottom": 3050.53125
+    },
+    "action": {
+      "x": 627.015625,
+      "y": 2839.125,
+      "w": 185.96875,
+      "h": 50.96875,
+      "bottom": 2890.09375
+    },
+    "pane": {
+      "x": 403.203125,
+      "y": 2572.734375,
+      "w": 633.59375,
+      "h": 316.796875,
+      "bottom": 2889.53125
+    },
+    "card": {
+      "x": 403.203125,
+      "y": 2572.734375,
+      "w": 633.59375,
+      "h": 230.390625,
+      "bottom": 2803.125
+    },
+    "heading": {
+      "x": 448,
+      "y": 2104.09375,
+      "w": 544,
+      "h": 56,
+      "bottom": 2160.09375
+    },
+    "tail": 160.4375,
+    "href": "https://examples.dask.org/",
+    "actionLabel": "Explore examples",
+    "overflow": false,
+    "paint": "rgb(51, 54, 61)",
+    "firstGray": 3051,
+    "rasterGap": 160,
+    "edgePhase": 0.46875
+  }
+]

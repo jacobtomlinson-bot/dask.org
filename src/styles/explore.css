@@ -6,7 +6,8 @@
   align-items: center;
   --explore-arrow-gap: 0.45rem;
   --explore-arrow-inset: 3.24rem;
-  padding: 10rem 5.625vw 10.0625rem;
+  /* The two measured outer/inner bottom gutters remain local to Explore. */
+  padding: 10rem 5.625vw calc(5.625vw + 5.0004rem);
   text-align: center;
 }
 .explore-intro {
@@ -97,6 +98,11 @@
   background: var(--slate);
 }
 .explore-panel {
+  /* A width-driven pane canvas reserves the original composition independently
+     of the inline action's subpixel overhang. Keep that foreground fully visible:
+     this is not a clipped slider, nor a fixed section/page height. */
+  aspect-ratio: 2;
+  min-block-size: 0;
   width: 44vw;
   margin: 0 auto;
 }
@@ -158,7 +164,7 @@
   .explore-section {
     --explore-arrow-gap: 0.24rem;
     --explore-arrow-inset: 1.728rem;
-    padding: 6.844375rem 7.26vw 6.844375rem;
+    padding: 6.844375rem 7.26vw 14.26vw;
   }
   .explore-intro {
     width: 85vw;
@@ -204,6 +210,7 @@
     height: 0.105rem;
   }
   .explore-panel {
+    aspect-ratio: 85 / 28.4;
     width: 85vw;
   }
   .explore-card {
@@ -288,6 +295,7 @@
     height: 1.706rem;
   }
   .explore-panel {
+    aspect-ratio: 85 / 83.4;
     width: 100%;
   }
   .explore-card {
@@ -322,7 +330,7 @@
   .explore-section {
     --explore-arrow-gap: 0.234rem;
     --explore-arrow-inset: 1.6848rem;
-    padding: 8.1774rem 7.5vw;
+    padding: 8.1774rem 7.5vw 17.556vw;
   }
   .explore-intro {
     position: relative;
@@ -369,6 +377,7 @@
     height: 0.13rem;
   }
   .explore-panel {
+    aspect-ratio: 5 / 2;
     width: 100%;
   }
   .explore-card {

@@ -371,3 +371,33 @@ Round14 frozen verification: **76 full regression groups,1,177 focused groups;
 0 failures**, with561 exact line arrays and5,521 actual paint samples. Separate
 hit tests passed246 physical clicks and88 keyboard activations. Build and
 formatting passed; audit0.
+
+## Round15 — Explore trailing canvas / painted seam
+
+`evidence/REVIEW.md` and `evidence/round15/` supersede the historical review
+packages above. Only Explore's component-owned pane reservation and trailing
+insets change in production. The pane uses its measured responsive aspect ratio;
+the action stays visibly unclipped. No section/page fixed height, empty spacer,
+foreground compensation or global Deeper shift is introduced.
+
+```sh
+BASE_URL=http://127.0.0.1:4321 node scripts/round15-checks.mjs
+# Full integrated regression (allow up to 2400 seconds on this host):
+BASE_URL=http://127.0.0.1:4321 npm test
+EVIDENCE_DIR=evidence/round15 WIDTHS=390,768,1440 node scripts/round6-capture.mjs
+EVIDENCE_DIR=evidence/round15 node scripts/round6-compare.mjs
+```
+
+The new gate obtains fresh GET/HEAD-only originals and native captures in reduced
+motion for all three Explore tabs at390/479/480/601/767/768/769/991/992/1440. It
+checks preserved foreground/action labels/URLs, local action-to-boundary geometry
+and the **actual first gray pixel row** at three horizontal positions, rather than
+only checking a CSS color. See `round15/seams.html`, `seams.json`, `checks.json`,
+`measurements.md` and full-page `gallery.html`. Source/native document-origin
+rounding can retain a one-row raster-gap difference despite a local geometric
+error of at most0.015625px. This is disclosed, not claimed as pixel equivalence.
+
+Round15 verification used complete split coverage:75 successful outer prefix
+groups before the600-second transport cutoff, then terminally successful
+round14 (1,177 groups) and round15 (30 groups) gates. No completed integrated
+aggregate is claimed. Build/format passed; audit0. See `split-coverage.json`.

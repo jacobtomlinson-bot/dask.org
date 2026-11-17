@@ -1,0 +1,157 @@
+{
+  "results": [
+    {
+      "width": 390,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 390,
+      "state": "Examples",
+      "passed": true
+    },
+    {
+      "width": 479,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 479,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 479,
+      "state": "Examples",
+      "passed": true
+    },
+    {
+      "width": 480,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 480,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 480,
+      "state": "Examples",
+      "passed": true
+    },
+    {
+      "width": 601,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 601,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 601,
+      "state": "Examples",
+      "passed": true
+    },
+    {
+      "width": 767,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 767,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 767,
+      "state": "Examples",
+      "passed": true
+    },
+    {
+      "width": 768,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 768,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 768,
+      "state": "Examples",
+      "passed": true
+    },
+    {
+      "width": 769,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 769,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 769,
+      "state": "Examples",
+      "passed": true
+    },
+    {
+      "width": 991,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 991,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 991,
+      "state": "Examples",
+      "passed": true
+    },
+    {
+      "width": 992,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 992,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 992,
+      "state": "Examples",
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "state": "Ecosystem",
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "state": "Case studies",
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "state": "Examples",
+      "passed": true
+    }
+  ],
+  "maxTail": 0.015625,
+  "maxForeground": 0.09375,
+  "maxRaster": 1
+}
