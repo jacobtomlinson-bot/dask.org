@@ -232,15 +232,22 @@ try {
       expect(await page.locator('input[type=range]').count()).toBe(0);
     },
   );
-  await check('redirects remain explicitly pending', async () => {
-    const mappings = JSON.parse(
-      await fs.readFile('src/data/redirects.json', 'utf8'),
-    );
-    expect(mappings.length).toBeGreaterThan(0);
-    expect(
-      mappings.every((m) => m.status === 'pending' && m.destination === null),
-    ).toBe(true);
-  });
+  await check(
+    'excluded redirects use the authorized exact blog homepage',
+    async () => {
+      const mappings = JSON.parse(
+        await fs.readFile('src/data/redirects.json', 'utf8'),
+      );
+      expect(mappings.length).toBeGreaterThan(0);
+      expect(
+        mappings.every(
+          (m) =>
+            m.status === 'resolved' &&
+            m.destination === 'https://blog.dask.org/',
+        ),
+      ).toBe(true);
+    },
+  );
   await page.close();
   await check(
     'independent-review regression suite (see evidence/round2/checks.json)',
@@ -257,6 +264,7 @@ try {
     },
   );
   for (const script of [
+    'redirect-checks.mjs',
     'round3-checks.mjs',
     'round3-motion.mjs',
     'round3-art-bounds.mjs',

@@ -23,7 +23,7 @@ npm audit
 npm run preview -- --port 4321
 ```
 
-The test runner makes **no live form submissions**. It starts a production preview, checks the original60 behavior groups, then runs the round2–9 regression suites against that same preview. Focused coverage includes every route at 320/360/390/599/600/601/767/768/990/991/992/993/1099/1100/1101/1440/1599/1600/1601 pixels; visible per-state action labels **and destinations**; persistent brand navigation/active sections/anchor offsets; palette ordering/icons; and all three stacked mobile forms with blocked mutations and truthful Not sent results. Local assets, JS errors, keyboard interactions, logo/palette variants and clipboard copying remain covered. `BASE_URL` can target an already running local server instead of launching preview.
+The test runner makes **no live form submissions**. It starts a production preview, checks the original60 behavior groups, then runs the round2–15 and redirect regression suites against that same preview. Focused coverage includes every route at 320/360/390/599/600/601/767/768/990/991/992/993/1099/1100/1101/1440/1599/1600/1601 pixels; visible per-state action labels **and destinations**; persistent brand navigation/active sections/anchor offsets; palette ordering/icons; and all three stacked mobile forms with blocked mutations and truthful Not sent results. Local assets, JS errors, keyboard interactions, logo/palette variants and clipboard copying remain covered. `BASE_URL` can target an already running local server instead of launching preview.
 
 ## Edit the site
 
@@ -51,11 +51,47 @@ The event/newsletter/news forms preserve the observed field sets and side-panel 
 
 The original "Add us to Dask support" link is a `#` placeholder; it remains a placeholder, rather than inventing a support workflow. GitHub/Discourse and other ordinary outbound links preserve observed destinations. The illustrative adoption count is the captured value, not a claimed live metric; benchmark/cost illustrations are not measurements performed by this site.
 
-## Blog/event redirects: pending, never guessed
+## Blog/event redirects: resolved to the exact blog homepage
 
-`src/data/redirects.json` is the explicit migration register. Blog/event source routes have `destination: null` and `status: "pending"`. **No redirect is emitted for pending entries.** Existing navigation paths are retained; unmatched paths display the explanatory 404 page locally.
+Jacob has authorized **all** `/blog`, `/blog/*`, `/events`, `/events/*` and
+`/archive/2022-news-events` URLs to **`https://blog.dask.org/`**. Source paths,
+queries and fragments are discarded. `src/data/redirects.json` is the resolved
+source-of-truth register; earlier round reports describing pending mappings are
+historical and superseded by this instruction.
 
-When Jacob supplies an authoritative destination, change that entry to `status: "resolved"`, set its exact destination, and run the build. `astro.config.mjs` emits only resolved 301 mappings. Static Astro emits HTML redirect documents; the final host should translate approved mappings to native HTTP 301 rules. No host/adapter/deployment was selected here. Do not invent wildcard path substitutions without an approved mapping.
+`src/pages/[...redirect].astro` emits immediate HTML redirect documents for the
+finite known inventory (`/blog`, `/events`, `/archive/2022-news-events`, including
+their directory/index forms). These include meta refresh, canonical URL, a real
+fallback link and `location.replace`; they work without JavaScript via meta
+refresh. This is **not** a server-side HTTP301 claim.
+
+Static GitHub Pages cannot enumerate arbitrary future descendants. For missing
+blog/event descendants its custom `404.html` executes a **tightly scoped** native
+fallback, sharing `src/lib/redirects.ts` with the generated route inventory.
+Matching is segment-boundary-aware and restricted to the build's mount point
+(`import.meta.env.BASE_URL`), so both `/` hosting and a build with
+`--base /dask.org/` work. Unrelated missing paths keep the original URL and real
+HTTP404 response, with helpful home/get-started/blog links. The archive rule is
+exact (plus trailing slash), not an archive-wide catch-all.
+
+**Static-host limit:** arbitrary missing descendants require JavaScript for the
+404 fallback; without JavaScript they retain a truthful404 and a manual blog
+link. Known inventory documents still redirect without JavaScript. A custom404
+must be served by the host at the missing URL; a generic development server
+that substitutes its own error page does not exercise this fallback. No HTTP301
+or server rewrite is fabricated.
+
+```sh
+npm run build                 # root-hosted static output
+npm run build -- --base /dask.org/  # GitHub Pages project mount
+npm run test:redirects         # builds both bases in temporary directories
+```
+
+The focused test uses a Pages-style static server, serves actual built404 bytes
+with HTTP404 at arbitrary missing URLs, and verifies real browser navigation,
+trailing slashes, exact target/query/fragment removal, JS on/off, mount-boundary
+negatives and unrelated404s. The external destination is intercepted locally;
+no live submission or publication occurs. See `evidence/redirects/REVIEW.md`.
 
 ## Visual evidence and reproduction
 

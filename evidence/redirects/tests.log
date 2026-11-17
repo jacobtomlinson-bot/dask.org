@@ -1,0 +1,5 @@
+
+> test:redirects
+> node scripts/redirect-checks.mjs
+
+116 root/project redirect and unrelated-404 browser cases passed (JS on/off); exact target requests intercepted, no network publication.

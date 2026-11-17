@@ -1,0 +1,27 @@
+14:09:05 [types] Generated 33ms
+14:09:05 [build] output: "static"
+14:09:05 [build] mode: "static"
+14:09:05 [build] directory: /tmp/dask-redirects-5H7xeo/project/
+14:09:05 [build] Collecting build info...
+14:09:05 [build] ✓ Completed in 54ms.
+14:09:05 [build] Building static entrypoints...
+14:09:05 [vite] ✓ built in 134ms
+14:09:05 [vite] ✓ built in 21ms
+14:09:05 [build] Rearranging server assets...
+
+ generating static routes
+14:09:05   ├─ /404.html (+5ms)
+14:09:05   ├─ /brand-guide/index.html (+2ms)
+14:09:05   ├─ /get-help/index.html (+1ms)
+14:09:05   ├─ /get-started/index.html (+2ms)
+14:09:05   ├─ /powered-by/index.html (+2ms)
+14:09:05   ├─ /press-mentions/index.html (+1ms)
+14:09:05   ├─ /index.html (+3ms)
+14:09:05   ├─ /blog/index.html (+1ms)
+14:09:05   ├─ /events/index.html (+1ms)
+14:09:05   ├─ /archive/2022-news-events/index.html (+1ms)
+14:09:05 ✓ Completed in 27ms.
+
+14:09:05 [build] ✓ Completed in 241ms.
+14:09:05 [build] 10 page(s) built in 296ms
+14:09:05 [build] Complete!

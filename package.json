@@ -10,7 +10,8 @@
     "format": "prettier --write src scripts astro.config.mjs package.json README.md",
     "format:check": "prettier --check src scripts astro.config.mjs package.json README.md",
     "capture": "node scripts/capture.mjs",
-    "capture:states": "node scripts/compare-states.mjs"
+    "capture:states": "node scripts/compare-states.mjs",
+    "test:redirects": "node scripts/redirect-checks.mjs"
   },
   "dependencies": {
     "astro": "^7.4.12"

@@ -1,32 +1,32 @@
 [
   {
     "source": "/blog",
-    "destination": null,
-    "status": "pending",
-    "reason": "Blog content excluded; Jacob must select the destination."
+    "destination": "https://blog.dask.org/",
+    "status": "resolved",
+    "reason": "Jacob authorized all excluded blog/event URLs to the blog homepage; discard source path, query and fragment."
   },
   {
     "source": "/blog/[...slug]",
-    "destination": null,
-    "status": "pending",
-    "reason": "Preserve article paths until an authoritative migration mapping is supplied."
+    "destination": "https://blog.dask.org/",
+    "status": "resolved",
+    "reason": "Jacob authorized all excluded blog/event URLs to the blog homepage; discard source path, query and fragment."
   },
   {
     "source": "/events",
-    "destination": null,
-    "status": "pending",
-    "reason": "Event content excluded; destination not authorized."
+    "destination": "https://blog.dask.org/",
+    "status": "resolved",
+    "reason": "Jacob authorized all excluded blog/event URLs to the blog homepage; discard source path, query and fragment."
   },
   {
     "source": "/events/[...slug]",
-    "destination": null,
-    "status": "pending",
-    "reason": "Event destination not selected."
+    "destination": "https://blog.dask.org/",
+    "status": "resolved",
+    "reason": "Jacob authorized all excluded blog/event URLs to the blog homepage; discard source path, query and fragment."
   },
   {
     "source": "/archive/2022-news-events",
-    "destination": null,
-    "status": "pending",
-    "reason": "Observed original navigation destination; no replacement selected."
+    "destination": "https://blog.dask.org/",
+    "status": "resolved",
+    "reason": "Jacob authorized all excluded blog/event URLs to the blog homepage; discard source path, query and fragment."
   }
 ]

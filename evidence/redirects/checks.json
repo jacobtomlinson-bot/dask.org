@@ -1,0 +1,1151 @@
+{
+  "target": "https://blog.dask.org/",
+  "passed": 116,
+  "results": [
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/events",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/events/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/events/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog/a-real-old-post",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog/a/deep/arbitrary/path/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog/a%20post?next=https://elsewhere.invalid/path#old",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog/2022/05/story.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog/index.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog//nested/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/events/some-unknown-event",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/events/2027/a/future-event/?q=anything#fragment",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/events/index.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/missing",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blogger",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/blog.html",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/events-old",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/myevents/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events-old",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events/child",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/not-blog/blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/Blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": true,
+      "source": "/Events/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/events",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/events/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/events/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog/a-real-old-post",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/blog/a-real-old-post"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog/a/deep/arbitrary/path/",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/blog/a/deep/arbitrary/path/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog/a%20post?next=https://elsewhere.invalid/path#old",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/blog/a%20post?next=https://elsewhere.invalid/path#old"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog/2022/05/story.html",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/blog/2022/05/story.html"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog/index.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog//nested/",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/blog//nested/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/events/some-unknown-event",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/events/some-unknown-event"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/events/2027/a/future-event/?q=anything#fragment",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/events/2027/a/future-event/?q=anything#fragment"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/events/index.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/missing",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blogger",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/blog.html",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/events-old",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/myevents/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events-old",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events/child",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/not-blog/blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/Blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/",
+      "javaScriptEnabled": false,
+      "source": "/Events/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/events",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/events/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/events/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog/a-real-old-post",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog/a/deep/arbitrary/path/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog/a%20post?next=https://elsewhere.invalid/path#old",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog/2022/05/story.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog/index.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog//nested/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/events/some-unknown-event",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/events/2027/a/future-event/?q=anything#fragment",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/events/index.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/missing",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blogger",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/blog.html",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/events-old",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/myevents/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events-old",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/archive/2022-news-events/child",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/not-blog/blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/Blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/Events/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/outside-mount/events/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": true,
+      "source": "/dask.org.evil/blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/events",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/events/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/events/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events/",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events/?from=old#section",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog/a-real-old-post",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/dask.org/blog/a-real-old-post"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog/a/deep/arbitrary/path/",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/dask.org/blog/a/deep/arbitrary/path/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog/a%20post?next=https://elsewhere.invalid/path#old",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/dask.org/blog/a%20post?next=https://elsewhere.invalid/path#old"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog/2022/05/story.html",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/dask.org/blog/2022/05/story.html"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog/index.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog//nested/",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/dask.org/blog//nested/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/events/some-unknown-event",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/dask.org/events/some-unknown-event"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/events/2027/a/future-event/?q=anything#fragment",
+      "passed": true,
+      "redirect": false,
+      "initialStatuses": [
+        404
+      ],
+      "finalURL": "<local>/dask.org/events/2027/a/future-event/?q=anything#fragment"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/events/index.html",
+      "passed": true,
+      "redirect": true,
+      "initialStatuses": [
+        200
+      ],
+      "finalURL": "https://blog.dask.org/"
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/missing",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blogger",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/blog.html",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/events-old",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/myevents/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events-old",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/archive/2022-news-events/child",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/not-blog/blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/Blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/Events/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/outside-mount/events/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    },
+    {
+      "base": "/dask.org/",
+      "javaScriptEnabled": false,
+      "source": "/dask.org.evil/blog/a",
+      "passed": true,
+      "redirect": false,
+      "initialStatus": 404
+    }
+  ],
+  "note": "No external requests or live site mutations: destination intercepted locally. Arbitrary missing descendants require JavaScript on static Pages; known inventory meta-refresh works without JS."
+}
